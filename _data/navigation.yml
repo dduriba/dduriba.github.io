@@ -8,14 +8,14 @@ main:
     url: /search/
 
 docs:
-  - title: "대목차1"
+  - title: "개 발자국"
     children:
       - title: "Category"
         url: /categories/
       - title: "Tag"
         url: /tags/
 
-  - title: "대목차2"
+  - title: "개임 개발견"
     children:
       - title: "Category"
         url: /categories/
