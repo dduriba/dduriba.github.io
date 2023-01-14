@@ -4,7 +4,8 @@ title:  "Github Pages운용을 위한 markdown문법"
 categories: markdown
 tag: [github pages, jekyll, markdown]
 toc: true
-author_profile: false
+author_profile: true
+sidebar_main: true
 sidebar:
     nav: "docs"
 search: true
