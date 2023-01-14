@@ -2,6 +2,7 @@
 title: Search
 layout: search
 permalink: /search/
-author_profile: true
-sidebar_main: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
