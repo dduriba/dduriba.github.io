@@ -17,6 +17,7 @@
         <ul>
           {% for child in nav.children %}
           {% assign category = site.categories[child.category] %}
+          {% for post in category %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
             <li><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }} ({{ category.size }})</a></li>
           {% endfor %}
         </ul>
