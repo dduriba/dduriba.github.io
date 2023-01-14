@@ -287,13 +287,16 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      toc: true
+      author_profile: false
+      sidebar_main: true
+      sidebar:
+        nav: "docs"
+      search: true
       read_time: true
       comments: true
       share: true
       related: true
       show_date : true
-      sidebar:
-        nav: "docs"
 
 date_format: "%Y-%m-%d"
