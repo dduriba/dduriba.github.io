@@ -128,14 +128,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-  - title: "Category"
-    children:
-      - title: "unity2d"
-        url: /categories/#unity2d
-      - title: "markdown"
-        url: /categories/#markdown
-      - title: "review"
-        url: /categories/#review
 
 # Site Footer
 footer:
