@@ -11,11 +11,11 @@ docs:
   - title: "Category"
     children:
       - title: "unity2d"
-        url: /unity2d/
+        url: /categories/#unity2d
       - title: "markdown"
-        url: /markdown/
+        url: /categories/#markdown
       - title: "review"
-        url: /review/
+        url: /categories/#review
   # - title: "Category"
   #   url: /categories/
   # - title: "Tag"
