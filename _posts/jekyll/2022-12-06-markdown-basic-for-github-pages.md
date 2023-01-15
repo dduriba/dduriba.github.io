@@ -64,9 +64,9 @@ namespace HelloWorld
 ~~Strikethrough~~
 
 # 8. Bold, Italic
-* Italic *<br>
-** Bold **<br>
-*** Italic & Bold ***
+*Italic*<br>
+**Bold**<br>
+***Italic & Bold***
 
 # 9. Image
 <img src="/img/retrieverCheer.png" style="zoom:50%;" />
