@@ -236,41 +236,6 @@ hijklmnop
 </ul>
 </div>
 
-**hello world**
-hello world
-
 [button](https://google.com){: .btn .btn--danger}
 
 {% include video id="svOWfkwaZOE" provider="youtube" %}
-
-```python
-class <ClassName>:
-
-    <class_attribute_name> = <value>
-
-    def __init__(self,<param1>, <param2>, ...):
-        self.<attr1> = <param1>
-        self.<attr2> = <param2>
-        .
-        .
-        .
-        # As many attributes as needed
-    
-   def <method_name>(self, <param1>, ...):
-       <code>
-       
-   # As many methods as needed
-```
-
-## 이미지 목차
-### 이미지 세부 목차1
-image here
-### 이미지 세부 목차2
-image here
-### 이미지 세부 목차3
-image here
-
-
-
-# second table
-this begins second table
