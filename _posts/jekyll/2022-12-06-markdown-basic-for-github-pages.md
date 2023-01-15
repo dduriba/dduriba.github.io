@@ -27,22 +27,22 @@ search: true
 
 # 3.BlockQuote
 > BlockQuote
-> BlockQuote
-    > BlockQuote
-    > BlockQuote
-        > BlockQuote
-        > BlockQuote
+  >> BlockQuote
 
 # 4.Ordered List
 1. ordered-first
+    1. first-one
+    2. first-two
+        - A
+        - B
 2. ordered-second
 3. ordered-third
 
 # 5.Unordered List
-* unordered
+- unordered
     * unordered
-        * unordered
-* unordered
+        + unordered
+- unordered
 
 # 6.Code Block
 ```c#
@@ -90,6 +90,33 @@ hijklmnop
 
 # 13.글씨 색
 <span style="color:yellow">노랑색</span>
+
+# 14.체크 박스
+- []
+- [X]
+
+# 15.구분선
+***
+---
+
+# 16.테이블
+|왼쪽정렬|가운데정렬|오른쪽정렬|
+|:---|:---:|---:|
+|하나|둘|셋|
+|에이|비|씨|
+
+# 17.토글리스트
+<details>
+<summary>토글리스트</summary>
+<div markdown="1">
+
+숨겨진 내용
+
+</div>
+</details>
+
+# 18.버튼
+[맨위로이동](#){: .btn .btn--primary }
 
 # [KST(한국표준시)는 UTC(협정세계시)기준으로 +09:00의 시차가 있습니다](https://time.is/ko/UTC)
 {: .notice--danger}
