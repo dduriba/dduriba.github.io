@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Github Pages운용을 위한 markdown문법"
+title:  "Github Pages운용을 위한 문법들"
 categories: jekyll
-tag: [github pages, markdown, jekyll]
+tag: [github pages, markdown, jekyll, html]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
@@ -61,11 +61,11 @@ namespace HelloWorld
 ```
 
 # 7.Strikethrough
-~~ Strikethrough ~~
+~~Strikethrough~~
 
 # 8. Bold, Italic
-* Italic *
-** Bold **
+* Italic *<br>
+** Bold **<br>
 *** Italic & Bold ***
 
 # 9. Image
@@ -74,6 +74,22 @@ namespace HelloWorld
 <center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
 
 <center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
+
+# 10. 줄바꿈
+abcdefg
+hijklmnop
+<br>qrstuvwxyz
+
+# 11.문단 나누기
+한 줄의 공백을 두어
+
+작성을 하면 된다.
+
+# 12.밑줄
+<u>밑줄</u>
+
+# 13.글씨 색
+<span style="color:yellow">노랑색</span>
 
 # [KST(한국표준시)는 UTC(협정세계시)기준으로 +09:00의 시차가 있습니다](https://time.is/ko/UTC)
 {: .notice--danger}
