@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Github Pages운용을 위한 markdown문법"
-categories: markdown
-tag: [github pages, jekyll, markdown]
+categories: jekyll
+tag: [github pages, markdown, jekyll]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
