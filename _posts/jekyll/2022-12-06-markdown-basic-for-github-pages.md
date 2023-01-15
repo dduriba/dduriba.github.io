@@ -14,6 +14,61 @@ sidebar:
 search: true
 ---
 
+# 1.Header
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+# 2.Link
+[Google](https://google.com)
+
+# 3.BlockQuote
+> BlockQuote
+> BlockQuote
+    > BlockQuote
+    > BlockQuote
+        > BlockQuote
+        > BlockQuote
+
+# 4.Ordered List
+1. ordered-first
+2. ordered-second
+3. ordered-third
+
+# 5.Unordered List
+* unordered
+    * unordered
+        * unordered
+* unordered
+
+# 6.Code Block
+```c#
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");    
+    }
+  }
+}
+```
+
+# 7.Strikethrough
+~~ Strikethrough ~~
+
+# 8. Bold, Italic
+* Italic *
+** Bold **
+*** Italic & Bold ***
+
+# 9. Image
 <img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
 <center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
@@ -32,7 +87,6 @@ search: true
 </ul>
 </div>
 
-**[helloworld]**
 **hello world**
 hello world
 
