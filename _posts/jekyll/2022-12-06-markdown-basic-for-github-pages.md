@@ -76,24 +76,29 @@ namespace HelloWorld
 <center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
 
 # 10. 줄바꿈
+
 abcdefg
 hijklmnop
 <br>qrstuvwxyz
 
 # 11.문단 나누기
+
 한 줄의 공백을 두어
 
 작성을 하면 된다.
 
 # 12.밑줄
+
 <u>밑줄</u>
 
 # 13.글씨 색
-<span style="color:yellow">노랑색</span>
+
+<span style="color:red">빨강</span>
 
 # 14.체크 박스
-- []
-- [X]
+
+- [ ] 체크 안됨
+- [X] 체크 됨
 
 # 15.구분선
 ***
