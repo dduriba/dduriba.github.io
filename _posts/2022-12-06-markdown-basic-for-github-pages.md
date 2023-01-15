@@ -18,7 +18,7 @@ search: true
 
 <img src="/img/retrieverStudy.png" alt="" style="zoom:50%;" />
 
-![](/img/retrieverStudy.png){: width="20%" height="20%"}
+![](/img/retrieverStudy.png){: width="20%" height="20%"}{: .center}
 
 # [KST(한국표준시)는 UTC(협정세계시)기준으로 +09:00의 시차가 있습니다](https://time.is/ko/UTC)
 {: .notice--danger}
