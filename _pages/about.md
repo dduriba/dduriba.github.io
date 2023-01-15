@@ -12,4 +12,4 @@ sidebar:
     nav: "docs"
 ---
 
-![](/img/retrieverStudy.png){: width="50%" height="50%"}{: .center}
+<center><img src="/assets/images/avatar.png"></center>
