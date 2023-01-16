@@ -1,5 +1,6 @@
 ---
 title:  "Github Pages운용을 위한 문법들"
+excerpt: "markdown, html등의 문법들을 알아봅시다."
 categories: jekyll
 tag: [github pages, markdown, jekyll, html]
 # layout: single
