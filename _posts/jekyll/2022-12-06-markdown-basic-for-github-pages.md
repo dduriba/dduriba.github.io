@@ -30,6 +30,17 @@ search: true
 \##### H5
 \###### H6
 
+<pre>코드 블락 열기 전
+<code>
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+</code> 
+코드 블락 닫은 후</pre>
+
 # 2.Link
 
 [Google](https://google.com)
@@ -112,7 +123,7 @@ namespace HelloWorld
 
 \~~Strikethrough~~
 
-# 8. Bold, Italic
+# 8.Bold, Italic
 
 *Italic*<br>
 **Bold**<br>
@@ -122,7 +133,7 @@ namespace HelloWorld
 \**Bold**<br>
 \***Italic & Bold***
 
-# 9. Image
+# 9.Image
 
 <img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
@@ -136,7 +147,7 @@ namespace HelloWorld
 
 \<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
 
-# 10. 줄바꿈
+# 10.줄바꿈
 
 abcdefg
 hijklmnop
