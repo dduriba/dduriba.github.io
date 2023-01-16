@@ -118,8 +118,8 @@ search: true
 <pre><span style="color:green">코드</span>
 <code>
 \<div class="notice--success">
-\<pre><span style="color:green">코드</span>
-\<code>type your codes on here</code>
+\<pre><span style="color:green">코드\</span>
+\<code>type your codes on here\</code>
 \</pre>
 \</div>
 </code>
@@ -202,11 +202,13 @@ namespace HelloWorld
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-\<code><img src="/img/retrieverCheer.png" style="zoom:50%;" />
+<code>
+\<img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
-\<center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
+\<center>\<img src="/img/retrieverGimozzi.png" width="300" height="300">\</center>
 
-\<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center></code>
+\<center>\<img src="/img/retrieverStudy.png" width="70%" height="70%">\</center>
+</code>
 </pre>
 </div>
 
@@ -223,16 +225,14 @@ namespace HelloWorld
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code>abcdefg
-hijklmnop
-\<br>qrstuvwxyz
+<code>abcd
+\<br>efg
 </code>
 </pre>
 </div>
 
-abcdefg
-hijklmnop
-<br>qrstuvwxyz
+abcd
+<br>efg
 
 ---
 
