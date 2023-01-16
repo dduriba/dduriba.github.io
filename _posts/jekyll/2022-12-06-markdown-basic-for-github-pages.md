@@ -341,9 +341,6 @@ To embed the following YouTube video at url `https://www.youtube.com/watch?v=QKX
 
 # 20.
 
-# [KST(한국표준시)는 UTC(협정세계시)기준으로 +09:00의 시차가 있습니다](https://time.is/ko/UTC)
-{: .notice--danger}
-
 <div class="notice--success">
 <h4>hello div class</h4>
 <ul>
@@ -352,5 +349,3 @@ To embed the following YouTube video at url `https://www.youtube.com/watch?v=QKX
     <li>test num 3</li>
 </ul>
 </div>
-
-[button](https://google.com){: .btn .btn--danger}
