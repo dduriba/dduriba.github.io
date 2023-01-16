@@ -12,6 +12,7 @@ sidebar_main: true
 sidebar:
     nav: "docs"
 search: true
+classes: wide
 ---
 
 ---
