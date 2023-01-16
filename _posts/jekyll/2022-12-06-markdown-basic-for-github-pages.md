@@ -19,16 +19,14 @@ search: true
 # 1.Header
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code># H1
+```
+# H1
 ## H2
 ### H3
 #### H4
 ##### H5
-###### H6</code>
-</pre>
-</div>
+###### H6
+```
 
 # H1
 ## H2
@@ -48,6 +46,10 @@ search: true
 </pre>
 </div>
 
+```
+[Google](https://google.com)
+```
+
 [Google](https://google.com)
 
 ---
@@ -61,6 +63,11 @@ search: true
   >> BlockQuote</code>
 </pre>
 </div>
+
+```
+> BlockQuote
+  >> BlockQuote
+```
 
 > BlockQuote
   >> BlockQuote
@@ -81,6 +88,16 @@ search: true
 3. ordered-third</code>
 </pre>
 </div>
+
+```
+1. ordered-first
+    1. first-one
+    2. first-two
+        - A
+        - B
+2. ordered-second
+3. ordered-third
+```
 
 1. ordered-first
     1. first-one
@@ -104,6 +121,13 @@ search: true
 </pre>
 </div>
 
+```
+- unordered
+    * unordered
+        + unordered
+- unordered
+```
+
 - unordered
     * unordered
         + unordered
@@ -121,6 +145,11 @@ search: true
 </pre>
 </div>
 ```
+
+~~~
+```
+```
+~~~
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
@@ -172,6 +201,10 @@ namespace HelloWorld
 </pre>
 </div>
 
+```
+~~Strikethrough~~
+```
+
 ~~Strikethrough~~
 
 ---
@@ -186,6 +219,12 @@ namespace HelloWorld
 ***Italic & Bold***</code>
 </pre>
 </div>
+
+```
+*Italic*
+**Bold**
+***Italic & Bold***
+```
 
 *Italic*<br>
 **Bold**<br>
@@ -236,6 +275,12 @@ abcd
 </pre>
 </div>
 
+```
+한 줄의 공백을 두어
+
+작성을 하면 된다.
+```
+
 한 줄의 공백을 두어
 
 작성을 하면 된다.
@@ -256,7 +301,7 @@ abcd
 # 13.글씨 색
 {: .notice--warning}
 
-```
+```html
 <span style="color:red">빨강</span>
 ```
 
@@ -274,6 +319,11 @@ abcd
 </pre>
 </div>
 
+```
+- [ ] 체크 안됨
+- [X] 체크 됨
+```
+
 - [ ] 체크 안됨
 - [X] 체크 됨
 
@@ -288,6 +338,11 @@ abcd
 ---</code>
 </pre>
 </div>
+
+```
+***
+---
+```
 
 ***
 ---
@@ -307,6 +362,14 @@ abcd
 </pre>
 </div>
 
+```
+|첫번째 셸|두번째 셸|세번째 셸|
+|:---|---:|:---:|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+```
+
 |첫번째 셸|두번째 셸|세번째 셸|
 |:---|---:|:---:|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
@@ -318,7 +381,7 @@ abcd
 # 17.토글리스트
 {: .notice--warning}
 
-```
+```html
 <details>
 <summary>토글리스트</summary>
 <div markdown="1">
@@ -348,6 +411,10 @@ abcd
 <code>[맨위로이동](#){: .btn .btn--primary }</code>
 </pre>
 </div>
+
+```
+[맨위로이동](#){: .btn .btn--primary }
+```
 
 [맨위로이동](#){: .btn .btn--primary }
 
