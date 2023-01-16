@@ -357,7 +357,7 @@ abcd
 {: .notice--warning}
 
 ```
-{% include video id="svOWfkwaZOE" provider="youtube" %}
+{% include video id="" provider="youtube" %}
 ```
 
 {% include video id="svOWfkwaZOE" provider="youtube" %}
