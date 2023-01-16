@@ -17,7 +17,7 @@ classes: wide
 
 ---
 # 1.Header
-{: .notice--danger}
+{: .notice--warning}
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
