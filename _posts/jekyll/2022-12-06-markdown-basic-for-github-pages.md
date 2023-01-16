@@ -18,6 +18,7 @@ search: true
 
 # 1.Header
 {: .notice--warning}
+
 ```md
 # H1
 ## H2
@@ -93,7 +94,7 @@ search: true
 # 6.Code Block
 {: .notice--warning}
 
-## 6-1
+## 6-1 Code Block
 {: .notice--success}
 
 ```html
@@ -106,7 +107,7 @@ search: true
 <code>코드를 입력하는 곳</code>
 하단부</pre>
 
-## 6-2
+## 6-2 Code Block
 {: .notice--success}
 
 ~~~
@@ -119,7 +120,7 @@ search: true
 코드를 입력하는 곳
 ```
 
-## 6-3
+## 6-3 Code Block
 {: .notice--success}
 
 ```
@@ -132,7 +133,7 @@ search: true
 코드를 입력하는 곳
 ~~~
 
-## 6-4
+## 6-4 Code Block
 {: .notice--success}
 
 ~~~md
@@ -260,7 +261,7 @@ abcd<br>efg
 # 15.구분선
 {: .notice--warning}
 
-## 15-1
+## 15-1 구분선
 {: .notice--success}
 
 ```
@@ -269,7 +270,7 @@ abcd<br>efg
 
 ***
 
-## 15-2
+## 15-2 구분선
 {: .notice--success}
 
 ```
