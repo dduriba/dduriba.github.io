@@ -356,7 +356,7 @@ abcd
 # 19.유튜브
 {: .notice--warning}
 
-```
+```html
 {% include video id="" provider="youtube" %}
 ```
 
