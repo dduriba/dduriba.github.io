@@ -14,8 +14,6 @@ sidebar:
 search: true
 ---
 
----
-
 # 1.Header
 {: .notice--warning: .text-center}
 
@@ -206,6 +204,9 @@ namespace HelloWorld
 <center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
 
 <center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
+
+![](/img/retrieverCheer.png)
+{: .full}
 
 # 10.line-break (줄바꿈)
 {: .notice--warning}
