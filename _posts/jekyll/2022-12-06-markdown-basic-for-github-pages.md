@@ -23,18 +23,14 @@ search: true
 ##### H5
 ###### H6
 
-<div class="notice--success">
-<pre>
-<code>
+<div class="notice--success"><pre><code>
 # H1
 ## H2
 ### H3
 #### H4
 ##### H5
 ###### H6
-</code>
-</pre>
-</div>
+</code></pre></div>
 
 # 2.Link
 
@@ -230,6 +226,10 @@ hijklmnop
 
 \[맨위로이동](#){: .btn .btn--primary }
 
+# 19.유튜브
+
+{% include video id="svOWfkwaZOE" provider="youtube" %}
+
 # [KST(한국표준시)는 UTC(협정세계시)기준으로 +09:00의 시차가 있습니다](https://time.is/ko/UTC)
 {: .notice--danger}
 
@@ -243,5 +243,3 @@ hijklmnop
 </div>
 
 [button](https://google.com){: .btn .btn--danger}
-
-{% include video id="svOWfkwaZOE" provider="youtube" %}
