@@ -15,7 +15,7 @@ search: true
 ---
 
 # 1.Header
-{: .notice--warning: .text-center}
+{: .notice--warning .text-center}
 
 ```md
 # H1
