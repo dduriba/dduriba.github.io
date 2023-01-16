@@ -12,7 +12,6 @@ sidebar_main: true
 sidebar:
     nav: "docs"
 search: true
-classes: wide
 ---
 
 ---
@@ -115,6 +114,41 @@ classes: wide
 # 6.Code Block
 {: .notice--warning}
 
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>type your codes on here</code>
+</pre>
+</div>
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code><div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>type your codes on here</code>
+</pre>
+</div></code>
+</pre>
+</div>
+
+
+<div class="notice--success">
+<pre><span style="color:green">코드<br>```c#</span>
+<code>using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");    
+    }
+  }
+}
+</code>```
+</pre>
+</div>
+
 ```c#
 using System;
 
@@ -130,47 +164,50 @@ namespace HelloWorld
 }
 ```
 
-\```c#
-\using System;
-\
-\namespace HelloWorld
-\{
-\  class Program
-\  {
-\    static void Main(string[] args)
-\    {
-\      Console.WriteLine("Hello World!");    
-\    }
-\  }
-\}
-\```
-
 ---
 
 # 7.Strikethrough
 {: .notice--warning}
 
-~~Strikethrough~~
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>~~Strikethrough~~</code>
+</pre>
+</div>
 
-\~~Strikethrough~~
+~~Strikethrough~~
 
 ---
 
 # 8.Bold, Italic
 {: .notice--warning}
 
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>*Italic*<br>
+**Bold**<br>
+***Italic & Bold***</code>
+</pre>
+</div>
+
 *Italic*<br>
 **Bold**<br>
 ***Italic & Bold***
-
-\*Italic*<br>
-\**Bold**<br>
-\***Italic & Bold***
 
 ---
 
 # 9.Image
 {: .notice--warning}
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code><img src="/img/retrieverCheer.png" style="zoom:50%;" />
+
+<center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
+
+<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center></code>
+</pre>
+</div>
 
 <img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
@@ -178,82 +215,110 @@ namespace HelloWorld
 
 <center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
 
-\<img src="/img/retrieverCheer.png" style="zoom:50%;" />
-
-\<center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
-
-\<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
-
 ---
 
 # 10.줄바꿈
 {: .notice--warning}
 
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>abcdefg
+hijklmnop
+<br>qrstuvwxyz</code>
+</pre>
+</div>
+
 abcdefg
 hijklmnop
 <br>qrstuvwxyz
-
-\abcdefg
-\hijklmnop
-\<br>qrstuvwxyz
 
 ---
 
 # 11.문단 나누기
 {: .notice--warning}
 
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>한 줄의 공백을 두어
+
+작성을 하면 된다.</code>
+</pre>
+</div>
+
 한 줄의 공백을 두어
 
 작성을 하면 된다.
-
-\한 줄의 공백을 두어
-\
-\작성을 하면 된다.
 
 ---
 
 # 12.밑줄
 {: .notice--warning}
 
-<u>밑줄</u>
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code><u>밑줄</u></code>
+</pre>
+</div>
 
-\<u>밑줄</u>
+<u>밑줄</u>
 
 ---
 
 # 13.글씨 색
 {: .notice--warning}
 
-<span style="color:red">빨강</span>
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code><span style="color:red">빨강</span></code>
+</pre>
+</div>
 
-\<span style="color:red">빨강</span>
+<span style="color:red">빨강</span>
 
 ---
 
 # 14.체크 박스
 {: .notice--warning}
 
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>- [ ] 체크 안됨
+- [X] 체크 됨</code>
+</pre>
+</div>
+
 - [ ] 체크 안됨
 - [X] 체크 됨
-
-\- [ ] 체크 안됨
-\- [X] 체크 됨
 
 ---
 
 # 15.구분선
 {: .notice--warning}
 
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>***
+---</code>
+</pre>
+</div>
+
 ***
 ---
-
-\***
-\---
 
 ---
 
 # 16.테이블
 {: .notice--warning}
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>|첫번째 셸|두번째 셸|세번째 셸|
+|:---|---:|:---:|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|</code>
+</pre>
+</div>
 
 |첫번째 셸|두번째 셸|세번째 셸|
 |:---|---:|:---:|
@@ -261,16 +326,23 @@ hijklmnop
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 
-\|첫번째 셸|두번째 셸|세번째 셸|
-\|:---|---:|:---:|
-\|왼쪽정렬|오른쪽정렬|중앙정렬|
-\|왼쪽정렬|오른쪽정렬|중앙정렬|
-\|왼쪽정렬|오른쪽정렬|중앙정렬|
-
 ---
 
 # 17.토글리스트
 {: .notice--warning}
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code><details>
+<summary>토글리스트</summary>
+<div markdown="1">
+
+숨겨진 내용
+
+</div>
+</details></code>
+</pre>
+</div>
 
 <details>
 <summary>토글리스트</summary>
@@ -281,28 +353,29 @@ hijklmnop
 </div>
 </details>
 
-\<details>
-\<summary>토글리스트</summary>
-\<div markdown="1">
-\
-\숨겨진 내용
-\
-\</div>
-\</details>
-
 ---
 
 # 18.버튼
 {: .notice--warning}
 
-[맨위로이동](#){: .btn .btn--primary }
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>[맨위로이동](#){: .btn .btn--primary }</code>
+</pre>
+</div>
 
-\[맨위로이동](#){: .btn .btn--primary }
+[맨위로이동](#){: .btn .btn--primary }
 
 ---
 
 # 19.유튜브
 {: .notice--warning}
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>{% include video id="svOWfkwaZOE" provider="youtube" %}</code>
+</pre>
+</div>
 
 {% include video id="svOWfkwaZOE" provider="youtube" %}
 
