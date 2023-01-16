@@ -218,12 +218,10 @@ namespace HelloWorld
 {: .notice--warning}
 
 ```html
-abcd
-<br>efg
+abcd<br>efg
 ```
 
-abcd
-<br>efg
+abcd<br>efg
 
 ---
 
@@ -257,17 +255,17 @@ abcd
 {: .notice--warning}
 
 ```html
-<span style="color:red">빨강</span>
+<span style="color:red">코드</span>
 ```
 
-<span style="color:red">빨강</span>
+<span style="color:red">코드</span>
 
 ---
 
 # 14.체크 박스
 {: .notice--warning}
 
-```markdown
+```md
 - [ ] 체크 안됨
 - [X] 체크 됨
 ```
@@ -314,20 +312,20 @@ abcd
 
 ```html
 <details>
-<summary>토글리스트</summary>
+<summary>타이틀</summary>
 <div markdown="1">
 
-숨겨진 내용
+콘텐트
 
 </div>
 </details>
 ```
 
 <details>
-<summary>토글리스트</summary>
+<summary>타이틀</summary>
 <div markdown="1">
 
-숨겨진 내용
+콘텐트
 
 </div>
 </details>
@@ -337,11 +335,11 @@ abcd
 # 18.버튼
 {: .notice--warning}
 
-```markdown
-[맨위로이동](#){: .btn .btn--primary }
+```md
+[FROM THE TOP](#){: .btn .btn--primary }
 ```
 
-[맨위로이동](#){: .btn .btn--primary }
+[FROM THE TOP](#){: .btn .btn--primary }
 
 ---
 
