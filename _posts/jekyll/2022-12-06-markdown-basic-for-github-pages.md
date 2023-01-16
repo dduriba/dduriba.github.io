@@ -15,6 +15,7 @@ search: true
 ---
 
 # 1.Header
+{: .notice--danger}
 
 # H1
 ## H2
@@ -23,14 +24,16 @@ search: true
 ##### H5
 ###### H6
 
-<div class="notice--success"><pre><code>
-# H1
+<div class="notice--success">
+<pre>**Code**
+<code># H1
 ## H2
 ### H3
 #### H4
 ##### H5
-###### H6
-</code></pre></div>
+###### H6</code>
+</pre>
+</div>
 
 # 2.Link
 
