@@ -34,7 +34,7 @@ search: true
 ###### H6
 
 # 2.Link
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```md
 [Google](https://google.com)
@@ -43,7 +43,7 @@ search: true
 [Google](https://google.com)
 
 # 3.BlockQuote (인용 블록)
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```md
 > BlockQuote
@@ -54,7 +54,7 @@ search: true
   >> BlockQuote
 
 # 4.Ordered List
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```md
 1. first
@@ -75,7 +75,7 @@ search: true
 3. third
 
 # 5.Unordered List
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```md
 - unordered
@@ -90,7 +90,7 @@ search: true
 - unordered
 
 # 6.Code Block
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ## 6-1 Code Block
 {: .notice--success}
@@ -167,7 +167,7 @@ namespace HelloWorld
 ```
 
 # 7.Strikethrough (취소선)
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```
 ~~Strikethrough~~
@@ -176,7 +176,7 @@ namespace HelloWorld
 ~~Strikethrough~~
 
 # 8.Bold, Italic
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```md
 *Italic*
@@ -189,7 +189,7 @@ namespace HelloWorld
 ***Italic & Bold***
 
 # 9.Image
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```html
 <img src="/path/filename.png" style="zoom:50%;" />
@@ -209,7 +209,7 @@ namespace HelloWorld
 {: .full}
 
 # 10.line-break (줄바꿈)
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```html
 abcd<br>efg
@@ -218,7 +218,7 @@ abcd<br>efg
 abcd<br>efg
 
 # 11.line-split
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```
 한 줄의 공백을 두어
@@ -230,8 +230,8 @@ abcd<br>efg
 
 작성을 하면 된다.
 
-# 12.underline (밑줄)
-{: .notice--warning}
+# 12.Underline (밑줄)
+{: .notice--warning .text-center}
 
 ```html
 <u>밑줄</u>
@@ -240,7 +240,7 @@ abcd<br>efg
 <u>밑줄</u>
 
 # 13.text color
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```html
 <span style="color:red">코드</span>
@@ -248,8 +248,8 @@ abcd<br>efg
 
 <span style="color:red">코드</span>
 
-# 14.check box
-{: .notice--warning}
+# 14.Check box
+{: .notice--warning .text-center}
 
 ```md
 - [ ] 체크 안됨
@@ -260,7 +260,7 @@ abcd<br>efg
 - [X] 체크 됨
 
 # 15.dividing line (구분선)
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ## 15-1 dividing line
 {: .notice--success}
@@ -280,8 +280,8 @@ abcd<br>efg
 
 ---
 
-# 16.table
-{: .notice--warning}
+# 16.Table
+{: .notice--warning .text-center}
 
 ```
 |첫번째 셸|두번째 셸|세번째 셸|
@@ -297,8 +297,8 @@ abcd<br>efg
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 
-# 17.toggle list
-{: .notice--warning}
+# 17.Toggle List
+{: .notice--warning .text-center}
 
 ```html
 <details>
@@ -320,8 +320,8 @@ abcd<br>efg
 </div>
 </details>
 
-# 18.button
-{: .notice--warning}
+# 18.Button
+{: .notice--warning .text-center}
 
 ```md
 [Google](https://google.com){: .btn}
@@ -343,8 +343,8 @@ abcd<br>efg
 [FROM THE TOP](#){: .btn .btn--inverse}
 [FROM THE TOP](#){: .btn .btn--light-outline}
 
-# 19.youtube
-{: .notice--warning}
+# 19.Youtube
+{: .notice--warning .text-center}
 
 `https://www.youtube.com/watch?v=QKXXF3uxzvI`<br>
 `https://youtu.be/QKXXF3uxzvI`<br>
@@ -357,7 +357,7 @@ abcd<br>efg
 {% include video id="QKXXF3uxzvI" provider="youtube" %}
 
 # 20.Notice
-{: .notice--warning}
+{: .notice--warning .text-center}
 
 ```
 공지
@@ -387,11 +387,30 @@ abcd<br>efg
 공지
 {: .notice--danger}
 
-# 21.inline
-{: .notice--warning}
+# 21.Inline
+{: .notice--warning .text-center}
 
 ~~~md
 이것은 `인라인` 사용법입니다.
 ~~~
 
 이것은 `인라인` 사용법입니다.
+
+# 22.Text alignment
+{: .notice--warning .text-center}
+
+```
+Left aligned text
+{: .text-left}
+Center aligned text.
+{: .text-center}
+Right aligned text.
+{: .text-right}
+```
+
+Left aligned text
+{: .text-left}
+Center aligned text.
+{: .text-center}
+Right aligned text.
+{: .text-right}
