@@ -356,13 +356,9 @@ abcd
 # 19.유튜브
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>
-\{% include video id="svOWfkwaZOE" provider="youtube" %}
-</code>
-</pre>
-</div>
+~~~
+{% include video id="svOWfkwaZOE" provider="youtube" %}
+~~~
 
 {% include video id="svOWfkwaZOE" provider="youtube" %}
 
