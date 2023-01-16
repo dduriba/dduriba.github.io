@@ -364,8 +364,6 @@ To embed the following YouTube video at url `https://www.youtube.com/watch?v=AtR
 
 {% include video id="AtRWl3xKE6Y" provider="youtube" %}
 
-https://www.youtube.com/watch?v=AtRWl3xKE6Y
-
 ---
 
 # [KST(한국표준시)는 UTC(협정세계시)기준으로 +09:00의 시차가 있습니다](https://time.is/ko/UTC)
