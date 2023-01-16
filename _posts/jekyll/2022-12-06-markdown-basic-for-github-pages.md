@@ -35,8 +35,6 @@ search: true
 ##### H5
 ###### H6
 
----
-
 # 2.Link
 {: .notice--warning}
 
@@ -45,8 +43,6 @@ search: true
 ```
 
 [Google](https://google.com)
-
----
 
 # 3.BlockQuote
 {: .notice--warning}
@@ -58,8 +54,6 @@ search: true
 
 > BlockQuote
   >> BlockQuote
-
----
 
 # 4.Ordered List
 {: .notice--warning}
@@ -82,8 +76,6 @@ search: true
 2. second
 3. third
 
----
-
 # 5.Unordered List
 {: .notice--warning}
 
@@ -99,12 +91,11 @@ search: true
         + unordered
 - unordered
 
----
-
 # 6.Code Block
 {: .notice--warning}
 
-## <span style="color:yellow">`6-1`</span>
+## 6-1
+{: .notice--success}
 
 ```html
 <pre>상단부
@@ -116,7 +107,8 @@ search: true
 <code>코드를 입력하는 곳</code>
 하단부</pre>
 
-## <span style="color:yellow">`6-2`</span>
+## 6-2
+{: .notice--success}
 
 ~~~
 ```
@@ -128,7 +120,8 @@ search: true
 코드를 입력하는 곳
 ```
 
-## <span style="color:yellow">`6-3`</span>
+## 6-3
+{: .notice--success}
 
 ```
 ~~~
@@ -140,7 +133,8 @@ search: true
 코드를 입력하는 곳
 ~~~
 
-## <span style="color:yellow">`6-4`</span>
+## 6-4
+{: .notice--success}
 
 ~~~md
 ```c#
@@ -174,8 +168,6 @@ namespace HelloWorld
 }
 ```
 
----
-
 # 7.Strikethrough
 {: .notice--warning}
 
@@ -184,8 +176,6 @@ namespace HelloWorld
 ```
 
 ~~Strikethrough~~
-
----
 
 # 8.Bold, Italic
 {: .notice--warning}
@@ -199,8 +189,6 @@ namespace HelloWorld
 *Italic*<br>
 **Bold**<br>
 ***Italic & Bold***
-
----
 
 # 9.Image
 {: .notice--warning}
@@ -219,8 +207,6 @@ namespace HelloWorld
 
 <center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
 
----
-
 # 10.줄바꿈
 {: .notice--warning}
 
@@ -229,8 +215,6 @@ abcd<br>efg
 ```
 
 abcd<br>efg
-
----
 
 # 11.문단 나누기
 {: .notice--warning}
@@ -245,8 +229,6 @@ abcd<br>efg
 
 작성을 하면 된다.
 
----
-
 # 12.밑줄
 {: .notice--warning}
 
@@ -256,8 +238,6 @@ abcd<br>efg
 
 <u>밑줄</u>
 
----
-
 # 13.글씨 색
 {: .notice--warning}
 
@@ -266,8 +246,6 @@ abcd<br>efg
 ```
 
 <span style="color:red">코드</span>
-
----
 
 # 14.체크 박스
 {: .notice--warning}
@@ -280,12 +258,11 @@ abcd<br>efg
 - [ ] 체크 안됨
 - [X] 체크 됨
 
----
-
 # 15.구분선
 {: .notice--warning}
 
-## <span style="color:yellow">`15-1`</span>
+## 15-1
+{: .notice--success}
 
 ```
 ***
@@ -293,13 +270,12 @@ abcd<br>efg
 
 ***
 
-## <span style="color:yellow">`15-2`</span>
+## 15-2
+{: .notice--success}
 
 ```
 ---
 ```
-
----
 
 ---
 
@@ -319,8 +295,6 @@ abcd<br>efg
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
-
----
 
 # 17.토글리스트
 {: .notice--warning}
@@ -345,8 +319,6 @@ abcd<br>efg
 </div>
 </details>
 
----
-
 # 18.버튼
 {: .notice--warning}
 
@@ -355,8 +327,6 @@ abcd<br>efg
 ```
 
 [FROM THE TOP](#){: .btn .btn--primary }
-
----
 
 # 19.유튜브
 {: .notice--warning}
@@ -369,7 +339,7 @@ To embed the following YouTube video at url `https://www.youtube.com/watch?v=QKX
 
 {% include video id="QKXXF3uxzvI" provider="youtube" %}
 
----
+# 20.
 
 # [KST(한국표준시)는 UTC(협정세계시)기준으로 +09:00의 시차가 있습니다](https://time.is/ko/UTC)
 {: .notice--danger}
