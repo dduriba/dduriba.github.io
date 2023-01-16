@@ -359,22 +359,35 @@ abcd<br>efg
 {: .notice--warning}
 
 ```
-공지{: .notice}
-공지{: .notice--primary}
-공지{: .notice--info}
-공지{: .notice--warning}
-공지{: .notice--success}
-공지{: .notice--danger}
+공지
+{: .notice}
+공지
+{: .notice--primary}
+공지
+{: .notice--info}
+공지
+{: .notice--warning}
+공지
+{: .notice--success}
+공지
+{: .notice--danger}
 ```
 
-공지{: .notice}
-공지{: .notice--primary}
-공지{: .notice--info}
-공지{: .notice--warning}
-공지{: .notice--success}
-공지{: .notice--danger}
+공지
+{: .notice}
+공지
+{: .notice--primary}
+공지
+{: .notice--info}
+공지
+{: .notice--warning}
+공지
+{: .notice--success}
+공지
+{: .notice--danger}
 
 # 21.inline
+{: .notice--warning}
 
 ~~~md
 이것은 `인라인` 사용법입니다.
