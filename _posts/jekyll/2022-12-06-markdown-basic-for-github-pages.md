@@ -19,7 +19,8 @@ search: true
 # 1.Header
 {: .notice--warning}
 
-```markdown
+```md
+
 # H1
 ## H2
 ### H3
@@ -40,7 +41,7 @@ search: true
 # 2.Link
 {: .notice--warning}
 
-```markdown
+```md
 [Google](https://google.com)
 ```
 
@@ -51,7 +52,7 @@ search: true
 # 3.BlockQuote
 {: .notice--warning}
 
-```markdown
+```md
 > BlockQuote
   >> BlockQuote
 ```
@@ -64,30 +65,30 @@ search: true
 # 4.Ordered List
 {: .notice--warning}
 
-```markdown
-1. ordered-first
-    1. first-one
-    2. first-two
+```md
+1. first
+    1. first_1
+    2. first_2
         - A
         - B
-2. ordered-second
-3. ordered-third
+2. second
+3. third
 ```
 
-1. ordered-first
-    1. first-one
-    2. first-two
+1. first
+    1. first_1
+    2. first_2
         - A
         - B
-2. ordered-second
-3. ordered-third
+2. second
+3. third
 
 ---
 
 # 5.Unordered List
 {: .notice--warning}
 
-```markdown
+```md
 - unordered
     * unordered
         + unordered
@@ -105,18 +106,14 @@ search: true
 {: .notice--warning}
 
 ```html
-<div class="notice--success">
-<pre><span style="color:green">상단부\</span>
-<code>코드를 입력하는 곳\</code>
-</pre>하단부
-</div>
-```
-
-<div class="notice--success">
-<pre><span style="color:green">상단부</span>
+<pre>상단부
 <code>코드를 입력하는 곳</code>
 </pre>하단부
-</div>
+```
+
+<pre>상단부
+<code>코드를 입력하는 곳</code>
+</pre>하단부
 
 ~~~
 ```
@@ -138,25 +135,7 @@ search: true
 코드를 입력하는 곳
 ~~~
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span><br>```c#
-<code>using System;
-
-namespace HelloWorld
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      Console.WriteLine("Hello World!");    
-    }
-  }
-}
-</code>```
-</pre>
-</div>
-
-~~~markdown
+~~~md
 ```c#
 using System;
 
@@ -204,7 +183,7 @@ namespace HelloWorld
 # 8.Bold, Italic
 {: .notice--warning}
 
-```markdown
+```md
 *Italic*
 **Bold**
 ***Italic & Bold***
