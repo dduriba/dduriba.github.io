@@ -24,6 +24,7 @@ search: true
 ###### H6
 
 <div class="notice--success">
+<pre>
 <code>
 # H1
 ## H2
@@ -31,7 +32,8 @@ search: true
 #### H4
 ##### H5
 ###### H6
-</code> 
+</code>
+</pre>
 </div>
 
 # 2.Link
