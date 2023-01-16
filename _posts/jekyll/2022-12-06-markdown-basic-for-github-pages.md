@@ -356,7 +356,9 @@ abcd
 # 19.유튜브
 {: .notice--warning}
 
+```liquid
 {% raw %}{% include video id="XsxDH4HcOWA" provider="youtube" %}{% endraw %}
+```
 
 {% include video id="svOWfkwaZOE" provider="youtube" %}
 
