@@ -356,13 +356,13 @@ abcd
 # 19.유튜브
 {: .notice--warning}
 
-To embed the following YouTube video at url `https://www.youtube.com/watch?v=AtRWl3xKE6Y` (long version) or `https://youtu.be/AtRWl3xKE6Y` (short version) into a post or page's main content you'd use:
+To embed the following YouTube video at url `https://www.youtube.com/watch?v=QKXXF3uxzvI` (long version) or `https://youtu.be/QKXXF3uxzvI` (short version) into a post or page's main content you'd use:
 
 ```liquid
-{% raw %}{% include video id="AtRWl3xKE6Y" provider="youtube" %}{% endraw %}
+{% raw %}{% include video id="QKXXF3uxzvI" provider="youtube" %}{% endraw %}
 ```
 
-{% include video id="AtRWl3xKE6Y" provider="youtube" %}
+{% include video id="QKXXF3uxzvI" provider="youtube" %}
 
 ---
 
