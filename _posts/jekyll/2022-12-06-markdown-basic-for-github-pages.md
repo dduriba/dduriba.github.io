@@ -191,6 +191,8 @@ namespace HelloWorld
 
 <img src="/path/filename.png" style="zoom:100%;"/>
 
+<img src="/path/filename.png"/>
+
 <center><img src="/path/filename.png" width="300" height="300"></center>
 
 <center><img src="/path/filename.png" width="50%" height="50%"></center>
@@ -201,6 +203,8 @@ namespace HelloWorld
 <img src="/img/retrieverCheer.png" style="zoom:50%;"/>
 
 <img src="/img/retrieverCheer.png" style="zoom:100%;"/>
+
+<img src="/img/retrieverCheer.png"/>
 
 <center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
 
