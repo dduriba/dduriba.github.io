@@ -19,7 +19,7 @@ search: true
 # 1.Header
 {: .notice--warning}
 
-```
+```markdown
 # H1
 ## H2
 ### H3
@@ -40,13 +40,7 @@ search: true
 # 2.Link
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>[Google](https://google.com)</code>
-</pre>
-</div>
-
-```
+```markdown
 [Google](https://google.com)
 ```
 
@@ -57,14 +51,7 @@ search: true
 # 3.BlockQuote
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>> BlockQuote
-  >> BlockQuote</code>
-</pre>
-</div>
-
-```
+```markdown
 > BlockQuote
   >> BlockQuote
 ```
@@ -77,19 +64,7 @@ search: true
 # 4.Ordered List
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>1. ordered-first
-    1. first-one
-    2. first-two
-        - A
-        - B
-2. ordered-second
-3. ordered-third</code>
-</pre>
-</div>
-
-```
+```markdown
 1. ordered-first
     1. first-one
     2. first-two
@@ -112,16 +87,7 @@ search: true
 # 5.Unordered List
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>- unordered
-    * unordered
-        + unordered
-- unordered</code>
-</pre>
-</div>
-
-```
+```markdown
 - unordered
     * unordered
         + unordered
@@ -138,24 +104,39 @@ search: true
 # 6.Code Block
 {: .notice--warning}
 
-```
+```html
 <div class="notice--success">
-<pre><span style="color:green">코드\</span>
-<code>type your codes on here\</code>
-</pre>
+<pre><span style="color:green">상단부\</span>
+<code>코드를 입력하는 곳\</code>
+</pre>하단부
 </div>
 ```
 
+<div class="notice--success">
+<pre><span style="color:green">상단부</span>
+<code>코드를 입력하는 곳</code>
+</pre>하단부
+</div>
+
 ~~~
 ```
+코드를 입력하는 곳
 ```
 ~~~
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>type your codes on here</code>
-</pre>
-</div>
+```
+코드를 입력하는 곳
+```
+
+```
+~~~
+코드를 입력하는 곳
+~~~
+```
+
+~~~
+코드를 입력하는 곳
+~~~
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span><br>```c#
@@ -174,6 +155,23 @@ namespace HelloWorld
 </code>```
 </pre>
 </div>
+
+~~~markdown
+```c#
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");    
+    }
+  }
+}
+```
+~~~
 
 ```c#
 using System;
@@ -195,12 +193,6 @@ namespace HelloWorld
 # 7.Strikethrough
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>~~Strikethrough~~</code>
-</pre>
-</div>
-
 ```
 ~~Strikethrough~~
 ```
@@ -212,15 +204,7 @@ namespace HelloWorld
 # 8.Bold, Italic
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>*Italic*
-**Bold**
-***Italic & Bold***</code>
-</pre>
-</div>
-
-```
+```markdown
 *Italic*
 **Bold**
 ***Italic & Bold***
@@ -235,7 +219,7 @@ namespace HelloWorld
 # 9.Image
 {: .notice--warning}
 
-```
+```html
 <img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
 <center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
@@ -254,7 +238,7 @@ namespace HelloWorld
 # 10.줄바꿈
 {: .notice--warning}
 
-```
+```html
 abcd
 <br>efg
 ```
@@ -266,14 +250,6 @@ abcd
 
 # 11.문단 나누기
 {: .notice--warning}
-
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>한 줄의 공백을 두어
-
-작성을 하면 된다.</code>
-</pre>
-</div>
 
 ```
 한 줄의 공백을 두어
@@ -290,7 +266,7 @@ abcd
 # 12.밑줄
 {: .notice--warning}
 
-```
+```html
 <u>밑줄</u>
 ```
 
@@ -312,14 +288,7 @@ abcd
 # 14.체크 박스
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>- [ ] 체크 안됨
-- [X] 체크 됨</code>
-</pre>
-</div>
-
-```
+```markdown
 - [ ] 체크 안됨
 - [X] 체크 됨
 ```
@@ -331,13 +300,6 @@ abcd
 
 # 15.구분선
 {: .notice--warning}
-
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>***
----</code>
-</pre>
-</div>
 
 ```
 ***
@@ -351,16 +313,6 @@ abcd
 
 # 16.테이블
 {: .notice--warning}
-
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>|첫번째 셸|두번째 셸|세번째 셸|
-|:---|---:|:---:|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|</code>
-</pre>
-</div>
 
 ```
 |첫번째 셸|두번째 셸|세번째 셸|
@@ -406,13 +358,7 @@ abcd
 # 18.버튼
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>[맨위로이동](#){: .btn .btn--primary }</code>
-</pre>
-</div>
-
-```
+```markdown
 [맨위로이동](#){: .btn .btn--primary }
 ```
 
