@@ -291,6 +291,7 @@ defaults:
       toc_label: "목록"
       toc_icon: "bars"
       toc_sticky: true
+      # classes: wide
       author_profile: true
       sidebar_main: true
       sidebar:
