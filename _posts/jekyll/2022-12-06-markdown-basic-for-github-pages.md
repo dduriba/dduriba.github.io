@@ -17,7 +17,7 @@ search: true
 ---
 
 # 1.Header
-{: .notice--warning}
+{: .notice--warning}{: .text-center}
 
 ```md
 # H1
@@ -345,9 +345,9 @@ abcd<br>efg
 # 19.youtube
 {: .notice--warning}
 
-링크 주소의 id="QKXXF3uxzvI" 를 사용
 `https://www.youtube.com/watch?v=QKXXF3uxzvI`<br>
 `https://youtu.be/QKXXF3uxzvI`
+링크 주소의 id="QKXXF3uxzvI" 를 사용
 
 ```liquid
 {% raw %}{% include video id="QKXXF3uxzvI" provider="youtube" %}{% endraw %}
