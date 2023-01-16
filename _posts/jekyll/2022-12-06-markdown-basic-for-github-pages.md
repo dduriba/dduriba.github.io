@@ -117,11 +117,13 @@ search: true
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
 <code>
-\<div class="notice--success">
-\<pre><span style="color:green">코드\</span>
-\<code>type your codes on here\</code>
-\</pre>
-\</div>
+~~~
+<div class="notice--success">
+<pre><span style="color:green">코드\</span>
+<code>type your codes on here\</code>
+</pre>
+</div>
+~~~
 </code>
 </pre>
 </div>
@@ -341,7 +343,7 @@ abcd
 <pre><span style="color:green">코드</span>
 <code>
 \<details>
-\<summary>토글리스트</summary>
+\<summary>토글리스트\</summary>
 \<div markdown="1">
 \
 \숨겨진 내용
