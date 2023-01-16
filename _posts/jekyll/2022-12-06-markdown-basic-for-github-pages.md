@@ -23,14 +23,7 @@ search: true
 ##### H5
 ###### H6
 
-\# H1
-\## H2
-\### H3
-\#### H4
-\##### H5
-\###### H6
-
-<pre>코드 블락 열기 전
+<div class="notice--success">
 <code>
 # H1
 ## H2
@@ -39,7 +32,7 @@ search: true
 ##### H5
 ###### H6
 </code> 
-코드 블락 닫은 후</pre>
+</div>
 
 # 2.Link
 
