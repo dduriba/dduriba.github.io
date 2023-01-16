@@ -18,7 +18,6 @@ search: true
 
 # 1.Header
 {: .notice--warning}
-
 ```md
 # H1
 ## H2
