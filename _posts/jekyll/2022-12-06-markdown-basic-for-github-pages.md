@@ -20,7 +20,6 @@ search: true
 {: .notice--warning}
 
 ```md
-
 # H1
 ## H2
 ### H3
@@ -69,8 +68,8 @@ search: true
 1. first
     1. first_1
     2. first_2
-        - A
-        - B
+        - unordered
+        - unordered
 2. second
 3. third
 ```
@@ -78,8 +77,8 @@ search: true
 1. first
     1. first_1
     2. first_2
-        - A
-        - B
+        - unordered
+        - unordered
 2. second
 3. third
 
@@ -105,15 +104,19 @@ search: true
 # 6.Code Block
 {: .notice--warning}
 
+## <span style="color:yellow">`6-1`</span>
+
 ```html
 <pre>상단부
 <code>코드를 입력하는 곳</code>
-</pre>하단부
+하단부</pre>
 ```
 
 <pre>상단부
 <code>코드를 입력하는 곳</code>
-</pre>하단부
+하단부</pre>
+
+## <span style="color:yellow">`6-2`</span>
 
 ~~~
 ```
@@ -125,6 +128,8 @@ search: true
 코드를 입력하는 곳
 ```
 
+## <span style="color:yellow">`6-3`</span>
+
 ```
 ~~~
 코드를 입력하는 곳
@@ -134,6 +139,8 @@ search: true
 ~~~
 코드를 입력하는 곳
 ~~~
+
+## <span style="color:yellow">`6-4`</span>
 
 ~~~md
 ```c#
@@ -199,11 +206,11 @@ namespace HelloWorld
 {: .notice--warning}
 
 ```html
-<img src="/img/retrieverCheer.png" style="zoom:50%;" />
+<img src="/path/filename.png" style="zoom:50%;" />
 
-<center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
+<center><img src="/path/filename.png" width="300" height="300"></center>
 
-<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
+<center><img src="/path/filename.png" width="70%" height="70%"></center>
 ```
 
 <img src="/img/retrieverCheer.png" style="zoom:50%;" />
@@ -278,12 +285,20 @@ abcd<br>efg
 # 15.구분선
 {: .notice--warning}
 
+## <span style="color:yellow">`15-1`</span>
+
 ```
 ***
----
 ```
 
 ***
+
+## <span style="color:yellow">`15-2`</span>
+
+```
+---
+```
+
 ---
 
 ---
