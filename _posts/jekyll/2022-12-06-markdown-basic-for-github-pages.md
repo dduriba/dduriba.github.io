@@ -1,17 +1,17 @@
 ---
-layout: single
 title:  "Github Pages운용을 위한 문법들"
 categories: jekyll
 tag: [github pages, markdown, jekyll, html]
+# layout: single
+# author_profile: true
+# sidebar_main: true
+# sidebar:
+#     nav: "docs"
+# search: true
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
 toc_sticky: true
-author_profile: true
-sidebar_main: true
-sidebar:
-    nav: "docs"
-search: true
 ---
 
 # 1.Header
