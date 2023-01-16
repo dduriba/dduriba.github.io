@@ -116,23 +116,24 @@ search: true
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code>type your codes on here</code>
+<code>
+\<div class="notice--success">
+\<pre><span style="color:green">코드</span>
+\<code>type your codes on here</code>
+\</pre>
+\</div>
+</code>
 </pre>
 </div>
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code><div class="notice--success">
-<pre><span style="color:green">코드</span>
 <code>type your codes on here</code>
-</pre>
-</div></code>
 </pre>
 </div>
 
-
 <div class="notice--success">
-<pre><span style="color:green">코드<br>```c#</span>
+<pre><span style="color:green">코드<br><span style="color:black">```c#</span>
 <code>using System;
 
 namespace HelloWorld
@@ -184,8 +185,8 @@ namespace HelloWorld
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code>*Italic*<br>
-**Bold**<br>
+<code>*Italic*
+**Bold**
 ***Italic & Bold***</code>
 </pre>
 </div>
@@ -201,11 +202,11 @@ namespace HelloWorld
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code><img src="/img/retrieverCheer.png" style="zoom:50%;" />
+\<code><img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
-<center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
+\<center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
 
-<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center></code>
+\<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center></code>
 </pre>
 </div>
 
@@ -224,7 +225,8 @@ namespace HelloWorld
 <pre><span style="color:green">코드</span>
 <code>abcdefg
 hijklmnop
-<br>qrstuvwxyz</code>
+\<br>qrstuvwxyz
+</code>
 </pre>
 </div>
 
@@ -256,7 +258,9 @@ hijklmnop
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code><u>밑줄</u></code>
+<code>
+\<u>밑줄</u>
+</code>
 </pre>
 </div>
 
@@ -269,7 +273,9 @@ hijklmnop
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code><span style="color:red">빨강</span></code>
+<code>
+\<span style="color:red">빨강</span>
+</code>
 </pre>
 </div>
 
@@ -333,14 +339,16 @@ hijklmnop
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code><details>
-<summary>토글리스트</summary>
-<div markdown="1">
-
-숨겨진 내용
-
-</div>
-</details></code>
+<code>
+\<details>
+\<summary>토글리스트</summary>
+\<div markdown="1">
+\
+\숨겨진 내용
+\
+\</div>
+\</details>
+</code>
 </pre>
 </div>
 
@@ -373,7 +381,9 @@ hijklmnop
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code>{% include video id="svOWfkwaZOE" provider="youtube" %}</code>
+<code>
+\{% include video id="svOWfkwaZOE" provider="youtube" %}
+</code>
 </pre>
 </div>
 
