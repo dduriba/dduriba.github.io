@@ -14,18 +14,12 @@ sidebar:
 search: true
 ---
 
+---
 # 1.Header
 {: .notice--danger}
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
 <div class="notice--success">
-<pre>**Code**
+<pre><span style="color:green">코드</span>
 <code># H1
 ## H2
 ### H3
@@ -35,6 +29,13 @@ search: true
 </pre>
 </div>
 
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+---
 # 2.Link
 
 [Google](https://google.com)
