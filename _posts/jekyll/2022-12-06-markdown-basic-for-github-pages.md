@@ -2,7 +2,7 @@
 title:  "Github Pages운용을 위한 문법들"
 excerpt: "markdown, html등의 문법들을 알아봅시다."
 categories: jekyll
-tag: [github pages, markdown, jekyll, html]
+tag: [github pages, jekyll, markdown, html]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
@@ -352,7 +352,7 @@ abcd<br>efg
 
 `https://www.youtube.com/watch?v=QKXXF3uxzvI`<br>
 `https://youtu.be/QKXXF3uxzvI`<br>
-링크 주소의 id="QKXXF3uxzvI" 를 사용
+유튜브 링크 주소의 id="QKXXF3uxzvI" 를 사용
 
 ```liquid
 {% raw %}{% include video id="QKXXF3uxzvI" provider="youtube" %}{% endraw %}

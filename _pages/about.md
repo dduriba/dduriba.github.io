@@ -7,7 +7,7 @@ sidebar_main: true
 sidebar:
     nav: "docs"
 toc: true
-toc_label: "목록"
+toc_label: "About"
 toc_icon: "bars"
 toc_sticky: true
 ---
