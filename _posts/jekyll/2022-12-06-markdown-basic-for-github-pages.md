@@ -16,6 +16,7 @@ classes: wide
 ---
 
 ---
+
 # 1.Header
 {: .notice--warning}
 
@@ -36,22 +37,51 @@ classes: wide
 #### H4
 ##### H5
 ###### H6
+
 ---
+
 # 2.Link
+{: .notice--warning}
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>[Google](https://google.com)</code>
+</pre>
+</div>
 
 [Google](https://google.com)
 
-\[Google](https://google.com)
+---
 
 # 3.BlockQuote
+{: .notice--warning}
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>> BlockQuote
+  >> BlockQuote</code>
+</pre>
+</div>
 
 > BlockQuote
   >> BlockQuote
 
-\> BlockQuote
-\  >> BlockQuote
+---
 
 # 4.Ordered List
+{: .notice--warning}
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>1. ordered-first
+    1. first-one
+    2. first-two
+        - A
+        - B
+2. ordered-second
+3. ordered-third</code>
+</pre>
+</div>
 
 1. ordered-first
     1. first-one
@@ -61,27 +91,29 @@ classes: wide
 2. ordered-second
 3. ordered-third
 
-\1. ordered-first
-\    1. first-one
-\    2. first-two
-\        - A
-\        - B
-\2. ordered-second
-\3. ordered-third
+---
 
 # 5.Unordered List
+{: .notice--warning}
+
+<div class="notice--success">
+<pre><span style="color:green">코드</span>
+<code>- unordered
+    * unordered
+        + unordered
+- unordered</code>
+</pre>
+</div>
 
 - unordered
     * unordered
         + unordered
 - unordered
 
-\- unordered
-\    * unordered
-\        + unordered
-\- unordered
+---
 
 # 6.Code Block
+{: .notice--warning}
 
 ```c#
 using System;
@@ -113,13 +145,19 @@ namespace HelloWorld
 \}
 \```
 
+---
+
 # 7.Strikethrough
+{: .notice--warning}
 
 ~~Strikethrough~~
 
 \~~Strikethrough~~
 
+---
+
 # 8.Bold, Italic
+{: .notice--warning}
 
 *Italic*<br>
 **Bold**<br>
@@ -129,7 +167,10 @@ namespace HelloWorld
 \**Bold**<br>
 \***Italic & Bold***
 
+---
+
 # 9.Image
+{: .notice--warning}
 
 <img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
@@ -143,7 +184,10 @@ namespace HelloWorld
 
 \<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
 
+---
+
 # 10.줄바꿈
+{: .notice--warning}
 
 abcdefg
 hijklmnop
@@ -153,7 +197,10 @@ hijklmnop
 \hijklmnop
 \<br>qrstuvwxyz
 
+---
+
 # 11.문단 나누기
+{: .notice--warning}
 
 한 줄의 공백을 두어
 
@@ -163,19 +210,28 @@ hijklmnop
 \
 \작성을 하면 된다.
 
+---
+
 # 12.밑줄
+{: .notice--warning}
 
 <u>밑줄</u>
 
 \<u>밑줄</u>
 
+---
+
 # 13.글씨 색
+{: .notice--warning}
 
 <span style="color:red">빨강</span>
 
 \<span style="color:red">빨강</span>
 
+---
+
 # 14.체크 박스
+{: .notice--warning}
 
 - [ ] 체크 안됨
 - [X] 체크 됨
@@ -183,7 +239,10 @@ hijklmnop
 \- [ ] 체크 안됨
 \- [X] 체크 됨
 
+---
+
 # 15.구분선
+{: .notice--warning}
 
 ***
 ---
@@ -191,7 +250,10 @@ hijklmnop
 \***
 \---
 
+---
+
 # 16.테이블
+{: .notice--warning}
 
 |첫번째 셸|두번째 셸|세번째 셸|
 |:---|---:|:---:|
@@ -205,7 +267,10 @@ hijklmnop
 \|왼쪽정렬|오른쪽정렬|중앙정렬|
 \|왼쪽정렬|오른쪽정렬|중앙정렬|
 
+---
+
 # 17.토글리스트
+{: .notice--warning}
 
 <details>
 <summary>토글리스트</summary>
@@ -225,15 +290,23 @@ hijklmnop
 \</div>
 \</details>
 
+---
+
 # 18.버튼
+{: .notice--warning}
 
 [맨위로이동](#){: .btn .btn--primary }
 
 \[맨위로이동](#){: .btn .btn--primary }
 
+---
+
 # 19.유튜브
+{: .notice--warning}
 
 {% include video id="svOWfkwaZOE" provider="youtube" %}
+
+---
 
 # [KST(한국표준시)는 UTC(협정세계시)기준으로 +09:00의 시차가 있습니다](https://time.is/ko/UTC)
 {: .notice--danger}
