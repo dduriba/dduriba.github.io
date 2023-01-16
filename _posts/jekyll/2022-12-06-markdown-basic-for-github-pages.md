@@ -114,13 +114,13 @@ search: true
 # 6.Code Block
 {: .notice--warning}
 
-~~~
+```
 <div class="notice--success">
 <pre><span style="color:green">코드\</span>
 <code>type your codes on here\</code>
 </pre>
 </div>
-~~~
+```
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
