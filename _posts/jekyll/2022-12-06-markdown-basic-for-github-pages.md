@@ -17,7 +17,7 @@ search: true
 ---
 
 # 1.Header
-{: .notice--warning}{: .text-center}
+{: .notice--warning: .text-center}
 
 ```md
 # H1
@@ -346,7 +346,7 @@ abcd<br>efg
 {: .notice--warning}
 
 `https://www.youtube.com/watch?v=QKXXF3uxzvI`<br>
-`https://youtu.be/QKXXF3uxzvI`
+`https://youtu.be/QKXXF3uxzvI`<br>
 링크 주소의 id="QKXXF3uxzvI" 를 사용
 
 ```liquid
