@@ -3,12 +3,6 @@ title:  "Github Pages운용을 위한 문법들"
 excerpt: "markdown, html등의 문법들을 알아봅시다."
 categories: jekyll
 tag: [github pages, markdown, jekyll, html]
-# layout: single
-# author_profile: true
-# sidebar_main: true
-# sidebar:
-#     nav: "docs"
-# search: true
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
