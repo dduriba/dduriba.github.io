@@ -133,7 +133,7 @@ search: true
 </div>
 
 <div class="notice--success">
-<pre><span style="color:green">코드<br><span style="color:black">```c#</span>
+<pre><span style="color:green">코드</span><br>```c#
 <code>using System;
 
 namespace HelloWorld
