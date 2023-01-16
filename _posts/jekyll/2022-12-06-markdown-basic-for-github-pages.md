@@ -124,20 +124,6 @@ search: true
 
 <div class="notice--success">
 <pre><span style="color:green">코드</span>
-<code>
-~~~
-<div class="notice--success">
-<pre><span style="color:green">코드\</span>
-<code>type your codes on here\</code>
-</pre>
-</div>
-~~~
-</code>
-</pre>
-</div>
-
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
 <code>type your codes on here</code>
 </pre>
 </div>
@@ -210,17 +196,13 @@ namespace HelloWorld
 # 9.Image
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>
-\<img src="/img/retrieverCheer.png" style="zoom:50%;" />
+```
+<img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
-\<center>\<img src="/img/retrieverGimozzi.png" width="300" height="300">\</center>
+<center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
 
-\<center>\<img src="/img/retrieverStudy.png" width="70%" height="70%">\</center>
-</code>
-</pre>
-</div>
+<center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
+```
 
 <img src="/img/retrieverCheer.png" style="zoom:50%;" />
 
@@ -233,13 +215,10 @@ namespace HelloWorld
 # 10.줄바꿈
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>abcd
-\<br>efg
-</code>
-</pre>
-</div>
+```
+abcd
+<br>efg
+```
 
 abcd
 <br>efg
@@ -266,13 +245,9 @@ abcd
 # 12.밑줄
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>
-\<u>밑줄</u>
-</code>
-</pre>
-</div>
+```
+<u>밑줄</u>
+```
 
 <u>밑줄</u>
 
@@ -281,13 +256,9 @@ abcd
 # 13.글씨 색
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>
-\<span style="color:red">빨강</span>
-</code>
-</pre>
-</div>
+```
+<span style="color:red">빨강</span>
+```
 
 <span style="color:red">빨강</span>
 
@@ -347,20 +318,16 @@ abcd
 # 17.토글리스트
 {: .notice--warning}
 
-<div class="notice--success">
-<pre><span style="color:green">코드</span>
-<code>
-\<details>
-\<summary>토글리스트\</summary>
-\<div markdown="1">
-\
-\숨겨진 내용
-\
-\</div>
-\</details>
-</code>
-</pre>
+```
+<details>
+<summary>토글리스트</summary>
+<div markdown="1">
+
+숨겨진 내용
+
 </div>
+</details>
+```
 
 <details>
 <summary>토글리스트</summary>
