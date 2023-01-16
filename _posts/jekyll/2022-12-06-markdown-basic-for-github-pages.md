@@ -44,7 +44,7 @@ search: true
 
 [Google](https://google.com)
 
-# 3.BlockQuote
+# 3.BlockQuote (인용 블록)
 {: .notice--warning}
 
 ```md
@@ -168,7 +168,7 @@ namespace HelloWorld
 }
 ```
 
-# 7.Strikethrough
+# 7.Strikethrough (취소선)
 {: .notice--warning}
 
 ```
@@ -207,7 +207,7 @@ namespace HelloWorld
 
 <center><img src="/img/retrieverStudy.png" width="70%" height="70%"></center>
 
-# 10.줄바꿈
+# 10.line-break (줄바꿈)
 {: .notice--warning}
 
 ```html
@@ -216,7 +216,7 @@ abcd<br>efg
 
 abcd<br>efg
 
-# 11.문단 나누기
+# 11.line-split
 {: .notice--warning}
 
 ```
@@ -229,7 +229,7 @@ abcd<br>efg
 
 작성을 하면 된다.
 
-# 12.밑줄
+# 12.underline (밑줄)
 {: .notice--warning}
 
 ```html
@@ -238,7 +238,7 @@ abcd<br>efg
 
 <u>밑줄</u>
 
-# 13.글씨 색
+# 13.text color
 {: .notice--warning}
 
 ```html
@@ -247,7 +247,7 @@ abcd<br>efg
 
 <span style="color:red">코드</span>
 
-# 14.체크 박스
+# 14.check box
 {: .notice--warning}
 
 ```md
@@ -258,10 +258,10 @@ abcd<br>efg
 - [ ] 체크 안됨
 - [X] 체크 됨
 
-# 15.구분선
+# 15.dividing line (구분선)
 {: .notice--warning}
 
-## 15-1 구분선
+## 15-1 dividing line
 {: .notice--success}
 
 ```
@@ -270,7 +270,7 @@ abcd<br>efg
 
 ***
 
-## 15-2 구분선
+## 15-2 dividing line
 {: .notice--success}
 
 ```
@@ -279,7 +279,7 @@ abcd<br>efg
 
 ---
 
-# 16.테이블
+# 16.table
 {: .notice--warning}
 
 ```
@@ -296,7 +296,7 @@ abcd<br>efg
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 
-# 17.토글리스트
+# 17.toggle list
 {: .notice--warning}
 
 ```html
@@ -319,19 +319,35 @@ abcd<br>efg
 </div>
 </details>
 
-# 18.버튼
+# 18.button
 {: .notice--warning}
 
 ```md
-[FROM THE TOP](#){: .btn .btn--primary }
+[Google](https://google.com){: .btn}
+[FROM THE TOP](#){: .btn .btn--primary}
+[FROM THE TOP](#){: .btn .btn--success}
+[FROM THE TOP](#){: .btn .btn--warning}
+[FROM THE TOP](#){: .btn .btn--danger}
+[FROM THE TOP](#){: .btn .btn--info}
+[FROM THE TOP](#){: .btn .btn--inverse}
+[FROM THE TOP](#){: .btn .btn--light-outline}
 ```
 
-[FROM THE TOP](#){: .btn .btn--primary }
+[Google](https://google.com){: .btn}
+[FROM THE TOP](#){: .btn .btn--primary}
+[FROM THE TOP](#){: .btn .btn--success}
+[FROM THE TOP](#){: .btn .btn--warning}
+[FROM THE TOP](#){: .btn .btn--danger}
+[FROM THE TOP](#){: .btn .btn--info}
+[FROM THE TOP](#){: .btn .btn--inverse}
+[FROM THE TOP](#){: .btn .btn--light-outline}
 
-# 19.유튜브
+# 19.youtube
 {: .notice--warning}
 
-To embed the following YouTube video at url `https://www.youtube.com/watch?v=QKXXF3uxzvI` (long version) or `https://youtu.be/QKXXF3uxzvI` (short version) into a post or page's main content you'd use:
+링크 주소의 id="QKXXF3uxzvI" 를 사용
+`https://www.youtube.com/watch?v=QKXXF3uxzvI`<br>
+`https://youtu.be/QKXXF3uxzvI`
 
 ```liquid
 {% raw %}{% include video id="QKXXF3uxzvI" provider="youtube" %}{% endraw %}
@@ -339,13 +355,29 @@ To embed the following YouTube video at url `https://www.youtube.com/watch?v=QKX
 
 {% include video id="QKXXF3uxzvI" provider="youtube" %}
 
-# 20.
+# 20.Notice
+{: .notice--warning}
 
-<div class="notice--success">
-<h4>hello div class</h4>
-<ul>
-    <li>test num 1</li>
-    <li>test num 2</li>
-    <li>test num 3</li>
-</ul>
-</div>
+```
+공지{: .notice}
+공지{: .notice--primary}
+공지{: .notice--info}
+공지{: .notice--warning}
+공지{: .notice--success}
+공지{: .notice--danger}
+```
+
+공지{: .notice}
+공지{: .notice--primary}
+공지{: .notice--info}
+공지{: .notice--warning}
+공지{: .notice--success}
+공지{: .notice--danger}
+
+# 21.inline
+
+~~~md
+이것은 `인라인` 사용법입니다.
+~~~
+
+이것은 `인라인` 사용법입니다.
