@@ -206,11 +206,11 @@ namespace HelloWorld
 
 <img src="/img/retrieverCheer.png"/>
 
-<center><img src="/img/retrieverGimozzi.png" width="300" height="300"></center>
+<center><img src="/img/retrieverCheer.png" width="300" height="300"></center>
 
-<center><img src="/img/retrieverStudy.png" width="50%" height="50%"></center>
+<center><img src="/img/retrieverCheer.png" width="50%" height="50%"></center>
 
-<img src="/img/retrieverStudy.png" width="100%" height="100%">
+<img src="/img/retrieverCheer.png" width="100%" height="100%">
 
 # 10.line-break (줄바꿈)
 {: .notice--warning .text-center}
