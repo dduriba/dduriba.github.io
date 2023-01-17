@@ -27,6 +27,9 @@ docs:
       - title: "Jekyll"
         url: /categories/#jekyll
         category: "jekyll"
+      - title: "GitHub"
+        url: /categories/#github
+        category: "github"
       - title: "Interview Q&A"
         url: /categories/#interviewQnA
         category: "interviewQnA"
