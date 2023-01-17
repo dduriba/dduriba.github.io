@@ -1,7 +1,7 @@
 ---
 title:  "Dark of alchemist"
-excerpt: "ios mobile rpg game"
+excerpt: "rpg mobile game"
 categories: review
-tag: [mobile, rpg, ios]
+tag: [mobile, ios, rpg]
 classes: wide
 ---
