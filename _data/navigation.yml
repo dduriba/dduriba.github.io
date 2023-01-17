@@ -12,16 +12,19 @@ main:
 docs:
   - title: "Category"
     children:
-      - title: "unity2d"
+      - title: "Unity 2D"
         url: /categories/#unity2d
         category: "unity2d"
-      - title: "review"
-        url: /categories/#review
-        category: "review"
-      - title: "jekyll"
+      - title: "Mobile-Game Review"
+        url: /categories/#mobileGameReview
+        category: "mobileGameReview"
+      - title: "PC-Game Review"
+        url: /categories/#pcGameReview
+        category: "pcGameReview"
+      - title: "Jekyll"
         url: /categories/#jekyll
         category: "jekyll"
-      - title: "interviewQnA"
+      - title: "Interview Q&A"
         url: /categories/#interviewQnA
         category: "interviewQnA"
       
