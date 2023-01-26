@@ -33,6 +33,9 @@ docs:
       - title: "Interview Q&A"
         url: /categories/#interviewQnA
         category: "interviewQnA"
+      - title: "Memo"
+        url: /categories/#memo
+        category: "memo"
       
   # - title: "Category"
   #   url: /categories/
