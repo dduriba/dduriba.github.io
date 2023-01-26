@@ -43,3 +43,8 @@ public class Player : SingletonMonoBehaviour<Player>
     }
 }
 ```
+
+# 3.게임 오브젝트에 스크립트 적용
+{: .notice--warning .text-center}
+
+<img src="/img/2023-01-26-singleton-pattern.png"/>
