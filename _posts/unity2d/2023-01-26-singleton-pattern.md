@@ -3,10 +3,6 @@ title:  "싱글톤 디자인 패턴"
 excerpt: "singleton design pattern for unity"
 categories: unity2d
 tag: [unity, singleton, designPattern]
-#toc: true
-#toc_label: "목록"
-#toc_icon: "bars"
-#toc_sticky: true
 classes: wide
 ---
 
@@ -49,3 +45,5 @@ public class Player : SingletonMonoBehaviour<Player>
 {: .notice--warning .text-center}
 
 <img src="/img/unity2d/2023-01-26-singleton-pattern.png"/>
+
+[FROM THE TOP](#){: .btn .btn--info}
