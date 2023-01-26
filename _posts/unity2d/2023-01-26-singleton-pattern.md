@@ -41,7 +41,7 @@ public class Player : SingletonMonoBehaviour<Player>
 }
 ```
 
-# 3.게임 오브젝트에 스크립트 추가
+# 3.적용시킬 게임 오브젝트에 스크립트 추가
 {: .notice--warning .text-center}
 
 <img src="/img/unity2d/2023-01-26-singleton-pattern.png"/>
