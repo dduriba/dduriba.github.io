@@ -18,5 +18,5 @@ toc_sticky: true
 # 2.잘라내 붙여넣기
 {: .notice--warning .text-center}
 
-1. 잘라낼 파일에 Command + C
+1. 잘라낼 파일을 Command + C
 2. 이동할 곳에 Command + Option + V
