@@ -12,8 +12,8 @@ toc_sticky: true
 # 1.스크린 캡처
 {: .notice--warning .text-center}
 
-- 전체 캡처 : Shift + Command + 3 (길게 누르기)
-- 지정 캡처 : Shift + Command + 4 (길게 누르기) 후 영역 드래그
+- 전체 캡처 : Shift + Command + 3
+- 지정 캡처 : Shift + Command + 4 후 영역 드래그
 
 # 2.잘라내 붙여넣기
 {: .notice--warning .text-center}
