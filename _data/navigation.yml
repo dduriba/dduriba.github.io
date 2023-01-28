@@ -12,12 +12,6 @@ main:
 docs:
   - title: "Category"
     children:
-      - title: "Unity 2D"
-        url: /categories/#unity2d
-        category: "unity2d"
-      - title: "Unity 3D"
-        url: /categories/#unity3d
-        category: "unity3d"
       - title: "Mobile-Game Review"
         url: /categories/#mobileGameReview
         category: "mobileGameReview"
@@ -36,6 +30,11 @@ docs:
       - title: "Memo"
         url: /categories/#memo
         category: "memo"
+  - title: Unity 2D
+    children:
+      - title: Stardew Valley
+        url: /categories/#stardewValley
+        category: "stardewValley"
       
   # - title: "Category"
   #   url: /categories/
