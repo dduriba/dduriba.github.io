@@ -39,11 +39,12 @@ Sprite Sort Point 를 Pivot 으로 뒀을 때 Sprite 의 Pivot 이 최하단으�
 
 <img src="/img/unity2d/2023-01-26-sorting-group.png"/>
 
-* Sorting Layer : [2-1](#2sprite-renderer-컴포넌트-설정) 에서 추가한 Sorting Layer 선택
+* Sorting Layer : [2-1.](#2sprite-renderer-컴포넌트-설정) 에서 추가한 Sorting Layer 선택
 * Order in Layer : 0
 
 <div class="notice">
 Sprite Renderer 컴포넌트를 가진 게임오브젝트들을 Sorting Group 컴포넌트를 가진 게임오브젝트의 하위 게임오브젝트로 구성
+<br>(그룹화하면 하위 게임오브젝트들의 Sprite 정렬은 Sprite Renderer 의 Order in Layer 값에 따라 결정되고 다른 게임오브젝트들과의 Sprite 정렬은 Sotring Group 의 Order in Layer 값에 따라 결정)
 </div>
 
 # 4.다른 게임오브젝트들에 적용
@@ -52,7 +53,7 @@ Sprite Renderer 컴포넌트를 가진 게임오브젝트들을 Sorting Group �
 <img src="/img/unity2d/2023-01-26-other-sprite-objects.png"/>
 
 * Sprite Sort Point : Pivot
-* Sorting Layer : [2-1](#2sprite-renderer-컴포넌트-설정) 에서 추가한 Sorting Layer 선택
+* Sorting Layer : [2-1.](#2sprite-renderer-컴포넌트-설정) 에서 추가한 Sorting Layer 선택
 * Order in Layer : 0
 
 <div class="notice">
