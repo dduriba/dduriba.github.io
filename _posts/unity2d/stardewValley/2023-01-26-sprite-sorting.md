@@ -1,15 +1,15 @@
 ---
 title:  "스프라이트 정렬"
 excerpt: "sprite sorting"
-categories: unity2d
-tag: [unity, 2d]
+categories: stardewValley
+tag: [unity, 2d, stardewValley]
 classes: wide
 ---
 
 # 1.정렬 축을 Y로 변경
 {: .notice--warning .text-center}
 
-<img src="/img/unity2d/2023-01-26-sprite-sorting-project-settings.png"/>
+<img src="/img/unity2d/stardewValley/2023-01-26-sprite-sorting-project-settings.png"/>
 
 - Edit-Project Settings-Graphics
   * Transparency Sort Mode : Custom Axis
@@ -22,7 +22,7 @@ classes: wide
 # 2.Sprite Renderer 컴포넌트 설정
 {: .notice--warning .text-center}
 
-<img src="/img/unity2d/2023-01-26-sprite-renderer.png"/>
+<img src="/img/unity2d/stardewValley/2023-01-26-sprite-renderer.png"/>
 
 1. Additional Settings-Sorting Layer-Add Sorting Layer... 에서 Sorting Layer 를 추가
 2. 
@@ -37,7 +37,7 @@ Sprite Sort Point 를 Pivot 으로 뒀을 때 Sprite 의 Pivot 이 최하단으�
 # 3.Sorting Group 컴포넌트 설정
 {: .notice--warning .text-center}
 
-<img src="/img/unity2d/2023-01-26-sorting-group.png"/>
+<img src="/img/unity2d/stardewValley/2023-01-26-sorting-group.png"/>
 
 * Sorting Layer : [2-1.](#2sprite-renderer-컴포넌트-설정) 에서 추가한 Sorting Layer 선택
 * Order in Layer : 0
@@ -50,7 +50,7 @@ Sprite Renderer 컴포넌트를 가진 게임오브젝트들을 Sorting Group �
 # 4.다른 게임오브젝트들에 적용
 {: .notice--warning .text-center}
 
-<img src="/img/unity2d/2023-01-26-other-sprite-objects.png"/>
+<img src="/img/unity2d/stardewValley/2023-01-26-other-sprite-objects.png"/>
 
 * Sprite Sort Point : Pivot
 * Sorting Layer : [2-1.](#2sprite-renderer-컴포넌트-설정) 에서 추가한 Sorting Layer 선택
