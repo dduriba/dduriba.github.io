@@ -16,9 +16,9 @@ classes: wide
   * Transparency Sort Axis : X = 0, Y = 1, Z = 0
 
 <div class="notice">
-<ul>
-<h4>Y 값이 높을수록 우선 렌더링</h4>
-</ul>
+<h4>Y 값이 높을수록 우선 렌더링
+<br>test
+</h4>
 </div>
 
 # 2.Sprite Renderer 컴포넌트 세부 설정
