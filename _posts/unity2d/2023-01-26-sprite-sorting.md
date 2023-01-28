@@ -11,9 +11,9 @@ classes: wide
 
 <img src="/img/unity2d/2023-01-26-sprite-sorting-project-settings.png"/>
 
-- Project Settings-Graphics 창 열기
+- Edit-Project Settings-Graphics
   * Transparency Sort Mode : Custom Axis
-  * Transparency Sort Axis : X = 0, Y = 1, Z = 0
+  * Transparency Sort Axis : X`0`, Y`1`, Z`0`
 
 # 2.Sprite Renderer 옵션 설정
 {: .notice--warning .text-center}
