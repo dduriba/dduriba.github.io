@@ -27,7 +27,7 @@ classes: wide
 1. Additional Settings-Sorting Layer-Add Sorting Layer... 에서 Sorting Layer 를 추가
 2. 
   * Sprite Sort Point : Pivot
-  * Additional Settings-Sorting Layer : 1. 에서 추가한 Sorting Layer 선택
+  * Additional Settings-Sorting Layer : `1.` 에서 추가한 Sorting Layer 선택
   * Additional Settings-Order in Layer : 우선 렌더링할 게임 오브젝트부터 1, 2, 3, ... 입력 (body : 1, hair : 2, ...)
 
 <div class="notice">
