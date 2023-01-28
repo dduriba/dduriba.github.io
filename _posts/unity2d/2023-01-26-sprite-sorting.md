@@ -15,9 +15,7 @@ classes: wide
   * Transparency Sort Mode : Custom Axis
   * Transparency Sort Axis : X = 0, Y = 1, Z = 0
 
-<div class="notice">
-<ul>
-Y 값이 높을수록 우선 렌더링
+<div class="notice"><ul>Y 값이 높을수록 우선 렌더링
 </ul>
 </div>
 
