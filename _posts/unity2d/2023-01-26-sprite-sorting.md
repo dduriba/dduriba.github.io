@@ -14,7 +14,12 @@ classes: wide
 - Edit-Project Settings-Graphics
   * Transparency Sort Mode : Custom Axis
   * Transparency Sort Axis : X = 0, Y = 1, Z = 0
-<br>`Y 값이 높을수록 우선 렌더링`
+
+<div class="notice">
+<ul>
+Y 값이 높을수록 우선 렌더링
+</ul>
+</div>
 
 # 2.Sprite Renderer 컴포넌트 세부 설정
 {: .notice--warning .text-center}
