@@ -31,7 +31,7 @@ classes: wide
   * Additional Settings-Order in Layer : 우선 렌더링 할 게임오브젝트부터 1, 2, 3, ... 입력 (body : 1, hair : 2, ...)
 
 <div class="notice">
-Sprite Sort Point 를 Pivot 으로 뒀을 때 Sprite 의 Pivot 이 최하단으로 설정되어 있는지 확인
+Sprite Sort Point 를 Pivot 으로 뒀을 때 Sprite 의 Pivot 이 <h4>최하단</h4>으로 설정되어 있는지 확인
 </div>
 
 # 3.Sorting Group 컴포넌트 설정
