@@ -1,5 +1,5 @@
 ---
-title:  "싱글톤 디자인 패턴"
+title:  "1.싱글톤 디자인 패턴"
 excerpt: "singleton design pattern for unity"
 categories: stardewValley
 tag: [unity, singleton, designPattern]

@@ -1,5 +1,5 @@
 ---
-title:  "스프라이트 정렬"
+title:  "2.스프라이트 정렬"
 excerpt: "sprite sorting"
 categories: stardewValley
 tag: [unity, 2d, stardewValley]
@@ -19,7 +19,7 @@ classes: wide
 게임 오브젝트의 Y 값이 높을수록 우선 렌더링
 </div>
 
-# 2.Sprite Renderer 컴포넌트 설정
+# 2.Sprite Renderer 컴포넌트 추가 및 설정
 {: .notice--warning .text-center}
 
 <img src="/img/unity2d/stardewValley/2023-01-26-sprite-renderer.png"/>
@@ -34,7 +34,7 @@ classes: wide
 Sprite Sort Point 를 Pivot 으로 뒀을 때 Sprite 의 Pivot 이 최하단으로 설정되어 있는지 확인
 </div>
 
-# 3.Sorting Group 컴포넌트 설정
+# 3.Sorting Group 컴포넌트 추가 및 설정
 {: .notice--warning .text-center}
 
 <img src="/img/unity2d/stardewValley/2023-01-26-sorting-group.png"/>
