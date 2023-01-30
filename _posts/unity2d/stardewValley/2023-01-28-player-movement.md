@@ -32,7 +32,7 @@ public static class Settings
 ```
 
 <div class="notice">
-플레이어의 뛰는속도, 걷는속도 수치의 값을 담을 변수를 const 로 저장, 전역으로 접근할 수 있게 static class 로 생성
+플레이어의 뛰는속도, 걷는속도 수치를 담을 변수를 const 로 저장, 전역으로 접근할 수 있게 static class 로 생성
 </div>
 
 </div>
