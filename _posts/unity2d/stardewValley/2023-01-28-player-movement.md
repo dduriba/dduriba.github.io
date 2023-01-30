@@ -11,6 +11,8 @@ classes: wide
 
 <img src="/img/unity2d/stardewValley/2023-01-28-rigidbody-2d-component.png"/>
 
+[Unity docs Rigidbody2D](https://docs.unity3d.com/kr/2020.3/Manual/class-Rigidbody2D.html)
+
 # 2.스크립트 추가 및 편집
 {: .notice--warning .text-center}
 
@@ -30,8 +32,7 @@ public static class Settings
 ```
 
 <div class="notice">
-게임오브젝트가 하나의 Sprite Renderer 만 가질 경우 Sorting Group 없이 위의 값 세개로 설정
-<br>test
+플레이어의 뛰는속도, 걷는속도 수치의 값을 담을 변수를 const 로 저장, 전역으로 접근할 수 있게 static class 로 생성
 </div>
 
 </div>
@@ -108,6 +109,10 @@ public class Player : SingletonMonoBehaviour<Player>
     }
 }
 ```
+
+<div class="notice">
+PlayerMovementInput 메소드와 PlayerWalkInput 메소드의 movementSpeed = Settings.runningSpeed; 부분이 겹쳐 한 쪽을 지워도 작동하지만 후에 수정을 대비해 그대로 두거나 PlayerWalkInput 메소드의 중복되는 부분을 삭제
+</div>
 
 </div>
 </details>
