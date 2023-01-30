@@ -111,7 +111,7 @@ public class Player : SingletonMonoBehaviour<Player>
 ```
 
 <div class="notice">
-PlayerMovementInput 메소드와 PlayerWalkInput 메소드의 movementSpeed = Settings.runningSpeed; 부분이 겹쳐 한 쪽을 지워도 작동하지만 후에 수정을 대비해 그대로 두거나 PlayerWalkInput 메소드의 중복되는 부분을 삭제
+PlayerMovementInput 메서드와 PlayerWalkInput 메서드의 movementSpeed = Settings.runningSpeed; 부분이 겹쳐 한 쪽을 지워도 작동하지만 후에 수정을 대비해 그대로 두거나 PlayerWalkInput 메서드의 중복되는 부분을 삭제
 </div>
 
 </div>
