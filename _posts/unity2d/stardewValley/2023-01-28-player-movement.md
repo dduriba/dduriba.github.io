@@ -11,8 +11,12 @@ classes: wide
 
 <img src="/img/unity2d/stardewValley/2023-01-28-rigidbody-2d-component.png"/>
 
-# 2.스크립트
+# 2.스크립트 추가 및 편집
 {: .notice--warning .text-center}
+
+<details>
+<summary>/Scripts/Misc/Settings.cs 추가</summary>
+<div markdown="1">
 
 ```c#
 using UnityEngine;
@@ -24,6 +28,13 @@ public static class Settings
     public const float walkingSpeed = 2.666f;
 }
 ```
+
+</div>
+</details>
+
+<details>
+<summary>/Scripts/Player/Player.cs 편집</summary>
+<div markdown="1">
 
 ```c#
 using UnityEngine;
@@ -92,3 +103,6 @@ public class Player : SingletonMonoBehaviour<Player>
     }
 }
 ```
+
+</div>
+</details>
