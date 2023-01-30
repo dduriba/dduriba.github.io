@@ -11,7 +11,7 @@ classes: wide
 
 <img src="/img/unity2d/stardewValley/2023-01-28-rigidbody-2d-component.png"/>
 
-[Unity docs Rigidbody2D](https://docs.unity3d.com/kr/2020.3/Manual/class-Rigidbody2D.html)
+[Link to Unity docs Rigidbody2D](https://docs.unity3d.com/kr/2020.3/Manual/class-Rigidbody2D.html){: .btn .btn--success}
 
 # 2.스크립트 추가 및 편집
 {: .notice--warning .text-center}
