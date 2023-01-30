@@ -29,6 +29,11 @@ public static class Settings
 }
 ```
 
+<div class="notice">
+게임오브젝트가 하나의 Sprite Renderer 만 가질 경우 Sorting Group 없이 위의 값 세개로 설정
+<br>test
+</div>
+
 </div>
 </details>
 
