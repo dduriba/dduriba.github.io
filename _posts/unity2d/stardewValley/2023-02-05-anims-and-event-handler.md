@@ -6,10 +6,10 @@ tag: [unity, 2d, stardewValley]
 classes: wide
 ---
 
-# 1.Animation Clip, Animator Controller 생성
+# 1.Animation (Clip), Animator Controller 생성
 {: .notice--warning .text-center}
 
-<img src="/img/unity2d/stardewValley/2023-02-05-create-clips-and-controller.png"/>
+<img src="/img/unity2d/stardewValley/2023-02-05-create-clips-and-controller.png" style="zoom:50%;"/>
 
-# 2.Animator Contoller 편집 ( Animator window )
+# 2.Animator Contoller 설정 (Animator window)
 {: .notice--warning .text-center}
