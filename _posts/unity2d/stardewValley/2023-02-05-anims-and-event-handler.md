@@ -86,17 +86,17 @@ Has Exit Time : false
     </tr>
 	<tr align="center">
 	    <td>to Run</td>
-	    <td>isRunning : true , yInput : Greater 0.01</td>
-        <td>isRunning : true , yInput : Less -0.01</td>
-        <td>isRunning : true , xInput : Greater 0.01</td>
-        <td>isRunning : true , xInput : Less -0.01</td>
+	    <td>isRunning : true <br> yInput : Greater 0.01</td>
+        <td>isRunning : true <br> yInput : Less -0.01</td>
+        <td>isRunning : true <br> xInput : Greater 0.01</td>
+        <td>isRunning : true <br> xInput : Less -0.01</td>
 	</tr>
 	<tr align="center">
 	    <td>to Walk</td>
-	    <td>isWalking : true , yInput : Greater 0.01</td>
-        <td>isWalking : true , yInput : Less -0.01</td>
-        <td>isWalking : true , xInput : Greater 0.01</td>
-        <td>isWalking : true , xInput : Less -0.01</td>
+	    <td>isWalking : true <br> yInput : Greater 0.01</td>
+        <td>isWalking : true <br> yInput : Less -0.01</td>
+        <td>isWalking : true <br> xInput : Greater 0.01</td>
+        <td>isWalking : true <br> xInput : Less -0.01</td>
 	</tr>
 </table>
 <table border="1">
