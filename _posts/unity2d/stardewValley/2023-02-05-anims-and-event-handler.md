@@ -72,17 +72,34 @@ classes: wide
 
 <img src="/img/unity2d/stardewValley/2023-02-05-animator-transition-edit.png" style="zoom:50%;"/>
 
-```md
-- [ ] Has Exit Time
-- Transition Duration in seconds : 0
-- Conditions :
-  - Idle -> Run, Walk
-  |\|Up yInput:Greater 0.01|Down yInput:Less -0.01|Right xInput:Greater 0.01|Left xInput:Less -0.01|
-  |:---:|:---:|:---:|:---:|:---:|
-  |Run isRunning:true| | | | |
-  |Walk isWalking:true| | | | |
-  - Run, Walk -> Idle
-```
+Has Exit Time : false
+<br>Transition Duration in seconds : 0
+<br> Conditions :
+<body>
+    <table border="1">
+	<th>Idle -> Run, Walk</th>
+	<th>Up</th>
+    <th>Down</th>
+    <th>Right</th>
+    <th>Left</th>
+	<tr><!-- 첫번째 줄 시작 -->
+	    <td>Run</td>
+	    <td>isRunning:true, yInput:Greater 0.01</td>
+        <td>isRunning:true, yInput:Less -0.01</td>
+        <td>isRunning:true, xInput:Greater 0.01</td>
+        <td>isRunning:true, xInput:Less -0.01</td>
+	</tr><!-- 첫번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>Walk</td>
+	    <td>isWalking:true, yInput:Greater 0.01</td>
+        <td>isWalking:true, yInput:Less -0.01</td>
+        <td>isWalking:true, xInput:Greater 0.01</td>
+        <td>isWalking:true, xInput:Less -0.01</td>
+	</tr><!-- 두번째 줄 끝 -->
+    </table>
+</body>
+
+- Run, Walk -> Idle
 
 </div>
 </details>
