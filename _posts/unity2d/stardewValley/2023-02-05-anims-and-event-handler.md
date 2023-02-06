@@ -78,44 +78,44 @@ Has Exit Time : false
 <body>
 <table border="1">
     <tr>
-	    <th>from Idle</th>
-	    <th>Up</th>
-        <th>Down</th>
-        <th>Right</th>
-        <th>Left</th>
+	    <td>from Idle</td>
+	    <td>Up</td>
+        <td>Down</td>
+        <td>Right</td>
+        <td>Left</td>
     </tr>
 	<tr>
-	    <th>to Run</th>
-	    <td>isRunning : true <br> yInput : Greater 0.01</td>
-        <td>isRunning : true <br> yInput : Less -0.01</td>
-        <td>isRunning : true <br> xInput : Greater 0.01</td>
-        <td>isRunning : true <br> xInput : Less -0.01</td>
+	    <td>to Run</td>
+	    <td>isRunning : true , yInput : Greater 0.01</td>
+        <td>isRunning : true , yInput : Less -0.01</td>
+        <td>isRunning : true , xInput : Greater 0.01</td>
+        <td>isRunning : true , xInput : Less -0.01</td>
 	</tr>
 	<tr>
-	    <th>to Walk</th>
-	    <td>isWalking : true <br> yInput : Greater 0.01</td>
-        <td>isWalking : true <br> yInput : Less -0.01</td>
-        <td>isWalking : true <br> xInput : Greater 0.01</td>
-        <td>isWalking : true <br> xInput : Less -0.01</td>
+	    <td>to Walk</td>
+	    <td>isWalking : true , yInput : Greater 0.01</td>
+        <td>isWalking : true , yInput : Less -0.01</td>
+        <td>isWalking : true , xInput : Greater 0.01</td>
+        <td>isWalking : true , xInput : Less -0.01</td>
 	</tr>
 </table>
 <table border="1">
     <tr align="center">
-	    <th>to Idle</th>
-	    <th>Up</th>
-        <th>Down</th>
-        <th>Right</th>
-        <th>Left</th>
+	    <td>to Idle</td>
+	    <td>Up</td>
+        <td>Down</td>
+        <td>Right</td>
+        <td>Left</td>
     </tr>
 	<tr align="center">
-	    <th>from Run</th>
+	    <td>from Run</td>
 	    <td>isRunning : false <br> yInput : Less 0.01</td>
         <td>isRunning : false <br> yInput : Greater -0.01</td>
         <td>isRunning : false <br> xInput : Less 0.01</td>
         <td>isRunning : false <br> xInput : Greater -0.01</td>
 	</tr>
 	<tr align="center">
-	    <th>from Walk</th>
+	    <td>from Walk</td>
 	    <td>isWalking : false <br> yInput : Less 0.01</td>
         <td>isWalking : false <br> yInput : Greater -0.01</td>
         <td>isWalking : false <br> xInput : Less 0.01</td>
