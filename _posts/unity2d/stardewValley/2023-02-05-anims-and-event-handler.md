@@ -75,50 +75,50 @@ classes: wide
 Has Exit Time : false
 <br>Transition Duration in seconds : 0
 <br> Conditions :
-<body>
-    <table border="1" align="center">
-	<th>from idle</th>
-	<th>Up</th>
-    <th>Down</th>
-    <th>Right</th>
-    <th>Left</th>
-	<tr><!-- 첫번째 줄 시작 -->
-	    <td>to Run</td>
-	    <td>isRunning : true, yInput : Greater 0.01</td>
-        <td>isRunning : true, yInput : Less -0.01</td>
-        <td>isRunning : true, xInput : Greater 0.01</td>
-        <td>isRunning : true, xInput : Less -0.01</td>
-	</tr><!-- 첫번째 줄 끝 -->
-	<tr><!-- 두번째 줄 시작 -->
-	    <td>to Walk</td>
-	    <td>isWalking : true, yInput : Greater 0.01</td>
-        <td>isWalking : true, yInput : Less -0.01</td>
-        <td>isWalking : true, xInput : Greater 0.01</td>
-        <td>isWalking : true, xInput : Less -0.01</td>
-	</tr><!-- 두번째 줄 끝 -->
-    </table>
-    <table border="1" align="center">
+<table border="1">
+    <tr align="center">
+	    <th>from Idle</th>
+	    <th>Up</th>
+        <th>Down</th>
+        <th>Right</th>
+        <th>Left</th>
+    </tr>
+	<tr align="center">
+	    <th>to Run</th>
+	    <td>isRunning : true <br> yInput : Greater 0.01</td>
+        <td>isRunning : true <br> yInput : Less -0.01</td>
+        <td>isRunning : true <br> xInput : Greater 0.01</td>
+        <td>isRunning : true <br> xInput : Less -0.01</td>
+	</tr>
+	<tr align="center">
+	    <th>to Walk</th>
+	    <td>isWalking : true <br> yInput : Greater 0.01</td>
+        <td>isWalking : true <br> yInput : Less -0.01</td>
+        <td>isWalking : true <br> xInput : Greater 0.01</td>
+        <td>isWalking : true <br> xInput : Less -0.01</td>
+	</tr>
+</table>
+    <table border="1">
 	<th>to Idle</th>
 	<th>Up</th>
     <th>Down</th>
     <th>Right</th>
     <th>Left</th>
-	<tr><!-- 첫번째 줄 시작 -->
+	<tr>
 	    <td>from Run</td>
-	    <td>isRunning : false, yInput : Less 0.01</td>
-        <td>isRunning : false, yInput : Greater -0.01</td>
-        <td>isRunning : false, xInput : Less 0.01</td>
-        <td>isRunning : false, xInput : Greater -0.01</td>
+	    <td>isRunning : false <br> yInput : Less 0.01</td>
+        <td>isRunning : false <br> yInput : Greater -0.01</td>
+        <td>isRunning : false <br> xInput : Less 0.01</td>
+        <td>isRunning : false <br> xInput : Greater -0.01</td>
 	</tr><!-- 첫번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
 	    <td>from Walk</td>
-	    <td>isWalking : false, yInput : Less 0.01</td>
-        <td>isWalking : false, yInput : Greater -0.01</td>
-        <td>isWalking : false, xInput : Less 0.01</td>
-        <td>isWalking : false, xInput : Greater -0.01</td>
+	    <td>isWalking : false <br> yInput : Less 0.01</td>
+        <td>isWalking : false <br> yInput : Greater -0.01</td>
+        <td>isWalking : false <br> xInput : Less 0.01</td>
+        <td>isWalking : false <br> xInput : Greater -0.01</td>
 	</tr><!-- 두번째 줄 끝 -->
-    </table>
-</body>
+</table>
 
 </div>
 </details>
