@@ -76,30 +76,49 @@ Has Exit Time : false
 <br>Transition Duration in seconds : 0
 <br> Conditions :
 <body>
-    <table border="1">
-	<th>Idle -> Run, Walk</th>
+    <table border="1" align="center">
+	<th>from idle</th>
 	<th>Up</th>
     <th>Down</th>
     <th>Right</th>
     <th>Left</th>
 	<tr><!-- 첫번째 줄 시작 -->
-	    <td>Run</td>
-	    <td>isRunning:true, yInput:Greater 0.01</td>
-        <td>isRunning:true, yInput:Less -0.01</td>
-        <td>isRunning:true, xInput:Greater 0.01</td>
-        <td>isRunning:true, xInput:Less -0.01</td>
+	    <td>to Run</td>
+	    <td>isRunning : true, yInput : Greater 0.01</td>
+        <td>isRunning : true, yInput : Less -0.01</td>
+        <td>isRunning : true, xInput : Greater 0.01</td>
+        <td>isRunning : true, xInput : Less -0.01</td>
 	</tr><!-- 첫번째 줄 끝 -->
 	<tr><!-- 두번째 줄 시작 -->
-	    <td>Walk</td>
-	    <td>isWalking:true, yInput:Greater 0.01</td>
-        <td>isWalking:true, yInput:Less -0.01</td>
-        <td>isWalking:true, xInput:Greater 0.01</td>
-        <td>isWalking:true, xInput:Less -0.01</td>
+	    <td>to Walk</td>
+	    <td>isWalking : true, yInput : Greater 0.01</td>
+        <td>isWalking : true, yInput : Less -0.01</td>
+        <td>isWalking : true, xInput : Greater 0.01</td>
+        <td>isWalking : true, xInput : Less -0.01</td>
+	</tr><!-- 두번째 줄 끝 -->
+    </table>
+    <table border="1" align="center">
+	<th>to Idle</th>
+	<th>Up</th>
+    <th>Down</th>
+    <th>Right</th>
+    <th>Left</th>
+	<tr><!-- 첫번째 줄 시작 -->
+	    <td>from Run</td>
+	    <td>isRunning : false, yInput : Less 0.01</td>
+        <td>isRunning : false, yInput : Greater -0.01</td>
+        <td>isRunning : false, xInput : Less 0.01</td>
+        <td>isRunning : false, xInput : Greater -0.01</td>
+	</tr><!-- 첫번째 줄 끝 -->
+	<tr><!-- 두번째 줄 시작 -->
+	    <td>from Walk</td>
+	    <td>isWalking : false, yInput : Less 0.01</td>
+        <td>isWalking : false, yInput : Greater -0.01</td>
+        <td>isWalking : false, xInput : Less 0.01</td>
+        <td>isWalking : false, xInput : Greater -0.01</td>
 	</tr><!-- 두번째 줄 끝 -->
     </table>
 </body>
-
-- Run, Walk -> Idle
 
 </div>
 </details>
