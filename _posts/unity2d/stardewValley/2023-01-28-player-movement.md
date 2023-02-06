@@ -13,11 +13,11 @@ classes: wide
 
 [Link to Unity docs Rigidbody2D](https://docs.unity3d.com/kr/2020.3/Manual/class-Rigidbody2D.html){: .btn .btn--success}
 
-# 2.스크립트 추가 및 편집
+# 2.스크립트 생성 및 편집
 {: .notice--warning .text-center}
 
 <details>
-<summary>/Scripts/Misc/Settings.cs 추가</summary>
+<summary>/Scripts/Misc/Settings.cs 생성</summary>
 <div markdown="1">
 
 ```c#
