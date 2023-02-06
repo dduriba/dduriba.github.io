@@ -75,6 +75,7 @@ classes: wide
 Has Exit Time : false
 <br>Transition Duration in seconds : 0
 <br> Conditions :
+<body>
 <table border="1">
     <tr align="center">
 	    <th>from Idle</th>
@@ -121,6 +122,7 @@ Has Exit Time : false
         <td>isWalking : false <br> xInput : Greater -0.01</td>
 	</tr>
 </table>
+</body>
 
 </div>
 </details>
