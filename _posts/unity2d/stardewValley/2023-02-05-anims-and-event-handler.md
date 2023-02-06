@@ -77,21 +77,21 @@ Has Exit Time : false
 <br> Conditions :
 <body>
 <table border="1">
-    <tr>
+    <tr align="center">
 	    <td>from Idle</td>
 	    <td>Up</td>
         <td>Down</td>
         <td>Right</td>
         <td>Left</td>
     </tr>
-	<tr>
+	<tr align="center">
 	    <td>to Run</td>
 	    <td>isRunning : true , yInput : Greater 0.01</td>
         <td>isRunning : true , yInput : Less -0.01</td>
         <td>isRunning : true , xInput : Greater 0.01</td>
         <td>isRunning : true , xInput : Less -0.01</td>
 	</tr>
-	<tr>
+	<tr align="center">
 	    <td>to Walk</td>
 	    <td>isWalking : true , yInput : Greater 0.01</td>
         <td>isWalking : true , yInput : Less -0.01</td>
