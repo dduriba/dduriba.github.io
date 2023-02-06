@@ -51,3 +51,41 @@ classes: wide
 
 ## 2-3 Transition 추가 및 설정
 {: .notice--success}
+
+<details>
+<summary>1) State {R Click} -> Make Transition -> (Up) Base Layer {L Click} -> States...</summary>
+<div markdown="1">
+
+<img src="/img/unity2d/stardewValley/2023-02-05-animator-make-transition-1.png"/>
+
+<img src="/img/unity2d/stardewValley/2023-02-05-animator-make-transition-2.png"/>
+
+- Idle 의 4개의 State 마다 Run, Walk 의 8개의 State 로의 Transition 을 추가
+- Run, Walk 에선 같은 방향의 Idle State 로의 동일한 Transition 을 두 개씩 추가
+
+</div>
+</details>
+
+<details>
+<summary>2) Transition 설정</summary>
+<div markdown="1">
+
+<img src="/img/unity2d/stardewValley/2023-02-05-animator-transition-edit.png" style="zoom:50%;"/>
+
+```md
+- [ ] Has Exit Time
+- Transition Duration in seconds : 0
+- Conditions :
+  - Idle -> Run, Walk
+  |\|Up yInput:Greater 0.01|Down yInput:Less -0.01|Right xInput:Greater 0.01|Left xInput:Less -0.01|
+  |:---:|:---:|:---:|:---:|:---:|
+  |Run isRunning:true| | | | |
+  |Walk isWalking:true| | | | |
+  - Run, Walk -> Idle
+```
+
+</div>
+</details>
+
+# 3.
+{: .notice--warning .text-center}
