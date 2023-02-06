@@ -98,26 +98,28 @@ Has Exit Time : false
         <td>isWalking : true <br> xInput : Less -0.01</td>
 	</tr>
 </table>
-    <table border="1">
-	<th>to Idle</th>
-	<th>Up</th>
-    <th>Down</th>
-    <th>Right</th>
-    <th>Left</th>
-	<tr>
-	    <td>from Run</td>
+<table border="1">
+    <tr align="center">
+	    <th>to Idle</th>
+	    <th>Up</th>
+        <th>Down</th>
+        <th>Right</th>
+        <th>Left</th>
+    </tr>
+	<tr align="center">
+	    <th>from Run</th>
 	    <td>isRunning : false <br> yInput : Less 0.01</td>
         <td>isRunning : false <br> yInput : Greater -0.01</td>
         <td>isRunning : false <br> xInput : Less 0.01</td>
         <td>isRunning : false <br> xInput : Greater -0.01</td>
-	</tr><!-- 첫번째 줄 끝 -->
-	<tr><!-- 두번째 줄 시작 -->
-	    <td>from Walk</td>
+	</tr>
+	<tr align="center">
+	    <th>from Walk</th>
 	    <td>isWalking : false <br> yInput : Less 0.01</td>
         <td>isWalking : false <br> yInput : Greater -0.01</td>
         <td>isWalking : false <br> xInput : Less 0.01</td>
         <td>isWalking : false <br> xInput : Greater -0.01</td>
-	</tr><!-- 두번째 줄 끝 -->
+	</tr>
 </table>
 
 </div>
