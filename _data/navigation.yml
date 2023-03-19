@@ -12,12 +12,9 @@ main:
 docs:
   - title: "Category"
     children:
-      - title: "Mobile-Game Review"
-        url: /categories/#mobileGameReview
-        category: "mobileGameReview"
-      - title: "PC-Game Review"
-        url: /categories/#pcGameReview
-        category: "pcGameReview"
+      - title: "ISTQB"
+        url: /categories/#istqb
+        category: "istqb"
       - title: "Jekyll"
         url: /categories/#jekyll
         category: "jekyll"
