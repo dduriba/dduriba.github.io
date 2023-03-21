@@ -13,37 +13,67 @@ toc_sticky: true
 <summary>Keywords</summary>
 <div markdown="1">
 
-커버리지(coverage)
-디버깅(debugging)
-결함(defect)
-오류(error)
-장애(failure)
-품질(quality)
-품질 보증(quality assurance)
-근본 원인(root cause)
-테스트 분석(test analysis)
-테스트 베이시스(test basis)
-테스트 케이스(test case)
-테스트 완료(test completion)
-테스트 컨디션(test condition)
-테스트 제어(test control)
-테스트 데이터(test data)
-테스트 설계(test design)
-테스트 실행(test execution)
-테스트 구현(test implementation)
-테스트 모니터링(test monitoring)
-테스트 대상(test object)
-테스트 목적(test objective)
-테스트 오라클(test oracle)
-테스트 계획(test planning)
-테스트 절차(test procedure)
-테스트 프로세스(test process)
-테스트 스위트(test suite)
-테스팅(testing)
-테스트웨어(testware)
-추적성(traceability)
-밸리데이션(확인 validation)
-베리피케이션(검증 verification)
+- 커버리지(coverage)
+
+- 디버깅(debugging)
+
+- 결함(defect)
+
+- 오류(error)
+
+- 장애(failure)
+
+- 품질(quality)
+
+- 품질 보증(quality assurance)
+
+- 근본 원인(root cause)
+
+- 테스트 분석(test analysis)
+
+- 테스트 베이시스(test basis)
+
+- 테스트 케이스(test case)
+
+- 테스트 완료(test completion)
+
+- 테스트 컨디션(test condition)
+
+- 테스트 제어(test control)
+
+- 테스트 데이터(test data)
+
+- 테스트 설계(test design)
+
+- 테스트 실행(test execution)
+
+- 테스트 구현(test implementation)
+
+- 테스트 모니터링(test monitoring)
+
+- 테스트 대상(test object)
+
+- 테스트 목적(test objective)
+
+- 테스트 오라클(test oracle)
+
+- 테스트 계획(test planning)
+
+- 테스트 절차(test procedure)
+
+- 테스트 프로세스(test process)
+
+- 테스트 스위트(test suite)
+
+- 테스팅(testing)
+
+- 테스트웨어(testware)
+
+- 추적성(traceability)
+
+- 밸리데이션(확인 validation)
+
+- 베리피케이션(검증 verification)
 
 </div>
 </details>
