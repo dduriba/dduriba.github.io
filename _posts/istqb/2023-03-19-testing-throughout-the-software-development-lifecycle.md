@@ -90,10 +90,10 @@ toc_sticky: true
 # 2.2 테스트 레벨 (Test Levels)
 {: .notice--warning .text-center}
 
+<span style="color:green">(K2) 목적, 테스트 베이시스, 테스트 대상, 대표적 결함과 장애, 접근법과 책임의 관점에서 다양한 테스트 레벨을 비교할 수 있다.</span>
+
 ## 2.2.1 컴포넌트 테스팅 (Component Testing)
 {: .notice--success}
-
-<span style="color:green">(K2) 목적, 테스트 베이시스, 테스트 대상, 대표적 결함과 장애, 접근법과 책임의 관점에서 다양한 테스트 레벨을 비교할 수 있다.</span>
 
 ## 2.2.2 통합 테스팅 (Integration Testing)
 {: .notice--success}
@@ -107,20 +107,18 @@ toc_sticky: true
 # 2.3 테스트 유형 (Test Types)
 {: .notice--warning .text-center}
 
+<span style="color:green">(K2) 기능, 비기능, 화이트박스 테스팅을 비교할 수 있다.</span><br>
+<span style="color:green">(K1) 기능, 비기능, 화이트박스 테스트가 모든 테스트 레벨에서 이루어질 수 있음을 인지할 수 있다.</span><br>
+<span style="color:green">(K2) 확인 테스팅과 리그레션 테스팅의 목적을 비교할 수 있다.</span>
+
 ## 2.3.1 기능 테스팅 (Functional Testing)
 {: .notice--success}
-
-<span style="color:green">(K2) 기능, 비기능, 화이트박스 테스팅을 비교할 수 있다.</span>
 
 ## 2.3.2 비기능 테스팅 (Non-functional Testing)
 {: .notice--success}
 
-<span style="color:green">(K1) 기능, 비기능, 화이트박스 테스트가 모든 테스트 레벨에서 이루어질 수 있음을 인지할 수 있다.</span>
-
 ## 2.3.3 화이트박스 테스팅 (White-box Testing)
 {: .notice--success}
-
-<span style="color:green">(K2) 확인 테스팅과 리그레션 테스팅의 목적을 비교할 수 있다.</span>
 
 ## 2.3.4 변경 관련 테스팅 (Change-related Testing)
 {: .notice--success}
