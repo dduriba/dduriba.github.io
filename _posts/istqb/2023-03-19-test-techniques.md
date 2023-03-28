@@ -13,7 +13,35 @@ toc_sticky: true
 <summary>Keywords</summary>
 <div markdown="1">
 
-블랙박스 테스트 기법(black-box test technique), 경계값 분석(boundary value analysis), 체크리스트 기반 테스팅(checklist-based testing), 커버리지(coverage), 결정 커버리지(decision coverage), 결정 테이블 테스팅(decision table testing), 오류 추정(error guessing), 동등 분할(equivalence partitioning), 경험 기반 테스트 기법(experience-based test technique), 탐색적 테스팅(exploratory testing), 상태 전이 테스팅(state transition testing), 구문 커버리지(statement coverage), 테스트 기법(test technique), 유스케이스(use case testing), 화이트박스 테스트 기법(white- box test technique)
+- 블랙박스 테스트 기법(black-box test technique)
+
+- 경계값 분석(boundary value analysis)
+
+- 체크리스트 기반 테스팅(checklist-based testing)
+
+- 커버리지(coverage)
+
+- 결정 커버리지(decision coverage)
+
+- 결정 테이블 테스팅(decision table testing)
+
+- 오류 추정(error guessing)
+
+- 동등 분할(equivalence partitioning)
+
+- 경험 기반 테스트 기법(experience-based test technique)
+
+- 탐색적 테스팅(exploratory testing)
+
+- 상태 전이 테스팅(state transition testing)
+
+- 구문 커버리지(statement coverage)
+
+- 테스트 기법(test technique)
+
+- 유스케이스(use case testing)
+
+- 화이트박스 테스트 기법(white- box test technique)
 
 </div>
 </details>
