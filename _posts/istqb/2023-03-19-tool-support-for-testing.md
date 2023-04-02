@@ -9,7 +9,7 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-# 용어
+# ● 용어
 {: .notice .text-center}
 
 <details>
@@ -193,7 +193,7 @@ toc_sticky: true
 
 소프트웨어 개발 수명주기와 도구를 기술적으로, 유기적으로 통합하는 게 중요하다. 가령 운영이나 외부 공급업체를 담당하는 조직을 별도로 둔다. 테스트 실행 도구사용 경험, 사례와 조언은 Graham 2012 를 참조한다.
 
-# 샘플문제
+# ● 샘플문제
 {: .notice--danger .text-center}
 
 A - Q39. 다음 중 테스트 실행 도구의 가장 큰 이점은 무엇인가?
@@ -335,7 +335,7 @@ FL-6.1.1, K2
 </div>
 </details>
 
-# 자료참고
+# ● 자료참고
 {: .notice--info .text-center}
 
 [실러버스 본문](http://www.kstqb.org/board_skin/board_view.asp?idx=426&page=1&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
