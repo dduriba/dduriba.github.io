@@ -9,41 +9,6 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-<details>
-<summary>Keywords</summary>
-<div markdown="1">
-
-- 애드혹 리뷰(ad hoc review)
-
-- 체크리스트 기반 리뷰(checklist-based review)
-
-- 동적 테스팅(dynamic testing)
-
-- 공식 리뷰(formal review)
-
-- 비공식 리뷰(informal review)
-
-- 인스펙션(inspection)
-
-- 관점 기반 읽기(perspective-based reading)
-
-- 리뷰(review)
-
-- 역할 기반 리뷰(role-based review)
-
-- 시나리오 기반 리뷰(scenario-based review)
-
-- 정적 분석(static analysis)
-
-- 정적 테스팅(static testing)
-
-- 기술적 리뷰(technical review)
-
-- 워크스루(walkthrough)
-
-</div>
-</details>
-
 # 3.1 정적 테스팅 기초 (Static Testing Basics)
 {: .notice--warning .text-center}
 
@@ -305,4 +270,50 @@ ISO 표준(ISO/IEC 20246)에서 설명하고 있는 바와 같이 역할이 더 
 
 성공적인 리뷰에 대한 자세한 내용은 Gilb 1993, Wiegers 2002, van Veenendaal 2004 를 참조한다.
 
-[자료참고](http://www.kstqb.org/board_skin/board_list.asp?page=1&bbs_code=4&etc=ISTQB){: .btn .btn--warning}
+# ● 용어
+{: .notice .text-center}
+
+<details>
+<summary>Keywords</summary>
+<div markdown="1">
+
+- 애드혹 리뷰(ad hoc review)
+
+- 체크리스트 기반 리뷰(checklist-based review)
+
+- 동적 테스팅(dynamic testing)
+
+- 공식 리뷰(formal review)
+
+- 비공식 리뷰(informal review)
+
+- 인스펙션(inspection)
+
+- 관점 기반 읽기(perspective-based reading)
+
+- 리뷰(review)
+
+- 역할 기반 리뷰(role-based review)
+
+- 시나리오 기반 리뷰(scenario-based review)
+
+- 정적 분석(static analysis)
+
+- 정적 테스팅(static testing)
+
+- 기술적 리뷰(technical review)
+
+- 워크스루(walkthrough)
+
+</div>
+</details>
+
+# ● 샘플문제
+{: .notice--danger .text-center}
+
+# ● 자료참고
+{: .notice--info .text-center}
+
+[실러버스 본문](http://www.kstqb.org/board_skin/board_view.asp?idx=426&page=1&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[실러버스 용어](http://www.kstqb.org/board_skin/board_view.asp?idx=342&page=2&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[샘플문제](http://www.kstqb.org/board_skin/board_view.asp?idx=433&page=2&bbs_code=5&key=0&word=&etc=){: .btn .btn--info}
