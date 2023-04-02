@@ -9,75 +9,6 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-<details>
-<summary>Keywords</summary>
-<div markdown="1">
-
-- 커버리지(coverage)
-
-- 디버깅(debugging)
-
-- 결함(defect)
-
-- 오류(error)
-
-- 장애(failure)
-
-- 품질(quality)
-
-- 품질 보증(quality assurance)
-
-- 근본 원인(root cause)
-
-- 테스트 분석(test analysis)
-
-- 테스트 베이시스(test basis)
-
-- 테스트 케이스(test case)
-
-- 테스트 완료(test completion)
-
-- 테스트 컨디션(test condition)
-
-- 테스트 제어(test control)
-
-- 테스트 데이터(test data)
-
-- 테스트 설계(test design)
-
-- 테스트 실행(test execution)
-
-- 테스트 구현(test implementation)
-
-- 테스트 모니터링(test monitoring)
-
-- 테스트 대상(test object)
-
-- 테스트 목적(test objective)
-
-- 테스트 오라클(test oracle)
-
-- 테스트 계획(test planning)
-
-- 테스트 절차(test procedure)
-
-- 테스트 프로세스(test process)
-
-- 테스트 스위트(test suite)
-
-- 테스팅(testing)
-
-- 테스트웨어(testware)
-
-- 추적성(traceability)
-
-- 밸리데이션(확인 validation)
-
-- 베리피케이션(검증 verification)
-
-</div>
-</details>
-
 # 1.1 테스팅이란 무엇인가? What is Testing?
 {: .notice--warning .text-center}
 
@@ -429,4 +360,84 @@ toc_sticky: true
 개발자의 사고방식에도 테스터의 사고방식과 같은 요소가 일부 있을 수 있지만, 성공적인 개발자는 해결책을 설계하고 구축하는 데 더 관심을 기울이며 그런 해결책에 무슨 문제가 있는지에 대해 관심을 가지는 경우는 많지 않다. 또한, 확증 편향(confirmation bias) 때문에 자신이 만든 오류에 대해 인지하기 어렵다.<br>
 올바른 사고방식을 가지고 있다면, 개발자는 자신이 만든 코드를 직접 테스트할 수 있다. 소프트웨어 개발 수명주기 모델에 따라 테스터 구성 및 테스트 활동 방식이 다르다. 테스트 활동의 일부를 독립적인 테스터가 하면 결함 발견 효과를 높일 수 있는데, 이것은 특히 규모가 크고 복잡하며 안전이 필수적인 시스템일 경우 중요하다. 독립적인 테스터는 저자와는 다른 확증 편향을 가지기 때문에 작업 산출물 작성자(즉, 비즈니스 분석가, 제품 책임자, 설계자, 개발자 등)와는 다른 관점을 갖게 된다.
 
-[자료참고](http://www.kstqb.org/board_skin/board_list.asp?page=1&bbs_code=4&etc=ISTQB){: .btn .btn--warning}
+# ● 용어
+{: .notice .text-center}
+
+<details>
+<summary>Keywords</summary>
+<div markdown="1">
+
+- 커버리지(coverage)
+
+- 디버깅(debugging)
+
+- 결함(defect)
+
+- 오류(error)
+
+- 장애(failure)
+
+- 품질(quality)
+
+- 품질 보증(quality assurance)
+
+- 근본 원인(root cause)
+
+- 테스트 분석(test analysis)
+
+- 테스트 베이시스(test basis)
+
+- 테스트 케이스(test case)
+
+- 테스트 완료(test completion)
+
+- 테스트 컨디션(test condition)
+
+- 테스트 제어(test control)
+
+- 테스트 데이터(test data)
+
+- 테스트 설계(test design)
+
+- 테스트 실행(test execution)
+
+- 테스트 구현(test implementation)
+
+- 테스트 모니터링(test monitoring)
+
+- 테스트 대상(test object)
+
+- 테스트 목적(test objective)
+
+- 테스트 오라클(test oracle)
+
+- 테스트 계획(test planning)
+
+- 테스트 절차(test procedure)
+
+- 테스트 프로세스(test process)
+
+- 테스트 스위트(test suite)
+
+- 테스팅(testing)
+
+- 테스트웨어(testware)
+
+- 추적성(traceability)
+
+- 밸리데이션(확인 validation)
+
+- 베리피케이션(검증 verification)
+
+</div>
+</details>
+
+# ● 샘플문제
+{: .notice--danger .text-center}
+
+# ● 자료참고
+{: .notice--info .text-center}
+
+[실러버스 본문](http://www.kstqb.org/board_skin/board_view.asp?idx=426&page=1&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[실러버스 용어](http://www.kstqb.org/board_skin/board_view.asp?idx=342&page=2&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[샘플문제](http://www.kstqb.org/board_skin/board_view.asp?idx=433&page=2&bbs_code=5&key=0&word=&etc=){: .btn .btn--info}
