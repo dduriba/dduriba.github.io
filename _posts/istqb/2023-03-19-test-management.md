@@ -9,15 +9,6 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-<details>
-<summary>Keywords</summary>
-<div markdown="1">
-
-형상 관리(configuration management), 결함 관리(defect management), 결함 리포트(defect report), 시작 조건(entry criteria), 종료 조건(exit criteria), 제품 리스크(product risk), 프로젝트 리스크(project risk), 리스크(risk), 리스크 수준(risk level), 리스크 기반 테스팅(risk-based testing), 테스트 접근법(test approach), 테스트 제어(test control), 테스트 추정(test estimation), 테스트 관리자(test manager), 테스트 모니터링(test monitoring), 테스트 계획서(test plan), 테스트 계획(test planning), 테스트 진행 보고서(test progress report), 테스트 전략(test strategy), 테스트 요약 보고서(test summary report), 테스터(tester)
-
-</div>
-</details>
-
 # 5.1 테스트 조직 (Test Organization)
 {: .notice--warning .text-center}
 
@@ -386,4 +377,64 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
 결함 관리 도구를 사용하면 위 정보 중 일부는 자동으로 작성될 수 있다 (예: 고유 식별번호 자동 부여, 결함 상태 자동 할당, 결함 보고 상태 자동 업데이트). 정적 테스팅, 특히 리뷰에서 발견하는 결함은 다양한 방법(예: 리뷰 회의록)으로 문서화한다.<br>
 결함 보고서의 내용 관련 예제는 ISO 표준(ISO/IEC/IEEE 29119-3)을 참조한다. 해당 표준은 결함 보고서를 인시던트 보고서로 부른다.
 
-[자료참고](http://www.kstqb.org/board_skin/board_list.asp?page=1&bbs_code=4&etc=ISTQB){: .btn .btn--warning}
+# ● 용어
+{: .notice .text-center}
+
+<details>
+<summary>Keywords</summary>
+<div markdown="1">
+
+- 형상 관리(configuration management)
+
+- 결함 관리(defect management)
+
+- 결함 리포트(defect report)
+
+- 시작 조건(entry criteria)
+
+- 종료 조건(exit criteria)
+
+- 제품 리스크(product risk)
+
+- 프로젝트 리스크(project risk)
+
+- 리스크(risk)
+
+- 리스크 수준(risk level)
+
+- 리스크 기반 테스팅(risk-based testing)
+
+- 테스트 접근법(test approach)
+
+- 테스트 제어(test control)
+
+- 테스트 추정(test estimation)
+
+- 테스트 관리자(test manager)
+
+- 테스트 모니터링(test monitoring)
+
+- 테스트 계획서(test plan)
+
+- 테스트 계획(test planning)
+
+- 테스트 진행 보고서(test progress report)
+
+- 테스트 전략(test strategy)
+
+- 테스트 요약 보고서(test summary report)
+
+- 테스터(tester)
+
+</div>
+</details>
+
+# ● 샘플문제
+{: .notice--danger .text-center}
+
+# ● 자료참고
+{: .notice--info .text-center}
+
+[실러버스 본문](http://www.kstqb.org/board_skin/board_view.asp?idx=426&page=1&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[실러버스 용어](http://www.kstqb.org/board_skin/board_view.asp?idx=342&page=2&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[샘플문제](http://www.kstqb.org/board_skin/board_view.asp?idx=433&page=2&bbs_code=5&key=0&word=&etc=){: .btn .btn--info}
