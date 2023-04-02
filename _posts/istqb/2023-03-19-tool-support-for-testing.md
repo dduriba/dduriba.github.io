@@ -196,9 +196,47 @@ toc_sticky: true
 # 샘플문제
 {: .notice--danger .text-center}
 
-자료참고
+A - Q39. 다음 중 테스트 실행 도구의 가장 큰 이점은 무엇인가?
+- a. 리그레션 테스트 생성이 용이하다.
+- b. 테스트 자산의 버전 제어 유지가 용이하다.
+- c. 보안 테스팅을 위한 테스트 설계에 용이하다.
+- d. 리그레션 테스트 수행에 용이하다.
+
+<details>
+<summary>Answer</summary>
+<div markdown="1">
+
+FL-6.1.2 (K1) 테스트 자동화의 효과와 리스크를 식별할 수 있다.
+- a. 오답- 테스트 실행 도구는 리그레션 테스트를 생성할 때보다 실행할 때 더 이점이 있다.
+- b. 오답- 형상 관리 도구가 하는 일이다.
+- c. 오답- 보안 테스팅을 위해서는 특별한 도구가 필요하다.
+- d. 정답- 실러버스 6.1.2: 반복적인 수동 업무를 줄여 주어(예: 리그레션 테스트 수행, 환경 구축/해체 작업, 동일 테스트 데이터 재입력, 코딩표준 준수 확인) 시간을 절약하게 된다.
+
+</div>
+</details>
+
+A - Q40. 다음 테스트 도구 중 테스터보다는 개발자에게 보다 적합한 도구는?
+- a. 요구사항 관리 도구
+- b. 형상관리도구
+- c. 정적분석도구
+- d. 성능 테스팅 도구
+
+<details>
+<summary>Answer</summary>
+<div markdown="1">
+
+FL-6.1.1 (K2) 테스트 도구를 사용 목적과 지원하는 테스트 활동에 따라 구별할 수 있다.
+- a. 오답- 요구사항 관리 도구는 특별히 개발자에게 적합하지 않다.
+- b. 오답- 형상 관리 도구는 특별히 개발자에게 적합하지 않다.
+- c. 정답- 정적 분석 도구는 개발자에게 특히 적합하다.
+- d. 오답- 성능 테스팅 도구는 테스터보다 개발자에게 더 적합하지는 않다.
+
+</div>
+</details>
+
+# 자료참고
 {: .notice--info .text-center}
 
-[실러버스 본문](http://www.kstqb.org/board_skin/board_view.asp?idx=426&page=1&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--inverse}
-[실러버스 용어](http://www.kstqb.org/board_skin/board_view.asp?idx=342&page=2&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--inverse}
-[샘플문제](http://www.kstqb.org/board_skin/board_view.asp?idx=433&page=2&bbs_code=5&key=0&word=&etc=){: .btn .btn--inverse}
+[실러버스 본문](http://www.kstqb.org/board_skin/board_view.asp?idx=426&page=1&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[실러버스 용어](http://www.kstqb.org/board_skin/board_view.asp?idx=342&page=2&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[샘플문제](http://www.kstqb.org/board_skin/board_view.asp?idx=433&page=2&bbs_code=5&key=0&word=&etc=){: .btn .btn--info}
