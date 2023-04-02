@@ -9,43 +9,6 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-<details>
-<summary>Keywords</summary>
-<div markdown="1">
-
-- 블랙박스 테스트 기법(black-box test technique)
-
-- 경계값 분석(boundary value analysis)
-
-- 체크리스트 기반 테스팅(checklist-based testing)
-
-- 커버리지(coverage)
-
-- 결정 커버리지(decision coverage)
-
-- 결정 테이블 테스팅(decision table testing)
-
-- 오류 추정(error guessing)
-
-- 동등 분할(equivalence partitioning)
-
-- 경험 기반 테스트 기법(experience-based test technique)
-
-- 탐색적 테스팅(exploratory testing)
-
-- 상태 전이 테스팅(state transition testing)
-
-- 구문 커버리지(statement coverage)
-
-- 테스트 기법(test technique)
-
-- 유스케이스(use case testing)
-
-- 화이트박스 테스트 기법(white- box test technique)
-
-</div>
-</details>
-
 # 4.1 테스트 기법의 종류 (Categories of Test Techniques)
 {: .notice--warning .text-center}
 
@@ -228,4 +191,52 @@ toc_sticky: true
 체크리스트 기반 테스팅에서는 체크리스트에 기록된 테스트 컨디션을 커버하기 위해 테스터가 테스트를 설계, 구현, 실행한다. 테스터는 분석의 일환으로 새로운 체크리스트를 작성하거나 기존 체크리스트를 확장할 수 있지만, 기존 체크리스트를 수정하지 않고 그대로 사용하는 경우도 있다. 체크리스트는 경험, 사용자에게 무엇이 중요한지에 대한 지식 또는 소프트웨어가 실패하는 이유와 방법에 대한 이해를 기반으로 작성할 수 있다.<br>
 체크리스트는 기능 및 비기능 테스팅을 포함한 다양한 테스트 유형을 지원하기 위해 작성할 수 있다. 구체적인 테스트 케이스가 없는 경우, 체크리스트 기반 테스팅은 대략적인 지침과 일관성을 제공할 수 있다. 이런 체크리스트는 상위 수준으로 작성되기 때문에 실제 테스팅에서 어느 정도의 가변성이 있기 마련이며, 따라서 커버리지는 늘어날 수 있지만 재현 가능성은 줄어들 수 있다.
 
-[자료참고](http://www.kstqb.org/board_skin/board_list.asp?page=1&bbs_code=4&etc=ISTQB){: .btn .btn--warning}
+# ● 용어
+{: .notice .text-center}
+
+<details>
+<summary>Keywords</summary>
+<div markdown="1">
+
+- 블랙박스 테스트 기법(black-box test technique)
+
+- 경계값 분석(boundary value analysis)
+
+- 체크리스트 기반 테스팅(checklist-based testing)
+
+- 커버리지(coverage)
+
+- 결정 커버리지(decision coverage)
+
+- 결정 테이블 테스팅(decision table testing)
+
+- 오류 추정(error guessing)
+
+- 동등 분할(equivalence partitioning)
+
+- 경험 기반 테스트 기법(experience-based test technique)
+
+- 탐색적 테스팅(exploratory testing)
+
+- 상태 전이 테스팅(state transition testing)
+
+- 구문 커버리지(statement coverage)
+
+- 테스트 기법(test technique)
+
+- 유스케이스(use case testing)
+
+- 화이트박스 테스트 기법(white- box test technique)
+
+</div>
+</details>
+
+# ● 샘플문제
+{: .notice--danger .text-center}
+
+# ● 자료참고
+{: .notice--info .text-center}
+
+[실러버스 본문](http://www.kstqb.org/board_skin/board_view.asp?idx=426&page=1&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[실러버스 용어](http://www.kstqb.org/board_skin/board_view.asp?idx=342&page=2&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[샘플문제](http://www.kstqb.org/board_skin/board_view.asp?idx=433&page=2&bbs_code=5&key=0&word=&etc=){: .btn .btn--info}
