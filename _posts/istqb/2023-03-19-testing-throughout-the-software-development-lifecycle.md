@@ -9,71 +9,6 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-<details>
-<summary>Keywords</summary>
-<div markdown="1">
-
-- 인수 테스팅(acceptance testing)
-
-- 알파 테스팅(alpha testing)
-
-- 베타 테스팅(beta testing)
-
-- 변경관련 테스팅(change-related testing)
-
-- 상용 소프트웨어(COTS, Commercial Off-The-Shelf)
-
-- 컴포넌트 통합 테스팅(component integration testing)
-
-- 컴포넌트 테스팅(component testing)
-
-- 확인 테스팅(confirmation testing)
-
-- 계약 인수 테스팅(contractual acceptance testing)
-
-- 기능 테스팅(functional testing)
-
-- 영향도 분석(impact analysis)
-
-- 통합 테스팅(integration testing)
-
-- 유지보수 테스팅(maintenance testing)
-
-- 비기능 테스팅(non-functional testing)
-
-- 운영 인수 테스팅(operational acceptance testing)
-
-- 리그레션 테스팅(regression testing)
-
-- 규정 인수 테스팅(regulatory acceptance testing)
-
-- 순차적 개발 모델(sequential development model)
-
-- 시스템 통합 테스팅(system integration testing)
-
-- 시스템 테스팅(system testing)
-
-- 테스트 베이시스(test basis)
-
-- 테스트 케이스(test case)
-
-- 테스트 환경(test environment)
-
-- 테스트 레벨(test level)
-
-- 테스트 대상(test object)
-
-- 테스트 목적(test objective)
-
-- 테스트 유형(test type)
-
-- 사용자 인수 테스팅(user acceptance testing)
-
-- 화이트박스 테스팅(white-box testing)
-
-</div>
-</details>
-
 # 2.1 소프트웨어 개발 수명주기 모델 Software Development Lifecycle Models
 {: .notice--warning .text-center}
 
@@ -516,4 +451,80 @@ toc_sticky: true
 - 연관된 인원이 도메인이나 시스템 지식을 가지고 있지 않은 경우
 - 소프트웨어의 개발 중 유지보수성에 충분히 신경을 쓰지 못한 경우
 
-[자료참고](http://www.kstqb.org/board_skin/board_list.asp?page=1&bbs_code=4&etc=ISTQB){: .btn .btn--warning}
+# ● 용어
+{: .notice .text-center}
+
+<details>
+<summary>Keywords</summary>
+<div markdown="1">
+
+- 인수 테스팅(acceptance testing)
+
+- 알파 테스팅(alpha testing)
+
+- 베타 테스팅(beta testing)
+
+- 변경관련 테스팅(change-related testing)
+
+- 상용 소프트웨어(COTS, Commercial Off-The-Shelf)
+
+- 컴포넌트 통합 테스팅(component integration testing)
+
+- 컴포넌트 테스팅(component testing)
+
+- 확인 테스팅(confirmation testing)
+
+- 계약 인수 테스팅(contractual acceptance testing)
+
+- 기능 테스팅(functional testing)
+
+- 영향도 분석(impact analysis)
+
+- 통합 테스팅(integration testing)
+
+- 유지보수 테스팅(maintenance testing)
+
+- 비기능 테스팅(non-functional testing)
+
+- 운영 인수 테스팅(operational acceptance testing)
+
+- 리그레션 테스팅(regression testing)
+
+- 규정 인수 테스팅(regulatory acceptance testing)
+
+- 순차적 개발 모델(sequential development model)
+
+- 시스템 통합 테스팅(system integration testing)
+
+- 시스템 테스팅(system testing)
+
+- 테스트 베이시스(test basis)
+
+- 테스트 케이스(test case)
+
+- 테스트 환경(test environment)
+
+- 테스트 레벨(test level)
+
+- 테스트 대상(test object)
+
+- 테스트 목적(test objective)
+
+- 테스트 유형(test type)
+
+- 사용자 인수 테스팅(user acceptance testing)
+
+- 화이트박스 테스팅(white-box testing)
+
+</div>
+</details>
+
+# ● 샘플문제
+{: .notice--danger .text-center}
+
+# ● 자료참고
+{: .notice--info .text-center}
+
+[실러버스 본문](http://www.kstqb.org/board_skin/board_view.asp?idx=426&page=1&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[실러버스 용어](http://www.kstqb.org/board_skin/board_view.asp?idx=342&page=2&bbs_code=4&key=0&word=&etc=ISTQB){: .btn .btn--info}
+[샘플문제](http://www.kstqb.org/board_skin/board_view.asp?idx=433&page=2&bbs_code=5&key=0&word=&etc=){: .btn .btn--info}
