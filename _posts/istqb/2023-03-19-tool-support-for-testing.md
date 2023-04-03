@@ -34,7 +34,7 @@ toc_sticky: true
 어떤 도구는 명확하게 하나의 테스트 활동만을 지원하고 어떤 도구는 하나 이상의 활동을 지원하기도 한다. 본 실러버스에서 분류는 가장 밀접하게 관련 있는 활동을 기준으로 했다. 여러 도구가 함께 동작하도록 설계된 도구를 제공하는 공급자는 통합된 하나의 스위트를 제공할 수 있다. 도구 자체가 테스트의 실제 결과에 영향을 준다는 의미에서 침입적(Intrusive) 도구도 있다. 예를 들어 <u>성능 테스팅 도구가 실행하는 추가 명령 때문에 애플리케이션의 실제 반응 시간이 달라질 수 있고 코드 커버리지 도구를 사용하면 달성하는 코드 커버리지의 측정치가 달라질 수 있다. 이러한 침입적 도구를 사용해 달라진 결과를 <span style="background-color:rgb(207,228,207);">탐사 효과(Probe effect)</span>라고 부른다.</u><br>
 또 컴포넌트 테스트나 컴포넌트 통합 테스트 중 개발자에게 더 적절한 도구도 있다. 이런 도구는 아래에 “ 개발자 지원”으로 표기되어 있다.
 
-**테스팅 및 테스트웨어 <span style="background-color:rgb(207,228,207);">관리 지원 도구</span> (Tool support for management of testing and testware)**<br>
+**<span style="background-color:rgb(207,228,207);">테스팅 및 테스트웨어 관리 지원 도구</span> (Tool support for management of testing and testware)**<br>
 <u>관리 도구는 소프트웨어 수명주기 전체에 걸쳐 모든 테스팅 활동에 사용할 수 있다.</u><br>
 테스팅 및 테스트웨어 관리를 지원하는 도구는 다음과 같다:
 - <u>테스트 관리 도구와 애플리케이션 수명주기 관리 도구</u> (ALM, application lifecycle management tool)
@@ -43,30 +43,30 @@ toc_sticky: true
 - <u>형상 관리 도구</u>
 - <u>지속적인 통합 도구 <span style="background-color:rgb(237,220,195);">(개발자 지원)</span></u>
 
-**<span style="background-color:rgb(207,228,207);">정적</span> 테스팅 지원 도구 (Tool support for static testing)**<br>
+**<span style="background-color:rgb(207,228,207);">정적 테스팅 지원 도구</span> (Tool support for static testing)**<br>
 정적 테스팅 도구는 제 3 장의 정적 테스팅과 장점에 연관돼 있으며, 다음과 같은 도구가 있다:
 - <u>정적 분석 도구 <span style="background-color:rgb(237,220,195);">(개발자 지원)</span></u>
 
-**테스트 <span style="background-color:rgb(207,228,207);">설계 및 구현</span> 지원 도구 (Tool support for test design and implementation)**<br>
+**<span style="background-color:rgb(207,228,207);">테스트 설계 및 구현 지원 도구</span> (Tool support for test design and implementation)**<br>
 <u>테스트 설계 도구는 테스트 설계와 구현 단계에서 작업 산출물(예: 테스트 케이스, 테스트 프로시저, 테스트 데이터)을 유지보수하는 데 도움을 주며</u>, 다음과 같은 도구가 있다:
 - <u>모델 기반 테스팅 도구</u>
 - <u>테스트 데이터 준비 도구</u>
 
 테스트 설계와 구현을 지원하는 도구가 테스트 실행과 로깅을 지원하기도 하고 테스트 설계와 구현 도구가 테스트 실행과 로깅을 지원하는 다른 도구에 결과를 제공하기도 한다.
 
-**테스트 <span style="background-color:rgb(207,228,207);">실행 및 로깅</span> 지원 도구 (Tool support for test execution and logging)**<br>
+**<span style="background-color:rgb(207,228,207);">테스트 실행 및 로깅 지원 도구</span> (Tool support for test execution and logging)**<br>
 테스트 실행과 로깅 활동을 지원하는 도구는 다양하며 아래와 같은 종류가 있다:
 - <u>테스트 실행 도구 (예: 리그레션 테스트 수행)</u>
 - <u>커버리지 도구 (예: 요구사항 커버리지, 코드 커버리지 <span style="background-color:rgb(237,220,195);">(개발자 지원)</span>)</u>
 - <u>테스트 하네스 <span style="background-color:rgb(237,220,195);">(개발자 지원)</span></u>
 
-**<span style="background-color:rgb(207,228,207);">성능 측정과 동적 분석</span> 지원 도구 (Tool support for performance measurement and dynamic analysis)**<br>
+**<span style="background-color:rgb(207,228,207);">성능 측정과 동적 분석 지원 도구</span> (Tool support for performance measurement and dynamic analysis)**<br>
 <u>성능 측정 및 동적 분석 도구는 성능 및 부하 테스트 활동이 수동으로는 효과적으로 수행할 수 없기 때문에 이를 지원하는 데 필수적이다.</u><br>
 관련 도구의 예는 아래와 같다:
 - <u>성능 테스팅 도구</u>
 - <u>동적 분석 도구 <span style="background-color:rgb(237,220,195);">(개발자 지원)</span></u>
 
-**특수 목적 테스팅 지원 도구 (Tool support for specialized testing needs)**<br>
+**<span style="background-color:rgb(207,228,207);">특수 목적 테스팅 지원 도구</span> (Tool support for specialized testing needs)**<br>
 일반적인 테스트 프로세스를 지원하는 도구 외에 비기능적 특징(non-functional characteristics)을 커버하기 위한 보다 특정적인 테스팅을 지원하는 도구도 있다.
 
 ## 6.1.2 테스트 자동화의 효과와 리스크 (Benefits and Risks of Test Automation)
@@ -76,10 +76,10 @@ toc_sticky: true
 
 단순히 도구를 도입했다고 성공이 보장되는 건 아니다. 조직에 새로운 도구를 도입할 때마다 실질적이고 지속적인 가치를 전달하려면 노력이 필요하다. 테스팅에서 도구를 사용해 잠재적인 가치를 얻을 기회가 있는 반면 리스크도 존재한다. 특히 테스트 자동화로 자주 지칭하는 테스트 실행 도구가 특히 그렇다.<br>
 테스트 실행 지원 도구는 아래와 같은 <span style="background-color:rgb(207,228,207);">잠재적 가치</span>가 있다:
-- <u>반복적인 수동 업무 (예: 리그레션 테스트 수행, 환경 구축/해체 작업, 같은 테스트 데이터 재입력, 코딩 표준 준수 여부 점검 등)의 감소로 시간 절약</u>
-- <u>월등한 일관성과 반복성 제공 (예: 일관성 있는 테스트 데이터 생성, 같은 순서와 간격의 테스트 실행, 요구사항으로부터의 지속적인 테스트 도출)</u>
-- <u>보다 객관적인 평가 기준 제공 (예: 정적 테스팅 측정치, 커버리지)</u>
-- <u>테스팅 관련 정보에 접근이 쉬움 (예: 테스트 진척도, 결함율, 성능 통계와 그래프)</u>
+- <span style="color:blue">반복적인 수동 업무</span> (예: 리그레션 테스트 수행, 환경 구축/해체 작업, 같은 테스트 데이터 재입력, 코딩 표준 준수 여부 점검 등)<span style="color:blue">의 감소로 시간 절약</span>
+- <span style="color:blue">월등한 일관성과 반복성 제공</span> (예: 일관성 있는 테스트 데이터 생성, 같은 순서와 간격의 테스트 실행, 요구사항으로부터의 지속적인 테스트 도출)
+- <span style="color:blue">보다 객관적인 평가 기준 제공</span> (예: 정적 테스팅 측정치, 커버리지)
+- <span style="color:blue">테스팅 관련 정보에 접근이 쉬움</span> (예: 테스트 진척도, 결함율, 성능 통계와 그래프)
 
 테스팅 지원 도구는 아래와 같은 <span style="background-color:rgb(207,228,207);">잠재적인 리스크</span>가 있다:
 - 도구에 대한 비현실적인 기대 (예: 도구의 기능과 사용성)
@@ -104,21 +104,21 @@ toc_sticky: true
 
 **<span style="background-color:rgb(207,228,207);">테스트 실행 도구</span> (Test execution tools)**<br>
 <u>테스트 실행 도구는 자동화 테스트 스크립트를 사용해 테스트를 실행</u>한다. 보통 이런 종류의 도구에서 의미 있는 가치를 끌어내는 데는 상당한 노력이 필요하다.
-- <span style="background-color:rgb(237,220,195);">캡처 기반 테스트 접근법</span> (Capturing test approach): 테스터의 수동적인 조작을 녹화해 테스트를 캡처하는 것은 매력적으로 보일 수 있지만 이러한 접근 방식은 테스트 스크립트의 수가 많을 경우 적절하지 않다. 캡처한 스크립트마다 특정 데이터와 행위를 1 차원적으로 표현하고 있기 때문에 미처 예상하지 못한 이벤트가 발생하면 취약할 수 있으며, 시스템의 사용자 인터페이스가 시간이 지남에 따라 바뀌게 되면 스크립트도 그에 맞게 계속해서 유지보수를 해 줄 필요가 있다.
-- <span style="background-color:rgb(237,220,195);">데이터 주도 테스트 접근법</span> (Data-driven test approach): 이 접근법은 테스트 입력값과 기대 결과값을 보통 스프레드시트(spreadsheet)에 저장하고 더 많은 공통 스크립트를 활용해 해당 테스트 데이터를 읽어 들여 동일한 테스트 스크립트를 매번 다른 데이터로 반복적으로 실행한다.
-- <span style="background-color:rgb(237,220,195);">키워드 주도 테스트 접근법</span> (keyword-driven test approach): 이 접근법은 해야 할 행동을 설명하는 키워드(액션 워드라고도 함)를 공통 스크립트가 처리해 키워드 스크립트를 호출(call)한다. 키워드 스크립트는 연관된 테스트 데이터를 처리한다.
+- <span style="background-color:rgb(237,220,195);">캡처 기반 테스트 접근법</span> (Capturing test approach): 테스터의 수동적인 조작을 녹화해 테스트를 캡처하는 것은 매력적으로 보일 수 있지만 이러한 접근 방식은 테스트 스크립트의 수가 많을 경우 적절하지 않다. 캡처한 스크립트마다 특정 데이터와 행위를 1 차원적으로 표현하고 있기 때문에 미처 <u>예상하지 못한 이벤트가 발생하면 취약</u>할 수 있으며, <u>시스템의 사용자 인터페이스가 시간이 지남에 따라 바뀌게 되면 스크립트도 그에 맞게 계속해서 유지보수를 해 줄 필요</u>가 있다.
+- <span style="background-color:rgb(237,220,195);">데이터 주도 테스트 접근법</span> (Data-driven test approach): 이 접근법은 <u>테스트 입력값과 기대 결과값을 보통 스프레드시트(spreadsheet)에 저장</u>하고 <u>더 많은 공통 스크립트를 활용해 해당 테스트 데이터를 읽어 들여 동일한 테스트 스크립트를 매번 다른 데이터로 반복적으로 실행</u>한다.
+- <span style="background-color:rgb(237,220,195);">키워드 주도 테스트 접근법</span> (keyword-driven test approach): 이 접근법은 <u>해야 할 행동을 설명하는 키워드(액션 워드라고도 함)를 공통 스크립트가 처리해 키워드 스크립트를 호출(call)</u>한다. 키워드 스크립트는 연관된 테스트 데이터를 처리한다.
 
 <u>위에서 언급한 접근법은 스크립트 언어 전문가(테스터, 개발자 또는 테스트 자동화 전문가)가 필요</u>하다. <u>데이터 주도 또는 키워드 주도 테스트 접근법을 사용하는 경우 스크립팅 언어에 익숙하지 않은 테스터도 이렇게 사전 정의된 스크립트에 대한 테스트 데이터나 키워드를 작성함으로써 테스팅에 기여</u>할 수 있다. 사용한 스크립트 기술과 상관없이 각 테스트의 기대 결과와 실제 결과를 비교할 필요가 있다. 동적(테스트 실행 도중)으로 아니면 차후(실행 후) 비교할 수 있다.<br>
 데이터 주도와 키워드 주도 테스트 접근법에 대한 자세한 내용과 예는 (ISTQB-CTAL-TAE, Fewster 1999 및 Buwalda 2001)에 나와 있다.<br>
-모델 기반 테스팅(MBT, Model based testing) 도구는 기능 명세를 액티비티 다이어그램과 같은 모델의 형태로 표현할 수 있도록 해준다. 일반적으로 이 작업은 시스템 설계자가 수행한다. MBT 도구는 모델을 해석해 테스트 케이스 명세를 생성하고, 생성한 명세는 테스트 관리 도구에 저장하거나 테스트 실행 도구로 실행한다 (ISTQB- CTFL-MBT 참조).
+<u>모델 기반 테스팅(MBT, Model based testing) 도구는 기능 명세를 액티비티 다이어그램과 같은 모델의 형태로 표현</u>할 수 있도록 해준다. 일반적으로 이 작업은 <u>시스템 설계자가 수행</u>한다. MBT 도구는 모델을 해석해 테스트 케이스 명세를 생성하고, 생성한 명세는 테스트 관리 도구에 저장하거나 테스트 실행 도구로 실행한다 (ISTQB- CTFL-MBT 참조).
 
 **<span style="background-color:rgb(207,228,207);">테스트 관리 도구</span> (Test management tools)**<br>
 테스트 관리 도구는 아래와 같은 여러 이유로 <u>다른 도구나 스프레드시트와 연동</u>해야 하는 경우가 많다:
-- <span style="background-color:rgb(237,220,195);">필요한 정보를 생성</span>하기 위해
-- <span style="background-color:rgb(237,220,195);">요구사항 관리 도구에 저장된 요구사항과의 추적성을 지속적으로 유지</span>하기 위해
-- <span style="background-color:rgb(237,220,195);">형상 관리 도구에 저장된 테스트 대상 버전 정보와 연결</span>하기 위해
+- <span style="color:blue">필요한 정보를 생성</span>하기 위해
+- <span style="color:blue">요구사항 관리 도구에 저장된 요구사항과의 추적성을 지속적으로 유지</span>하기 위해
+- <span style="color:blue">형상 관리 도구에 저장된 테스트 대상 버전 정보와 연결</span>하기 위해
 
-이는 통합 도구(예: ALM, Application Lifecycle Management 애플리케이션 수명주기 관리)를 사용할 때 특히 중요하다. 애플리케이션 수명주기 관리 도구에는 조직 내 다양한 그룹에서 사용하는 기타 모듈(예: 프로젝트 일정과 예산 정보)뿐 아니라 테스트 관리 도구 모듈도 들어있다.
+이는 <u>통합 도구(예: ALM, Application Lifecycle Management 애플리케이션 수명주기 관리)를 사용할 때 특히 중요</u>하다. 애플리케이션 수명주기 관리 도구에는 조직 내 다양한 그룹에서 사용하는 기타 모듈(예: 프로젝트 일정과 예산 정보)뿐 아니라 테스트 관리 도구 모듈도 들어있다.
 
 # 6.2 도구의 효과적인 사용 (Effective use of tools)
 {: .notice--warning .text-center}
