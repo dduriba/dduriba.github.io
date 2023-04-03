@@ -129,19 +129,19 @@ toc_sticky: true
 <span style="color:green">(K1) 도구 선택의 주요 원칙을 식별할 수 있다.</span>
 
 <span style="background-color:rgb(207,228,207);">조직에 맞는 도구를 선택</span>하는데 <span style="background-color:rgb(237,220,195);">주요 고려 사항</span>은 다음과 같다:
-- 조직의 강점, 약점 등 성숙도 수준 평가
-- 도구의 지원으로 테스트 프로세스 개선 기회 식별
-- 테스트 대상이 이용하는 기술을 이해해 테스트 대상과 호환 가능한 도구 선택
-- 호환과 통합이 가능한 도구 확인을 위해, 조직에서 이미 사용하고 있는 빌드와 지속적인 통합 도구 이해
+- 조직의 강점, 약점 등 <span style="color:blue">성숙도 수준 평가</span>
+- 도구의 지원으로 <span style="color:blue">테스트 프로세스 개선 기회 식별</span>
+- 테스트 대상이 이용하는 기술을 이해해 <span style="color:blue">테스트 대상과 호환 가능한 도구 선택</span>
+- 호환과 통합이 가능한 도구 확인을 위해, 조직에서 <span style="color:blue">이미 사용하고 있는 빌드와 지속적인 통합 도구 이해</span>
 - 명확한 요구사항과 객관적인 기준에 맞는 도구 평가
 - 도구를 일정 기간 무료로 시험해 볼 수 있는지 여부
 - 공급자 평가(교육, 지원, 상용 제품) 또는 비 상업적(예: 오픈소스) 도구 지원 평가
-- 조직이 요구하는 도구 사용 코칭과 멘토 요구사항 식별
-- 도구를 직접 사용할 사람의 테스팅(테스트 자동화 포함) 역량을 고려한 훈련 수요 확인
+- 조직이 요구하는 도구 사용 <span style="color:blue">코칭과 멘토 요구사항 식별</span>
+- 도구를 직접 사용할 <span style="color:blue">사람의 테스팅</span>(테스트 자동화 포함) <span style="color:blue">역량을 고려한 훈련 수요 확인</span>
 - 다양한 라이센스 모델(예: 상용 제품이나 오픈소스)의 장단점 고려
-- 필요 시 구체적인 비즈니스 사례에 근거해 비용 대비 효과 추정
+- 필요 시 구체적인 비즈니스 사례에 근거해 <span style="color:blue">비용 대비 효과 추정</span>
 
-마지막으로 <span style="background-color:rgb(207,228,207);">사전 검증(proof-of-concept)을 진행</span>해야 한다. 사전 검증으로 테스트 대상 소프트웨어와 현재 인프라 환경에서 도구가 효과적으로 동작하는지 확인하고 필요한 경우에는 효율적으로 도구를 사용하는 데 필요한 요구사항을 식별한다.
+마지막으로 <span style="background-color:rgb(207,228,207);">사전 검증(proof-of-concept)을 진행</span>해야 한다. 사전 검증으로 <u>테스트 대상 소프트웨어와 현재 인프라 환경에서 도구가 효과적으로 동작하는지 확인</u>하고 <u>필요한 경우에는 효율적으로 도구를 사용하는 데 필요한 요구사항을 식별</u>한다.
 
 ## 6.2.2 도구 도입을 위한 파일럿 프로젝트 (Pilot Projects for Introducing a Tool into an Organization)
 {: .notice--success}
