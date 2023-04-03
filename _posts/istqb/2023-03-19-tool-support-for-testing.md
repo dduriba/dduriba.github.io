@@ -166,7 +166,7 @@ toc_sticky: true
 - 도구의 사용법에 맞게 <span style="color:blue">프로세스를 수정하고 개선</span>
 - 도구 사용자에게 <span style="color:blue">교육, 코칭, 멘토링 제공</span>
 - 도구사용에 필요한 <span style="color:blue">지침을 정의</span> (예: 사내 자동화 규정)
-- 실제 도구 사용에서 얻은 <span style="color:blue">사용법 정보의 수집 방법 구현</span>
+- 실제 도구 사용에서 얻은 <span style="color:(242,213,214);">사용법 정보의 수집 방법 구현</span>
 - 도구 사용 <span style="color:(237,220,195);">현황과 성과를 모니터링</span>
 - 특정 도구 사용자에게 지원 제공
 - 모든 사용자로부터 <span style="color:(207,228,207);">사용 후 교훈 수집</span>
