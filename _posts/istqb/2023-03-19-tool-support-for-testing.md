@@ -161,7 +161,7 @@ toc_sticky: true
 
 <span style="color:green">(K1) 조직의 테스트 도구에 대한 평가, 시행, 배포, 상시 지원의 성공 요인을 식별할 수 있다.</span>
 
-<span style="background-color:rgb(237,220,195);">조직에 도구의 평가, 구현, 배포, 지속적인 지원을 위한 성공 요인</span>은 다음과 같다:
+<span style="background-color:rgb(207,228,207);">조직에 도구의 평가, 구현, 배포, 지속적인 지원</span>을 위한 <span style="background-color:rgb(237,220,195);">성공 요인</span>은 다음과 같다:
 - 조직의 다른 부서에 <span style="color:blue">도구 사용 전파</span>를 점진적으로 진행
 - 도구의 사용법에 맞게 <span style="color:blue">프로세스를 수정하고 개선</span>
 - 도구 사용자에게 <span style="color:blue">교육, 코칭, 멘토링 제공</span>
