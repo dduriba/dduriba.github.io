@@ -367,67 +367,120 @@ toc_sticky: true
 <summary>Keywords</summary>
 <div markdown="1">
 
-- 커버리지(coverage)
+- 커버리지(coverage):<br>
+참조 : ISO 29119<br>
+유의어 : 테스트 커버리지(test coverage)<br>
+커버리지 항목이 식별되거나 테스트 스위트(test suite)에 의해 수행된 정도를 백분율로 표시한 것
 
-- 디버깅(debugging)
+- 디버깅(debugging): 소프트웨어의 장애 원인을 찾아 분석하고 제거하는 프로세스
 
-- 결함(defect)
+- 결함(defect):<br>
+참조 : IEEE 1044<br>
+유의어 : 버그(bug), 결점(fault)<br>
+요구사항이나 명세를 충족시키지 못하는 작업 산출물의 불완전함 또는 결점
 
-- 오류(error)
+- 오류(error):<br>
+참조 : ISO 24765<br>
+유의어 : 실수(mistake)<br>
+부정확한 결과를 만들어내는 인간의 행동
 
-- 장애(failure)
+- 장애(failure):<br>
+참조 : ISO 24765<br>
+지정된 범위 내에서 요구되는 기능을 컴포넌트나 시스템이 수행하지 못하는 경우
 
-- 품질(quality)
+- 품질(quality):<br>
+참조 : ISO 24765<br>
+컴포넌트나 시스템 또는 프로세스가 특정한 요구사항 및 사용자/고객의 요구와 기대를 충족시 키는 정도
 
-- 품질 보증(quality assurance)
+- 품질 보증(quality assurance):<br>
+참조 : ISO 9000<br>
+품질 관리의 일환으로, 품질 요구사항이 준수될 것이라는 신뢰를 제공하는 데 중점을 둠
 
-- 근본 원인(root cause)
+- 근본 원인(root cause):<br>
+참조 : CMMI<br>
+결함의 원인 중 제거되면 해당 결함유형 발생이 감소하거나 제거될 수 있는 원인
 
-- 테스트 분석(test analysis)
+- 테스트 분석(test analysis): 테스트 베이시스(test basis)를 분석하여 테스트 컨디션을 식별하는 활동
 
-- 테스트 베이시스(test basis)
+- 테스트 베이시스(test basis):<br>
+참조 : TMap<br>
+테스트 분석 및 설계의 기초로 사용되는 지식 체계
 
-- 테스트 케이스(test case)
+- 테스트 케이스(test case):<br>
+참조 : ISO 29119<br>
+테스트 컨디션을 기반으로 개발된 사전조건, 입력값, 행동(해당하는 경우), 기대 결과, 사후조건의 집합
 
-- 테스트 완료(test completion)
+- 테스트 완료(test completion):<br>
+참조 : ISO 29119<br>
+테스트 자산을 향후 이용 가능하게 하고, 테스트 환경을 만족스러운 상황으로 유지하고, 관련 이해당사자들에게 테스팅 결과를 전달하는 활동
 
-- 테스트 컨디션(test condition)
+- 테스트 컨디션(test condition):<br>
+유의어 : 테스트 요구사항(test requirement), 테스트 상황(test situation)<br>
+특정 테스트 목적 달성과 관련있는 테스트 베이시스(test basis)의 한 측면
 
-- 테스트 제어(test control)
+- 테스트 제어(test control):<br>
+연관 항목 : 테스트 관리(test management)<br>
+모니터링 결과 테스트 프로젝트가 계획에서 벗어나고 있다고 판단될 때, 다시 정상 궤도로 돌 려놓으려는 시정조치의 개발 및 적용과 관련된 테스트 관리 업무
 
-- 테스트 데이터(test data)
+- 테스트 데이터(test data):<br>
+참조 : ISO 29119<br>
+하나 이상의 테스트 케이스를 실행하기 위한 입력값이면서, 실행 사전조건을 만족하도록 생성 되거나 선택된 데이터
 
-- 테스트 설계(test design)
+- 테스트 설계(test design):<br>
+참조 : ISO 29119<br>
+연관 항목 : 테스트 설계 명세(test design specification)<br>
+테스트 컨디션으로부터 테스트 케이스를 유도하고 도출하는 활동
 
-- 테스트 실행(test execution)
+- 테스트 실행(test execution): 테스트 대상 컴포넌트나 시스템에 대한 테스트를 실행하고 실제 결과를 생성하는 프로세스
 
-- 테스트 구현(test implementation)
+- 테스트 구현(test implementation): 테스트 분석과 설계를 기반으로 테스트 실행에 필요한 테스트웨어를 준비하는 활동
 
-- 테스트 모니터링(test monitoring)
+- 테스트 모니터링(test monitoring):<br>
+연관 항목 : 테스트 관리(test management)<br>
+테스트 활동의 상황을 확인하고, 계획된 또는 예상된 상태와의 편차를 식별하고 상태를 이해 관계자에게 보고하는 테스트 관리 활동
 
-- 테스트 대상(test object)
+- 테스트 대상(test object):<br>
+연관 항목 : 테스트 항목(test item)<br>
+테스트할 컴포넌트나 시스템
 
-- 테스트 목적(test objective)
+- 테스트 목적(test objective): 테스트를 설계하고 실행하는 근거나 목적
 
-- 테스트 오라클(test oracle)
+- 테스트 오라클(test oracle):<br>
+참조 : Adrion<br>
+유의어 : 오라클(oracle)<br>
+테스트중인 시스템의 실제 결과와 비교할 기대 결과를 판단하기 위한 출처
 
-- 테스트 계획(test planning)
+- 테스트 계획(test planning): 테스트 계획서의 수립 또는 수정 활동
 
-- 테스트 절차(test procedure)
+- 테스트 절차(test procedure):<br>
+참조 : ISO 29119<br>
+연관 항목 : 테스트 스크립트(test script)<br>
+실행 순서로 나열된 테스트 케이스 순서. 초기 사전조건을 설정하는 데 필요한 모든 관련 동작과 실행 이후의 모든 마무리 활동까지 포함
 
-- 테스트 프로세스(test process)
+- 테스트 프로세스(test process): 테스트 계획, 테스트 모니터링 및 제어, 테스트 분석, 테스트 설계, 테스트 구현, 테스트 실행, 테스트 완료로 상호 연관되어 구성된 활동들의 집합
 
-- 테스트 스위트(test suite)
+- 테스트 스위트(test suite):<br>
+유의어 : 테스트 케이스 세트(test case set), 테스트 세트(test set)<br>
+특정 테스트 주기에서 실행해야 하는 테스트 케이스의 집합이나 테스트 절차
 
-- 테스팅(testing)
+- 테스팅(testing): 소프트웨어 제품 및 관련 작업산출물이 특정 요구사항을 충족하는지 확인하고, 목적에 부합하는지 여부를 입증하고, 결함을 발견하기 위해 정적/동적의 모든 계획, 준비, 평가와 관련된 수명주기 활동으로 구성된 프로세스
 
-- 테스트웨어(testware)
+- 테스트웨어(testware):<br>
+참조 : ISO 29119<br>
+테스팅에 대한 계획, 설계, 실행, 평가, 보고 등에 활용하기위한 목적으로 테스트 프로세스 동안 생성되는 작업 산출물
 
-- 추적성(traceability)
+- 추적성(traceability):<br>
+참조 : ISO 19506<br>
+연관 항목 : 수평적 추적성(horizontal traceability), 수직적 추적성(vertical traceability)<br>
+두 가지 이상의 작업 산출물 사이에 관계가 성립될 수 있는 정도
 
-- 밸리데이션(확인 validation)
+- 밸리데이션(확인 validation):<br>
+참조 : ISO 9000<br>
+의도된 특정 용도 또는 용도에 대한 요구사항이 충족되었음을 보증하기 위해 객관적 증거와 조사를 통해 확인하는 것
 
-- 베리피케이션(검증 verification)
+- 베리피케이션(검증 verification):<br>
+참조 : ISO 9000<br>
+특정 요구사항이 모두 구현되었는지를 객관적 증거와 조사를 통해 확인하는 것
 
 </div>
 </details>
