@@ -801,6 +801,55 @@ FL-1.5.2 (K2) 테스트 활동에 필요한 사고방식과 개발 활동에 필
 
 ---
 
+C - Q1. 품질이란 무엇인가?
+- a. 품질 요구사항을 충족하는지에 대한 자신감 제공에 중점을 두는 활동들
+- b. 컴포넌트나 시스템이 다양한 이해관계자의 명시적/묵시적 요구를 충족시키는 정도
+- c. 개인 또는 다른 컴포넌트/시스템이 권한의 유형과 수준에 적당한 접근성을 갖도록 컴포넌트/시스템이 얼마나 정보와 데이터를 보호하는지의 정도
+- d. 품질 활동이나 품질 문제로 인해 발생하는 총 비용으로, 예방 비용, 평가 비용, 내부 장애 비용, 외부 장애 비용으로 나뉘어짐
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+용어, K1
+- a. 오답- 품질 보증의 정의이다.
+- b. 정답- 품질의 정의이다.
+- c. 오답- 보안의 정의이다.
+- d. 오답- 품질 비용의 정의이다.
+
+</div>
+</details>
+
+---
+
+C - Q2. 다음 중 일반적인 테스트 목적에 해당하는 것은?
+- a. 결함 예방
+- b. 결함 수정
+- c. 실제 결과와 기대 결과의 비교
+- d. 장애 원인 분석
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+FL-1.1.1, K1
+- a. 정답- 테스팅의 목적 중 하나이다.
+- b. 오답- 이는 디버깅에 대한 설명이다.
+- c. 오답- 이는 테스트 프로세스의 테스트 실행 활동 중 하나이다.
+- d. 오답- 이는 디버깅 활동의 일부를 설명하는 것이다.
+
+</div>
+</details>
+
+---
+
+3. 옆 자리에서 울리는 전화 소리 때문에 개발자가 입력값의 상위 경계값을 확인하는 로직의 프로그램을 잘못 작성한다. 그 후 시스템 테스팅 수행 중에 테스터는 이 입력 필드에 잘못된 값이 입력되는 것을 발견한다.<br>
+상위 경계값 확인을 위해 잘못 코딩된 로직은 다음 중 무엇에 해당하는가?
+- a. 근본 원인
+- b. 장애
+- c. 오류
+- d. 결함
+
 <details>
 <summary><span style="color:red">Answer</span></summary>
 <div markdown="1">
@@ -811,6 +860,59 @@ FL-1.5.2 (K2) 테스트 활동에 필요한 사고방식과 개발 활동에 필
 </details>
 
 ---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
 
 # ● 자료참고
 {: .notice--info .text-center}
