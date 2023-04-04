@@ -56,8 +56,8 @@ toc_sticky: true
 
 **<span style="background-color:rgb(207,228,207);">테스트 실행 및 로깅 지원 도구</span> (Tool support for test execution and logging)**<br>
 테스트 실행과 로깅 활동을 지원하는 도구는 다양하며 아래와 같은 종류가 있다:
-- <span style="color:blue">테스트 실행 도구 (예: 리그레션 테스트 수행)</span>
-- <span style="color:blue">커버리지 도구</span> (예: 요구사항 커버리지, 코드 커버리지 <span style="background-color:rgb(237,220,195);">(개발자 지원)</span>)
+- <span style="color:blue">테스트 실행 도구</span> (예: 리그레션 테스트 수행)
+- <span style="color:blue">커버리지 도구</span> (예: <span style="color:blue">요구사항 커버리지</span>, <span style="color:blue">코드 커버리지</span> <span style="background-color:rgb(237,220,195);">(개발자 지원)</span>)
 - <span style="color:blue">테스트 하네스</span> <span style="background-color:rgb(237,220,195);">(개발자 지원)</span>
 
 **<span style="background-color:rgb(207,228,207);">성능 측정과 동적 분석 지원 도구</span> (Tool support for performance measurement and dynamic analysis)**<br>
@@ -295,10 +295,10 @@ B - Q39. 다음은 테스팅 활동과 테스팅 도구들이다:
 
 FL-6.1.1 (K2) 테스트 도구를 사용 목적과 지원하는 테스트 활동에 따라 구별할 수 있다.<br>
 실러버스(6.1.1)에 따라 테스트 활동과 도구를 연결하면 다음과 같다:
-1. 성능 측정 및 동적 분석
-2. 테스트 실행과 로깅
-3. 테스팅 및 테스트웨어 관리
-4. 테스트 설계
+1. 성능 측정 및 동적 분석 (b) 동적 분석 도구
+2. 테스트 실행과 로깅 (a) 코드 커버리지 도구
+3. 테스팅 및 테스트웨어 관리 (d) 결함 관리 도구
+4. 테스트 설계 (c) 테스트 데이터 생성 도구
 
 따라서 정답은 C 이다.
 
