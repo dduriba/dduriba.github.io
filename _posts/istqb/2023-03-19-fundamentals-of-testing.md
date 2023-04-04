@@ -618,6 +618,134 @@ FL-1.4.3 (K2) 테스트 프로세스를 지원하는 작업 산출물을 구별�
 
 ---
 
+B - Q1. 다음 중 테스트 케이스의 용어 정의를 설명하는 것은?
+A. 모든 값(value)이 명세 기반으로 동일하게 다루어질 것으로 예상되는 컴포넌트나 시스템 내 변수 값 영역의 부분집합(subset)
+B. 테스트 컨디션(test conditions)에 기초해 개발한 일련의 사전조건, 입력, 행동, 예상 결과 및 사후조건
+C. 테스팅 계획, 설계, 실행, 평가 및 보고에서 사용하기 위해 테스트 프로세스 동안 생산한 작업물 (work products)
+D. 테스트 중인 시스템의 실제 결과와 비교할 예상 결과를 결정하는 소스
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+FL-1.x (K1) 제 1 장 용어
+- A. 오답- 동등 파티션(equivalence partition)의 정의
+- B. 정답- 용어 사전에 나오는 테스트 케이스의 정의
+- C. 오답- 용어 사전에 나오는 테스트웨어(testware)의 정의
+- D. 오답- 용어 사전에 나오는 테스트 오라클(oracle)의 정의
+
+</div>
+</details>
+
+---
+
+B - Q2. 다음 중 테스팅의 일반적인 목적 중 하나인 것은?
+- A. 결함과 장애 발견
+- B. 프로젝트 계획이 요구대로 진행되는지 확인
+- C. 완전한 테스팅 보장
+- D. 실제 결과와 예상 결과의 비교
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+FL-1.1.1 (K1) 테스팅의 일반적인 목적을 식별할 수 있다.
+- A. 정답- 테스팅의 주요 목적 중 하나이다.
+- B. 오답- 프로젝트 계획서를 확인하는 것은 프로젝트 관리 활동이다.
+- C. 오답- 원칙 2 번과 모순: 완전한/철저한 테스팅은 불가능하다.
+- D. 오답- “실제 결과와 예상 결과의 비교”는 테스트 수행 활동이지 테스트 목표는 아니다.
+
+</div>
+</details>
+
+---
+
+B - Q3. 다음 중 자동차의 자동 주행속도 유지 시스템의 장애로 볼 수 있는 것은?
+A. 시스템 개발자가 잘라 붙이기(cut-and-paste) 후 변경된 부분에 대한 이름 수정을 잊어버렸다.
+B. 후진 시 경고음을 울리는 불필요한 코드가 시스템에 들어갔다.
+C. 라디오 볼륨을 키우거나 줄일 때 시스템이 설정 속도를 유지하지 못한다.
+D. 시스템의 설계 명세에 km/h 속도 단위가 잘못 표기되었다.
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+FL-1.2.3 (K2) 오류, 결함, 장애을 구별할 수 있다.
+- A. 오답- 개발자에 의한 실수의 한 예이다.
+- B. 오답- 결함의 예이다 (코드의 문제가 장애를 일으킬 수 있다).
+- C. 정답- 예상했던 기능과 다른 부분이다. 자동 주행속도 유지 시스템은 라디오의 영향을 받지 않아야 한다.
+- D. 오답- 결함의 예이다(명세서의 문제는 이후 구현 단계에서 장애를 일으킬 수 있다).
+
+</div>
+</details>
+
+---
+
+B - Q4. 다음 중 피트니스 추적기(fitness tracker) 앱의 근본원인이기 보다는 결함인 것은?
+- A. 요구사항 작성자가 피트니스 교육분야에 익숙하지 않아 사용자가 심장박동을 시간당 박동 수(bph: beat per hour)로 측정하길 원한다고 잘못 가정했다.
+- B. 스마트폰 인터페이스를 테스트하는 테스터가 상태 전이 테스팅을 배운 적이 없어 주요 결함을 놓쳤다.
+- C. GPS 기능에 들어간 잘못된 구성 변수(configuration variable)로 인해 일광절약시간 동안 위치 문제가 발생할 수 있다.
+- D. 인터페이스 설계자가 전에 웨어러블 기기를 사용해본 적이 없어서 사용자 태양광 반사 효과를 잘못 이해했다.
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+FL-1.2.4 (K2) 결함의 근본 원인과 그것의 영향을 구별할 수 있다.
+A. 오답- 요구사항 작성자의 피트니스 분야 경험이 적은 것은 근본 원인(root cause)이다.
+B. 오답- 테스터의 상태 전이 테스팅 교육 부족은 결함의 근본 원인 중 하나이다 (개발자가 결함을 초래했을 수 있다).
+C. 정답- 잘못된 구성 데이터는 피트니스 추적기 소프트웨어의 결점(결함)을 나타내며, 장애를 일으킬 수 있다.
+D. 오답- 웨어러블 장비의 사용자 인터페이스 설계에서 경험 부족은 결함 근본원인의 전형적인 예이다.
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
 <details>
 <summary><span style="color:red">Answer</span></summary>
 <div markdown="1">
