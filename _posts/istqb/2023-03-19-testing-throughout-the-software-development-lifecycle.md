@@ -41,10 +41,10 @@ toc_sticky: true
 
 <span style="background-color:rgb(207,228,207);">반복적 개발</span>은 <span style="background-color:rgb(237,220,195);">기능 집합을 종종 고정된 기간의 일련의 주기 안에서 같이 명시, 설계, 구축, 테스트할 때 발생</span>한다. <span style="background-color:rgb(237,220,195);">반복주기에는 전체 프로젝트 범위에 대한 변경이나 기존 반복주기 동안 개발한 기능에 대한 수정이 포함될 수 있다.</span> <span style="background-color:rgb(237,220,195);">각 반복주기에서는 전체 기능 세트 중 일부의 기능을 하는 소프트웨어를 만들어내고 소프트웨어의 기능은 반복주기 횟수가 늘어남에 따라 점차 늘어나게 되고, 완성된 소프트웨어가 배포되거나 개발이 중단될 때까지 진행</span>된다.<br>
 대표적인 예로는:
-- **<span style="background-color:rgb(237,220,195);">래셔널 통합 프로세스(Rational Unified Process)</span>**: <span style="background-color:rgb(242,213,214);">각 반복주기가 상당히 긴</span> 경우가 많으며(예: 2, 3 개월), 따라서 <span style="background-color:rgb(232,233,234);">기능 증분도 상당히 큼</span> (예: 2, 3 개의 연관된 기능 그룹)
-- **<span style="background-color:rgb(237,220,195);">스크럼(Scrum)</span>**: <span style="background-color:rgb(207,225,232);">각 반복주기가 짧은</span> 성향을 가지며(예: 몇 시간, 며칠, 또는 몇 주) 따라서 <span style="background-color:rgb(207,225,232);">기능 증분도 작음</span> (예: 몇 가지 개선 사항 혹은 2, 3 개의 신규 기능)
-- **<span style="background-color:rgb(237,220,195);">칸반(Kanban)</span>**: <span style="background-color:rgb(207,225,232);">반복주기 기간이 고정된 경우와 고정되지 않은 경우가 있으며, 각 반복주기는 완료 후 하나의 개선 사항이나 기능을 전달하거나 몇 개의 기능을 묶어 한번에 전달할 수도 있음</span>
-- **<span style="background-color:rgb(237,220,195);">나선형(Spiral)</span>**: <span style="background-color:rgb(207,225,232);">실험적인 증분을 생성, 일부는 차후 개발 과정에서 상당 부분 수정되거나 심한 경우 폐기되기도 함</span>
+- **<span style="background-color:rgb(237,220,195);">래셔널 통합 프로세스(Rational Unified Process)</span>**: <span style="background-color:rgb(242,213,214);">각 반복주기가 상당히 긴</span> 경우가 많으며(예: 2, 3 개월), 따라서 <span style="background-color:rgb(242,213,214);">기능 증분도 상당히 큼</span> (예: 2, 3 개의 연관된 기능 그룹)
+- **<span style="background-color:rgb(237,220,195);">스크럼(Scrum)</span>**: <span style="background-color:rgb(242,213,214);">각 반복주기가 짧은</span> 성향을 가지며(예: 몇 시간, 며칠, 또는 몇 주) 따라서 <span style="background-color:rgb(242,213,214);">기능 증분도 작음</span> (예: 몇 가지 개선 사항 혹은 2, 3 개의 신규 기능)
+- **<span style="background-color:rgb(237,220,195);">칸반(Kanban)</span>**: <span style="background-color:rgb(242,213,214);">반복주기 기간이 고정된 경우와 고정되지 않은 경우가 있으며, 각 반복주기는 완료 후 하나의 개선 사항이나 기능을 전달하거나 몇 개의 기능을 묶어 한번에 전달할 수도 있음</span>
+- **<span style="background-color:rgb(237,220,195);">나선형(Spiral)</span>**: <span style="background-color:rgb(242,213,214);">실험적인 증분을 생성, 일부는 차후 개발 과정에서 상당 부분 수정되거나 심한 경우 폐기되기도 함</span>
 
 이런 모델을 활용해 컴포넌트나 시스템을 개발하면 전반적인 개발 과정에서 테스트 레벨을 중첩하거나 반복적으로 적용하는 경우가 많아진다. 이상적으로는 각 기능의 배포 시점이 가까워짐에 따라 여러 테스트 레벨에서 테스트되는 것이다. 지속적인 전달 혹은 배포를 활용하는 팀도 있는데, 두 가지 모두 릴리스 파이프라인에 속한 여러 테스트 레벨에 대해 상당한 자동화 구현을 요구한다. 이런 방법을 활용하는 개발 방법론 중 다수는 자기 조직적인 팀(self-organizing teams)의 개념도 수용하고 있는데, 이 개념으로 인해 테스팅 작업을 편성하는 방법과 테스터와 개발자 간의 관계에도 변화가 일어날 수 있다.<br>
 이런 방법을 사용하면 점진적으로 커지는 시스템을 만들 수 있으며, 해당 시스템은 최종 사용자에게 기능별, 반복주기별, 아니면 좀 더 전통적인 주요 릴리스 단위로 릴리스할 수 있다. 소프트웨어 증분이 최종 사용자를 위한 릴리스인지의 여부와 상관없이 시스템이 커짐에 따라 리그레션 테스팅의 중요성은 증가하게 된다.<br>
@@ -56,10 +56,10 @@ toc_sticky: true
 
 <span style="color:green">(K1) 소프트웨어 개발 수명주기 모델을 프로젝트 정황과 제품 특성에 따라 수정해야 하는 이유를 식별할 수 있다.</span>
 
-<span style="background-color:rgb(207,228,207);">소프트웨어 개발 수명주기 모델은 프로젝트 정황과 제품 특성에 따라 선택하고 적용</span>해야 한다. <span style="background-color:rgb(237,220,195);">프로젝트의 목표, 개발 대상 제품 유형, 비즈니스 특성 (예: 출시 시기), 식별된 제품 및 프로젝트 리스크 등을 기반으로 적합한 소프트웨어 개발 모델을 선택할 필요</span>가 있다. 예를 들어, <span style="background-color:rgb(207,225,232);">내부에서만 사용하는 소규모 관리 시스템의 개발과 테스팅은 자동차 브레이크 제어 시스템과 같은 안전 최우선 시스템의 개발, 테스팅과는 달라야 한다. 또 다른 예로, 조직적 문화적 차이가 팀원 간의 의사소통에 걸림돌이 되고, 결국 개발 자체를 지연시키는 경우</span>가 있을 수도 있다.<br>
-<span style="background-color:rgb(207,228,207);">프로젝트의 정황</span>에 따라 <span style="background-color:rgb(237,220,195);">테스트 레벨과 테스트 활동을 조합하거나 조정</span>해야 할 경우가 있다. 예를 들어, <span style="background-color:rgb(207,225,232);">상용 소프트웨어(COTS, commercial off-the-shelf)를 큰 시스템에 통합하는 경우, 구매자가 상호운용성 테스팅을 시스템 통합 테스트 레벨(예: 인프라와 기타 시스템과의 통합)의 끝과 인수 테스트 레벨(사용자 인수 테스팅과 운영 인수 테스팅 또 기능과 비기능 테스팅)에서 실행할 수 있다.</span> 테스트 레벨에 관해서는 2.2 절을 참조하고, 테스트 유형에 관해서는 2.3 절을 참조하라.<br>
-또한, <span style="background-color:rgb(237,220,195);">소프트웨어 개발 수명주기 모델 자체도 조합</span>할 수 있다. 예를 들어, <span style="background-color:rgb(207,225,232);">백엔드 시스템과 그것의 통합에 대한 개발과 테스팅에는 V-모델을 사용하고, 프런트엔드 사용자 인터페이스(UI) 기능의 개발과 테스트에는 애자일 개발 모델을 사용할 수 있다. 프로젝트 초반에는 프로토타이핑(prototyping)을 사용하다 실험적인 단계가 끝나면 점진적 개발 모델을 적용하는 경우도 있다.</span><br>
-<span style="background-color:rgb(207,225,232);">다수의 다양한 오브젝트(object)로 구성된 사물 인터넷(IoT) 시스템에서는 보통 오브젝트 별로 다른 소프트웨어 개발 수명주기 모델을 적용한다. 각 개별 기기, 제품, 서비스가 각각 하나의 오브젝트가 될 수 있다. 그렇기 때문에 사물 인터넷 시스템용 제품 개발은 특히 어려울 수 있다. 또한, 이런 오브젝트에 적용하는 소프트웨어 개발 수명주기는 해당 오브젝트를 운영에 사용하기 위해 배포된 후, 즉 소프트웨어 개발 수명주기의 후반부(예: 운영, 업데이트, 해체 단계)를 더 강조하고 있다.</span><br>
+<span style="background-color:rgb(207,228,207);">소프트웨어 개발 수명주기 모델은 프로젝트 정황과 제품 특성에 따라 선택하고 적용</span>해야 한다. <span style="background-color:rgb(237,220,195);">프로젝트의 목표, 개발 대상 제품 유형, 비즈니스 특성 (예: 출시 시기), 식별된 제품 및 프로젝트 리스크 등을 기반으로 적합한 소프트웨어 개발 모델을 선택할 필요</span>가 있다. 예를 들어, <span style="background-color:rgb(242,213,214);">내부에서만 사용하는 소규모 관리 시스템의 개발과 테스팅은 자동차 브레이크 제어 시스템과 같은 안전 최우선 시스템의 개발, 테스팅과는 달라야 한다. 또 다른 예로, 조직적 문화적 차이가 팀원 간의 의사소통에 걸림돌이 되고, 결국 개발 자체를 지연시키는 경우</span>가 있을 수도 있다.<br>
+<span style="background-color:rgb(207,228,207);">프로젝트의 정황</span>에 따라 <span style="background-color:rgb(237,220,195);">테스트 레벨과 테스트 활동을 조합하거나 조정</span>해야 할 경우가 있다. 예를 들어, <span style="background-color:rgb(242,213,214);">상용 소프트웨어(COTS, commercial off-the-shelf)를 큰 시스템에 통합하는 경우, 구매자가 상호운용성 테스팅을 시스템 통합 테스트 레벨(예: 인프라와 기타 시스템과의 통합)의 끝과 인수 테스트 레벨(사용자 인수 테스팅과 운영 인수 테스팅 또 기능과 비기능 테스팅)에서 실행할 수 있다.</span> 테스트 레벨에 관해서는 2.2 절을 참조하고, 테스트 유형에 관해서는 2.3 절을 참조하라.<br>
+또한, <span style="background-color:rgb(237,220,195);">소프트웨어 개발 수명주기 모델 자체도 조합</span>할 수 있다. 예를 들어, <span style="background-color:rgb(242,213,214);">백엔드 시스템과 그것의 통합에 대한 개발과 테스팅에는 V-모델을 사용하고, 프런트엔드 사용자 인터페이스(UI) 기능의 개발과 테스트에는 애자일 개발 모델을 사용할 수 있다. 프로젝트 초반에는 프로토타이핑(prototyping)을 사용하다 실험적인 단계가 끝나면 점진적 개발 모델을 적용하는 경우도 있다.</span><br>
+<span style="background-color:rgb(242,213,214);">다수의 다양한 오브젝트(object)로 구성된 사물 인터넷(IoT) 시스템에서는 보통 오브젝트 별로 다른 소프트웨어 개발 수명주기 모델을 적용한다. 각 개별 기기, 제품, 서비스가 각각 하나의 오브젝트가 될 수 있다. 그렇기 때문에 사물 인터넷 시스템용 제품 개발은 특히 어려울 수 있다. 또한, 이런 오브젝트에 적용하는 소프트웨어 개발 수명주기는 해당 오브젝트를 운영에 사용하기 위해 배포된 후, 즉 소프트웨어 개발 수명주기의 후반부(예: 운영, 업데이트, 해체 단계)를 더 강조하고 있다.</span><br>
 <span style="background-color:rgb(207,228,207);">소프트웨어 개발 모델이 프로젝트 및 제품 특성의 맥락에 맞게 조정되어야 하는 이유</span>는 다음과 같다:
 - <span style="background-color:rgb(237,220,195);">시스템의 제품 리스크의 차이</span> (복잡하거나 간단한 프로젝트)
 - <span style="background-color:rgb(237,220,195);">많은 사업부가 프로젝트나 프로그램의 일부일 수 있다</span> (순차적 및 애자일 개발의 조합)
@@ -78,13 +78,13 @@ toc_sticky: true
 - <span style="background-color:rgb(237,220,195);">인수 테스팅</span>
 
 테스트 레벨은 다음과 같은 <span style="background-color:rgb(237,220,195);">특성을 기준으로 분류</span>된다:
-- <span style="background-color:rgb(207,225,232);">구체적인 목적</span>
-- <span style="background-color:rgb(207,225,232);">테스트 케이스를 도출하기 위해 참고하는 테스트 베이시스</span>
-- <span style="background-color:rgb(207,225,232);">테스트 대상(즉, 테스트 되고 있는 것)</span>
-- <span style="background-color:rgb(207,225,232);">일반적인 결함과 장애</span>
-- <span style="background-color:rgb(207,225,232);">구체적인 접근법과 역할</span>
+- <span style="background-color:rgb(242,213,214);">구체적인 목적</span>
+- <span style="background-color:rgb(242,213,214);">테스트 케이스를 도출하기 위해 참고하는 테스트 베이시스</span>
+- <span style="background-color:rgb(242,213,214);">테스트 대상(즉, 테스트 되고 있는 것)</span>
+- <span style="background-color:rgb(242,213,214);">일반적인 결함과 장애</span>
+- <span style="background-color:rgb(242,213,214);">구체적인 접근법과 역할</span>
 
-모든 테스트 레벨에는 <span style="background-color:rgb(237,220,195);">적절한 테스트 환경이 필요</span>하다. 예를 들어, <span style="background-color:rgb(207,225,232);">인수 테스팅에는 실제 사용 환경과 유사한 환경이 가장 이상적이지만, 컴포넌트 테스팅에서는 개발자가 자신의 개발 환경을 사용하는 경우가 대부분</span>이다.
+모든 테스트 레벨에는 <span style="background-color:rgb(237,220,195);">적절한 테스트 환경이 필요</span>하다. 예를 들어, <span style="background-color:rgb(242,213,214);">인수 테스팅에는 실제 사용 환경과 유사한 환경이 가장 이상적이지만, 컴포넌트 테스팅에서는 개발자가 자신의 개발 환경을 사용하는 경우가 대부분</span>이다.
 
 ## 2.2.1 컴포넌트 테스팅 (Component Testing)
 {: .notice--success}
