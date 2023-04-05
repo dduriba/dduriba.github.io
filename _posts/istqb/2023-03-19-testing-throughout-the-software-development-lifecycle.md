@@ -41,7 +41,7 @@ toc_sticky: true
 
 <span style="background-color:rgb(207,228,207);">반복적 개발</span>은 <span style="background-color:rgb(237,220,195);">기능 집합을 종종 고정된 기간의 일련의 주기 안에서 같이 명시, 설계, 구축, 테스트할 때 발생</span>한다. <span style="background-color:rgb(237,220,195);">반복주기에는 전체 프로젝트 범위에 대한 변경이나 기존 반복주기 동안 개발한 기능에 대한 수정이 포함될 수 있다.</span> <span style="background-color:rgb(237,220,195);">각 반복주기에서는 전체 기능 세트 중 일부의 기능을 하는 소프트웨어를 만들어내고 소프트웨어의 기능은 반복주기 횟수가 늘어남에 따라 점차 늘어나게 되고, 완성된 소프트웨어가 배포되거나 개발이 중단될 때까지 진행</span>된다.<br>
 대표적인 예로는:
-- **<span style="background-color:rgb(237,220,195);">래셔널 통합 프로세스(Rational Unified Process)</span>**: <span style="background-color:rgb(207,225,232);">각 반복주기가 상당히 긴</span> 경우가 많으며(예: 2, 3 개월), 따라서 <span style="background-color:rgb(207,225,232);">기능 증분도 상당히 큼</span> (예: 2, 3 개의 연관된 기능 그룹)
+- **<span style="background-color:rgb(237,220,195);">래셔널 통합 프로세스(Rational Unified Process)</span>**: <span style="background-color:rgb(242,213,214);">각 반복주기가 상당히 긴</span> 경우가 많으며(예: 2, 3 개월), 따라서 <span style="background-color:rgb(232,233,234);">기능 증분도 상당히 큼</span> (예: 2, 3 개의 연관된 기능 그룹)
 - **<span style="background-color:rgb(237,220,195);">스크럼(Scrum)</span>**: <span style="background-color:rgb(207,225,232);">각 반복주기가 짧은</span> 성향을 가지며(예: 몇 시간, 며칠, 또는 몇 주) 따라서 <span style="background-color:rgb(207,225,232);">기능 증분도 작음</span> (예: 몇 가지 개선 사항 혹은 2, 3 개의 신규 기능)
 - **<span style="background-color:rgb(237,220,195);">칸반(Kanban)</span>**: <span style="background-color:rgb(207,225,232);">반복주기 기간이 고정된 경우와 고정되지 않은 경우가 있으며, 각 반복주기는 완료 후 하나의 개선 사항이나 기능을 전달하거나 몇 개의 기능을 묶어 한번에 전달할 수도 있음</span>
 - **<span style="background-color:rgb(237,220,195);">나선형(Spiral)</span>**: <span style="background-color:rgb(207,225,232);">실험적인 증분을 생성, 일부는 차후 개발 과정에서 상당 부분 수정되거나 심한 경우 폐기되기도 함</span>
@@ -72,10 +72,10 @@ toc_sticky: true
 
 <span style="background-color:rgb(207,228,207);">테스트 레벨</span>이란 <span style="background-color:rgb(237,220,195);">함께 분류되고 관리되는 테스트 활동의 집합을 지칭</span>한다. 각 테스트 레벨은 1.4 절에서 설명하고 있는 활동으로 구성되며, 개별 단위(unit)나 컴포넌트에서부터 완성된 시스템이나 경우에 따라서는 시스템의 시스템까지 해당 개발 레벨의 소프트웨어와 관련해 실행되는 전체 테스트 프로세스의 하나의 사례이다. 테스트 레벨은 소프트웨어 개발 수명주기의 기타 활동과도 연관되어 있다.<br>
 이 실러버스에서 다루고 있는 테스트 레벨은 다음과 같다:
-- 컴포넌트 테스팅
-- 통합 테스팅
-- 시스템 테스팅
-- 인수 테스팅
+- <span style="background-color:rgb(237,220,195);">컴포넌트 테스팅</span>
+- <span style="background-color:rgb(237,220,195);">통합 테스팅</span>
+- <span style="background-color:rgb(237,220,195);">시스템 테스팅</span>
+- <span style="background-color:rgb(237,220,195);">인수 테스팅</span>
 
 테스트 레벨은 다음과 같은 <span style="background-color:rgb(237,220,195);">특성을 기준으로 분류</span>된다:
 - <span style="background-color:rgb(207,225,232);">구체적인 목적</span>
