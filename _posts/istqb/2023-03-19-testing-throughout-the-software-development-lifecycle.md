@@ -254,76 +254,76 @@ toc_sticky: true
 다음 4 개 절에서 각각을 설명하고 있다.
 
 **사용자 인수 테스팅 (UAT, User Acceptance Testing)**<br>
-시스템의 <span style="background-color:rgb(207,228,207);">사용자 인수 테스팅</span>은 <span style="background-color:rgb(237,220,195);">일반적으로 실제 또는 시뮬레이션된 운영 환경에서 예정된 사용자가 사용하기에 얼마나 적합한지 확인하는 데 관심을 둔다. 가장 중요한 목적은 사용자가 그들의 필요에 따라 요구사항을 충족하면서 최소한의 어려움, 비용, 리스크 등으로 비즈니스 프로세스를 수행할 수 있다는 자신감을 획득하는 것</span>이다.
+시스템의 <span style="background-color:rgb(207,228,207);">사용자 인수 테스팅</span>은 일반적으로 <span style="background-color:rgb(237,220,195);">실제 또는 시뮬레이션된 운영 환경에서 예정된 사용자가 사용하기에 얼마나 적합한지 확인하는 데 관심</span>을 둔다. <span style="color:blue">가장 중요한 목적은 사용자가 그들의 필요에 따라 요구사항을 충족하면서 최소한의 어려움, 비용, 리스크 등으로 비즈니스 프로세스를 수행할 수 있다는 자신감을 획득하는 것</span>이다.
 
 **운영 인수 테스팅 (OAT, Operational Acceptance Testing)**<br>
-<span style="background-color:rgb(207,228,207);">운영자 또는 시스템 관리 직원에 의해 수행되는 시스템 인수 테스팅</span>은<span style="background-color:rgb(237,220,195);">(시뮬레이션 된) 생산 환경에서 이루어지는 경우가 많다.</span> <span style="background-color:rgb(207,228,207);">테스트는 운영 측면에 집중돼 있으며, 다음을 포함할 수 있다</span>:
-- <span style="background-color:rgb(237,220,195);">백업 및 복원 테스팅</span>
-- <span style="background-color:rgb(237,220,195);">설치, 삭제, 업그레이드</span>
-- <span style="background-color:rgb(237,220,195);">긴급 복구 (disaster recovery)</span>
-- <span style="background-color:rgb(237,220,195);">사용자 관리</span>
-- <span style="background-color:rgb(237,220,195);">유지보수 작업</span>
-- <span style="background-color:rgb(237,220,195);">데이터 로딩 및 이관(migration) 작업</span>
-- <span style="background-color:rgb(237,220,195);">보안 취약점 확인</span>
-- <span style="background-color:rgb(237,220,195);">성능 테스팅</span>
+<span style="background-color:rgb(207,228,207);">운영자 또는 시스템 관리 직원에 의해 수행되는 시스템 인수 테스팅</span>은<span style="background-color:rgb(237,220,195);">(시뮬레이션 된) 생산 환경에서 이루어지는 경우가 많다.</span> <span style="background-color:rgb(237,220,195);">테스트는 운영 측면에 집중돼 있으며, 다음을 포함할 수 있다</span>:
+- <span style="background-color:rgb(242,213,214);">백업 및 복원 테스팅</span>
+- <span style="background-color:rgb(242,213,214);">설치, 삭제, 업그레이드</span>
+- <span style="background-color:rgb(242,213,214);">긴급 복구 (disaster recovery)</span>
+- <span style="background-color:rgb(242,213,214);">사용자 관리</span>
+- <span style="background-color:rgb(242,213,214);">유지보수 작업</span>
+- <span style="background-color:rgb(242,213,214);">데이터 로딩 및 이관(migration) 작업</span>
+- <span style="background-color:rgb(242,213,214);">보안 취약점 확인</span>
+- <span style="background-color:rgb(242,213,214);">성능 테스팅</span>
 
-운영 인수 테스팅의 가장 중요한 목적은 운영자 또는 시스템 관리자가 비록 예외적이고 어려운 조건에서라도 운영 환경에서 사용자를 위해 시스템을 정상적으로 유지할 수 있다는 자신감을 얻는 것이다.
+<span style="color:blue">운영 인수 테스팅의 가장 중요한 목적은 운영자 또는 시스템 관리자가 비록 예외적이고 어려운 조건에서라도 운영 환경에서 사용자를 위해 시스템을 정상적으로 유지할 수 있다는 자신감을 얻는 것</span>이다.
 
 **계약 및 규제 인수 테스팅 (Contractual and regulatory acceptance testing)**<br>
-계약 인수 테스팅은 주문 개발 소프트웨어의 생산을 위한 계약서에 명시된 인수 조건을 가지고 수행한다. 인수 조건은 모든 계약 당사자가 계약에 동의할 때 정의해야 한다. 계약 인수 테스팅은 사용자나 독립적인 테스터가 수행하는 경우가 많다.<br>
-규제 인수 테스팅은 정부, 법적, 안전 규제 등과 같이 준수해야 하는 모든 규제를 가지고 수행한다. 규제 인수 테스팅은 사용자나 독립적인 테스터가 수행하는 경우가 많으며, 규제 기관이 결과에 대한 실사나 감사를 진행하기도 한다.<br>
-계약 및 규제 인수 테스팅의 가장 중요한 목적은 계약이나 규제 준수에 대한 자신감의 획득이다.
+<span style="background-color:rgb(207,228,207);">계약 인수 테스팅</span>은 <span style="background-color:rgb(237,220,195);">주문 개발 소프트웨어의 생산을 위한 계약서에 명시된 인수 조건을 가지고 수행한다. 인수 조건은 모든 계약 당사자가 계약에 동의할 때 정의해야 한다. 계약 인수 테스팅은 사용자나 독립적인 테스터가 수행하는 경우가 많다.</span><br>
+<span style="background-color:rgb(207,228,207);">규제 인수 테스팅</span>은 <span style="background-color:rgb(237,220,195);">정부, 법적, 안전 규제 등과 같이 준수해야 하는 모든 규제를 가지고 수행한다. 규제 인수 테스팅은 사용자나 독립적인 테스터가 수행하는 경우가 많으며, 규제 기관이 결과에 대한 실사나 감사를 진행하기도 한다.</span><br>
+<span style="color:blue">계약 및 규제 인수 테스팅의 가장 중요한 목적은 계약이나 규제 준수에 대한 자신감의 획득</span>이다.
 
 **알파 및 베타 테스팅 (Alpha and beta testing)**<br>
-알파 및 베타 테스팅은 소프트웨어 제품을 시장에 출시하기 전에 기존 혹은 신규 사용자, 고객, 운영자 등으로부터 피드백을 받기 원하는 상용 소프트웨어 개발자가 사용하는 경우가 많다. <u>알파 테스팅은 개발 조직의 현장에서 개발팀이 아닌 신규 혹은 기존 고객이나 운영자, 독립적 테스트팀이 수행한다. 베타 테스팅은 신규 혹은 기존 고객 이나 운영자가 자신의 환경에서 수행한다.</u> 베타 테스팅은 알파 테스팅 후에 진행하거나 사전 알파 테스팅 없이 수행할 수도 있다.<br>
-알파 및 베타 테스팅의 목적 중 하나는 신규 혹은 기존 고객이나 운영자가 시스템을 일반적인 조건과 운영 환경에서 사용해 자신의 목적을 최소한의 어려움, 비용, 리스크 등으로 완수할 수 있다는 자신감을 획득하는 것이다. <u>또 다른 목적은 시스템을 사용할 조건 및 환경과 관련된 결함의 발견</u>일 수 있다. 특히, 이런 조건과 환경을 개발팀에서 동일하게 연출하기 어려운 경우 더 그러하다.
+<u>알파 및 베타 테스팅은 소프트웨어 제품을 시장에 출시하기 전에 기존 혹은 신규 사용자, 고객, 운영자 등으로부터 피드백을 받기 원하는 상용 소프트웨어 개발자가 사용하는 경우가 많다.</u> <span style="background-color:rgb(207,228,207);">알파 테스팅</span>은 <span style="background-color:rgb(237,220,195);">개발 조직의 현장에서 개발팀이 아닌 신규 혹은 기존 고객이나 운영자, 독립적 테스트팀이 수행</span>한다. <span style="background-color:rgb(207,228,207);">베타 테스팅</span>은 <span style="background-color:rgb(237,220,195);">신규 혹은 기존 고객 이나 운영자가 자신의 환경에서 수행한다. 베타 테스팅은 알파 테스팅 후에 진행하거나 사전 알파 테스팅 없이 수행할 수도 있다.</span><br>
+<span style="color:blue">알파 및 베타 테스팅의 목적 중 하나는 신규 혹은 기존 고객이나 운영자가 시스템을 일반적인 조건과 운영 환경에서 사용해 자신의 목적을 최소한의 어려움, 비용, 리스크 등으로 완수할 수 있다는 자신감을 획득하는 것이다. 또 다른 목적은 시스템을 사용할 조건 및 환경과 관련된 결함의 발견일 수 있다. 특히, 이런 조건과 환경을 개발팀에서 동일하게 연출하기 어려운 경우 더 그러하다.</span>
 
 **테스트 베이시스 (Test basis)**<br>
-모든 형태의 인수 테스팅의 테스트 베이시스로 활용할 수 있는 대표적인 작업 산출물은 다음과 같다:
-- 비즈니스 프로세스
-- 사용자 또는 비즈니스 요구사항
-- 규제, 법적 계약, 표준
-- 유스케이스 및 사용자 스토리
-- 시스템 요구사항
-- 시스템 또는 사용자 문서
-- 설치 절차
-- 리스크 분석 보고서
+<span style="background-color:rgb(207,228,207);">모든 형태의 인수 테스팅의 테스트 베이시스로 활용할 수 있는 대표적인 작업 산출물</span>은 다음과 같다:
+- <span style="background-color:rgb(237,220,195);">비즈니스 프로세스</span>
+- <span style="background-color:rgb(237,220,195);">사용자 또는 비즈니스 요구사항</span>
+- <span style="background-color:rgb(237,220,195);">규제, 법적 계약, 표준</span>
+- <span style="background-color:rgb(237,220,195);">유스케이스 및 사용자 스토리</span>
+- <span style="background-color:rgb(237,220,195);">시스템 요구사항</span>
+- <span style="background-color:rgb(237,220,195);">시스템 또는 사용자 문서</span>
+- <span style="background-color:rgb(237,220,195);">설치 절차</span>
+- <span style="background-color:rgb(237,220,195);">리스크 분석 보고서</span>
 
-추가로 운영 인수 테스팅의 테스트 케이스를 도출하기 위한 테스트 베이시스로 다음과 같은 작업 산출물이 사용될 수 있다:
-- 백업 및 복원 절차
-- 긴급 복구 절차
-- 비기능 요구사항
-- 운영 문서
-- 배포 및 설치 지침
-- 성능 목표
-- 데이터베이스 패키지
-- 보안 표준 또는 규정
+추가로 <span style="background-color:rgb(207,228,207);">운영 인수 테스팅의 테스트 케이스를 도출하기 위한 테스트 베이시스로 다음과 같은 작업 산출물이 사용될 수 있다</span>:
+- <span style="background-color:rgb(237,220,195);">백업 및 복원 절차</span>
+- <span style="background-color:rgb(237,220,195);">긴급 복구 절차</span>
+- <span style="background-color:rgb(237,220,195);">비기능 요구사항</span>
+- <span style="background-color:rgb(237,220,195);">운영 문서</span>
+- <span style="background-color:rgb(237,220,195);">배포 및 설치 지침</span>
+- <span style="background-color:rgb(237,220,195);">성능 목표</span>
+- <span style="background-color:rgb(237,220,195);">데이터베이스 패키지</span>
+- <span style="background-color:rgb(237,220,195);">보안 표준 또는 규정</span>
 
 **일반적인 테스트 대상 (Typical test objects)**<br>
-모든 유형의 인수 테스팅의 대표적인 테스트 대상은 다음과 같다:
-- 테스트 대상 시스템
-- 시스템 설정과 설정 데이터
-- 완전히 통합된 시스템의 비즈니스 프로세스
-- 복원 시스템이나 비즈니스 연속성 및 긴급 복구 테스팅을 위한 핫 사이트 (hot site)
-- 운영 및 유지보수 프로세스
-- 양식
-- 보고서
-- 기존 및 전환된 생산 데이터
+<span style="background-color:rgb(207,228,207);">모든 유형의 인수 테스팅의 대표적인 테스트 대상</span>은 다음과 같다:
+- <span style="background-color:rgb(237,220,195);">테스트 대상 시스템</span>
+- <span style="background-color:rgb(237,220,195);">시스템 설정과 설정 데이터</span>
+- <span style="background-color:rgb(237,220,195);">완전히 통합된 시스템의 비즈니스 프로세스</span>
+- <span style="background-color:rgb(237,220,195);">복원 시스템이나 비즈니스 연속성 및 긴급 복구 테스팅을 위한 핫 사이트 (hot site)</span>
+- <span style="background-color:rgb(237,220,195);">운영 및 유지보수 프로세스</span>
+- <span style="background-color:rgb(237,220,195);">양식</span>
+- <span style="background-color:rgb(237,220,195);">보고서</span>
+- <span style="background-color:rgb(237,220,195);">기존 및 전환된 생산 데이터</span>
 
 **일반적인 결함과 장애 (Typical defects and failures)**<br>
-모든 유형의 인수 테스팅의 대표적인 결함은 다음과 같다:
-- 비즈니스나 사용자 요구사항을 충족하지 못하는 시스템 워크플로우 (workflow)
-- 잘못 구현된 비즈니스 규칙
-- 계약 혹은 규제 요구사항을 충족하지 못하는 시스템
-- 보안 취약성, 많은 부하가 걸렸을 때 성능 효율성 저하, 지원 대상 플랫폼상에서의 잘못된 운영 등과 같은 비기능 장애
+<span style="background-color:rgb(207,228,207);">모든 유형의 인수 테스팅의 대표적인 결함</span>은 다음과 같다:
+- <span style="background-color:rgb(237,220,195);">비즈니스나 사용자 요구사항을 충족하지 못하는 시스템 워크플로우 (workflow)</span>
+- <span style="background-color:rgb(237,220,195);">잘못 구현된 비즈니스 규칙</span>
+- <span style="background-color:rgb(237,220,195);">계약 혹은 규제 요구사항을 충족하지 못하는 시스템</span>
+- <span style="background-color:rgb(237,220,195);">보안 취약성, 많은 부하가 걸렸을 때 성능 효율성 저하, 지원 대상 플랫폼상에서의 잘못된 운영 등과 같은 비기능 장애</span>
 
 **구체적인 접근법과 역할 (Specific approaches and responsibilities)**<br>
-인수 테스팅은 주로 고객, 비즈니스 사용자, 제품 소유자, 혹은 시스템 운영자가 담당하며, 기타 이해관계자가 참여하는 경우도 있다.<br>
+<span style="background-color:rgb(232,233,234);">인수 테스팅은 주로 고객, 비즈니스 사용자, 제품 소유자, 혹은 시스템 운영자가 담당하며, 기타 이해관계자가 참여하는 경우도 있다.<br>
 인수 테스팅은 순차적 개발 수명주기의 마지막 테스트 레벨로 여겨지는 경우가 많지만, 다음과 같이 다른 시점에서 이루어지는 경우도 있다:
 - 상용 소프트웨어 제품에 대한 인수 테스팅은 그것이 설치되거나 통합될 때 이루어진다.
 - 신규 기능 개선 사항에 대한 인수 테스팅은 시스템 테스팅 전에 이루어질 수 있다.
 
-반복적 개발에서는 프로젝트팀이 다양한 유형의 인수 테스팅을 각 반복주기 중간 혹은 끝에 편성할 수 있다. 대표적으로 인수 조건을 가지고 신규 기능을 검증하거나 신규 기능이 사용자의 요구를 만족하는지 확인하는 경우도 있다. 또한, 알파 테스트와 베타 테스트는 각 반복주기 끝에, 혹은 각 반복주기가 완료되고 나서, 또는 몇 개의 반복주기 후에 수행할 수도 있다. 사용자 인수 테스트, 운영 인수 테스트, 규제 인수 테스트, 계약 인수 테스트 등도 각 반복주기 끝에, 혹은 각 반복주기가 완료되고 나서, 또는 몇 개의 반복주기 후에 수행할 수 있다.
+반복적 개발에서는 프로젝트팀이 다양한 유형의 인수 테스팅을 각 반복주기 중간 혹은 끝에 편성할 수 있다. 대표적으로 인수 조건을 가지고 신규 기능을 검증하거나 신규 기능이 사용자의 요구를 만족하는지 확인하는 경우도 있다. 또한, 알파 테스트와 베타 테스트는 각 반복주기 끝에, 혹은 각 반복주기가 완료되고 나서, 또는 몇 개의 반복주기 후에 수행할 수도 있다. 사용자 인수 테스트, 운영 인수 테스트, 규제 인수 테스트, 계약 인수 테스트 등도 각 반복주기 끝에, 혹은 각 반복주기가 완료되고 나서, 또는 몇 개의 반복주기 후에 수행할 수 있다.</span>
 
 # 2.3 테스트 유형 (Test Types)
 {: .notice--warning .text-center}
