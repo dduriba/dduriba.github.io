@@ -571,7 +571,10 @@ toc_sticky: true
 연관 항목 : 오류 허용성(error-tolerance), 결점 허용성(fault-tolerance)<br>
 유효하지 않은 입력값 또는 스트레스 요소가 많은 환경 조건에서도 컴포넌트나 시스템이 올바르게 기능할 수 있는 정도
 
-
+- 부하 테스팅(load testing):<br>
+참조 : ISO 29119<br>
+연관 항목 : 성능 테스팅(performance testing), 스트레스 테스팅(stress testing)<br>
+예상되는 경부하(low), 중부하(typical), 최대부하(peak) 사이의 다양한 부하 조건에서 컴포넌트나 시스템의 동작을 평가하기 위해 수행하는 성능 테스팅의 종류
 
 </div>
 </details>
