@@ -23,17 +23,17 @@ toc_sticky: true
 <span style="background-color:rgb(207,228,207);">모든 소프트웨어 개발 수명주기 모델에 적용하기 좋은 테스팅의 특성</span>을 들면 다음과 같다:
 - <span style="background-color:rgb(237,220,195);">모든 개발 활동은 그에 상응하는 테스트 활동이 있다.</span>
 - <span style="background-color:rgb(237,220,195);">각 테스트 레벨은 그 레벨에 맞는 구체적인 목적을 가진다.</span>
-- <span style="background-color:rgb(237,220,195);">주어진 테스트 레벨에 맞는 테스트 분석과 설계는 상응하는 개발 활동이 이루어지고 있는 동안 시작해야 한다.</span>
+- <span style="background-color:rgb(237,220,195);">주어진 <span style="color:red">테스트 레벨에 맞는 테스트 분석과 설계는 상응하는 개발 활동이 이루어지고 있는 동안 시작</span>해야 한다.</span>
 - <span style="background-color:rgb(237,220,195);">테스터가 요구사항과 설계의 정의와 개선을 위한 대화에 참여하고, 작업 산출물(예: 요구사항, 설계, 사용자 스토리 등)의 초안이 나오는 즉시 리뷰에 참여한다.</span>
 
-<span style="background-color:rgb(237,220,195);">어떤 소프트웨어 개발 수명주기 모델을 선택하더라도 테스팅을 초기에 시작하면 시간과 비용을 절약할 수 있다는 테스트 원리에 따라, 테스트 활동은 수명주기 초반에 시작해야 한다.</span><br>
+<span style="background-color:rgb(237,220,195);">어떤 소프트웨어 개발 수명주기 모델을 선택하더라도 테스팅을 초기에 시작하면 시간과 비용을 절약할 수 있다는 테스트 원리에 따라, <span style="color:red">테스트 활동은 수명주기 초반에 시작</span>해야 한다.</span><br>
 이 실러버스에서는 대표적인 소프트웨어 <span style="background-color:rgb(207,228,207);">개발 수명주기 모델</span>을 아래와 같이 분류하고 있다:
 - <span style="background-color:rgb(237,220,195);">순차적(sequential) 개발 모델</span>
 - <span style="background-color:rgb(237,220,195);">반복적 점진적(iterative and incremental) 개발 모델</span>
 
 <span style="background-color:rgb(207,228,207);">순차적 개발 모델</span>에서는 소프트웨어 <span style="background-color:rgb(237,220,195);">개발 프로세스를 1 차원적 선형(linear)의 순차적 활동으로 설명</span>한다. 즉, <span style="background-color:rgb(237,220,195);">개발 프로세스의 모든 단계는 이전 단계가 완료될 때 시작</span>돼야 한다. 이론적으로는 각 단계가 서로 중첩하지 않지만, 실제로는 다음 단계에서 빨리 피드백을 받는 것이 유익하다.<br>
-<span style="background-color:rgb(207,228,207);">폭포수 모델(Waterfall model)</span>에서는, <span style="background-color:rgb(237,220,195);">개발 활동(예: 요구사항 분석, 설계, 코딩, 테스팅)이 순차적</span>으로 이루어진다. 이 모델에서의 <span style="background-color:rgb(237,220,195);">테스트 활동은 모든 개발 활동을 완료한 후</span>에 이루어진다.<br>
-폭포수 모델과는 다르게, <span style="background-color:rgb(207,228,207);">V-모델</span>은 <span style="background-color:rgb(237,220,195);">테스팅을 초기에 시작하면 좋다는 원리를 토대로 테스트 프로세스를 전반적인 개발 프로세스에 통합</span>한다. 또한, V-모델은 대응하는 <span style="background-color:rgb(237,220,195);">각 개발 단계에 테스트 레벨를 부여함으로써 조기 테스팅을 좀 더 적극적으로 구현</span>하고 있다 (테스트 레벨에 관한 설명은 2.2절 참조). 이 모델에서는 <span style="background-color:rgb(237,220,195);">각 테스트 레벨의 테스트 실행이 순차적으로 이루어지도록 하고 있지만 경우에 따라서는 중첩</span>되기도 한다.<br>
+<span style="background-color:rgb(237,220,195);">폭포수 모델(Waterfall model)</span>에서는, <span style="background-color:rgb(242,213,214);">개발 활동(예: 요구사항 분석, 설계, 코딩, 테스팅)이 순차적</span>으로 이루어진다. 이 모델에서의 <span style="background-color:rgb(242,213,214);">테스트 활동은 모든 개발 활동을 완료한 후</span>에 이루어진다.<br>
+폭포수 모델과는 다르게, <span style="background-color:rgb(237,220,195);">V-모델</span>은 <span style="background-color:rgb(242,213,214);">테스팅을 초기에 시작하면 좋다는 원리를 토대로 테스트 프로세스를 전반적인 개발 프로세스에 통합</span>한다. 또한, V-모델은 대응하는 <span style="background-color:rgb(242,213,214);">각 개발 단계에 테스트 레벨를 부여함으로써 조기 테스팅을 좀 더 적극적으로 구현</span>하고 있다 (테스트 레벨에 관한 설명은 2.2절 참조). 이 모델에서는 <span style="background-color:rgb(242,213,214);">각 테스트 레벨의 테스트 실행이 순차적으로 이루어지도록 하고 있지만 경우에 따라서는 중첩</span>되기도 한다.<br>
 <span style="background-color:rgb(207,228,207);">순차적 개발 모델</span>에서는 <span style="background-color:rgb(237,220,195);">완성된 기능 세트를 포함한 소프트웨어를 배포할 수 있지만, 일반적으로 이해관계자와 사용자에게 배포하기까지 몇 개월 또는 몇 년이 걸린다.</span><br>
 
 <span style="background-color:rgb(207,228,207);">점진적 개발</span>에서는 <span style="background-color:rgb(237,220,195);">요구사항 정의, 시스템의 설계, 구축, 테스팅을 조각으로 나눠서 진행</span>한다. 따라서, 소프트웨어 기능은 점진적으로 늘어나게 된다. 이런 <span style="background-color:rgb(237,220,195);">기능 증분(feature increments)의 크기는 다양하게 설정</span>할 수 있다. 일부 방법론에서는 증분을 크게 설정하며 다른 방법론에서는 작게 설정하기도 한다. 기능 증분은 사용자 인터페이스 화면이나 신규 문의 옵션에 생기는 변경 하나만큼 작을 수도 있다.
