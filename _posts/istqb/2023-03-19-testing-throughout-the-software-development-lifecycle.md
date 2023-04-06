@@ -200,7 +200,7 @@ toc_sticky: true
 - <span style="background-color:rgb(237,220,195);">결함이 상위 테스트 레벨이나 생산 단계로의 전이 방지</span>
 
 <u>시스템에 따라서는 데이터 품질 검증 또한 목적</u>일 수도 있다. <u>컴포넌트 테스팅이나 통합 테스팅과 마찬가지로, 자동 시스템 리그레션 테스트를 통해 어떤 부분의 수정으로 기존 기능이나 엔드-투-엔드 기능에 문제가 생기지 않았다는 자신감을 얻을 수 있는 경우가 있다.</u> <span style="background-color:rgb(207,228,207);">시스템 테스팅</span>은 <span style="background-color:rgb(237,220,195);">이해관계자가 릴리스 결정시 사용하는 정보를 제공하는 경우가 많다.</span> 시스템 테스팅을 통해 <span style="background-color:rgb(237,220,195);">법적, 규정 요구사항이나 표준을 만족시킬 수도 있다.</span>
-<u>테스트 환경은 최종 사용, 생산 환경과 부합하는 것이 가장 이상적</u>이다.
+<span style="background-color:rgb(237,220,195);">테스트 환경은 최종 사용, 생산 환경과 부합하는 것이 가장 이상적</span>이다.
 
 **테스트 베이시스 (Test basis)**<br>
 <span style="background-color:rgb(207,228,207);">시스템 테스팅의 테스트 베이시스로 사용할 수 있는 대표적인 작업 산출물</span>은 다음과 같다:
@@ -318,7 +318,7 @@ toc_sticky: true
 
 **구체적인 접근법과 역할 (Specific approaches and responsibilities)**<br>
 <span style="background-color:rgb(232,233,234);">인수 테스팅은 주로 고객, 비즈니스 사용자, 제품 소유자, 혹은 시스템 운영자가 담당하며, 기타 이해관계자가 참여하는 경우도 있다.<br>
-인수 테스팅은 순차적 개발 수명주기의 마지막 테스트 레벨로 여겨지는 경우가 많지만, 다음과 같이 다른 시점에서 이루어지는 경우도 있다:</span>
+<u>인수 테스팅은 순차적 개발 수명주기의 마지막 테스트 레벨로 여겨지는 경우가 많지만, 다음과 같이 다른 시점에서 이루어지는 경우도 있다</u>:</span>
 - <span style="background-color:rgb(232,233,234);">상용 소프트웨어 제품에 대한 인수 테스팅은 그것이 설치되거나 통합될 때 이루어진다.</span>
 - <span style="background-color:rgb(232,233,234);">신규 기능 개선 사항에 대한 인수 테스팅은 시스템 테스팅 전에 이루어질 수 있다.</span>
 
