@@ -60,9 +60,9 @@ toc_sticky: true
 또한, <span style="background-color:rgb(237,220,195);">소프트웨어 개발 수명주기 모델 자체도 조합</span>할 수 있다. 예를 들어, <span style="background-color:rgb(242,213,214);">백엔드 시스템과 그것의 통합에 대한 개발과 테스팅에는 V-모델을 사용하고, 프런트엔드 사용자 인터페이스(UI) 기능의 개발과 테스트에는 애자일 개발 모델을 사용할 수 있다. 프로젝트 초반에는 프로토타이핑(prototyping)을 사용하다 실험적인 단계가 끝나면 점진적 개발 모델을 적용하는 경우도 있다.</span><br>
 <span style="background-color:rgb(242,213,214);">다수의 다양한 오브젝트(object)로 구성된 사물 인터넷(IoT) 시스템에서는 보통 오브젝트 별로 다른 소프트웨어 개발 수명주기 모델을 적용한다. 각 개별 기기, 제품, 서비스가 각각 하나의 오브젝트가 될 수 있다. 그렇기 때문에 사물 인터넷 시스템용 제품 개발은 특히 어려울 수 있다. 또한, 이런 오브젝트에 적용하는 소프트웨어 개발 수명주기는 해당 오브젝트를 운영에 사용하기 위해 배포된 후, 즉 소프트웨어 개발 수명주기의 후반부(예: 운영, 업데이트, 해체 단계)를 더 강조하고 있다.</span><br>
 <span style="background-color:rgb(207,228,207);">소프트웨어 개발 모델이 프로젝트 및 제품 특성의 맥락에 맞게 조정되어야 하는 이유</span>는 다음과 같다:
-- <span style="background-color:rgb(237,220,195);">시스템의 제품 리스크의 차이</span> (복잡하거나 간단한 프로젝트)
-- <span style="background-color:rgb(237,220,195);">많은 사업부가 프로젝트나 프로그램의 일부일 수 있다</span> (순차적 및 애자일 개발의 조합)
-- <span style="background-color:rgb(237,220,195);">제품의 짧은 출시 기간</span> (테스트 레벨에서 테스트 유형의 통합 및 테스트 레벨 병합)
+- <span style="background-color:rgb(237,220,195);">시스템의 제품 리스크의 차이</span> <span style="background-color:rgb(242,213,214);">(복잡하거나 간단한 프로젝트)</span>
+- <span style="background-color:rgb(237,220,195);">많은 사업부가 프로젝트나 프로그램의 일부일 수 있다</span> <span style="background-color:rgb(242,213,214);">(순차적 및 애자일 개발의 조합)</span>
+- <span style="background-color:rgb(237,220,195);">제품의 짧은 출시 기간</span> <span style="background-color:rgb(242,213,214);">(테스트 레벨에서 테스트 유형의 통합 및 테스트 레벨 병합)</span>
 
 # 2.2 테스트 레벨 (Test Levels)
 {: .notice--warning .text-center}
