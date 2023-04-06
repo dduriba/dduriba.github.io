@@ -133,8 +133,8 @@ toc_sticky: true
 <span style="color:blue">통합 테스팅은 컴포넌트나 시스템 간의 상호작용에 초점을 맞춰서 진행한다.</span><br>
 <span style="background-color:rgb(207,228,207);">통합 테스팅의 목적</span>에는 다음과 같은 것들이 있다:
 - <span style="background-color:rgb(237,220,195);">리스크 완화</span>
-- <span style="background-color:rgb(237,220,195);">인터페이스의 기능과 비기능 동작이 설계 및 명세와 일치하는지 여부 판단</span>
-- <span style="background-color:rgb(237,220,195);">인터페이스 품질 수준에 대한 자신감 획득</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">인터페이스</span>의 기능과 비기능 동작이 설계 및 명세와 일치하는지 여부 판단</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">인터페이스</span> 품질 수준에 대한 자신감 획득</span>
 - <span style="background-color:rgb(237,220,195);">결함 발견</span> (결함은 인터페이스 자체 또는 컴포넌트나 시스템에 존재할 수 있다)
 - <span style="background-color:rgb(237,220,195);">다음 단계로의 결함 전이 방지</span>
 
@@ -441,7 +441,7 @@ toc_sticky: true
 
 <span style="color:green">(K2) 유지보수 테스팅에서 영향도 분석의 역할을 기술할 수 있다.</span>
 
-영향도 분석은 유지보수 릴리스에 포함된 변경을 평가해서, 의도한 결과뿐만 아니라 변경으로 인해 발생할 수 있는 예견된 부작용을 식별하고, 변경의 영향을 받는 시스템 영역을 식별하기 위해 실시한다. 영향도 분석은 변경이 기존 테스트에 미치는 영향을 식별하기 위해 사용할 수 있다. 부작용과 영향 받은 시스템 영역에 대해서는, 필요한 경우 변경의 영향을 받는 기존 테스트를 업데이트해서 리그레션 테스트를 수행할 필요가 있다.<br>
+<span style="background-color:rgb(207,228,207);">영향도 분석</span>은 <span style="background-color:rgb(237,220,195);">유지보수 릴리스에 포함된 변경을 평가해서, 의도한 결과뿐만 아니라 변경으로 인해 발생할 수 있는 예견된 부작용을 식별하고, 변경의 영향을 받는 시스템 영역을 식별하기 위해 실시</span>한다. 영향도 분석은 <span style="background-color:rgb(237,220,195);">변경이 기존 테스트에 미치는 영향을 식별하기 위해 사용</span>할 수 있다. 부작용과 영향 받은 시스템 영역에 대해서는, <u>필요한 경우 변경의 영향을 받는 기존 테스트를 업데이트해서 리그레션 테스트를 수행</u>할 필요가 있다.<br>
 시스템의 다른 영역에 발생할 수 있는 영향을 기반으로 변경을 적용하기 전에 영향도 분석을 실시할 수 있으며, 이런 경우 변경을 적용할지 여부를 판단하는 데 도움을 준다.<br>
 다음과 같은 상황에서는 영향도 분석이 어려울 수 있다:
 - 명세(예: 비즈니스 요구사항, 사용자 스토리, 아키텍처)가 너무 오래 됐거나 없는 경우
