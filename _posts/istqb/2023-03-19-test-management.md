@@ -432,6 +432,301 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
 # ● 샘플문제
 {: .notice--danger .text-center}
 
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
+---
+
+<details>
+<summary><span style="color:red">Answer</span></summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
+
 # ● 자료참고
 {: .notice--info .text-center}
 
