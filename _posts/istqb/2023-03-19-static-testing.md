@@ -111,7 +111,7 @@ ISO 표준(ISO/IEC 20246)에 역할과 리뷰 기법 포함, 작업 산출물에
 - <span style="background-color:rgb(242,213,214);">리뷰한 작업 산출물에서 발견한 결함 수정 (일반적으로 저자가 수정)</span>
 - <span style="background-color:rgb(242,213,214);">결함 정보를 적절한 사람이나 팀과 공유 (리뷰한 작업 산출물과 연관된 다른 작업 산출물이 있는 경우)</span>
 - <span style="background-color:rgb(242,213,214);">필요한 경우 주석 작성자(comment originator)의 동의를 포함해 (공식적인 리뷰 유형인 경우) 업데이트 된 결함 상태 기록</span>
-- <span style="background-color:rgb(242,213,214);">메트릭 수집 (공식적인 리뷰 유형인 경우)</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">메트릭 수집</span> (공식적인 리뷰 유형인 경우)</span>
 - <span style="background-color:rgb(242,213,214);">종료 조건의 충족여부 확인 (공식적인 리뷰 유형인 경우)</span>
 - <span style="background-color:rgb(242,213,214);">종료 조건이 충족되면 해당 작업 산출물 인수</span>
 
@@ -167,8 +167,8 @@ ISO 표준(ISO/IEC 20246)에서 설명하고 있는 바와 같이 역할이 더 
 리뷰에서 발견되는 결함 유형은 특히 리뷰 중인 작업 산출물에 따라 다르다 (각기 다른 작업 산출물의 리뷰에서 찾을 수 있는 결함의 예는 3.1.3 을, 공식 인스펙션에 대한 정보는 Gilb 1993 참조).<br>
 리뷰는 다양한 특성에 따라 분류될 수 있다. 다음은 가장 일반적인 4가지 <span style="background-color:rgb(207,228,207);">리뷰 유형과 각각의 특성</span>을 나열한 것이다:
 
-**<span style="background-color:rgb(237,220,195);">비공식 리뷰 (Informal review)**<br>
-**(예: 버디 체크 (buddy check), 페어링 (pairing), 짝 리뷰 (pair review))</span>**
+**<span style="background-color:rgb(237,220,195);">비공식 리뷰 (Informal review)<br>
+(예: 버디 체크 (buddy check), 페어링 (pairing), 짝 리뷰 (pair review))</span>**
 - <span style="background-color:rgb(242,213,214);">주요 목적: 잠재적 결함 발견</span>
 - <span style="background-color:rgb(242,213,214);">기타 목적: 새로운 아이디어나 해결책 도출, 소소한 문제의 빠른 해결</span>
 - <span style="background-color:rgb(242,213,214);">공식 (문서화된) 프로세스를 기반으로 하지 않음</span>
