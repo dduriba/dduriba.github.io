@@ -129,20 +129,20 @@ ISO 표준(ISO/IEC 20246)에 역할과 리뷰 기법 포함, 작업 산출물에
 - <span style="background-color:rgb(242,213,214);">리뷰 대상 작업 산출물 결함 수정 (필요한 경우)</span>
 
 **<span style="background-color:rgb(237,220,195);">관리자 (Management)</span>**
-- <span style="background-color:rgb(242,213,214);">리뷰 계획 담당</span>
-- <span style="background-color:rgb(242,213,214);">리뷰 실행 결정</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">리뷰 계획 담당</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">리뷰 실행 결정</span></span>
 - <span style="background-color:rgb(242,213,214);">인력, 예산, 시간 할당</span>
 - <span style="background-color:rgb(242,213,214);">진행 비용 대비 효과 모니터링</span>
-- <span style="background-color:rgb(242,213,214);">결과가 만족스럽지 않은 경우 제어 결정(control decisions) 실행</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">결과가 만족스럽지 않은 경우 제어 결정(control decisions) 실행</span></span>
 
 **<span style="background-color:rgb(237,220,195);">촉진자 (Facilitator, 종종 중재자(moderator)로 부름)</span>**
-- <span style="background-color:rgb(242,213,214);">리뷰 회의 진행 시 효과적 회의 진행 보장</span>
+- <span style="background-color:rgb(242,213,214);">리뷰 회의 진행 시 <span style="color:red">효과적 회의 진행 보장</span></span>
 - <span style="background-color:rgb(242,213,214);">필요한 경우 다양한 관점들에 대한 중재</span>
-- <span style="background-color:rgb(242,213,214);">많은 경우 리뷰의 성공 여부에 결정적인 역할을 하는 사람</span>
+- <span style="background-color:rgb(242,213,214);">많은 경우 <span style="color:red">리뷰의 성공 여부에 결정적인 역할</span>을 하는 사람</span>
 
 **<span style="background-color:rgb(237,220,195);">리뷰 리더 (Review leader)</span>**
 - <span style="background-color:rgb(242,213,214);">전반적으로 리뷰에 대한 책임을 지는 사람</span>
-- <span style="background-color:rgb(242,213,214);">참여자를 결정하고 언제 어디서 진행할지 결정</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">참여자를 결정하고 언제 어디서 진행할지 결정</span></span>
 
 **<span style="background-color:rgb(237,220,195);">검토자 (Reviewers)</span>**
 - <span style="background-color:rgb(242,213,214);">해당 주제에 대한 전문가, 프로젝트 참여 인원, 작업 산출물에 관심이 있는 이해관계자나 특정 기술 혹은 비즈니스 배경을 가진 사람 등</span>
@@ -219,7 +219,7 @@ ISO 표준(ISO/IEC 20246)에서 설명하고 있는 바와 같이 역할이 더 
 
 <span style="color:green">(K3) 작업 산출물에 리뷰 기법을 적용해 결함을 식별할 수 있다.</span>
 
-<u>개별 리뷰(개별 준비) 활동 중에 결함을 발견하기 위해 사용할 수 있는 리뷰 기법에는 여러 가지가 있다. 이런 기법은 위에서 설명한 모든 리뷰 유형에서 사용할 수 있다</u>. 각 기법이 얼마나 효과적인지는 사용하는 리뷰 유형에 따라 달라질 수 있다. 여러 리뷰 유형에서 사용하는 개별 <span style="background-color:rgb(207,228,207);">리뷰 기법</span>들은 다음과 같다:
+<span style="color:blue">개별 리뷰(개별 준비) 활동 중에 결함을 발견하기 위해 사용할 수 있는 리뷰 기법에는 여러 가지가 있다. 이런 기법은 위에서 설명한 모든 리뷰 유형에서 사용할 수 있다</span>. 각 기법이 얼마나 효과적인지는 사용하는 리뷰 유형에 따라 달라질 수 있다. 여러 리뷰 유형에서 사용하는 개별 <span style="background-color:rgb(207,228,207);">리뷰 기법</span>들은 다음과 같다:
 
 **<span style="background-color:rgb(237,220,195);">애드혹 (Ad hoc)</span>**
 <span style="background-color:rgb(242,213,214);">애드혹 리뷰에서는 검토자에게 리뷰 수행 방법에 대한 안내가 거의 또는 전혀 제공되지 않는다. 검토자는 대부분의 경우 작업 산출물을 순차적으로 읽으면서 이슈를 식별하고 기록한다. 애드혹 리뷰는 특별한 준비 없이 일반적으로 사용되는 기법이다. 이 기법은 검토자의 능력에 크게 의존하며, 여러 검토자가 동일한 문제를 보고할 수 있다.</span>
