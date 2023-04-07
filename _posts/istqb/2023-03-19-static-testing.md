@@ -122,7 +122,7 @@ ISO 표준(ISO/IEC 20246)에 역할과 리뷰 기법 포함, 작업 산출물에
 
 <span style="color:green">(K1) 공식 리뷰의 다양한 역할과 책임을 인식할 수 있다.</span>
 
-일반적으로 <span style="background-color:rgb(207,228,207);">공식 리뷰에는 다음과 같은 역할이 포함</span>된다:
+일반적으로 <span style="background-color:rgb(207,228,207);"><u>공식 리뷰</u>에는 다음과 같은 역할이 포함</span>된다:
 
 **<span style="background-color:rgb(237,220,195);">저자 (Author)</span>**
 - <span style="background-color:rgb(242,213,214);">리뷰 대상 작업 산출물 작성</span>
