@@ -12,7 +12,7 @@ toc_sticky: true
 # 3.1 정적 테스팅 기초 (Static Testing Basics)
 {: .notice--warning .text-center}
 
-<u>테스트하고 있는 소프트웨어의 실행이 필요한 동적 테스팅과는 달리 정적 테스팅은 작업 산출물을 수동으로 검사(예: 리뷰)하거나 코드나 다른 작업 산출물을 도구를 기반으로 평가(tool-driven evaluation 예: 정적 분석)하는 방법에 의존</u>한다. 두 가지 유형의 정적 테스팅 모두 테스트 중인 코드 또는 작업 산출물을 실제로 실행하지 않고 평가한다.<br>
+<span style="color:blue">테스트하고 있는 소프트웨어의 실행이 필요한 동적 테스팅과는 달리 정적 테스팅은 작업 산출물을 수동으로 검사(예: 리뷰)하거나 코드나 다른 작업 산출물을 도구를 기반으로 평가(tool-driven evaluation 예: 정적 분석)하는 방법에 의존한다. 두 가지 유형의 정적 테스팅 모두 테스트 중인 코드 또는 작업 산출물을 실제로 실행하지 않고 평가한다.</span><br>
 정적 분석은 안전 최우선 컴퓨터 시스템(예: 항공, 의료, 원자력 소프트웨어)에서 중요하지만 다른 영역에서도 점차 그 중요성이 일반화되고 있다. 예를 들어, 보안 테스팅에서 정적 분석은 중요한 부분이며, 또한 애자일 개발, 지속적 인도(continuous delivery), 지속적 배포(continuous deployment) 등과 같은 자동화된 소프트웨어 빌드나 배포 도구(distribution tools)에 통합되는 경우가 많다.
 
 ## 3.1.1 정적 테스팅으로 검토할 수 있는 작업 산출물 (Work Products that Can Be Examined by Static Testing)
@@ -21,10 +21,10 @@ toc_sticky: true
 <span style="color:green">(K1) 다양한 정적 테스팅 기법으로 확인할 수 있는 소프트웨어 작업 산출물 유형을 인식할 수 있다.</span>
 
 <span style="background-color:rgb(207,228,207);">대부분의 작업 산출물은 정적 테스팅(리뷰나 정적 분석)으로 검사 할 수 있다</span>. 예를 들어:
-- <span style="background-color:rgb(237,220,195);">비즈니스 요구사항, 기능 요구사항, 보안 요구사항과 같은 명세</span>
+- <span style="background-color:rgb(237,220,195);">비즈니스 요구사항, 기능 요구사항, 보안 <span style="color:red">요구사항과 같은 명세</span></span>
 - <span style="background-color:rgb(237,220,195);">에픽(epic), 사용자 스토리, 인수 기준</span>
 - <span style="background-color:rgb(237,220,195);">아키텍처 및 설계 명세</span>
-- <span style="background-color:rgb(237,220,195);">코드</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">코드</span></span>
 - <span style="background-color:rgb(237,220,195);">테스트 계획, 테스트 케이스, 테스트 프로시저, 자동화 테스트 스크립트와 같은 테스트웨어</span>
 - <span style="background-color:rgb(237,220,195);">사용자 가이드</span>
 - <span style="background-color:rgb(237,220,195);">웹 페이지</span>
@@ -39,16 +39,16 @@ toc_sticky: true
 
 <span style="color:green">(K2) 정적 테스팅의 가치를 예제를 통해 설명할 수 있다.</span>
 
-정적 테스팅 기법은 여러 이점이 있다. <u>정적 테스팅을 소프트웨어 개발 수명주기 초반에 적용하면 동적 테스팅을 실행하기 전 결함의 조기 발견을 가능하게 한다</u> (예: 요구사항이나 설계 명세 리뷰, 백로그 재 정의(refinement) 등). 개발 초기에 발견한 결함을 제거하는 데 드는 비용은 수명주기 후반에 발견한 결함을 제거하는 비용에 비해 훨씬 적게 들며, 특히 소프트웨어를 배포하고 실제 사용하는 단계와 비교하면 더 현저하다. 정적 테스팅 기법을 사용해 결함을 발견하고 바로 수정하는 것이 동적 테스팅으로 결함을 발견하고 수정하는 것에 비해 적은 비용이 드는 경우가 대부분이다. 특히, 작업 산출물의 업데이트와 확인, 리그레션 테스팅 수행과 관련된 추가 비용을 고려하면 이는 더 명확해진다.<br>
+정적 테스팅 기법은 여러 이점이 있다. <span style="color:blue">정적 테스팅을 소프트웨어 개발 수명주기 초반에 적용하면 동적 테스팅을 실행하기 전 결함의 조기 발견을 가능하게 한다</span> (예: 요구사항이나 설계 명세 리뷰, 백로그 재 정의(refinement) 등). 개발 초기에 발견한 결함을 제거하는 데 드는 비용은 수명주기 후반에 발견한 결함을 제거하는 비용에 비해 훨씬 적게 들며, 특히 소프트웨어를 배포하고 실제 사용하는 단계와 비교하면 더 현저하다. 정적 테스팅 기법을 사용해 결함을 발견하고 바로 수정하는 것이 동적 테스팅으로 결함을 발견하고 수정하는 것에 비해 적은 비용이 드는 경우가 대부분이다. 특히, 작업 산출물의 업데이트와 확인, 리그레션 테스팅 수행과 관련된 추가 비용을 고려하면 이는 더 명확해진다.<br>
 그 외 <span style="background-color:rgb(207,228,207);">정적 테스팅의 효과</span>에는 다음과 같은 것들이 있다:
 - <span style="background-color:rgb(237,220,195);">동적 테스트 실행 전에 보다 효율적으로 결함을 발견하고 수정</span>
 - <span style="background-color:rgb(237,220,195);">동적 테스팅으로 발견이 쉽지않은 결함 식별</span>
 - <span style="background-color:rgb(237,220,195);">요구사항 불일치, 애매 모호함, 모순, 누락, 부정확, 중복 등을 식별해서 설계나 코딩의 결함 예방</span>
-- <span style="background-color:rgb(237,220,195);">개발 생산성 향상 (예: 설계 개선, 향상된 코드 유지보수성)</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">개발 생산성 향상</span> (예: 설계 개선, 향상된 코드 유지보수성)</span>
 - <span style="background-color:rgb(237,220,195);">개발 비용 및 기간 단축</span>
 - <span style="background-color:rgb(237,220,195);">테스팅 비용 및 기간 단축</span>
 - <span style="background-color:rgb(237,220,195);">수명주기 후반 또는 출시 후 운영 과정에서 발견되는 장애 감소로 소프트웨어 수명주기 전반에 걸친 총 품질 비용 감소</span>
-- <span style="background-color:rgb(237,220,195);">리뷰에 참여하는 팀원 간의 의사소통 개선</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">리뷰에 참여하는 팀원 간의 의사소통 개선</span></span>
 
 ## 3.1.3 정적 테스팅과 동적 테스팅의 차이 (Differences between Static and Dynamic Testing)
 {: .notice--success}
@@ -57,23 +57,23 @@ toc_sticky: true
 
 <span style="color:blue">정적 테스팅과 동적 테스팅의 공통 목적(1.1.1 절 참조)은 작업 산출물의 품질을 평가하고 가능한 빨리 결함을 식별하는 것</span>이다. <span style="color:blue">정적 테스팅과 동적 테스팅은 발견하는 유형의 결함이 서로 달라 상호 보완적</span>이다.<br>
 가장 중요한 차이점 중 하나는 정적 테스팅은 소프트웨어를 실행해 결함으로 발생하는 장애를 찾아내기보다는 작업 산출물에서 직접 결함을 발견한다는 것이다. <u>결함은 장애를 일으키지 않고 작업 산출물에 상당히 오랜 기간 숨어 있을 수 있다</u>. 결함이 존재하는 경로가 드물게 실행되거나 접근하기 어려워 이런 경로에 도달하는 동적 테스트를 구축하고 실행하는 것은 쉽지 않다. 반면 정적 테스팅은 훨씬 적은 노력으로 결함을 발견할 수 있다.<br>
-또 다른 차이점은 <u>정적 테스팅은 작업 산출물의 일관성과 내부 품질을 향상하기 위해 사용하는 반면, 동적 테스트는 일반적으로 외부에 보이는 동작에 초점</u>을 맞추고 있다는 점이다.<br>
-동적 테스팅과 비교해 <span style="background-color:rgb(207,228,207);">정적 테스팅으로 발견하기 쉽고 비용도 적게 들어가는 일반적인 결함 유형</span>은 다음과 같다:
-- <span style="background-color:rgb(237,220,195);">요구사항 결함 (예: 불일치, 모호함, 모순, 누락, 부정확, 중복 등)</span>
-- <span style="background-color:rgb(237,220,195);">설계 결함 (예: 비효율적인 알고리즘(algorithm)이나 데이터베이스 구조, 높은 결합도(coupling), 낮은 응집도(cohesion)) 등</span>
-- <span style="background-color:rgb(237,220,195);">코딩 결함(예: 정의되지 않은 값이 있는 변수, 선언했으나 사용하지 않는 변수, 도달할 수 없는 코드, 중복 코드 등)</span>
-- <span style="background-color:rgb(237,220,195);">표준과의 차이(예: 코딩 표준 미준수 등)</span>
-- <span style="background-color:rgb(237,220,195);">잘못된 인터페이스 명세 (예를 들어, 호출하는 시스템과 호출되는 시스템이 서로 다른 측정 단위 사용)</span>
-- <span style="background-color:rgb(237,220,195);">보안 취약점 (예를 들어, 버퍼 오버플로우에 대한 취약성)</span>
-- <span style="background-color:rgb(237,220,195);">테스트 베이시스 추적성이나 불충분한 커버리지 또는 부정확성 (예를 들어, 특정 인수 조건에 대한 테스트 누락)</span>
+또 다른 차이점은 <u>정적 테스팅은 작업 산출물의 일관성과 내부 품질을 향상하기 위해 사용하는 반면, 동적 테스트는 일반적으로 외부에 보이는 동작에 초점을 맞추고 있다</u>는 점이다.<br>
+<span style="background-color:rgb(207,228,207);">동적 테스팅과 비교해 정적 테스팅으로 발견하기 쉽고 비용도 적게 들어가는 일반적인 결함 유형</span>은 다음과 같다:
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">요구사항</span> 결함 (예: 불일치, 모호함, 모순, 누락, 부정확, 중복 등)</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">설계</span> 결함 (예: 비효율적인 알고리즘(algorithm)이나 데이터베이스 구조, 높은 결합도(coupling), 낮은 응집도(cohesion)) 등</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">코딩</span> 결함(예: 정의되지 않은 값이 있는 변수, 선언했으나 사용하지 않는 변수, 도달할 수 없는 코드, 중복 코드 등)</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">표준과의 차이</span>(예: 코딩 표준 미준수 등)</span>
+- <span style="background-color:rgb(237,220,195);">잘못된 <span style="color:red">인터페이스 명세</span> (예를 들어, 호출하는 시스템과 호출되는 시스템이 서로 다른 측정 단위 사용)</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">보안</span> 취약점 (예를 들어, 버퍼 오버플로우에 대한 취약성)</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">테스트 베이시스 추적성</span>이나 <span style="color:red">불충분한 커버리지 또는 부정확성</span> (예를 들어, 특정 인수 조건에 대한 테스트 누락)</span>
 
 <u>또한 대부분의 유지보수성 결함은 정적 테스팅으로만 발견할 수 있다 (예: 잘못된 모듈화, 낮은 컴포넌트 재사용성, 새로운 결함을 발생시키지 않고는 분석하거나 수정하기 어려운 코드 등)</u>.
 
 # 3.2 리뷰 프로세스 (Review Process)
 {: .notice--warning .text-center}
 
-리뷰 유형은 공식 리뷰에서 비공식 리뷰까지 다양하다. 비공식 리뷰의 특징은 정의된 프로세스를 따르지 않고, 리뷰 결과를 공식적으로 문서화하여 제공하지 않는다는 점이다. 공식 리뷰의 특징은 팀 참여, 문서화된 리뷰 결과, 문서화된 리뷰 진행 절차 등이 있다. 리뷰 프로세스의 형식은 소프트웨어 개발 수명주기 모델, 개발 프로세스의 성숙도, 리뷰 대상 작업 산출물의 복잡도, 다양한 법적 또는 규정 요구사항이나 감사 추정의 필요성과 같은 요소와 관련이 있다.<br>
-<u>리뷰의 중점은 합의된 리뷰 목적에 따라 결정된다 (예: 결함 발견, 이해 향상, 테스터와 신규 팀원 등과 같은 참여자에 대한 교육 또는 토론과 합의에 의한 결정)</u>.<br>
+<span style="background-color:rgb(232,233,234);">리뷰 유형은 공식 리뷰에서 비공식 리뷰까지 다양하다. 비공식 리뷰의 특징은 정의된 프로세스를 따르지 않고, 리뷰 결과를 공식적으로 문서화하여 제공하지 않는다는 점이다. 공식 리뷰의 특징은 팀 참여, 문서화된 리뷰 결과, 문서화된 리뷰 진행 절차 등이 있다. 리뷰 프로세스의 형식은 소프트웨어 개발 수명주기 모델, 개발 프로세스의 성숙도, 리뷰 대상 작업 산출물의 복잡도, 다양한 법적 또는 규정 요구사항이나 감사 추정의 필요성과 같은 요소와 관련이 있다.<br>
+리뷰의 중점은 합의된 리뷰 목적에 따라 결정된다 (예: 결함 발견, 이해 향상, 테스터와 신규 팀원 등과 같은 참여자에 대한 교육 또는 토론과 합의에 의한 결정).</span><br>
 ISO 표준(ISO/IEC 20246)에 역할과 리뷰 기법 포함, 작업 산출물에 대한 리뷰 프로세스의 구체적인 설명이 있다.
 
 ## 3.2.1 작업 산출물 리뷰 프로세스 (Work Product Review Process)
@@ -88,7 +88,7 @@ ISO 표준(ISO/IEC 20246)에 역할과 리뷰 기법 포함, 작업 산출물에
 - <span style="background-color:rgb(242,213,214);">노력과 기간 추정</span>
 - <span style="background-color:rgb(242,213,214);">리뷰 유형에 따라 결정되는 역할, 활동, 체크리스트와 같은 리뷰 특성의 식별</span>
 - <span style="background-color:rgb(242,213,214);">리뷰에 참석할 인원을 선정하고 역할 할당</span>
-- <span style="background-color:rgb(242,213,214);">인스펙션과 같은 보다 공식적인 리뷰의 경우에는 시작 및 종료 조건 정의</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">인스펙션과 같은 보다 공식적인 리뷰의 경우에는 시작 및 종료 조건 정의</span></span>
 - <span style="background-color:rgb(242,213,214);">(공식적인 리뷰 유형의 경우) 시작 조건이 충족되는지 확인</span>
 
 **<span style="background-color:rgb(237,220,195);">리뷰 착수 (Initiate review)</span>**
