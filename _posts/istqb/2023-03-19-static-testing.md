@@ -163,7 +163,7 @@ ISO 표준(ISO/IEC 20246)에서 설명하고 있는 바와 같이 역할이 더 
 
 리뷰를 다양한 목적으로 활용할 수 있지만, 주된 목적 중 하나는 결함 발견이다. <u>모든 리뷰 유형은 결함 발견에 도움</u>이 될 수 있으며, <u>프로젝트 요구사항, 가용 자원, 제품 유형과 리스크, 비즈니스 도메인, 조직의 문화 등에 따라 적절한 리뷰 유형을 선택</u>해야 한다.<br>
 단일 작업 산출물은 여러 유형의 리뷰 대상이 될 수 있다. <u>하나 이상의 리뷰 유형이 사용된 경우에는 그 순서도 다양할 수 있다. 예를 들어, 비공식 리뷰는 작업 산출물이 기술 리뷰를 위해 준비되었는지 확인하기 위해 기술 리뷰 전에 수행될 수 있다</u>.<br>
-아래에 설명되어 있는 리뷰 유형은 동료 리뷰(peer reviews), 즉 동일한 작업의 수행 능력이 있는 동료가 수행할 수 있다.<br>
+<u>아래에 설명되어 있는 리뷰 유형은 동료 리뷰(peer reviews), 즉 동일한 작업의 수행 능력이 있는 동료가 수행할 수 있다</u>.<br>
 리뷰에서 발견되는 결함 유형은 특히 리뷰 중인 작업 산출물에 따라 다르다 (각기 다른 작업 산출물의 리뷰에서 찾을 수 있는 결함의 예는 3.1.3 을, 공식 인스펙션에 대한 정보는 Gilb 1993 참조).<br>
 리뷰는 다양한 특성에 따라 분류될 수 있다. 다음은 가장 일반적인 4가지 <span style="background-color:rgb(207,228,207);">리뷰 유형과 각각의 특성</span>을 나열한 것이다:
 
@@ -175,44 +175,44 @@ ISO 표준(ISO/IEC 20246)에서 설명하고 있는 바와 같이 역할이 더 
 - <span style="background-color:rgb(242,213,214);">리뷰 회의를 진행하지 않을 수 있음</span>
 - <span style="background-color:rgb(242,213,214);">저자의 동료 (버디체크) 또는 다른사람이 수행할 수 있음</span>
 - <span style="background-color:rgb(242,213,214);">결과는 문서로 기록할 수 있음</span>
-- <span style="background-color:rgb(242,213,214);">검토자에 따라 성과가 달라짐</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">검토자에 따라 성과가 달라짐</span></span>
 - <span style="background-color:rgb(242,213,214);">체크리스트 사용 여부는 상황에 맞게 판단</span>
-- <span style="background-color:rgb(242,213,214);">애자일 개발에서 매우 일반적으로 사용됨</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">애자일 개발에서 매우 일반적으로 사용됨</span></span>
 
 **<span style="background-color:rgb(237,220,195);">워크쓰루 (Walkthrough)</span>**
-- <span style="background-color:rgb(242,213,214);">주요 목적: 결함 발견, 소프트웨어 제품 개선, 다른 구현 방법 고려, 표준이나 규정 준수 평가</span>
+- <span style="background-color:rgb(242,213,214);">주요 목적: 결함 발견, 소프트웨어 제품 개선, 다른 구현 방법 고려, <span style="color:red">표준이나 규정 준수 평가</span></span>
 - <span style="background-color:rgb(242,213,214);">기타 목적: 다양한 기술이나 스타일에 대한 아이디어 교환, 참여자 교육, 합의 도출</span>
-- <span style="background-color:rgb(242,213,214);">리뷰 회의 전 개별 준비는 필요에 따라 수행</span>
-- <span style="background-color:rgb(242,213,214);">리뷰 회의는 일반적으로 작업 산출물의 저자가 주도</span>
-- <span style="background-color:rgb(242,213,214);">서기 참여 필수</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">리뷰 회의 전 개별 준비는 필요에 따라 수행</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">리뷰 회의는 일반적으로 작업 산출물의 저자가 주도</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">서기 참여 필수</span></span>
 - <span style="background-color:rgb(242,213,214);">체크리스트 사용 여부는 상황에 맞게 판단</span>
-- <span style="background-color:rgb(242,213,214);">시나리오, 드라이 런(dry run), 시뮬레이션의 형태로 수행할 수 있음</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">시나리오, 드라이 런(dry run), 시뮬레이션의 형태로 수행할 수 있음</span></span>
 - <span style="background-color:rgb(242,213,214);">잠재 결함 로그와 리뷰 보고서 작성</span>
 - <span style="background-color:rgb(242,213,214);">실무에서는 비공식적인 형식에서 매우 공식적인 형식까지 다양할 수 있음</span>
 
 **<span style="background-color:rgb(237,220,195);">기술 리뷰 (Technical review)</span>**
 - <span style="background-color:rgb(242,213,214);">주요 목적: 합의 도출, 잠재적 결함 발견</span>
 - <span style="background-color:rgb(242,213,214);">기타 목적: 작업 산출물의 품질 평가 및 자신감 획득, 새로운 아이디어 도출, 저자가 미래의 작업 산출물을 개선하도록 지원하고 동기를 부여, 다른 구현 방법 고려</span>
-- <span style="background-color:rgb(242,213,214);">검토자는 저자의 기술 동료이면서, 동일 분야 또는 다른 분야의 기술 전문가여야 함</span>
-- <span style="background-color:rgb(242,213,214);">리뷰 회의 전 개별 준비 필요</span>
-- <span style="background-color:rgb(242,213,214);">리뷰 회의는 선택 사항이며, 이상적으로는 훈련된 촉진자(일반적으로 저자가 아닌)가 주도</span>
-- <span style="background-color:rgb(242,213,214);">서기는 반드시 있어야 하며, 이상적으로는 저자가 아닌 사람이 수행</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">검토자는 저자의 기술 동료이면서, 동일 분야 또는 다른 분야의 기술 전문가여야 함</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">리뷰 회의 전 개별 준비 필요</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">리뷰 회의는 선택 사항이며, 이상적으로는 훈련된 촉진자(일반적으로 저자가 아닌)가 주도</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">서기는 반드시 있어야 하며, 이상적으로는 저자가 아닌 사람이 수행</span></span>
 - <span style="background-color:rgb(242,213,214);">체크리스트 사용 여부는 상황에 맞게 판단</span>
 - <span style="background-color:rgb(242,213,214);">잠재 결함 로그와 리뷰 보고서 작성</span>
 
 **<span style="background-color:rgb(237,220,195);">인스펙션 (Inspection)</span>**
 - <span style="background-color:rgb(242,213,214);">주요 목적: 잠재적 결함 발견, 작업 산출물의 품질 평가 및 자신감 획득, 저자 학습과 근본 원인 분석을 통한 유사 결함의 발생 예방</span>
 - <span style="background-color:rgb(242,213,214);">기타 목적: 저자가 앞으로의 작업 산출물과 소프트웨어 개발 프로세스를 개선하고 합의를 이끌어 내도록 동기를 부여</span>
-- <span style="background-color:rgb(242,213,214);">규칙 및 체크리스트를 기반으로 공식 문서 산출물을 작성하는 정의된 프로세스를 수행</span>
-- <span style="background-color:rgb(242,213,214);">3.2.2 절에서 필수(mandatory)로 지정한 바와 같이 명확하게 정의된 역할 참여, 낭독자(리뷰 회의 중 작업 산출물을 종종 자신의 말로 의역하고 소리 내어 읽는 사람)의 참여 가능</span>
+- <span style="background-color:rgb(242,213,214);">규칙 및 <span style="color:red">체크리스트</span>를 기반으로 공식 문서 산출물을 작성하는 정의된 프로세스를 수행</span>
+- <span style="background-color:rgb(242,213,214);">3.2.2 절에서 필수(mandatory)로 지정한 바와 같이 <span style="color:red">명확하게 정의된 역할 참여</span>, 낭독자(리뷰 회의 중 작업 산출물을 종종 자신의 말로 의역하고 소리 내어 읽는 사람)의 참여 가능</span>
 - <span style="background-color:rgb(242,213,214);">리뷰 회의 전 개별 준비 필요</span>
-- <span style="background-color:rgb(242,213,214);">검토자는 저자의 동료 또는 작업 산출물과 연관된 분야의 전문가</span>
-- <span style="background-color:rgb(242,213,214);">명시된 시작 및 종료 조건을 사용</span>
-- <span style="background-color:rgb(242,213,214);">서기 참여 필수</span>
-- <span style="background-color:rgb(242,213,214);">리뷰 회의는 훈련받은 촉진자(저자가 아닌 사람)가 주도</span>
-- <span style="background-color:rgb(242,213,214);">저자는 리뷰 리더, 글을 읽는 사람 또는 서기가 될 수 없음</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">검토자는 저자의 동료 또는 작업 산출물과 연관된 분야의 전문가</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">명시된 시작 및 종료 조건을 사용</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">서기 참여 필수</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">리뷰 회의는 훈련받은 촉진자(저자가 아닌 사람)가 주도</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">저자는 리뷰 리더, 글을 읽는 사람 또는 서기가 될 수 없음</span></span>
 - <span style="background-color:rgb(242,213,214);">잠재적인 결함 로그 및 리뷰 보고서 작성</span>
-- <span style="background-color:rgb(242,213,214);">인스펙션 프로세스 포함 전체 소프트웨어 개발 프로세스를 개선하기 위해 메트릭을 수집하고 사용</span>
+- <span style="background-color:rgb(242,213,214);">인스펙션 프로세스 포함 전체 소프트웨어 개발 프로세스를 개선하기 위해 <span style="color:red">메트릭을 수집하고 사용</span></span>
 
 ## 3.2.4 리뷰 기법 적용 (Applying Review Techniques)
 {: .notice--success}
