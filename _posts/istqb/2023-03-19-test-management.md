@@ -384,47 +384,64 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
 <summary>Keywords</summary>
 <div markdown="1">
 
-- 형상 관리(configuration management)
+- 형상 관리(configuration management):<br>
+참조 : ISO 24765<br>
+형상 항목의 기능적/물리적 특성을 식별/문서화하고, 해당 특성을 제어하며, 변경 처리 및 구현 상황을 기록/보고하고, 명시된 요구사항을 준수하는지 검증하기 위해 기술적, 행정적 지시와 감독을 적용하는 원칙
 
-- 결함 관리(defect management)
+- 결함 관리(defect management):<br>
+연관 항목 : 인시던트 관리(incident management)<br>
+결함을 인식하고 기록하며, 분류, 조사, 해결하기 위해 조치를 취하고, 해결되었을 때 이를 처분하는 프로세스
 
 - 결함 리포트(defect report)
 
-- 시작 조건(entry criteria)
+- 시작 조건(entry criteria):<br>
+참조 : Gilb and Graham<br>
+유의어 : 준비의 정의(definition of ready)<br>
+정의된 과업을 공식적으로 시작하기 위한 조건의 집합
 
 - 종료 조건(exit criteria)
 
-- 제품 리스크(product risk)
+- 제품 리스크(product risk):<br>
+연관 항목 : 리스크(risk)<br>
+제품의 품질에 영향을 미치는 리스크
 
-- 프로젝트 리스크(project risk)
+- 프로젝트 리스크(project risk):<br>
+연관 항목 : 리스크(risk)<br>
+프로젝트 성공에 영향을 미치는 리스크
 
-- 리스크(risk)
+- 리스크(risk): 미래에 부정적인 결과를 초래할 수 있는 요소
 
-- 리스크 수준(risk level)
+- 리스크 수준(risk level):<br>
+유의어 : 리스크 노출도(risk exposure)<br>
+영향 및 가능성에 의해 정의된 리스크의 질적, 양적 측정치<br>
 
-- 리스크 기반 테스팅(risk-based testing)
+- 리스크 기반 테스팅(risk-based testing):<br>
+참조 : ISO 29119<br>
+연관된 리스크 유형과 리스크 수준을 기반으로 테스트 활동 및 리소스의 이용, 관리, 선택, 우선순위 등을 다루는 테스팅
 
-- 테스트 접근법(test approach)
+- 테스트 접근법(test approach): 특정 프로젝트에 대한 테스트 전략을 구현한 것
 
-- 테스트 제어(test control)
+- 테스트 관리자(test manager): 테스팅 활동 및 자원의 프로젝트 관리와 테스트 대상에 대한 평가를 책임지고 있는 담당자 테스트 대상에 대한 평가를 감독 및 통제, 관리, 계획, 규제하는 사람
 
-- 테스트 추정(test estimation)
+- 테스트 계획서(test plan):<br>
+참조 : ISO 29119<br>
+테스팅 활동 조정에 사용되며, 달성할 테스트 목표와 그것을 달성하기 위한 방법과 일정을 설명하는 문서
 
-- 테스트 관리자(test manager)
+- 테스트 진행 보고서(test progress report):<br>
+유의어 : 테스트 상태 보고서(test status report)<br>
+정기적으로 베이스라인(baseline), 리스크, 대안이 필요한 결정 사항과 관련된 테스트 활동의 진행 상황을 작성하는 테스트 보고서
 
-- 테스트 모니터링(test monitoring)
+- 테스트 전략(test strategy):<br>
+참조 : ISO 29119<br>
+유의어 : 조직 테스트 전략(organizational test strategy)<br>
+조직 내에서 수행하는 하나 이상의 프로젝트를 테스트하기 위해 포괄적인 요구사항을 나열한 문서. 테스팅을 어떤 방식으로 수행해야 하고, 또 그것이 어떻게 테스트 정책과 연계되는지에 대한 정보를 제공
 
-- 테스트 계획서(test plan)
+- 테스트 요약 보고서(test summary report):<br>
+참조 : ISO 29119<br>
+유의어 : 테스트 보고서(test report)<br>
+해당하는 테스트 항목 평가를 완료 조건에 대비해 제공하는 테스트 보고서
 
-- 테스트 계획(test planning)
-
-- 테스트 진행 보고서(test progress report)
-
-- 테스트 전략(test strategy)
-
-- 테스트 요약 보고서(test summary report)
-
-- 테스터(tester)
+- 테스터(tester): 컴포넌트나 시스템의 테스팅에 참여하는 숙련된 전문가
 
 </div>
 </details>
