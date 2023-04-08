@@ -197,35 +197,53 @@ toc_sticky: true
 <summary>Keywords</summary>
 <div markdown="1">
 
-- 블랙박스 테스트 기법(black-box test technique)
+- 블랙박스 테스트 기법(black-box test technique):<br>
+유의어 : 블랙박스 기법(black-box technique), 명세 기반 기법(specification-based technique), 명세 기반 테스트 기법(specification-based test technique)<br>
+컴포넌트나 시스템의 내부 구조가 아닌 기능/비기능 명세를 분석해서 테스트 케이스를 도출하고 선정하는 절차
 
-- 경계값 분석(boundary value analysis)
+- 경계값 분석(boundary value analysis):<br>
+참조 : 경계값(boundary value)<br>
+경계값을 기반으로 테스트 케이스를 설계하는 블랙박스 테스트 기법
 
-- 체크리스트 기반 테스팅(checklist-based testing)
+- 체크리스트 기반 테스팅(checklist-based testing): 경험, 점검, 기억에 의한 목록 또는 제품 검증 기준 및 규칙을 상위 수준으로 나열한 목록을 숙련된 테스터가 사용하는 경험 기반 테스트 기법
 
-- 커버리지(coverage)
+- 결정 커버리지(decision coverage): 결정 결과값에 대한 커버리지
 
-- 결정 커버리지(decision coverage)
+- 결정 테이블 테스팅(decision table testing):<br>
+참조 : Egler63<br>
+연관 항목 : 결정 테이블(decision table)<br>
+테스트 케이스가 결정 테이블에 표시된 입력 및 원인의 조합을 실행하도록 설계하는 블랙박스 테스트 기법
 
-- 결정 테이블 테스팅(decision table testing)
+- 오류 추정(error guessing):<br>
+참조 : ISO 29119<br>
+과거 장애(failures)에 대한 테스터의 지식이나 장애 형태에 대한 일반적인 지식에 기초하여 테스트 케이스를 도출하는 테스트 기법
 
-- 오류 추정(error guessing)
+- 동등 분할(equivalence partitioning):<br>
+유의어 : 동등 클래스(equivalence class)<br>
+명세에 기반하여 동일한 결과를 갖는 것으로 예상되는 테스트 대상 관련 데이터 요소 중 데이터값 도메인 영역의 모든 값에 대한 기대 결과가 동일하다고 추정
 
-- 동등 분할(equivalence partitioning)
+- 경험 기반 테스트 기법(experience-based test technique):<br>
+유의어 : 경험 기반 기법(experience-based technique)<br>
+테스터의 경험, 지식, 직관을 기반으로 테스트 케이스를 도출 및 선정하는 절차
 
-- 경험 기반 테스트 기법(experience-based test technique)
+- 탐색적 테스팅(exploratory testing):<br>
+참조 : ISO 29119<br>
+테스터가 자신의 지식, 테스트 항목에 대한 탐색, 이전 테스트 결과를 기반으로 하여 테스트를 동적으로 설계하고 실행하는 테스팅 접근법
 
-- 탐색적 테스팅(exploratory testing)
+- 상태 전이 테스팅(state transition testing):<br>
+연관 항목 : N-스위치 테스팅(N-switch testing)<br>
+유의어 : 유한 상태 테스팅(finite state testing)<br>
+상태 전이 다이어그램이나 상태 테이블을 사용해 테스트 케이스를 도출하고, 테스트 항목이 유효한 전이는 실행하고 비유효 전이는 성공적으로 차단하는지 확인하는 블랙박스 테스트 기법
 
-- 상태 전이 테스팅(state transition testing)
+- 구문 커버리지(statement coverage): 테스트 스위트(suite)가 수행한 실행문의 백분율
 
-- 구문 커버리지(statement coverage)
+- 테스트 기법(test technique):<br>
+유의어 : 테스트 케이스 설계 기법(test case design technique), 테스트 명세 기법(test specification technique), 테스트 기법(test technique), 테스트 설계 기법(test design technique)<br>
+테스트 케이스를 도출하고 설계하는 데 사용하는 절차
 
-- 테스트 기법(test technique)
-
-- 유스케이스(use case testing)
-
-- 화이트박스 테스트 기법(white- box test technique)
+- 화이트박스 테스트 기법(white- box test technique):<br>
+유의어 : 구조적 테스트 기법(structural test technique), 구조 기반 테스트 기법(structure-based test technique), 구조 기반 기법(structure-based technique), 화이트박스 기법(white-box technique)<br>
+컴포넌트나 시스템의 내부 구조 분석에 기반하여 테스트 케이스를 선택 그리고/또는 도출하는 절차
 
 </div>
 </details>
@@ -540,10 +558,10 @@ B - Q20. 다음 중 테스트 기법과 그 설명을 올바르게 연결한 것
 화이트박스 - 화이트박스 테스트 기법<br>
 경험 - 경험 기반 테스트 기법<br>
 
-A. 블랙박스–4,5 화이트박스–1,2 경험–3
-B. 블랙박스–3 화이트박스–1,2 경험–4,5
-C. 블랙박스–4 화이트박스–1,2 경험–3,5
-D. 블랙박스–1,3,5 화이트박스–2 경험–4  
+- A. 블랙박스–4,5 화이트박스–1,2 경험–3
+- B. 블랙박스–3 화이트박스–1,2 경험–4,5
+- C. 블랙박스–4 화이트박스–1,2 경험–3,5
+- D. 블랙박스–1,3,5 화이트박스–2 경험–4  
 
 <details>
 <summary><span style="color:red">Answer</span></summary>
@@ -634,10 +652,10 @@ FL-4.2.1 (K3) 주어진 요구사항에 동등 분할을 적용해서 테스트 
 - (3) 6시간이상
 
 햇빛 강도
-- (1) 아주 낮음
-- (2) 낮음
-- (3) 중간
-- (4) 높음
+- (4) 아주 낮음
+- (5) 낮음
+- (6) 중간
+- (7) 높음
 
 문제에서 주어진 테스트 케이스는 다음과 같은 입력에 대한 동등 파티션을 커버한다.
 - T1 1.5 (1) 아주 낮음 (4)
