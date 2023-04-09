@@ -151,53 +151,53 @@ toc_sticky: true
 
 <span style="color:green">(K3) 우선순위, 기술적 및 논리적 의존성 정보를 이용해 테스트 케이스 실행 일정을 수립할 수 있다.</span>
 
-테스트 케이스와 테스트 프로시저를 작성하고(일부 프로시저는 가능하다면 자동화) 테스트 프로시저와 테스트 케이스를 조합해 테스트 스위트를 생성한 후 테스트 스위트의 순서를 정해 실행 일정을 만들 수 있다. 테스트 실행 일정에서 테스트 스위트를 어떤 순서로 실행할지 정의한다. 테스트 실행 일정을 만들 때는 우선순위, 종속 관계, 확인 테스트, 리그레션 테스트, 가장 효율적인 테스트 실행 순서 등을 고려해야 한다.<br>
-이상적인 테스트 케이스 실행 순서는 가장 우선순위가 높은 테스트 케이스를 먼저 실행하는 것이다. 그러나 실제로 테스트 케이스 간에 종속 관계가 있거나 테스팅 대상의 기능 자체가 종속 관계라면 우선순위에 따라 실행하지 못할 수도 있다. 우선순위가 높은 테스트 케이스가 우선순위가 낮은 테스트 케이스에 종속되어 있다면 낮은 우선순위를 가진 테스트 케이스를 먼저 실행해야 한다.<br>
-마찬가지로 테스트 케이스가 서로 종속 관계를 가지고 있다면 각자의 우선순위와 상관없이 필요에 따라 배치해야 한다. 확인 및 리그레션 테스트 역시 수정에 대한 피드백의 중요도에 따라 우선순위를 정해야 하고 이 경우에도 종속 관계를 적용할 수 있다.<br>
-상황에 따라 테스트를 다양한 순서로 배치할 수 있으며 각 순서 배치에 따라 효율성 수준이 다를 수 있다. 이런 경우, 테스트 실행 효율성과 우선순위 준수 간의 절충을 고려한 결정이 필요하다.
+<span style="background-color:rgb(232,233,234);">테스트 케이스와 테스트 프로시저를 작성하고(일부 프로시저는 가능하다면 자동화) 테스트 프로시저와 테스트 케이스를 조합해 테스트 스위트를 생성한 후 테스트 스위트의 순서를 정해 실행 일정을 만들 수 있다. 테스트 실행 일정에서 테스트 스위트를 어떤 순서로 실행할지 정의한다. 테스트 실행 일정을 만들 때는 우선순위, 종속 관계, 확인 테스트, 리그레션 테스트, 가장 효율적인 테스트 실행 순서 등을 고려해야 한다.<br>
+이상적인 <span style="color:red">테스트 케이스 실행 순서는 가장 우선순위가 높은 테스트 케이스를 먼저 실행</span>하는 것이다. 그러나 실제로 테스트 케이스 간에 종속 관계가 있거나 테스팅 대상의 기능 자체가 종속 관계라면 우선순위에 따라 실행하지 못할 수도 있다. <span style="color:red">우선순위가 높은 테스트 케이스가 우선순위가 낮은 테스트 케이스에 종속되어 있다면 낮은 우선순위를 가진 테스트 케이스를 먼저 실행</span>해야 한다.<br>
+마찬가지로 테스트 케이스가 <span style="color:red">서로 종속 관계를 가지고 있다면 각자의 우선순위와 상관없이 필요에 따라 배치</span>해야 한다. 확인 및 리그레션 테스트 역시 수정에 대한 피드백의 중요도에 따라 우선순위를 정해야 하고 이 경우에도 종속 관계를 적용할 수 있다.<br>
+상황에 따라 테스트를 다양한 순서로 배치할 수 있으며 각 순서 배치에 따라 효율성 수준이 다를 수 있다. 이런 경우, 테스트 실행 효율성과 우선순위 준수 간의 절충을 고려한 결정이 필요하다.</span>
 
 ## 5.2.5 테스트 노력에 영향을 미치는 요소 (Factors Influencing the Test Effort)
 {: .notice--success}
 
 <span style="color:green">(K1) 테스팅과 연관된 노력에 영향을 주는 요소를 식별할 수 있다.</span>
 
-테스트 노력 추정은 테스트 관련 작업에 필요한 노력의 양을 예측하는 활동으로 이는 특정 프로젝트, 릴리스, 반복주기에서 테스팅의 목적을 충족하는 데 필요하다. 테스트 노력에 영향을 주는 요소는 아래와 같이 제품 특성, 개발 프로세스 특성, 관련 인물의 특성, 테스트 결과 등이 있다.
+<u>테스트 노력 추정은 테스트 관련 작업에 필요한 노력의 양을 예측하는 활동으로 이는 특정 프로젝트, 릴리스, 반복주기에서 테스팅의 목적을 충족하는 데 필요</u>하다. <span style="background-color:rgb(207,228,207);">테스트 노력에 영향을 주는 요소</span>는 아래와 같이 제품 특성, 개발 프로세스 특성, 관련 인물의 특성, 테스트 결과 등이 있다.
 
-**제품 특성 (Product characteristics)**
-- 제품과 관련된 리스크
-- 테스트 베이시스의 품질
-- 제품의 크기
-- 제품 도메인의 복잡도
-- 품질 특성 요구사항 (예: 보안성, 신뢰성)
-- 요구되는 테스트 문서의 상세화 정도
-- 법적, 규제 준수 요구사항
+**<span style="background-color:rgb(237,220,195);">제품 특성 (Product characteristics)</span>**
+- <span style="background-color:rgb(242,213,214);">제품과 관련된 리스크</span>
+- <span style="background-color:rgb(242,213,214);">테스트 베이시스의 품질</span>
+- <span style="background-color:rgb(242,213,214);">제품의 크기</span>
+- <span style="background-color:rgb(242,213,214);">제품 도메인의 복잡도</span>
+- <span style="background-color:rgb(242,213,214);">품질 특성 요구사항 (예: 보안성, 신뢰성)</span>
+- <span style="background-color:rgb(242,213,214);">요구되는 테스트 문서의 상세화 정도</span>
+- <span style="background-color:rgb(242,213,214);">법적, 규제 준수 요구사항</span>
 
-**개발 프로세스 특성 (Development process characteristics)**
-- 조직의 안정성과 성숙도
-- 사용하는 개발 모델
-- 테스트 접근법
-- 사용하는 도구
-- 테스트 프로세스
-- 시간적 압박
+**<span style="background-color:rgb(237,220,195);">개발 프로세스 특성 (Development process characteristics)</span>**
+- <span style="background-color:rgb(242,213,214);">조직의 안정성과 성숙도</span>
+- <span style="background-color:rgb(242,213,214);">사용하는 개발 모델</span>
+- <span style="background-color:rgb(242,213,214);">테스트 접근법</span>
+- <span style="background-color:rgb(242,213,214);">사용하는 도구</span>
+- <span style="background-color:rgb(242,213,214);">테스트 프로세스</span>
+- <span style="background-color:rgb(242,213,214);">시간적 압박</span>
 
-**인력 특성 (People characteristics)**
-- 관련된 인원의 역량과 경험, 특히 유사한 프로젝트나 제품 관련 (예: 도메인 지식)
-- 팀 응집력과 리더십
+**<span style="background-color:rgb(237,220,195);">인력 특성 (People characteristics)</span>**
+- <span style="background-color:rgb(242,213,214);">관련된 인원의 역량과 경험, 특히 유사한 프로젝트나 제품 관련 (예: 도메인 지식)</span>
+- <span style="background-color:rgb(242,213,214);">팀 응집력과 리더십</span>
 
-**테스트 결과 (Test results)**
-- 발견한 결함 수와 심각도
-- 필요한 재작업 규모
+**<span style="background-color:rgb(237,220,195);">테스트 결과 (Test results)</span>**
+- <span style="background-color:rgb(242,213,214);">발견한 결함 수와 심각도</span>
+- <span style="background-color:rgb(242,213,214);">필요한 재작업 규모</span>
 
 ## 5.2.6 테스트 추정 기법 (Test Estimation Techniques)
 {: .notice--success}
 
 <span style="color:green">(K2) 메트릭 기반 추정 기법과 전문가 기반 추정 기법의 차이를 설명할 수 있다.</span>
 
-충분한 테스팅을 하는 데 필요한 노력을 추정하는 예측 기법 몇 가지가 있다. 가장 많이 사용하는 두 가지 기법은 다음과 같다:
-- 메트릭 기반 기법: 기존 유사한 프로젝트에서 얻은 메트릭에 기반하거나 보편적인 값을 바탕으로 테스트 노력 예측
-- 전문가 기반 기법: 테스팅 작업의 책임자나 전문가의 경험을 기반으로 테스트 노력 예측
+<span style="background-color:rgb(207,228,207);">충분한 테스팅을 하는 데 필요한 노력을 추정하는 예측 기법</span> 몇 가지가 있다. 가장 많이 사용하는 두 가지 기법은 다음과 같다:
+- <span style="background-color:rgb(237,220,195);">메트릭 기반 기법</span>: <span style="background-color:rgb(242,213,214);">기존 유사한 프로젝트에서 얻은 메트릭에 기반하거나 보편적인 값을 바탕으로 테스트 노력 예측</span>
+- <span style="background-color:rgb(237,220,195);">전문가 기반 기법</span>: <span style="background-color:rgb(242,213,214);">테스팅 작업의 책임자나 전문가의 경험을 기반으로 테스트 노력 예측</span>
 
-예를 들어, 애자일 개발의 번다운 차트(Burndown charts)를 메트릭 기반 접근법의 예로 볼 수 있는데, 이는 남아있는 노력을 파악하고 보고함으로써 팀이 다음 반복주기에서 할 수 있는 작업의 양을 산정하는 데 사용할 팀의 업무진행 속도를 계산할 수 있게 해주기 때문이다. 반면 플래닝 포커(Planning poker)는 전문가 기반 접근법의 예로, 팀원이 자신의 경험을 기반으로 특정 기능을 인도하는 데 드는 노력을 추정한다 (ISTQB-CTFL- AT).<br>
+예를 들어, <span style="background-color:rgb(242,213,214);">애자일 개발의 번다운 차트(Burndown charts)를 <span style="background-color:rgb(207,228,207);">메트릭 기반 접근법</span>의 예로 볼 수 있는데, 이는 남아있는 노력을 파악하고 보고함으로써 팀이 다음 반복주기에서 할 수 있는 작업의 양을 산정하는 데 사용할 팀의 업무진행 속도를 계산할 수 있게 해주기 때문이다.</span> 반면 <span style="background-color:rgb(242,213,214);">플래닝 포커(Planning poker)는 <span style="background-color:rgb(207,228,207);">전문가 기반 접근법</span>의 예로, 팀원이 자신의 경험을 기반으로 특정 기능을 인도하는 데 드는 노력을 추정한다 (ISTQB-CTFL- AT).</span><br>
 순차적 개발 프로젝트에서의 메트릭 기반 접근법의 예로는 결함 제거 모델(Defect Removal Models)을 들 수 있다. 결함의 양과 결함을 제거하는 데 드는 시간을 파악하고 보고해서 차후 비슷한 성격의 프로젝트를 추정하는 기준으로 사용한다. 와이드밴드 델파이(Wideband Delphi) 추정 기법은 전문가 기반 접근법의 예로, 전문가 집단의 경험을 기반으로 추정치를 제공한다 (ISTQB-CTAL-TM).
 
 # 5.3 테스트 모니터링과 제어 (Test Monitoring and Control)
