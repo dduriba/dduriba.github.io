@@ -454,6 +454,30 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
 
 - 와이드밴드 델파이(Wideband Delphi): 팀원의 집단 지성을 이용하여 정확한 추정을 목표로 수행하는 전문가 기반 테스트 추정 기법
 
+- 마일스톤(milestone): 정해진 (중간)산출물과 결과가 준비완료되어야 하는 프로젝트의 특정 시점
+
+- 테스트 세션(test session):<br> 
+연관 항목 : 탐색적 테스팅(exploratory testing)<br>
+방해받지 않는 테스트 실행 시간. 탐색적 테스팅에서 각 테스트 세션은 차터(charter)를 기반 으로 구성되긴 하지만, 테스터가 세션 중 새로운 기회나 이슈를 탐색할 수 있음. 테스터는 필 요에 따라 바로바로 설계하고 실행하며 진행 상황을 기록
+
+- 테스트 차터(test charter):<br>
+연관 항목 : 탐색적 테스팅(exploratory testing)<br>
+유의어 : 차터(charter)<br>
+세션 기반 탐색적 테스팅에서의 테스트 활동에 대한 문서
+
+- 상위 수준 테스트 케이스(high-level test case):<br>
+연관 항목 : 하위 수준 테스트 케이스(low-level test case)<br>
+유의어 : 추상 테스트 케이스(abstract test case), 논리 테스트 케이스(logical test case) 입력 데이터와 기대 결과에 대한 구체적인 값이 명시되지 않는 테스트 케이스
+
+- 하위 수준 테스트 케이스(low-level test case):<br>
+연관 항목 : 상위 수준 테스트 케이스(high-level test case)<br>
+유의어 : 구체적인 테스트 케이스(concrete test case)<br>
+입력 데이터와 기대 결과에 대한 구체적인 값이 주어진 테스트 케이스
+
+- 익스트림 프로그래밍(Extreme Programming(XP)):<br>
+연관 항목 : 애자일 소프트웨어 개발(Agile software development)<br>
+애자일 소프트웨어 개발에서 짝 프로그래밍, 철저한 코드 리뷰, 모든 코드에 대한 단위 테스 팅, 간단하고 명확한 코드 등과 같은 실천법을 핵심으로 삼는 소프트웨어 공학 방법론
+
 </div>
 </details>
 
