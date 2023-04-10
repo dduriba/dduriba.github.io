@@ -35,7 +35,7 @@ toc_sticky: true
 또 컴포넌트 테스트나 컴포넌트 통합 테스트 중 개발자에게 더 적절한 도구도 있다. 이런 도구는 아래에 “ 개발자 지원”으로 표기되어 있다.
 
 **<span style="background-color:rgb(207,228,207);">테스팅 및 테스트웨어 관리 지원 도구 (Tool support for management of testing and testware)</span>**<br>
-<u>관리 도구는 소프트웨어 수명주기 전체에 걸쳐 모든 테스팅 활동에 사용</u>할 수 있다.<br>
+<u>관리 도구는 소프트웨어 수명주기 전체에 걸쳐 모든 테스팅 활동에 사용할 수 있다.</u><br>
 테스팅 및 테스트웨어 관리를 지원하는 도구는 다음과 같다:
 - <span style="background-color:rgb(237,220,195);">테스트 관리 도구와 애플리케이션 수명주기 관리 도구 (ALM, application lifecycle management tool)</span>
 - <span style="background-color:rgb(237,220,195);">요구사항 관리 도구 (예: 테스트 대상의 추적성 관리)</span>
@@ -48,7 +48,7 @@ toc_sticky: true
 - <span style="background-color:rgb(237,220,195);"><span style="color:red">정적 분석 도구 (개발자 지원)</span></span>
 
 **<span style="background-color:rgb(207,228,207);">테스트 설계 및 구현 지원 도구 (Tool support for test design and implementation)</span>**<br>
-<u>테스트 설계 도구는 테스트 설계와 구현 단계에서 작업 산출물(예: 테스트 케이스, 테스트 프로시저, 테스트 데이터)을 유지보수하는 데 도움</u>을 주며, 다음과 같은 도구가 있다:
+<u>테스트 설계 도구는 테스트 설계와 구현 단계에서 작업 산출물(예: 테스트 케이스, 테스트 프로시저, 테스트 데이터)을 유지보수하는 데 도움을 주며,</u> 다음과 같은 도구가 있다:
 - <span style="background-color:rgb(237,220,195);">모델 기반 테스팅 도구</span>
 - <span style="background-color:rgb(237,220,195);">테스트 데이터 준비 도구</span>
 
@@ -63,8 +63,8 @@ toc_sticky: true
 **<span style="background-color:rgb(207,228,207);">성능 측정과 동적 분석 지원 도구 (Tool support for performance measurement and dynamic analysis)</span>**<br>
 <u>성능 측정 및 동적 분석 도구는 성능 및 부하 테스트 활동이 수동으로는 효과적으로 수행할 수 없기 때문에 이를 지원하는 데 필수적이다.</u><br>
 관련 도구의 예는 아래와 같다:
-- <span style="color:blue">성능 테스팅 도구</span>
-- <span style="color:blue"><span style="color:red">동적 분석 도구 (개발자 지원)</span></span>
+- <span style="background-color:rgb(237,220,195);">성능 테스팅 도구</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">동적 분석 도구 (개발자 지원)</span></span>
 
 **<span style="background-color:rgb(207,228,207);">특수 목적 테스팅 지원 도구 (Tool support for specialized testing needs)</span>**<br>
 일반적인 테스트 프로세스를 지원하는 도구 외에 비기능적 특징(non-functional characteristics)을 커버하기 위한 보다 특정적인 테스팅을 지원하는 도구도 있다.
