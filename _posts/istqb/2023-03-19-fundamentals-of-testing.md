@@ -189,28 +189,28 @@ toc_sticky: true
 
 <span style="background-color:rgb(237,220,195);">계획 대비 테스트 진행 상황은 이해관계자에게 테스트 진행 상황 보고서의 형태로 전달되며, 여기에는 계획 대비 편차와 테스팅을 그만하기로 결정했다면 그것을 뒷받침해 줄 정보도 포함되어야 한다.</span>
 
-**테스트 분석 (Test analysis)**<br>
-<span style="background-color:rgb(207,228,207);">테스트 분석</span>에서는 <span style="background-color:rgb(237,220,195);">테스트 가능한 기능과 연관된 테스트 컨디션을 식별하기 위해 테스트 베이시스를 분석</span>한다. 즉, 테스트 분석은 <span style="background-color:rgb(237,220,195);">측정 가능한 커버리지 조건의 측면에서 "무엇을 테스트할지"를 결정하는 것</span>이다.<br>
-<span style="background-color:rgb(207,228,207);">테스트 분석의 주요 활동</span>은 다음과 같다:
-- 고려 중인 테스트 레벨에 적합한 <span style="background-color:rgb(237,220,195);">테스트 베이시스 평가</span>. 예를 들어:
-  + <span style="background-color:rgb(207,225,232);">요구사항 명세</span>. 여기에 포함되는 것으로는 비즈니스 요구사항, 기능 요구사항, 시스템 요구사항, 사용자 스토리, 에픽(epic), 유스케이스, 요구되는 기능/비기능 컴포넌트나 시스템의 동작이 명시된 유사한 작업 산출물 등이 있다.
-  + <span style="background-color:rgb(207,225,232);">설계와 구현 정보</span>. 여기에 포함되는 것으로는 시스템이나 소프트웨어 아키텍처 다이어그램 또는 문서, 설계 명세, 콜흐름도(call flow graphs), 모델링 다이어그램 (예: UML 또는 개체-관계 다이어그램 (entity-relationship diagrams), 인터페이스 명세, 컴포넌트나 시스템 구조를 명시하고 있는 기타 유사한 작업 산출물 등이 있다.
-  + <span style="background-color:rgb(207,225,232);">구현한 컴포넌트나 시스템</span>. 여기에 포함되는 것으로는 코드, 데이터베이스 메타데이터(database metadata), 쿼리(queries), 인터페이스 등이 있다.
+**<span style="background-color:rgb(207,228,207);">테스트 분석 (Test analysis)</span>**<br>
+<span style="background-color:rgb(237,220,195);">테스트 분석에서는 테스트 가능한 기능과 연관된 테스트 컨디션을 식별하기 위해 테스트 베이시스를 분석한다. 즉, <span style="color:blue">테스트 분석은 측정 가능한 커버리지 조건의 측면에서 "무엇을 테스트할지"를 결정하는 것</span>이다.</span><br>
+<span style="background-color:rgb(237,220,195);">테스트 분석의 주요 활동은 다음과 같다:</span>
+- <span style="background-color:rgb(242,213,214);">고려 중인 테스트 레벨에 적합한 테스트 베이시스 평가. 예를 들어:</span>
+  + <span style="background-color:rgb(207,225,232);">요구사항 명세. 여기에 포함되는 것으로는 비즈니스 요구사항, 기능 요구사항, 시스템 요구사항, 사용자 스토리, 에픽(epic), 유스케이스, 요구되는 기능/비기능 컴포넌트나 시스템의 동작이 명시된 유사한 작업 산출물 등이 있다.</span>
+  + <span style="background-color:rgb(207,225,232);">설계와 구현 정보. 여기에 포함되는 것으로는 시스템이나 소프트웨어 아키텍처 다이어그램 또는 문서, 설계 명세, 콜흐름도(call flow graphs), 모델링 다이어그램 (예: UML 또는 개체-관계 다이어그램 (entity-relationship diagrams), 인터페이스 명세, 컴포넌트나 시스템 구조를 명시하고 있는 기타 유사한 작업 산출물 등이 있다.</span>
+  + <span style="background-color:rgb(207,225,232);">구현한 컴포넌트나 시스템. 여기에 포함되는 것으로는 코드, 데이터베이스 메타데이터(database metadata), 쿼리(queries), 인터페이스 등이 있다.</span>
   + <span style="background-color:rgb(207,225,232);">컴포넌트나 시스템의 기능, 비기능, 구조 측면을 고려한 리스크 분석 보고서</span>
-- <span style="background-color:rgb(237,220,195);">테스트 베이시스와 테스트 항목을 평가해서 다양한 형태의 결함 식별</span>. 예를 들어:
-  + 모호함 (Ambiguities)
-  + 누락 (Omissions)
-  + 불일치 (Inconsistencies)
-  + 부정확 (Inaccuracies)
-  + 모순 (Contradictions)
-  + 불필요한 구문 (Superfluous Statements)
-- <span style="background-color:rgb(237,220,195);">테스트할 기능과 기능 세트 식별</span>
-- <span style="background-color:rgb(237,220,195);">테스트 베이시스를 평가하고 기능, 비기능, 구조 특성, 기타 비즈니스 기술 요소, 리스크 수준 등을 고려해서 각 기능에 대한 테스트 컨디션의 정의 및 우선순위 선정</span>
-- <span style="background-color:rgb(237,220,195);">테스트 베이시스의 개별 요소와 연관된 테스트 컨디션 간의 양방향 추적성 포착</span> (1.4.3 절, 1.4.4 절 참조)
+- <span style="background-color:rgb(242,213,214);">테스트 베이시스와 테스트 항목을 평가해서 다양한 형태의 결함 식별. 예를 들어:</span>
+  + <span style="background-color:rgb(207,225,232);">모호함 (Ambiguities)</span>
+  + <span style="background-color:rgb(207,225,232);">누락 (Omissions)</span>
+  + <span style="background-color:rgb(207,225,232);">불일치 (Inconsistencies)</span>
+  + <span style="background-color:rgb(207,225,232);">부정확 (Inaccuracies)</span>
+  + <span style="background-color:rgb(207,225,232);">모순 (Contradictions)</span>
+  + <span style="background-color:rgb(207,225,232);">불필요한 구문 (Superfluous Statements)</span>
+- <span style="background-color:rgb(242,213,214);">테스트할 기능과 기능 세트 식별</span>
+- <span style="background-color:rgb(242,213,214);">테스트 베이시스를 평가하고 기능, 비기능, 구조 특성, 기타 비즈니스 기술 요소, 리스크 수준 등을 고려해서 각 기능에 대한 테스트 컨디션의 정의 및 우선순위 선정</span>
+- <span style="background-color:rgb(242,213,214);">테스트 베이시스의 개별 요소와 연관된 테스트 컨디션 간의 양방향 추적성 포착 (1.4.3 절, 1.4.4 절 참조)</span>
 
-<u>테스트 분석(4 장 참조)에 블랙박스, 화이트박스, 경험 기반 기법을 적용하면 주요 테스트 컨디션의 누락을 방지하고 더 정확하고 정밀한 테스트 컨디션 도출에 도움이 될 수 있다.</u><br>
-<u>테스트 분석의 결과로 테스트 차터(test charter)의 테스트 목적으로 사용할 테스트 컨디션이 생성되는 경우도 있다. 테스트 차터는 일부 경험 기반 테스팅 유형에서 일반적으로 사용하는 작업 산출물이다 (4.4.2 절 참조). 테스트 목적과 테스트 베이시스 간의 추적성을 확인할 수 있는 경우, 이런 경험 기반 테스팅으로 달성하는 커버리지를 측정할 수 있다.</u><br>
-<u>테스트 분석 중 결함 식별은 큰 잠재적 이점</u>이다. 특히, 사용하는 리뷰 프로세스가 없거나 테스트 프로세스가 리뷰 프로세스와 밀접하게 연관된 경우 더 그렇다. 이런 테스트 분석 활동은 요구사항이 일관성 있게 제대로 설명되고 완성되었는지 검증할 뿐 아니라, 요구사항이 고객, 사용자, 기타 이해관계자의 요구를 제대로 반영하고 있는지 확인하게 해준다. 예를 들면 <u>코딩(coding) 전에 사용자 스토리와 인수 조건으로부터 테스트 컨디션과 테스트 케이스를 도출하는 행위 주도 개발(BDD, Behavior Driven Development)과 인수 테스트 주도 개발(ATDD, Acceptance Test Driven Development)이 있다. 이런 기법에서는 사용자 스토리와 인수 조건에 대해서도 검증, 확인, 결함 발견 활동을 수행</u>한다 (ISTQB CTFL-AT 참조).<br>
+<span style="background-color:rgb(237,220,195);">테스트 분석(4 장 참조)에 블랙박스, 화이트박스, 경험 기반 기법을 적용하면 주요 테스트 컨디션의 누락을 방지하고 더 정확하고 정밀한 테스트 컨디션 도출에 도움이 될 수 있다<br>
+테스트 분석의 결과로 테스트 차터(test charter)의 테스트 목적으로 사용할 테스트 컨디션이 생성되는 경우도 있다. 테스트 차터는 일부 경험 기반 테스팅 유형에서 일반적으로 사용하는 작업 산출물이다 (4.4.2 절 참조). 테스트 목적과 테스트 베이시스 간의 추적성을 확인할 수 있는 경우, 이런 경험 기반 테스팅으로 달성하는 커버리지를 측정할 수 있다<br>
+테스트 분석 중 결함 식별은 큰 잠재적 이점이다. 특히, 사용하는 리뷰 프로세스가 없거나 테스트 프로세스가 리뷰 프로세스와 밀접하게 연관된 경우 더 그렇다. 이런 테스트 분석 활동은 요구사항이 일관성 있게 제대로 설명되고 완성되었는지 검증할 뿐 아니라, 요구사항이 고객, 사용자, 기타 이해관계자의 요구를 제대로 반영하고 있는지 확인하게 해준다. 예를 들면 코딩(coding) 전에 사용자 스토리와 인수 조건으로부터 테스트 컨디션과 테스트 케이스를 도출하는 행위 주도 개발(BDD, Behavior Driven Development)과 인수 테스트 주도 개발(ATDD, Acceptance Test Driven Development)이 있다. 이런 기법에서는 사용자 스토리와 인수 조건에 대해서도 검증, 확인, 결함 발견 활동을 수행한다 (ISTQB CTFL-AT 참조).</span>
 
 **테스트 설계 (Test design)**<br>
 <span style="background-color:rgb(207,228,207);">테스트 설계</span>에서 <span style="background-color:rgb(237,220,195);">테스트 컨디션을 기반으로 상위 수준 테스트 케이스, 상위 수준 테스트 케이스 세트, 기타 테스트웨어(testware)를 생성</span>한다. 즉, 테스트 분석은 "무엇을 테스트할 것인가?"라는 질문에 답변하는 반면, 테스트 설계는 <span style="background-color:rgb(237,220,195);">"어떻게 테스트할 것인가?"</span>를 다루게 된다.
