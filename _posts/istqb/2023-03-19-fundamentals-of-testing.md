@@ -181,7 +181,8 @@ toc_sticky: true
 <span style="background-color:rgb(237,220,195);">테스트 계획은 테스팅의 목적과 정황으로 인한 제약 사항을 고려해 테스트 목적을 달성하기 위해 필요한 <span style="color:red">접근법을 정의하는 활동을 포함한다. 예를 들어, 적합한 테스트 기법과 작업 명시, 정해진 출시 일정 전에 완료하기 위한 테스트 일정 수립</span> 등이 여기에 포함된다. <span style="color:red">테스트 계획은 모니터링과 제어 활동에서 나온 피드백을 기반으로 수정할 수 있다.</span></span>
 
 **<span style="background-color:rgb(207,228,207);">테스트 모니터링과 제어 (test monitoring and control)</span>**<br>
-<span style="background-color:rgb(207,228,207);">테스트 모니터링</span>은 <span style="background-color:rgb(237,220,195);">테스트 계획에 정의된 테스트 모니터링 메트릭을 활용해 실제 진행 상황을 계획한 진척 상황과 지속적으로 비교하는 활동</span>을 말한다. <span style="background-color:rgb(207,228,207);">테스트 제어(test control)</span>는 <span style="background-color:rgb(237,220,195);">시간이 지나면서 업데이트될 수 있는 테스트 계획의 목적 달성을 위해 필요한 활동을 수행하는 것</span>이다. <span style="background-color:rgb(207,228,207);">종료 조건(exit criteria) 평가</span>도 <span style="background-color:rgb(237,220,195);">테스트 모니터링과 제어에 필요한 활동이며, 일부 소프트웨어 개발 수명주기 모델에서는 종료 조건을 완료의 정의(definition of done)로 칭하기도 한다</span> (ISTQB-CTFL-AT 참조).<br>
+<span style="background-color:rgb(207,228,207);">테스트 모니터링</span>은 <span style="background-color:rgb(237,220,195);">테스트 계획에 정의된 테스트 모니터링 메트릭을 활용해 실제 진행 상황을 계획한 진척 상황과 지속적으로 비교하는 활동</span>을 말한다. <span style="background-color:rgb(207,228,207);">테스트 제어(test control)</span>는 <span style="background-color:rgb(237,220,195);">시간이 지나면서 업데이트될 수 있는 테스트 계획의 목적 달성을 위해 필요한 활동을 수행하는 것</span>이다. <span style="background-color:rgb(207,228,207);">종료 조건(exit criteria) 평가</span>도 <span style="background-color:rgb(237,220,195);">테스트 모니터링과 제어에 필요한 활동이며, 일부 소프트웨어 개발 수명주기 모델에서는 종료 조건을 완료의 정의(definition of done)로 칭하기도 한다 (ISTQB-CTFL-AT 참조).</span>
+
 <span style="background-color:rgb(237,220,195);">예를 들어, 특정 테스트 레벨에서 이루어진 테스트 실행의 종료 조건 평가는 다음을 포함할 수 있다:</span>
 - <span style="background-color:rgb(242,213,214);">명시된 커버리지 조건 대비 테스트 결과와 로그 확인</span>
 - <span style="background-color:rgb(242,213,214);">테스트 결과와 로그를 기반으로 컴포넌트나 시스템의 품질 수준 평가</span>
@@ -190,7 +191,8 @@ toc_sticky: true
 <span style="background-color:rgb(237,220,195);">계획 대비 테스트 진행 상황은 이해관계자에게 테스트 진행 상황 보고서의 형태로 전달되며, 여기에는 계획 대비 편차와 테스팅을 그만하기로 결정했다면 그것을 뒷받침해 줄 정보도 포함되어야 한다.</span>
 
 **<span style="background-color:rgb(207,228,207);">테스트 분석 (Test analysis)</span>**<br>
-<span style="background-color:rgb(237,220,195);">테스트 분석에서는 테스트 가능한 기능과 연관된 테스트 컨디션을 식별하기 위해 테스트 베이시스를 분석한다. 즉, <span style="color:blue">테스트 분석은 측정 가능한 커버리지 조건의 측면에서 "무엇을 테스트할지"를 결정하는 것</span>이다.</span><br>
+<span style="background-color:rgb(237,220,195);">테스트 분석에서는 테스트 가능한 기능과 연관된 테스트 컨디션을 식별하기 위해 테스트 베이시스를 분석한다. 즉, <span style="color:blue">테스트 분석은 측정 가능한 커버리지 조건의 측면에서 "무엇을 테스트할지"를 결정하는 것</span>이다.</span>
+
 <span style="background-color:rgb(237,220,195);">테스트 분석의 주요 활동은 다음과 같다:</span>
 - <span style="background-color:rgb(242,213,214);">고려 중인 테스트 레벨에 적합한 테스트 베이시스 평가. 예를 들어:</span>
   + <span style="background-color:rgb(207,225,232);">요구사항 명세. 여기에 포함되는 것으로는 비즈니스 요구사항, 기능 요구사항, 시스템 요구사항, 사용자 스토리, 에픽(epic), 유스케이스, 요구되는 기능/비기능 컴포넌트나 시스템의 동작이 명시된 유사한 작업 산출물 등이 있다.</span>
@@ -212,46 +214,47 @@ toc_sticky: true
 테스트 분석의 결과로 테스트 차터(test charter)의 테스트 목적으로 사용할 테스트 컨디션이 생성되는 경우도 있다. 테스트 차터는 일부 경험 기반 테스팅 유형에서 일반적으로 사용하는 작업 산출물이다 (4.4.2 절 참조). 테스트 목적과 테스트 베이시스 간의 추적성을 확인할 수 있는 경우, 이런 경험 기반 테스팅으로 달성하는 커버리지를 측정할 수 있다<br>
 테스트 분석 중 결함 식별은 큰 잠재적 이점이다. 특히, 사용하는 리뷰 프로세스가 없거나 테스트 프로세스가 리뷰 프로세스와 밀접하게 연관된 경우 더 그렇다. 이런 테스트 분석 활동은 요구사항이 일관성 있게 제대로 설명되고 완성되었는지 검증할 뿐 아니라, 요구사항이 고객, 사용자, 기타 이해관계자의 요구를 제대로 반영하고 있는지 확인하게 해준다. 예를 들면 코딩(coding) 전에 사용자 스토리와 인수 조건으로부터 테스트 컨디션과 테스트 케이스를 도출하는 행위 주도 개발(BDD, Behavior Driven Development)과 인수 테스트 주도 개발(ATDD, Acceptance Test Driven Development)이 있다. 이런 기법에서는 사용자 스토리와 인수 조건에 대해서도 검증, 확인, 결함 발견 활동을 수행한다 (ISTQB CTFL-AT 참조).</span>
 
-**테스트 설계 (Test design)**<br>
-<span style="background-color:rgb(207,228,207);">테스트 설계</span>에서 <span style="background-color:rgb(237,220,195);">테스트 컨디션을 기반으로 상위 수준 테스트 케이스, 상위 수준 테스트 케이스 세트, 기타 테스트웨어(testware)를 생성</span>한다. 즉, 테스트 분석은 "무엇을 테스트할 것인가?"라는 질문에 답변하는 반면, 테스트 설계는 <span style="background-color:rgb(237,220,195);">"어떻게 테스트할 것인가?"</span>를 다루게 된다.
+**<span style="background-color:rgb(207,228,207);">테스트 설계 (Test design)</span>**<br>
+<span style="background-color:rgb(237,220,195);">테스트 설계에서 테스트 컨디션을 기반으로 상위 수준 테스트 케이스, 상위 수준 테스트 케이스 세트, 기타 테스트웨어(testware)를 생성한다. 즉, 테스트 분석은 "무엇을 테스트할 것인가?"라는 질문에 답변하는 반면, <span style="color:blue">테스트 설계는 "어떻게 테스트할 것인가?"를 다루게 된다.</span></span>
 
-<span style="background-color:rgb(207,228,207);">테스트 설계에 속하는 주요 활동</span>은 다음과 같다:
-- <span style="background-color:rgb(237,220,195);">테스트 케이스와 테스트 케이스 세트 설계 및 우선순위 선정</span>
-- <span style="background-color:rgb(237,220,195);">테스트 컨디션과 테스트 케이스에 필요한 테스트 데이터 식별</span>
-- <span style="background-color:rgb(237,220,195);">테스트 환경 설계와 필요한 인프라 및 도구 식별</span>
-- <span style="background-color:rgb(237,220,195);">테스트 베이시스, 테스트 컨디션, 테스트 케이스 간의 양방향 추적성 설정</span> (1.4.4 절 참조)
+<span style="background-color:rgb(237,220,195);">테스트 설계에 속하는 주요 활동은 다음과 같다:</span>
+- <span style="background-color:rgb(242,213,214);">테스트 케이스와 테스트 케이스 세트 설계 및 우선순위 선정</span>
+- <span style="background-color:rgb(242,213,214);">테스트 컨디션과 테스트 케이스에 필요한 테스트 데이터 식별</span>
+- <span style="background-color:rgb(242,213,214);">테스트 환경 설계와 필요한 인프라 및 도구 식별</span>
+- <span style="background-color:rgb(242,213,214);">테스트 베이시스, 테스트 컨디션, 테스트 케이스 간의 양방향 추적성 설정 (1.4.4 절 참조)</span>
 
-테스트 설계 중 테스트 컨디션을 테스트 케이스와 테스트 케이스 세트로 전환할 때 테스트 기법을 사용하는 경우가 많다 (4 장 참조).
-테스트 분석과 마찬가지로, 테스트 설계에서도 테스트 베이시스에서 유사한 유형의 결함을 식별할 수 있다. 또한, <u>테스트 설계 중 결함 식별은 테스트 분석에서와 마찬가지로 큰 잠재적 이점</u>이다.
+<span style="background-color:rgb(237,220,195);">테스트 설계 중 테스트 컨디션을 테스트 케이스와 테스트 케이스 세트로 전환할 때 테스트 기법을 사용하는 경우가 많다 (4 장 참조). 테스트 분석과 마찬가지로, 테스트 설계에서도 테스트 베이시스에서 유사한 유형의 결함을 식별할 수 있다. 또한, 테스트 설계 중 결함 식별은 테스트 분석에서와 마찬가지로 큰 잠재적 이점이다.</span>
 
-**테스트 구현 (Test implementation)**<br>
-<span style="background-color:rgb(207,228,207);">테스트 구현</span> 중 <span style="background-color:rgb(237,220,195);">테스트 실행에 필요한 테스트웨어를 생성하고 완성하며, 테스트 케이스를 배치해서 테스트 프로시저를 만드는 것도 여기에 포함</span>된다. 결국, 테스트 설계는 "어떻게 테스트할 것인가?"라는 질문에 대한 답을 제공하는 반면, 테스트 구현은 <span style="background-color:rgb(237,220,195);">"테스트를 실행하기 위해 필요한 모든 것이 갖춰져 있는가?"</span>라는 질문에 답하는 활동이다.
+**<span style="background-color:rgb(207,228,207);">테스트 구현 (Test implementation)</span>**<br>
+<span style="background-color:rgb(237,220,195);">테스트 구현 중 테스트 실행에 필요한 테스트웨어를 생성하고 완성하며, 테스트 케이스를 배치해서 테스트 프로시저를 만드는 것도 여기에 포함된다. 결국, 테스트 설계는 "어떻게 테스트할 것인가?"라는 질문에 대한 답을 제공하는 반면, <span style="color:blue">테스트 구현은 "테스트를 실행하기 위해 필요한 모든 것이 갖춰져 있는가?"라는 질문에 답하는 활동</span>이다.</span>
 
-<span style="background-color:rgb(207,228,207);">테스트 구현에 속하는 주요 활동</span>은 다음과 같다:
-- <span style="background-color:rgb(237,220,195);">테스트 프로시저의 개발과 우선순위 선정, 가능하다면 자동 테스트 스크립트 생성</span>
-- <span style="background-color:rgb(237,220,195);">테스트 프로시저와 (있다면) 자동 테스트 스크립트로부터 테스트 스위트(test suite) 생성</span>
-- <span style="background-color:rgb(237,220,195);">효과적인 테스트 실행이 가능하도록 테스트 스위트를 테스트 실행 일정 내에 배치</span> (5.2.4 절 참조)
-- <span style="background-color:rgb(237,220,195);">테스트 환경 구축, 가능하다면 테스트 하네스(test harness), 서비스 가상 현실화, 시뮬레이터, 기타 인프라 항목까지, 또 필요한 모든 사항을 제대로 구현했는지 확인</span>
-- <span style="background-color:rgb(237,220,195);">테스트 데이터를 준비하고, 테스트 환경에 제대로 입력했는지 확인</span>
-- <span style="background-color:rgb(237,220,195);">테스트 베이시스, 테스트 컨디션, 테스트 케이스, 테스트 프로시저, 테스트 스위트 서로 간의 양방향 추적성 검증과 업데이트</span> (1.4.4 절 참조)
+<span style="background-color:rgb(237,220,195);">테스트 구현에 속하는 주요 활동은 다음과 같다:</span>
+- <span style="background-color:rgb(242,213,214);">테스트 프로시저의 개발과 우선순위 선정, 가능하다면 자동 테스트 스크립트 생성</span>
+- <span style="background-color:rgb(242,213,214);">테스트 프로시저와 (있다면) 자동 테스트 스크립트로부터 테스트 스위트(test suite) 생성</span>
+- <span style="background-color:rgb(242,213,214);">효과적인 테스트 실행이 가능하도록 테스트 스위트를 테스트 실행 일정 내에 배치 (5.2.4 절 참조)</span>
+- <span style="background-color:rgb(242,213,214);">테스트 환경 구축, 가능하다면 테스트 하네스(test harness), 서비스 가상 현실화, 시뮬레이터, 기타 인프라 항목까지, 또 필요한 모든 사항을 제대로 구현했는지 확인</span>
+- <span style="background-color:rgb(242,213,214);">테스트 데이터를 준비하고, 테스트 환경에 제대로 입력했는지 확인</span>
+- <span style="background-color:rgb(242,213,214);">테스트 베이시스, 테스트 컨디션, 테스트 케이스, 테스트 프로시저, 테스트 스위트 서로 간의 양방향 추적성 검증과 업데이트 (1.4.4 절 참조)</span>
 
-테스트 설계와 테스트 구현 작업은 합쳐지는 경우가 많다.<br>
-탐색적 테스팅과 기타 경험 기반 테스팅 유형에서 테스트 설계와 구현이 테스트 실행의 일부로 이루어지거나 기록될 수 있다. 탐색적 테스팅은 테스트 분석에서 생성되는 테스트 차터를 기반으로 이루어질 수 있으며, 탐색적 테스트는 설계되고 구현되면서 바로 실행된다 (4.4.2 절 참조).
+<span style="background-color:rgb(237,220,195);">테스트 설계와 테스트 구현 작업은 합쳐지는 경우가 많다.<br>
+탐색적 테스팅과 기타 경험 기반 테스팅 유형에서 테스트 설계와 구현이 테스트 실행의 일부로 이루어지거나 기록될 수 있다. 탐색적 테스팅은 테스트 분석에서 생성되는 테스트 차터를 기반으로 이루어질 수 있으며, 탐색적 테스트는 설계되고 구현되면서 바로 실행된다 (4.4.2 절 참조).</span>
 
-**테스트 실행 (Test execution)**<br>
-<span style="background-color:rgb(207,228,207);">테스트 실행</span> 단계에서는 <span style="background-color:rgb(237,220,195);">테스트 스위트를 테스트 실행 일정에 따라 실행</span>한다.<br>
-<span style="background-color:rgb(207,228,207);">테스트 실행의 주요 활동</span>은 다음과 같다:
-- <span style="background-color:rgb(237,220,195);">테스트 항목, 테스트 대상, 테스트 도구, 테스트웨어 등의 고유번호(ID)와 버전 기록</span>
-- <span style="background-color:rgb(237,220,195);">테스트를 수동으로 혹은 테스트 실행 도구를 활용해서 실행</span>
-- <span style="background-color:rgb(237,220,195);">기대 결과와 실제 결과 비교</span>
-- <span style="background-color:rgb(237,220,195);">이상 현상(anomalies)을 분석해 원인 파악</span> (예를 들어, 장애가 코드 결함 때문에 발생할 수도 있지만 거짓양성일 수도 있다 (1.2.3 절 참조)).
-- <span style="background-color:rgb(237,220,195);">관찰한 장애를 기반으로 결함 보고</span> (5.6 절 참조)
-- <span style="background-color:rgb(237,220,195);">테스트 실행 결과 기록</span>(예:합격, 불합격, 실행할 수 없음)
-- <span style="background-color:rgb(237,220,195);">이상 현상 때문에 취한 활동의 결과로 인해 또는 계획된 테스팅의 일부로 테스트 활동 반복</span>(예:수정된 테스트 실행, 확인 테스팅이나 리그레션 테스팅 등)
-- <span style="background-color:rgb(237,220,195);">테스트 베이시스, 테스트 컨디션, 테스트 케이스, 테스트 프로시저, 테스트 결과 간의 양방향 추적성 검증과 업데이트</span>
+**<span style="background-color:rgb(207,228,207);">테스트 실행 (Test execution)</span>**<br>
+<span style="background-color:rgb(237,220,195);">테스트 실행 단계에서는 테스트 스위트를 테스트 실행 일정에 따라 실행한다.</span>
 
-**테스트 완료 (Test completion)**<br>
-<span style="background-color:rgb(207,228,207);">테스트 완료</span> 활동은 <span style="background-color:rgb(237,220,195);">완료한 테스트 활동에서 데이터를 수집해서 경험, 테스트웨어, 기타 관련 정보를 축적하는 활동</span>이다. 테스트 완료 활동은 <span style="background-color:rgb(237,220,195);">소프트웨어 시스템을 릴리스 했을 때, 테스트 프로젝트를 완료(또는 취소)했을 때, 애자일 반복주기가 끝났을 때, 특정 테스트 레벨을 완료했을 때, 또는 유지보수 릴리스를 완료했을 때와 같은 프로젝트 마일스톤 시점에서 일어난다.</span><br>
+<span style="background-color:rgb(237,220,195);">테스트 실행의 주요 활동은 다음과 같다:</span>
+- <span style="background-color:rgb(242,213,214);">테스트 항목, 테스트 대상, 테스트 도구, 테스트웨어 등의 고유번호(ID)와 버전 기록</span>
+- <span style="background-color:rgb(242,213,214);">테스트를 수동으로 혹은 테스트 실행 도구를 활용해서 실행</span>
+- <span style="background-color:rgb(242,213,214);">기대 결과와 실제 결과 비교</span>
+- <span style="background-color:rgb(242,213,214);">이상 현상(anomalies)을 분석해 원인 파악 (예를 들어, 장애가 코드 결함 때문에 발생할 수도 있지만 거짓양성일 수도 있다 (1.2.3 절 참조)).</span>
+- <span style="background-color:rgb(242,213,214);">관찰한 장애를 기반으로 결함 보고 (5.6 절 참조)</span>
+- <span style="background-color:rgb(242,213,214);">테스트 실행 결과 기록(예:합격, 불합격, 실행할 수 없음)</span>
+- <span style="background-color:rgb(242,213,214);">이상 현상 때문에 취한 활동의 결과로 인해 또는 계획된 테스팅의 일부로 테스트 활동 반복(예:수정된 테스트 실행, 확인 테스팅이나 리그레션 테스팅 등)</span>
+- <span style="background-color:rgb(242,213,214);">테스트 베이시스, 테스트 컨디션, 테스트 케이스, 테스트 프로시저, 테스트 결과 간의 양방향 추적성 검증과 업데이트</span>
+
+**<span style="background-color:rgb(207,228,207);">테스트 완료 (Test completion)**<br>
+<span style="background-color:rgb(237,220,195);">테스트 완료 활동은 완료한 테스트 활동에서 데이터를 수집해서 경험, 테스트웨어, 기타 관련 정보를 축적하는 활동이다. 테스트 완료 활동은 소프트웨어 시스템을 릴리스 했을 때, 테스트 프로젝트를 완료(또는 취소)했을 때, 애자일 반복주기가 끝났을 때, 특정 테스트 레벨을 완료했을 때, 또는 유지보수 릴리스를 완료했을 때와 같은 프로젝트 마일스톤 시점에서 일어난다.</span>
+
 <span style="background-color:rgb(207,228,207);">테스트 완료의 주요 활동</span>은 다음과 같다:
 - <span style="background-color:rgb(237,220,195);">모든 결함 보고 처리를 완료했는지, 테스트 실행 후 해결되지 않은 모든 결함에 대해 수정 요청서 또는 프로젝트 백로그 항목을 생성했는지 확인</span>
 - <span style="background-color:rgb(237,220,195);">이해관계자에게 전달할 테스트 요약 보고서 생성</span>
