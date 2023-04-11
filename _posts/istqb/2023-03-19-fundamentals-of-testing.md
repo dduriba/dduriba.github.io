@@ -425,7 +425,7 @@ toc_sticky: true
 
 - 테스트 컨디션(test condition):<br>
 유의어 : 테스트 요구사항(test requirement), 테스트 상황(test situation)<br>
-특정 테스트 목적 달성과 관련있는 테스트 베이시스(test basis)의 한 측면
+<span style="color:red">특정 테스트 목적 달성과 관련있는 테스트 베이시스(test basis)의 한 측면</span>
 
 - 테스트 제어(test control):<br>
 연관 항목 : 테스트 관리(test management)<br>
