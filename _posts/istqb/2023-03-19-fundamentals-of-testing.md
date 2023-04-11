@@ -14,8 +14,8 @@ toc_sticky: true
 
 소프트웨어 시스템은 인터넷 은행과 같은 비즈니스 응용 프로그램부터 자동차와 같은 소비자 제품까지 생활의 많은 부분과 밀접하게 연관되어 있다. 많은 사람들은 소프트웨어를 사용하면서 기대한 것과 다르게 동작하는 걸 느낀 적이 있을 것이다. 올바르게 작동하지 않는 소프트웨어는 금전, 시간, 비즈니스 평판 손실은 물론, 심하게는 부상이나 사망에 이르기까지 심각한 문제를 일으킬 수 있다. 소프트웨어 테스팅은 소프트웨어의 품질을 평가하고, 운영 중 소프트웨어 장애의 발생 가능성을 줄이는 하나의 방법이다.<br>
 테스팅에 대해 많이 오해하는 것 중 하나는 테스팅이 단지 소프트웨어를 실행하고 결과를 확인하는 테스트 수행에 국한된다고 생각하는 것이다. 1.4 절에 설명하고 있는 바와 같이, 소프트웨어 테스팅이란 다양한 활동을 포함하는 프로세스이며 테스트 실행(결과 확인 포함)은 그 많은 활동 중 하나일 뿐이다. 테스트 프로세스는 테스트 계획, 분석, 설계, 테스트 구현, 테스트 진행 상황 및 결과 보고, 테스트 대상 품질 평가 등 많은 활동을 포함한다.<br>
-<span style="background-color:rgb(237,220,195);">테스팅 활동에는 테스트 대상 컴포넌트나 시스템을 실행하는 것</span>도 있다. 이런 테스팅을 <span style="background-color:rgb(207,228,207);">동적 테스팅</span>이라 부른다. 반면 <span style="background-color:rgb(237,220,195);">테스트 대상 컴포넌트나 시스템을 실행하지 않는 테스팅</span>도 있다. 이런 테스팅은 <span style="background-color:rgb(207,228,207);">정적 테스팅</span>이라 부른다. 따라서 요구사항, 사용자 스토리, 소스 코드와 같은 작업 산출물에 대한 리뷰 역시 테스팅에 포함된다.<br>
-테스팅에 대한 또 다른 오해는 테스팅이 요구사항, 사용자 스토리, 그 외 기타 명세의 베리피케이션(검증 verification)에만 국한된 활동이라는 것이다. 시스템이 주어진 명세를 충족하는지 확인하는 것이 테스팅에 포함되긴 하지만, 시스템이 운영 환경에서 사용자 또는 기타 이해관계자의 요구를 만족시키는지를 확인하는 밸리데이션(확인 validation) 또한 테스팅에 포함된다.<br>
+<span style="background-color:rgb(237,220,195);">테스팅 활동에는 테스트 대상 컴포넌트나 시스템을 실행하는 것도 있다. 이런 테스팅을 <span style="background-color:rgb(207,228,207);">동적 테스팅</span>이라 부른다.</span> 반면 <span style="background-color:rgb(237,220,195);">테스트 대상 컴포넌트나 시스템을 실행하지 않는 테스팅도 있다. 이런 테스팅은 <span style="background-color:rgb(207,228,207);">정적 테스팅</span>이라 부른다.</span> 따라서 요구사항, 사용자 스토리, 소스 코드와 같은 작업 산출물에 대한 리뷰 역시 테스팅에 포함된다.<br>
+<span style="background-color:rgb(232,233,234);">테스팅에 대한 또 다른 오해는 테스팅이 요구사항, 사용자 스토리, 그 외 기타 명세의 베리피케이션(검증 verification)에만 국한된 활동이라는 것이다. 시스템이 주어진 명세를 충족하는지 확인하는 것이 테스팅에 포함되긴 하지만, <span style="color:red">시스템이 운영 환경에서 사용자 또는 기타 이해관계자의 요구를 만족시키는지를 확인하는 밸리데이션(확인 validation) 또한 테스팅에 포함된다.</span></span><br>
 테스팅 활동은 수명주기 모델에 따라 다르게 계획하고 수행한다 (2.1 절 참조).
 
 ## 1.1.1 테스팅의 일반적인 목적 (Typical Objectives of Testing)
@@ -23,39 +23,39 @@ toc_sticky: true
 
 <span style="color:green">(K1) 테스팅의 일반적인 목적을 파악한다.</span>
 
-일반적인 프로젝트에서 테스팅은 다음과 같은 목적을 가질 수 있다:
-- 요구사항, 사용자스토리, 설계, 소스 코드 등과 같은 <span style="color:blue">작업 산출물 평가에 의한 결함 예방</span>
-- 명시된 모든 <span style="color:blue">요구사항이 충족됐는지 검증</span>
-- 테스트 대상의 <span style="color:blue">완성 여부 확인</span>과 <span style="color:blue">사용자와 기타 이해관계자의 기대치 대로 동작하는지의 확인</span>
-- 테스트 대상의 <span style="color:blue">품질 수준에 대한 자신감 획득</span>
-- <span style="color:blue">부적절한 소프트웨어 품질의 리스크 레벨 감소로 장애와 결함을 발견</span>
-- <span style="color:blue">이해관계자가 테스트 대상의 품질 수준을 결정하는 데 필요한 충분한 정보 제공</span>
-- <span style="color:blue">계약/법률/규제 요구사항이나 표준의 준수</span> 및 테스트 대상이 이러한 요구사항이나 표준을 준수하는지 확인
+<span style="background-color:rgb(207,228,207);">일반적인 프로젝트에서 테스팅은 다음과 같은 목적을 가질 수 있다:</span>
+- <span style="background-color:rgb(237,220,195);">요구사항, 사용자스토리, 설계, 소스 코드 등과 같은 작업 산출물 평가에 의한 결함 예방</span>
+- <span style="background-color:rgb(237,220,195);">명시된 모든 요구사항이 충족됐는지 검증</span>
+- <span style="background-color:rgb(237,220,195);">테스트 대상의 완성 여부 확인과 사용자와 기타 이해관계자의 기대치 대로 동작하는지의 확인</span>
+- <span style="background-color:rgb(237,220,195);">테스트 대상의 품질 수준에 대한 자신감 획득</span>
+- <span style="background-color:rgb(237,220,195);">부적절한 소프트웨어 품질의 리스크 레벨 감소로 장애와 결함을 발견</span>
+- <span style="background-color:rgb(237,220,195);">이해관계자가 테스트 대상의 품질 수준을 결정하는 데 필요한 충분한 정보 제공</span>
+- <span style="background-color:rgb(237,220,195);">계약/법률/규제 요구사항이나 표준의 준수 및 테스트 대상이 이러한 요구사항이나 표준을 준수하는지 확인</span>
 
 테스팅의 목적은 테스트하고 있는 컴포넌트나 시스템의 정황 즉, 현재의 테스트 레벨과 사용하는 소프트웨어 개발 수명주기 모델 등에 따라 달라질 수 있다. 목적이 정황에 따라 달라지는 예는 다음과 같다:
-- <span style="background-color:rgb(207,228,207);">컴포넌트 테스팅의 목적</span> 중 하나는 <span style="background-color:rgb(237,220,195);">내재되어 있는 결함을 최대한 조기에 가능한 많이 식별하고 수정하는 것</span>일 수 있다. 또 다른 목적은 <span style="background-color:rgb(237,220,195);">코드 커버리지를 높이는 것</span>일 수도 있다.
-- <span style="background-color:rgb(207,228,207);">인수 테스팅의 주요 목적</span> 중 하나는 <span style="background-color:rgb(237,220,195);">시스템이 기대한 대로 동작하는지</span>, 또 <span style="background-color:rgb(237,220,195);">요구사항을 충족하는지</span> 확인하는 것일 수 있다. 또 다른 목적은 <span style="background-color:rgb(237,220,195);">특정 시점에 시스템을 배포하는 것에 대한 리스크 정보를 이해관계자에게 제공하는 것</span>일 수 있다.
+- <span style="background-color:rgb(207,228,207);">컴포넌트 테스팅의 목적</span> 중 하나는 <span style="background-color:rgb(237,220,195);"><span style="color:red">내재되어 있는 결함을 최대한 조기에 가능한 많이 식별하고 수정하는 것</span></span>일 수 있다. 또 다른 목적은 <span style="background-color:rgb(237,220,195);"><span style="color:red">코드 커버리지를 높이는 것</span></span>일 수도 있다.
+- <span style="background-color:rgb(207,228,207);">인수 테스팅의 주요 목적</span> 중 하나는 <span style="background-color:rgb(237,220,195);">시스템이 기대한 대로 동작하는지</span>, 또 <span style="background-color:rgb(237,220,195);">요구사항을 충족하는지</span> 확인하는 것일 수 있다. 또 다른 목적은 <span style="background-color:rgb(237,220,195);"><span style="color:red">특정 시점에 시스템을 배포하는 것에 대한 리스크 정보를 이해관계자에게 제공하는 것</span></span>일 수 있다.
 
 ## 1.1.2 테스팅과 디버깅 (Testing and Debugging)
 {: .notice--success}
 
 <span style="color:green">(K2) 테스팅과 디버깅을 구별할 수 있다.</span>
 
-테스팅과 디버깅은 다르다. <span style="background-color:rgb(207,228,207);">테스트</span>를 <span style="background-color:rgb(237,220,195);">실행하면 소프트웨어 결함으로 인한 장애를 찾아낼 수 있으며</span>, <span style="background-color:rgb(207,228,207);">디버깅</span>은 <span style="background-color:rgb(237,220,195);">그런 장애의 원인을 찾고 분석해서 수정하는 개발 활동</span>이다. 이후 실행되는 <span style="background-color:rgb(207,228,207);">확인 테스팅</span>에서 <span style="background-color:rgb(237,220,195);">결함을 제대로 수정했는지 확인</span>한다.
-<span style="background-color:rgb(207,228,207);">테스터</span>가 <span style="background-color:rgb(237,220,195);">초기 테스트와 마지막 확인 테스트를 담당</span>하고 <span style="background-color:rgb(207,228,207);">개발자</span>는 <span style="background-color:rgb(237,220,195);">디버깅 관련 컴포넌트 및 컴포넌트 통합 테스팅 (지속적 통합)을 수행</span>한다.
-반면, <span style="background-color:rgb(207,225,232);">애자일 개발 및 기타 소프트웨어 수명주기 모델에서는 테스터가 디버깅과 컴포넌트 테스팅에 관여하기도 한다.</span><br>
+테스팅과 디버깅은 다르다. <span style="background-color:rgb(207,228,207);"><span style="color:red">테스트</span></span>를 <span style="background-color:rgb(237,220,195);"><span style="color:red">실행하면 소프트웨어 결함으로 인한 장애를 찾아낼 수 있으며</span></span>, <span style="background-color:rgb(207,228,207);"><span style="color:red">디버깅</span></span>은 <span style="background-color:rgb(237,220,195);"><span style="color:red">그런 장애의 원인을 찾고 분석해서 수정하는 개발 활동</span></span>이다. 이후 실행되는 <span style="background-color:rgb(207,228,207);">확인 테스팅</span>에서 <span style="background-color:rgb(237,220,195);">결함을 제대로 수정했는지 확인</span>한다.
+<span style="background-color:rgb(207,228,207);">테스터</span>가 <span style="background-color:rgb(237,220,195);">초기 테스트와 마지막 확인 테스트를 담당</span>하고 <span style="background-color:rgb(207,228,207);"><span style="color:red">개발자</span></span>는 <span style="background-color:rgb(237,220,195);"><span style="color:red">디버깅 관련 컴포넌트 및 컴포넌트 통합 테스팅 (지속적 통합)을 수행</span></span>한다.
+반면, <span style="background-color:rgb(207,228,207);">애자일 개발 및 기타 소프트웨어 수명주기 모델</span>에서는 <span style="background-color:rgb(237,220,195);">테스터가 디버깅과 컴포넌트 테스팅에 관여하기도 한다.</span><br>
 소프트웨어 테스팅 개념에 대한 추가적인 정보는 ISO 표준(ISO/IEC/IEEE 29119-1)에서 찾을 수 있다.
 
 # 1.2 테스팅이 왜 필요한가? Why is Testing Necessary? 
 {: .notice--warning .text-center}
 
 <span style="background-color:rgb(207,228,207);">컴포넌트, 시스템 및 관련 문서에 대한 철저한 테스팅</span>은 <span style="background-color:rgb(237,220,195);">운영 중 장애 발생 가능성을 줄이는 데 도움</span>이 된다.
-<span style="background-color:rgb(207,228,207);">결함을 발견하고 또 발견된 결함을 수정하는 것</span>은 <span style="background-color:rgb(237,220,195);">컴포넌트나 시스템의 품질에 기여</span>하는 것이다. 또한, <span style="background-color:rgb(207,228,207);">소프트웨어 테스팅</span>이 <span style="background-color:rgb(237,220,195);">계약/법적 요구사항이나 특정 산업 표준을 만족시키기 위해 필요</span>할 수도 있다.
+<span style="background-color:rgb(207,228,207);">결함을 발견하고 또 발견된 결함을 수정하는 것</span>은 <span style="background-color:rgb(237,220,195);">컴포넌트나 시스템의 품질에 기여</span>하는 것이다. 또한, <span style="background-color:rgb(207,228,207);">소프트웨어 테스팅</span>이 <span style="background-color:rgb(237,220,195);">계약/법적 요구사항이나 특정 산업 표준을 만족시키기 위해 필요할 수도 있다.</span>
 
 ## 1.2.1 성공을 위한 테스팅의 기여 (Testing’s Contributions to Success)
 {: .notice--success}
 
-<span style="color:green">(K2) 테스팅이 왜 필요한지 예를 들 수 있다.</span>
+<span style="color:green">(K2) <span style="background-color:rgb(207,228,207);">테스팅이 왜 필요한지 예</span>를 들 수 있다.</span>
 
 컴퓨터의 역사에서 소프트웨어와 시스템이 운영을 위해 배포된 후로, 결함으로 장애가 발생하거나 이해관계자의 요구를 충족시키지 못하는 상황은 늘 있었다. 하지만 적절한 테스트 기법을 적절한 테스트 전문성을 가지고 적절한 테스트 레벨과 개발 수명주기 단계에 적용하면, 소프트웨어와 시스템이 그런 문제를 안고 배포되는 경우를 줄일 수 있다. 대표적인 예로는:
 - <span style="background-color:rgb(237,220,195);">테스터를 요구사항 리뷰 혹은 사용자 스토리 개선에 참여시키면 해당 작업 산출물에서 결함을 발견할 수 있다. 요구사항 결함을 식별하고 제거하면 잘못된 혹은 테스트할 수 없는 기능이 개발되는 리스크를 줄일 수 있다.</span>
@@ -71,8 +71,8 @@ toc_sticky: true
 
 <span style="color:green">(K2) 품질 보증과 테스팅의 관계를 설명하고, 높은 품질 확보에 테스팅이 어떻게 기여하는지 예를 들 수 있다.</span>
 
-일반적으로 사람들이 품질 보증(QA, Quality Assurance)과 테스팅을 혼용해서 사용하는 경우가 많은데 어느 정도 연관성이 있지만 품질 보증과 테스팅은 다른 개념이다. 둘 다 좀 더 포괄적인 개념인 품질 관리(quality management)에 속한다.<br>
-품질 관리에는 품질 측면에서 조직이 나아가야 하는 방향을 제시하고 제어하는 모든 활동이 포함된다. 품질 관리는 또한 품질 보증과 품질 제어를 포함한 여러 가지 활동을 포함한다.<br>
+<span style="background-color:rgb(232,233,234);">일반적으로 사람들이 품질 보증(QA, Quality Assurance)과 테스팅을 혼용해서 사용하는 경우가 많은데 어느 정도 연관성이 있지만 품질 보증과 테스팅은 다른 개념이다. 둘 다 좀 더 포괄적인 개념인 품질 관리(quality management)에 속한다.<br>
+품질 관리에는 품질 측면에서 조직이 나아가야 하는 방향을 제시하고 제어하는 모든 활동이 포함된다. 품질 관리는 또한 품질 보증과 품질 제어를 포함한 여러 가지 활동을 포함한다.</span><br>
 일반적으로 <span style="background-color:rgb(207,228,207);">품질 보증</span>은 <span style="background-color:rgb(237,220,195);">적절한 품질 수준을 달성했는지 확신을 얻기 위해 적절한 프로세스를 준수하도록 하는 것에 초점을 두고 있다. 프로세스를 따를 경우, 해당 프로세스를 바탕으로 생성되는 작업 산출물의 품질은 더 월등한 경우가 많으며, 높은 작업 산출물 품질은 결함 예방에 도움이 된다. 또한, 결함의 원인을 찾아서 제거하기 위한 근본 원인 분석(root cause analysis)의 활용과 회고 회의(retrospective meetings)의 결과를 적절하게 적용해서 프로세스를 개선하는 것은 효과적인 품질 보증에 매우 중요한 사항들이다.</span><br>
 <span style="background-color:rgb(207,228,207);">품질 제어</span>에도 <span style="background-color:rgb(237,220,195);">적합한 품질 수준을 달성하기 위한 다양한 활동이 있으며, 테스트 활동도 여기에 포함된다. 테스트 활동은 전반적인 소프트웨어 개발 및 유지보수 프로세스의 일부이다.</span><br>
 품질 보증에서는 전반적인 프로세스의 올바른 수행 여부에 관심을 가지기 때문에 올바른 테스팅의 적용에도 관심을 가진다. 테스팅은 품질을 높이는 데 다양한 방법으로 기여한다.
@@ -84,17 +84,17 @@ toc_sticky: true
 
 사람은 프로그램 코드 또는 기타 작업 산출물을 작성하면서 결함(결점, 버그)을 발생시키는 오류(실수)를 범할 수 있다. 특정 작업 산출물 내 결함의 원인이 되는 오류는 연관된 다른 작업 산출물의 결함의 원인이 되는 또 다른 오류의 계기가 될 수 있다. 예를 들어, 요구사항을 도출하면서 범해진 오류는 요구사항 결함이 되며, 이런 요구사항 결함은 프로그램 작성 시 오류를 일으켜 결국 코드 결함의 원인이 된다.<br>
 코드의 결함이 실행되면 장애를 일으킬 수 있지만 반드시 그런 것은 아니다. 예를 들어, 결함 중 일부는 발생 가능성이 없거나 매우 낮아서 특수한 입력이나 사전조건이 충족돼야 장애를 일으킬 수 있다.<br>
-대표적인 오류 발생 원인은 다음과 같다:
-- 시간적인 압박
-- 사람의 실수
-- 경험이 적거나 기술이 부족한 프로젝트 참여자
-- 요구사항과 설계 등에 대한 프로젝트 참여자 간의 의사소통 문제
-- 코드, 설계, 아키텍처의 복잡성, 해결해야 하는 근본 문제, 사용하는 기술의 복잡도
-- 시스템 내/외부 인터페이스에 대한 이해 부족, 특히 내/외부 인터페이스 수가 많은 경우
-- 새롭고 익숙하지 않은 기술
+<span style="background-color:rgb(207,228,207);">대표적인 오류 발생 원인은 다음과 같다:</span>
+- <span style="background-color:rgb(237,220,195);">시간적인 압박</span>
+- <span style="background-color:rgb(237,220,195);">사람의 실수</span>
+- <span style="background-color:rgb(237,220,195);">경험이 적거나 기술이 부족한 프로젝트 참여자</span>
+- <span style="background-color:rgb(237,220,195);">요구사항과 설계 등에 대한 프로젝트 참여자 간의 의사소통 문제</span>
+- <span style="background-color:rgb(237,220,195);">코드, 설계, 아키텍처의 복잡성, 해결해야 하는 근본 문제, 사용하는 기술의 복잡도</span>
+- <span style="background-color:rgb(237,220,195);">시스템 내/외부 인터페이스에 대한 이해 부족, 특히 내/외부 인터페이스 수가 많은 경우</span>
+- <span style="background-color:rgb(237,220,195);">새롭고 익숙하지 않은 기술</span>
 
 <span style="background-color:rgb(207,228,207);">장애</span>는 <span style="background-color:rgb(237,220,195);">코드 결함뿐만 아니라 환경 조건으로 인해 발생할 수도 있다. 예를 들어, 방사능, 전자기장, 환경 오염 등은 펌웨어 결함의 원인이 되거나 하드웨어 상태를 변화시킴으로써 소프트웨어 실행에 영향을 줄 수 있다.</span><br>
-테스트 결과가 기대한 것과 다르다고 해서 무조건 장애가 있다고 볼 수는 없다. 테스트 실행 방식의 오류나 테스트 데이터, 테스트 환경, 기타 테스트웨어에 결함이 있는 경우, 또는 그 외 다양한 이유로 거짓양성(false positive)이 발생할 수 있다. 비슷한 오류나 결함이 거짓음성(false negative)의 원인이 되는 반대의 경우도 발생할 수 있다. <span style="background-color:rgb(207,228,207);">거짓음성</span>은 <span style="background-color:rgb(237,220,195);">테스트가 발견했어야 할 결함을 발견하지 못하는 경우</span>이며, <span style="background-color:rgb(207,228,207);">거짓양성</span>은 <span style="background-color:rgb(237,220,195);">결함으로 보고됐지만 실제 결함이 아닌 경우</span>를 말한다.
+테스트 결과가 기대한 것과 다르다고 해서 무조건 장애가 있다고 볼 수는 없다. 테스트 실행 방식의 오류나 테스트 데이터, 테스트 환경, 기타 테스트웨어에 결함이 있는 경우, 또는 그 외 다양한 이유로 거짓양성(false positive)이 발생할 수 있다. 비슷한 오류나 결함이 거짓음성(false negative)의 원인이 되는 반대의 경우도 발생할 수 있다. <span style="background-color:rgb(207,228,207);"><span style="color:red">거짓음성</span></span>은 <span style="background-color:rgb(237,220,195);"><span style="color:red">테스트가 발견했어야 할 결함을 발견하지 못하는 경우</span></span>이며, <span style="background-color:rgb(207,228,207);"><span style="color:red">거짓양성</span></span>은 <span style="background-color:rgb(237,220,195);"><span style="color:red">결함으로 보고됐지만 실제 결함이 아닌 경우</span></span>를 말한다.
 
 ## 1.2.4 결함, 근본 원인, 결과 (Defects, Root Causes and Effects)
 {: .notice--success}
@@ -103,14 +103,14 @@ toc_sticky: true
 
 <span style="background-color:rgb(207,228,207);">결함의 근본 원인</span>은 <span style="background-color:rgb(237,220,195);">해당 결함을 만들어낸 최초의 행동이나 조건</span>을 말한다. 결함을 분석함으로써 근본 원인을 찾을 수 있으며, 차후 유사한 결함의 발생 가능성을 낮출 수 있다. 가장 근본적인 원인을 분석하고 여기에 집중하기 때문에, 이를 기반으로 이루어지는 프로세스 개선은 이후 발생하는 결함 수를 상당 부분 줄여준다.<br>
 예를 들어, 단 한 줄의 잘못된 코드로 인한 이자 지급 오류는 소비자 불만을 초래한다. 제품 소유자가 이자 계산법을 잘못 이해해서 작성한 애매모호한 사용자 스토리를 기반으로 코드가 잘못 작성되었다. 대부분의 결함이 이자 계산식에 존재하며 해당 결함들의 근본 원인 역시 비슷한 오해로 인한 것이라면, 차후 유사한 결함의 발생 가능성을 낮추기 위해 제품 소유자에게 이자 계산에 대한 교육을 제공할 수 있다.<br>
-앞의 예제에서의 <span style="background-color:rgb(207,228,207);">결과</span>는 <span style="background-color:rgb(237,220,195);">소비자 불만</span>이며 <span style="background-color:rgb(207,228,207);">장애</span>는 <span style="background-color:rgb(237,220,195);">잘못된 이자 지급</span>이다. <span style="background-color:rgb(207,228,207);">결함</span>은 <span style="background-color:rgb(237,220,195);">코드에 포함된 잘못된 계산식</span>이며, 그것의 <span style="background-color:rgb(207,228,207);">원인이 되는 최초 결함</span>은 <span style="background-color:rgb(237,220,195);">사용자 스토리의 모호성</span>이다. <span style="background-color:rgb(207,228,207);">최초 결함의 근본 원인</span>은 <span style="background-color:rgb(237,220,195);">제품 소유자의 지식 부족</span>이었으며, 그 결과로 <span style="background-color:rgb(237,220,195);">제품 소유자가 사용자 스토리를 작성할 때</span> <span style="background-color:rgb(207,228,207);">오류</span><span style="background-color:rgb(237,220,195);">를 범했다</span>고 볼 수 있다. 근본 원인 분석 프로세스는 ISTQB-CTFL-TM 및 ISTQB-CTFL-ITP 에서 다루고 있다.
+앞의 예제에서의 <span style="background-color:rgb(207,228,207);">결과</span>는 <span style="background-color:rgb(237,220,195);">소비자 불만</span>이며 <span style="background-color:rgb(207,228,207);">장애</span>는 <span style="background-color:rgb(237,220,195);">잘못된 이자 지급</span>이다. <span style="background-color:rgb(207,228,207);">결함</span>은 <span style="background-color:rgb(237,220,195);">코드에 포함된 잘못된 계산식</span>이며, 그것의 <span style="background-color:rgb(207,228,207);">원인이 되는 최초 결함</span>은 <span style="background-color:rgb(237,220,195);">사용자 스토리의 모호성</span>이다. <span style="background-color:rgb(207,228,207);">최초 결함의 근본 원인</span>은 <span style="background-color:rgb(237,220,195);">제품 소유자의 지식 부족</span>이었으며, 그 결과로 <span style="background-color:rgb(237,220,195);">제품 소유자가 사용자 스토리를 작성할 때 <span style="background-color:rgb(207,228,207);">오류</span>를 범했다</span>고 볼 수 있다. 근본 원인 분석 프로세스는 ISTQB-CTFL-TM 및 ISTQB-CTFL-ITP 에서 다루고 있다.
 
 # 1.3 테스팅의 7 가지 원리 Seven Testing Principles
 {: .notice--warning .text-center}
 
 <span style="color:green">(K2) 테스팅의 7 가지 원리를 설명할 수 있다.</span>
 
-1. <span style="background-color:rgb(207,228,207);">테스팅은 결함이 존재함을 밝히는 활동이지, 결함이 없음을 밝히는 활동이 아니다< (Testing shows the presence of defects, not their absence)</span><br>
+1. <span style="background-color:rgb(207,228,207);">테스팅은 결함이 존재함을 밝히는 활동이지, 결함이 없음을 밝히는 활동이 아니다 (Testing shows the presence of defects, not their absence)</span><br>
 <span style="background-color:rgb(237,220,195);">테스팅은 결함이 존재한다는 것을 보여줄 수 있지만, 결함이 없다는 것을 증명할 수 없다. 테스팅은 소프트웨어에 발견되지 않은 결함의 존재 가능성을 줄일 수는 있지만, 결함이 전혀 발견되지 않았다 하더라도 해당 소프트웨어가 완벽하다는 뜻은 아니다.</span>
 2. <span style="background-color:rgb(207,228,207);">완벽한(exhaustive) 테스팅은 불가능하다 (Exhaustive testing is impossible)</span><br>
 <span style="background-color:rgb(237,220,195);">모든 것(입력과 사전 조건의 모든 조합)을 테스팅 한다는 것은 매우 간단한 소프트웨어를 제외하고는 불가능하다. 따라서, 완벽하게 테스트하고자 하기보다는 리스크 분석과 우선순위를 토대로한 테스트에 노력을 집중하는 것이 좋다.</span>
@@ -393,6 +393,14 @@ toc_sticky: true
 참조 : ISO 9000<br>
 품질 관리의 일환으로, 품질 요구사항이 준수될 것이라는 신뢰를 제공하는 데 중점을 둠
 
+- 품질 제어(quality control):<br>
+참조 : ISO 8402<br>
+품질 관리의 일부로서 품질 요구사항을 준수하는 데 중점을 둔 운영상의 기술과 활동
+
+- 품질 관리(quality management):<br>
+참조 : ISO 9000<br>
+품질과 관련하여 조직을 감독하고 통제하는 조정 활동. 품질 관련 감독과 통제에는 일반적으로 품질 정책과 품질 목표 수립, 품질 계획, 품질 제어, 품질 보증 및 품질 개선이 포함됨
+
 - 근본 원인(root cause):<br>
 참조 : CMMI<br>
 결함의 원인 중 제거되면 해당 결함유형 발생이 감소하거나 제거될 수 있는 원인
@@ -482,6 +490,10 @@ toc_sticky: true
 - 사용자 스토리(user story):<br>
 연관 항목 : 애자일 소프트웨어 개발(Agile software development), 요구사항(requirement)<br>
 애자일 소프트웨어 개발에서 보편적으로 사용되는 상위 수준의 사용자 또는 비즈니스 요구사항. 일반적으로 일상 언어나 비즈니스 언어로 된 하나의 문장으로 구성되며, 사용자에게 필요한 기능, 필요한 이유, 연관된 비기능적 기준, 인수 조건 등을 설명
+
+- 회고 회의(retrospective meeting):<br>
+유의어 : 프로젝트 종료 후 회의(post-project meeting)<br>
+프로젝트가 종료될 때 프로젝트 팀원들이 그동안의 프로젝트를 평가하고 다음 프로젝트에 적용할 수 있는 교훈을 공유하는 회의
 
 </div>
 </details>
