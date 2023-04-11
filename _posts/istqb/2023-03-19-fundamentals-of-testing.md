@@ -252,16 +252,16 @@ toc_sticky: true
 - <span style="background-color:rgb(242,213,214);">이상 현상 때문에 취한 활동의 결과로 인해 또는 계획된 테스팅의 일부로 테스트 활동 반복(예:수정된 테스트 실행, 확인 테스팅이나 리그레션 테스팅 등)</span>
 - <span style="background-color:rgb(242,213,214);">테스트 베이시스, 테스트 컨디션, 테스트 케이스, 테스트 프로시저, 테스트 결과 간의 양방향 추적성 검증과 업데이트</span>
 
-**<span style="background-color:rgb(207,228,207);">테스트 완료 (Test completion)**<br>
+**<span style="background-color:rgb(207,228,207);">테스트 완료 (Test completion)</span>**<br>
 <span style="background-color:rgb(237,220,195);">테스트 완료 활동은 완료한 테스트 활동에서 데이터를 수집해서 경험, 테스트웨어, 기타 관련 정보를 축적하는 활동이다. 테스트 완료 활동은 소프트웨어 시스템을 릴리스 했을 때, 테스트 프로젝트를 완료(또는 취소)했을 때, 애자일 반복주기가 끝났을 때, 특정 테스트 레벨을 완료했을 때, 또는 유지보수 릴리스를 완료했을 때와 같은 프로젝트 마일스톤 시점에서 일어난다.</span>
 
-<span style="background-color:rgb(207,228,207);">테스트 완료의 주요 활동</span>은 다음과 같다:
-- <span style="background-color:rgb(237,220,195);">모든 결함 보고 처리를 완료했는지, 테스트 실행 후 해결되지 않은 모든 결함에 대해 수정 요청서 또는 프로젝트 백로그 항목을 생성했는지 확인</span>
-- <span style="background-color:rgb(237,220,195);">이해관계자에게 전달할 테스트 요약 보고서 생성</span>
-- <span style="background-color:rgb(237,220,195);">차후 재사용을 위해 테스트 환경, 테스트 인프라, 기타 테스트웨어의 마무리 및 보관</span>
-- <span style="background-color:rgb(237,220,195);">테스트웨어를 유지보수팀, 다른 프로젝트팀, 그것을 활용할 수 있는 기타 이해관계자 등에게 인계</span>
-- <span style="background-color:rgb(237,220,195);">완료한 테스트 활동을 통해 얻은 교훈을 분석해서 향후 반복주기, 릴리스, 또는 프로젝트를 위해 수정해야 하는 사항 판단</span>
-- <span style="background-color:rgb(237,220,195);">테스트 프로세스 성숙도 개선을 위해 수집된 정보 활용</span>
+<span style="background-color:rgb(237,220,195);">테스트 완료의 주요 활동은 다음과 같다:</span>
+- <span style="background-color:rgb(242,213,214);">모든 결함 보고 처리를 완료했는지, 테스트 실행 후 해결되지 않은 모든 결함에 대해 수정 요청서 또는 프로젝트 백로그 항목을 생성했는지 확인</span>
+- <span style="background-color:rgb(242,213,214);">이해관계자에게 전달할 테스트 요약 보고서 생성</span>
+- <span style="background-color:rgb(242,213,214);">차후 재사용을 위해 테스트 환경, 테스트 인프라, 기타 테스트웨어의 마무리 및 보관</span>
+- <span style="background-color:rgb(242,213,214);">테스트웨어를 유지보수팀, 다른 프로젝트팀, 그것을 활용할 수 있는 기타 이해관계자 등에게 인계</span>
+- <span style="background-color:rgb(242,213,214);">완료한 테스트 활동을 통해 얻은 교훈을 분석해서 향후 반복주기, 릴리스, 또는 프로젝트를 위해 수정해야 하는 사항 판단</span>
+- <span style="background-color:rgb(242,213,214);">테스트 프로세스 성숙도 개선을 위해 수집된 정보 활용</span>
 
 ## 1.4.3 테스트 작업 산출물 (Test Work Products)
 {: .notice--success}
@@ -497,6 +497,8 @@ toc_sticky: true
 - 회고 회의(retrospective meeting):<br>
 유의어 : 프로젝트 종료 후 회의(post-project meeting)<br>
 프로젝트가 종료될 때 프로젝트 팀원들이 그동안의 프로젝트를 평가하고 다음 프로젝트에 적용할 수 있는 교훈을 공유하는 회의
+
+- 마일스톤(milestone): 정해진 (중간)산출물과 결과가 준비완료되어야 하는 프로젝트의 특정 시점
 
 </div>
 </details>
