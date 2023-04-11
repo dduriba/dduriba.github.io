@@ -112,11 +112,11 @@ toc_sticky: true
 데이터 주도와 키워드 주도 테스트 접근법에 대한 자세한 내용과 예는 (ISTQB-CTAL-TAE, Fewster 1999 및 Buwalda 2001)에 나와 있다.<br>
 <u>모델 기반 테스팅(MBT, Model based testing) 도구는 기능 명세를 액티비티 다이어그램과 같은 모델의 형태로 표현</u>할 수 있도록 해준다. 일반적으로 이 작업은 <u>시스템 설계자가 수행</u>한다. MBT 도구는 모델을 해석해 테스트 케이스 명세를 생성하고, 생성한 명세는 테스트 관리 도구에 저장하거나 테스트 실행 도구로 실행한다 (ISTQB- CTFL-MBT 참조).
 
-**<span style="background-color:rgb(207,228,207);">테스트 관리 도구</span> (Test management tools)**<br>
-테스트 관리 도구는 아래와 같은 여러 이유로 <u>다른 도구나 스프레드시트와 연동</u>해야 하는 경우가 많다:
-- <span style="color:blue">필요한 정보를 생성</span>하기 위해
-- <span style="color:blue">요구사항 관리 도구에 저장된 요구사항과의 추적성을 지속적으로 유지</span>하기 위해
-- <span style="color:blue">형상 관리 도구에 저장된 테스트 대상 버전 정보와 연결</span>하기 위해
+**<span style="background-color:rgb(207,228,207);">테스트 관리 도구 (Test management tools)</span>**<br>
+<span style="background-color:rgb(237,220,195);">테스트 관리 도구는 아래와 같은 여러 이유로 다른 도구나 스프레드시트와 연동해야 하는 경우가 많다:</span>
+- <span style="background-color:rgb(242,213,214);">필요한 정보를 생성하기 위해</span>
+- <span style="background-color:rgb(242,213,214);">요구사항 관리 도구에 저장된 요구사항과의 추적성을 지속적으로 유지하기 위해</span>
+- <span style="background-color:rgb(242,213,214);">형상 관리 도구에 저장된 테스트 대상 버전 정보와 연결하기 위해</span>
 
 이는 <u>통합 도구(예: ALM, Application Lifecycle Management 애플리케이션 수명주기 관리)를 사용할 때 특히 중요</u>하다. 애플리케이션 수명주기 관리 도구에는 조직 내 다양한 그룹에서 사용하는 기타 모듈(예: 프로젝트 일정과 예산 정보)뿐 아니라 테스트 관리 도구 모듈도 들어있다.
 
@@ -128,48 +128,48 @@ toc_sticky: true
 
 <span style="color:green">(K1) 도구 선택의 주요 원칙을 식별할 수 있다.</span>
 
-<span style="background-color:rgb(207,228,207);">조직에 맞는 도구를 선택</span>하는데 <span style="background-color:rgb(237,220,195);">주요 고려 사항</span>은 다음과 같다:
-- 조직의 강점, 약점 등 <span style="color:blue">성숙도 수준 평가</span>
-- 도구의 지원으로 <span style="color:blue">테스트 프로세스 개선 기회 식별</span>
-- 테스트 대상이 이용하는 기술을 이해해 <span style="color:blue">테스트 대상과 호환 가능한 도구 선택</span>
-- 호환과 통합이 가능한 도구 확인을 위해, 조직에서 <span style="color:blue">이미 사용하고 있는 빌드와 지속적인 통합 도구 이해</span>
-- 명확한 요구사항과 객관적인 기준에 맞는 도구 평가
-- 도구를 일정 기간 무료로 시험해 볼 수 있는지 여부
-- 공급자 평가(교육, 지원, 상용 제품) 또는 비 상업적(예: 오픈소스) 도구 지원 평가
-- 조직이 요구하는 도구 사용 <span style="color:blue">코칭과 멘토 요구사항 식별</span>
-- 도구를 직접 사용할 <span style="color:blue">사람의 테스팅</span>(테스트 자동화 포함) <span style="color:blue">역량을 고려한 훈련 수요 확인</span>
-- 다양한 라이센스 모델(예: 상용 제품이나 오픈소스)의 장단점 고려
-- 필요 시 구체적인 비즈니스 사례에 근거해 <span style="color:blue">비용 대비 효과 추정</span>
+<span style="background-color:rgb(207,228,207);"><span style="color:blue">조직에 맞는 도구를 선택</span>하는데 주요 고려 사항은 다음과 같다:</span>
+- <span style="background-color:rgb(237,220,195);">조직의 강점, 약점 등 성숙도 수준 평가</span>
+- <span style="background-color:rgb(237,220,195);">도구의 지원으로 테스트 프로세스 개선 기회 식별</span>
+- <span style="background-color:rgb(237,220,195);">테스트 대상이 이용하는 기술을 이해해 테스트 대상과 호환 가능한 도구 선택</span>
+- <span style="background-color:rgb(237,220,195);">호환과 통합이 가능한 도구 확인을 위해, 조직에서 이미 사용하고 있는 빌드와 지속적인 통합 도구 이해</span>
+- <span style="background-color:rgb(237,220,195);">명확한 요구사항과 객관적인 기준에 맞는 도구 평가</span>
+- <span style="background-color:rgb(237,220,195);">도구를 일정 기간 무료로 시험해 볼 수 있는지 여부</span>
+- <span style="background-color:rgb(237,220,195);">공급자 평가(교육, 지원, 상용 제품) 또는 비 상업적(예: 오픈소스) 도구 지원 평가</span>
+- <span style="background-color:rgb(237,220,195);">조직이 요구하는 도구 사용 코칭과 멘토 요구사항 식별</span>
+- <span style="background-color:rgb(237,220,195);">도구를 직접 사용할 사람의 테스팅(테스트 자동화 포함) 역량을 고려한 훈련 수요 확인</span>
+- <span style="background-color:rgb(237,220,195);">다양한 라이센스 모델(예: 상용 제품이나 오픈소스)의 장단점 고려</span>
+- <span style="background-color:rgb(237,220,195);">필요 시 구체적인 비즈니스 사례에 근거해 비용 대비 효과 추정</span>
 
-마지막으로 <span style="background-color:rgb(207,228,207);">사전 검증(proof-of-concept)을 진행</span>해야 한다. 사전 검증으로 <u>테스트 대상 소프트웨어와 현재 인프라 환경에서 도구가 효과적으로 동작하는지 확인</u>하고 <u>필요한 경우에는 효율적으로 도구를 사용하는 데 필요한 요구사항을 식별</u>한다.
+<span style="background-color:rgb(237,220,195);">마지막으로 <span style="color:blue"><span style="background-color:rgb(207,228,207);">사전 검증(proof-of-concept)</span>을 진행</span>해야 한다. 사전 검증으로 테스트 대상 소프트웨어와 현재 인프라 환경에서 도구가 효과적으로 동작하는지 확인하고 필요한 경우에는 효율적으로 도구를 사용하는 데 필요한 요구사항을 식별한다.</span>
 
 ## 6.2.2 도구 도입을 위한 파일럿 프로젝트 (Pilot Projects for Introducing a Tool into an Organization)
 {: .notice--success}
 
 <span style="color:green">(K1) 도구를 도입할 때 파일럿 프로젝트의 목적을 상기할 수 있다.</span>
 
-도구 선택과 사전 검증이 성공적으로 끝난 다음 선택한 도구를 조직에 도입하는 시점은 주로 <span style="background-color:rgb(207,228,207);">파일럿 프로젝트(pilot project)</span>이다.<br>
-<span style="background-color:rgb(237,220,195);">파일럿 프로젝트의 목적</span>은 다음과 같다:
-- 깊이 있는 <span style="color:blue">도구 지식의 습득, 장단점 모두 이해</span>
-- 도구를 <span style="color:blue">기존 프로세스와 프랙티스에 어떻게 적용할지 평가하고 무엇을 변경할지 결정</span>
-- <span style="color:blue">도구와 테스트 작업 산출물의 사용, 관리, 저장, 유지보수에 대한 기준 결정</span> (예: 파일과 테스트를 명명하는 규칙 결정, 코딩 표준 선택, 라이브러리 생성, 테스트 스위트의 모듈성 정의)
-- 목표한 가치를 <span style="color:blue">적절한 비용</span>으로 달성할 수 있는지 평가
-- 도구에서 수집하고 보고하기를 희망하는 메트릭을 이해하고 그런 <span style="color:blue">메트릭을 도출하고 보고할 수 있도록 도구를 설정</span>
+<span style="color:blue">도구 선택과 사전 검증이 성공적으로 끝난 다음 선택한 도구를 조직에 도입하는 시점은 주로 <span style="background-color:rgb(207,228,207);">파일럿 프로젝트(pilot project)</span>이다.</span><br>
+<span style="background-color:rgb(237,220,195);">파일럿 프로젝트의 목적은 다음과 같다:</span>
+- <span style="background-color:rgb(242,213,214);">깊이 있는 도구 지식의 습득, 장단점 모두 이해</span>
+- <span style="background-color:rgb(242,213,214);">도구를 기존 프로세스와 프랙티스에 어떻게 적용할지 평가하고 무엇을 변경할지 결정</span>
+- <span style="background-color:rgb(242,213,214);">도구와 테스트 작업 산출물의 사용, 관리, 저장, 유지보수에 대한 기준 결정 (예: 파일과 테스트를 명명하는 규칙 결정, 코딩 표준 선택, 라이브러리 생성, 테스트 스위트의 모듈성 정의)</span>
+- <span style="background-color:rgb(242,213,214);">목표한 가치를 적절한 비용으로 달성할 수 있는지 평가</span>
+- <span style="background-color:rgb(242,213,214);">도구에서 수집하고 보고하기를 희망하는 메트릭을 이해하고 그런 메트릭을 도출하고 보고할 수 있도록 도구를 설정</span>
 
 ## 6.2.3 도구 성공 요인 (Success Factors for Tools)
 {: .notice--success}
 
 <span style="color:green">(K1) 조직의 테스트 도구에 대한 평가, 시행, 배포, 상시 지원의 성공 요인을 식별할 수 있다.</span>
 
-<span style="background-color:rgb(207,228,207);">조직에 도구의 평가, 구현, 배포, 지속적인 지원</span>을 위한 <span style="background-color:rgb(237,220,195);">성공 요인</span>은 다음과 같다:
-- 조직의 다른 부서에 <span style="color:blue">도구 사용 전파</span>를 점진적으로 진행
-- 도구의 사용법에 맞게 <span style="color:blue">프로세스를 수정하고 개선</span>
-- 도구 사용자에게 <span style="color:blue">교육, 코칭, 멘토링 제공</span>
-- 도구사용에 필요한 <span style="color:blue">지침을 정의</span> (예: 사내 자동화 규정)
-- 실제 도구 사용에서 얻은 <span style="color:blue">사용법 정보의 수집 방법 구현</span>
-- 도구 사용 <span style="color:blue">현황과 성과를 모니터링</span>
-- 특정 도구 사용자에게 지원 제공
-- 모든 사용자로부터 <span style="color:blue">사용 후 교훈 수집</span>
+<span style="background-color:rgb(207,228,207);">조직에 도구의 평가, 구현, 배포, 지속적인 지원을 위한 성공 요인은 다음과 같다:</span>
+- <span style="background-color:rgb(237,220,195);">조직의 다른 부서에 도구 사용 전파를 점진적으로 진행</span>
+- <span style="background-color:rgb(237,220,195);">도구의 사용법에 맞게 프로세스를 수정하고 개선</span>
+- <span style="background-color:rgb(237,220,195);">도구 사용자에게 교육, 코칭, 멘토링 제공</span>
+- <span style="background-color:rgb(237,220,195);">도구사용에 필요한 지침을 정의 (예: 사내 자동화 규정)</span>
+- <span style="background-color:rgb(237,220,195);">실제 도구 사용에서 얻은 사용법 정보의 수집 방법 구현</span>
+- <span style="background-color:rgb(237,220,195);">도구 사용 현황과 성과를 모니터링</span>
+- <span style="background-color:rgb(237,220,195);">특정 도구 사용자에게 지원 제공</span>
+- <span style="background-color:rgb(237,220,195);">모든 사용자로부터 사용 후 교훈 수집</span>
 
 소프트웨어 개발 수명주기와 도구를 기술적으로, 유기적으로 통합하는 게 중요하다. 가령 운영이나 외부 공급업체를 담당하는 조직을 별도로 둔다. 테스트 실행 도구사용 경험, 사례와 조언은 Graham 2012 를 참조한다.
 
