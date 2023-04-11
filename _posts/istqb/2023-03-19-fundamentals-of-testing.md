@@ -130,7 +130,7 @@ toc_sticky: true
 # 1.4 테스트 프로세스 Test Process
 {: .notice--warning .text-center}
 
-모두가 사용하는 일반적인 테스트 프로시저는 없지만, <span style="background-color:rgb(237,220,195);">설정한 목적의 달성 가능성을 높여주는 공통적인 테스트 활동 세트(sets)는 존재한다. 이런 테스트 활동 세트</span>를 <span style="background-color:rgb(207,228,207);">테스트 프로세스</span>라 한다. 주어진 상황에 맞는 구체적인 소프트웨어 테스트 프로세스는 다양한 변수에 따라 결정된다.
+<span style="background-color:rgb(237,220,195);">모두가 사용하는 일반적인 테스트 프로시저는 없지만, 설정한 목적의 달성 가능성을 높여주는 공통적인 테스트 활동 세트(sets)는 존재한다. 이런 테스트 활동 세트를 <span style="background-color:rgb(207,228,207);">테스트 프로세스</span>라 한다.</span> 주어진 상황에 맞는 구체적인 소프트웨어 테스트 프로세스는 다양한 변수에 따라 결정된다.
 테스트 프로세스에 속하는 테스트 활동과 이런 활동을 어떻게 구현할지, 또 이런 활동을 언제 수행할지에 대한 내용은 조직의 테스트 전략에서 다룰 수 있다.
 
 ## 1.4.1 정황에 따른 테스트 프로세스 (Test Process in Context)
@@ -138,23 +138,23 @@ toc_sticky: true
 
 <span style="color:green">(K2) 정황이 테스트 프로세스에 미치는 영향에 대해 설명할 수 있다.</span>
 
-다음은 조직의 테스트 프로세스에 영향을 줄 수 있는 정황 요소 중 일부이다:
-- 사용 중인 <span style="color:blue">소프트웨어 개발 수명주기 모델</span>과 <span style="color:blue">프로젝트 방법론</span>
-- 적용하고자 하는 <span style="color:blue">테스트 레벨</span>과 <span style="color:blue">테스트 유형</span>
-- <span style="color:blue">제품 및 프로젝트 리스크</span>
-- <span style="color:blue">비즈니스 도메인</span>
-- 다음과 같은 운영상의 제약사항:
-  + <span style="color:blue">예산과 자원 (resource)</span>
-  + <span style="color:blue">일정</span>
-  + <span style="color:blue">복잡도</span>
-  + <span style="color:blue">계약 및 규제 요구사항</span>
-- <span style="color:blue">운영 정책과 프랙티스 (practices)</span>
-- <span style="color:blue">준수해야 하는 내부 및 외부 표준</span>
+<span style="background-color:rgb(207,228,207);">다음은 조직의 테스트 프로세스에 영향을 줄 수 있는 정황 요소 중 일부이다:</span>
+- <span style="background-color:rgb(237,220,195);">사용 중인 소프트웨어 개발 수명주기 모델과 프로젝트 방법론</span>
+- <span style="background-color:rgb(237,220,195);">적용하고자 하는 테스트 레벨과 테스트 유형</span>
+- <span style="background-color:rgb(237,220,195);">제품 및 프로젝트 리스크</span>
+- <span style="background-color:rgb(237,220,195);">비즈니스 도메인</span>
+- <span style="background-color:rgb(237,220,195);">다음과 같은 운영상의 제약사항:</span>
+  + <span style="background-color:rgb(242,213,214);">예산과 자원 (resource)</span>
+  + <span style="background-color:rgb(242,213,214);">일정</span>
+  + <span style="background-color:rgb(242,213,214);">복잡도</span>
+  + <span style="background-color:rgb(242,213,214);">계약 및 규제 요구사항</span>
+- <span style="background-color:rgb(237,220,195);">운영 정책과 프랙티스 (practices)</span>
+- <span style="background-color:rgb(237,220,195);">준수해야 하는 내부 및 외부 표준</span>
 
-다음 절은 아래의 관점에서 조직 테스트 프로세스의 일반적인 요소에 대해 설명하고 있다:
-- 테스트 활동과 작업
-- 테스트 작업 산출물
-- 테스트 베이시스와 테스트 작업 산출물 간의 추적성
+<span style="background-color:rgb(207,228,207);">다음 절은 아래의 관점에서 조직 테스트 프로세스의 일반적인 요소에 대해 설명하고 있다:</span>
+- <span style="background-color:rgb(237,220,195);">테스트 활동과 작업</span>
+- <span style="background-color:rgb(237,220,195);">테스트 작업 산출물</span>
+- <span style="background-color:rgb(237,220,195);">테스트 베이시스와 테스트 작업 산출물 간의 추적성</span>
 
 테스트 레벨과 유형에 상관없이, 테스트 베이시스에 대한 측정 가능한 커버리지 조건이 설정되어 있으면 매우 유용하다. 커버리지 조건은 소프트웨어 테스트의 목적 달성 여부를 보여주는 활동의 주요 성능 지표(KPI, key performance indicator)로 사용하기 용이하다 (1.1.1 절 참조).
 예를 들어, 모바일 애플리케이션에 대해서는 요구사항 목록과 지원 대상 모바일 기기 목록을 테스트 베이시스로 사용할 수 있는데, 각각의 요구사항과 테스트 대상 기기를 하나의 테스트 베이시스 요소로 볼 수 있다. 커버리지 조건은 각 테스트 베이시스 요소를 적어도 하나의 테스트 케이스로 다루어야 한다는 것일 수 있다. 실행한 테스트 케이스의 결과는 명시된 요구사항의 충족 여부와 지원 대상 기기에서 장애가 발생했는지에 대한 정보를 이해관계자에게 제공한다.
@@ -165,29 +165,29 @@ toc_sticky: true
 
 <span style="color:green">(K2) 테스트 프로세스의 테스트 활동과 연관된 작업에 대해 설명할 수 있다.</span>
 
-테스트 프로세스를 구성하는 주요 활동은 다음과 같다:
-- 테스트 계획
-- 테스트 모니터링과 제어
-- 테스트 분석
-- 테스트 설계
-- 테스트 구현
-- 테스트 실행
-- 테스트 완료
+<span style="background-color:rgb(207,228,207);">테스트 프로세스를 구성하는 주요 활동은 다음과 같다:</span>
+- <span style="background-color:rgb(237,220,195);">테스트 계획</span>
+- <span style="background-color:rgb(237,220,195);">테스트 모니터링과 제어</span>
+- <span style="background-color:rgb(237,220,195);">테스트 분석</span>
+- <span style="background-color:rgb(237,220,195);">테스트 설계</span>
+- <span style="background-color:rgb(237,220,195);">테스트 구현</span>
+- <span style="background-color:rgb(237,220,195);">테스트 실행</span>
+- <span style="background-color:rgb(237,220,195);">테스트 완료</span>
 
 각 주요 활동은 구성 활동들로 이루어지며, 아래 하위 섹션에서 하나씩 다룹니다. 각 구성 활동은 다시 다수의 개별 작업으로 나눠지며 프로젝트마다 또는 릴리즈마다 달라질 수 있다.
-또한, 이러한 주요 활동들이 대부분 <span style="background-color:rgb(207,225,232);">순차적으로 이루어지는 것처럼 보일 수 있으나 반복적으로 구현되는 경우가 많다. 예를 들어, 애자일 개발은 지속적인 계획을 바탕으로 소프트웨어 설계, 빌드(build), 테스트로 구성된 작은 주기를 반복해서 배치한다. 따라서, 이런 소프트웨어 개발 접근법에 포함된 테스트 활동 또한 반복적, 지속적으로 이루어지게 된다.</span> 순차적 소프트웨어 개발에서도 개별 활동의 논리적인 순서는 중첩(overlap), 조합(combination), 동시 실행(concurrency) 되거나 누락되기 때문에 시스템과 프로젝트의 정황에 따라 이런 주요 활동들을 어느 정도 조정하는 것이 필요하다.
+또한, <span style="background-color:rgb(232,233,234);">이러한 주요 활동들이 대부분 순차적으로 이루어지는 것처럼 보일 수 있으나 반복적으로 구현되는 경우가 많다. 예를 들어, 애자일 개발은 지속적인 계획을 바탕으로 소프트웨어 설계, 빌드(build), 테스트로 구성된 작은 주기를 반복해서 배치한다. 따라서, 이런 소프트웨어 개발 접근법에 포함된 테스트 활동 또한 반복적, 지속적으로 이루어지게 된다. 순차적 소프트웨어 개발에서도 개별 활동의 논리적인 순서는 중첩(overlap), 조합(combination), 동시 실행(concurrency) 되거나 누락되기 때문에 시스템과 프로젝트의 정황에 따라 이런 주요 활동들을 어느 정도 조정하는 것이 필요하다.</span>
 
-**테스트 계획 (test planning)**<br>
-<span style="background-color:rgb(207,228,207);">테스트 계획</span>은 <span style="background-color:rgb(237,220,195);">테스팅의 목적과 정황으로 인한 제약 사항을 고려해 테스트 목적을 달성하기 위해 필요한 접근법을 정의하는 활동을 포함</span>한다. 예를 들어, <span style="background-color:rgb(237,220,195);">적합한 테스트 기법과 작업 명시, 정해진 출시 일정 전에 완료하기 위한 테스트 일정 수립 등이 여기에 포함</span>된다. <span style="background-color:rgb(237,220,195);">테스트 계획은 모니터링과 제어 활동에서 나온 피드백을 기반으로 수정할 수 있다.</span>
+**<span style="background-color:rgb(207,228,207);">테스트 계획 (test planning)</span>**<br>
+<span style="background-color:rgb(237,220,195);">테스트 계획은 테스팅의 목적과 정황으로 인한 제약 사항을 고려해 테스트 목적을 달성하기 위해 필요한 <span style="color:red">접근법을 정의하는 활동을 포함한다. 예를 들어, 적합한 테스트 기법과 작업 명시, 정해진 출시 일정 전에 완료하기 위한 테스트 일정 수립</span> 등이 여기에 포함된다. <span style="color:red">테스트 계획은 모니터링과 제어 활동에서 나온 피드백을 기반으로 수정할 수 있다.</span></span>
 
-**테스트 모니터링과 제어 (test monitoring and control)**<br>
-<span style="background-color:rgb(207,228,207);">테스트 모니터링</span>은 <span style="background-color:rgb(237,220,195);">테스트 계획에 정의된 테스트 모니터링 메트릭을 활용해 실제 진행 상황을 계획한 진척 상황과 지속적으로 비교하는 활동</span>을 말한다. <span style="background-color:rgb(207,228,207);">테스트 제어(test control)</span>는 <span style="background-color:rgb(237,220,195);">시간이 지나면서 업데이트될 수 있는 테스트 계획의 목적 달성을 위해 필요한 활동을 수행하는 것</span>이다. <span style="background-color:rgb(207,225,232);">종료 조건(exit criteria) 평가도 테스트 모니터링과 제어에 필요한 활동이며, 일부 소프트웨어 개발 수명주기 모델에서는 종료 조건을 완료의 정의(definition of done)</span>로 칭하기도 한다 (ISTQB-CTFL-AT 참조).<br>
-예를 들어, <span style="background-color:rgb(207,225,232);">특정 테스트 레벨에서 이루어진 테스트 실행의 종료 조건 평가는 다음을 포함</span>할 수 있다:
-- <span style="background-color:rgb(207,225,232);">명시된 커버리지 조건 대비 테스트 결과와 로그 확인</span>
-- <span style="background-color:rgb(207,225,232);">테스트 결과와 로그를 기반으로 컴포넌트나 시스템의 품질 수준 평가</span>
-- <span style="background-color:rgb(207,225,232);">추가 테스트 필요 여부 결정</span> (예: 일정 수준의 제품 리스크 커버리지를 달성하고자 했던 테스트가 그러지 못했을 경우, 추가적인 테스트 작성 및 실행 요구)
+**<span style="background-color:rgb(207,228,207);">테스트 모니터링과 제어 (test monitoring and control)</span>**<br>
+<span style="background-color:rgb(207,228,207);">테스트 모니터링</span>은 <span style="background-color:rgb(237,220,195);">테스트 계획에 정의된 테스트 모니터링 메트릭을 활용해 실제 진행 상황을 계획한 진척 상황과 지속적으로 비교하는 활동</span>을 말한다. <span style="background-color:rgb(207,228,207);">테스트 제어(test control)</span>는 <span style="background-color:rgb(237,220,195);">시간이 지나면서 업데이트될 수 있는 테스트 계획의 목적 달성을 위해 필요한 활동을 수행하는 것</span>이다. <span style="background-color:rgb(207,228,207);">종료 조건(exit criteria) 평가</span>도 <span style="background-color:rgb(237,220,195);">테스트 모니터링과 제어에 필요한 활동이며, 일부 소프트웨어 개발 수명주기 모델에서는 종료 조건을 완료의 정의(definition of done)로 칭하기도 한다</span> (ISTQB-CTFL-AT 참조).<br>
+<span style="background-color:rgb(237,220,195);">예를 들어, 특정 테스트 레벨에서 이루어진 테스트 실행의 종료 조건 평가는 다음을 포함할 수 있다:</span>
+- <span style="background-color:rgb(242,213,214);">명시된 커버리지 조건 대비 테스트 결과와 로그 확인</span>
+- <span style="background-color:rgb(242,213,214);">테스트 결과와 로그를 기반으로 컴포넌트나 시스템의 품질 수준 평가</span>
+- <span style="background-color:rgb(242,213,214);">추가 테스트 필요 여부 결정 (예: 일정 수준의 제품 리스크 커버리지를 달성하고자 했던 테스트가 그러지 못했을 경우, 추가적인 테스트 작성 및 실행 요구)</span>
 
-계획 대비 테스트 진행 상황은 이해관계자에게 테스트 진행 상황 보고서의 형태로 전달되며, 여기에는 계획 대비 편차와 테스팅을 그만하기로 결정했다면 그것을 뒷받침해 줄 정보도 포함되어야 한다.
+<span style="background-color:rgb(237,220,195);">계획 대비 테스트 진행 상황은 이해관계자에게 테스트 진행 상황 보고서의 형태로 전달되며, 여기에는 계획 대비 편차와 테스팅을 그만하기로 결정했다면 그것을 뒷받침해 줄 정보도 포함되어야 한다.</span>
 
 **테스트 분석 (Test analysis)**<br>
 <span style="background-color:rgb(207,228,207);">테스트 분석</span>에서는 <span style="background-color:rgb(237,220,195);">테스트 가능한 기능과 연관된 테스트 컨디션을 식별하기 위해 테스트 베이시스를 분석</span>한다. 즉, 테스트 분석은 <span style="background-color:rgb(237,220,195);">측정 가능한 커버리지 조건의 측면에서 "무엇을 테스트할지"를 결정하는 것</span>이다.<br>
