@@ -118,7 +118,7 @@ toc_sticky: true
 - <span style="background-color:rgb(242,213,214);">요구사항 관리 도구에 저장된 요구사항과의 추적성을 지속적으로 유지하기 위해</span>
 - <span style="background-color:rgb(242,213,214);">형상 관리 도구에 저장된 테스트 대상 버전 정보와 연결하기 위해</span>
 
-이는 <u>통합 도구(예: ALM, Application Lifecycle Management 애플리케이션 수명주기 관리)를 사용할 때 특히 중요</u>하다. 애플리케이션 수명주기 관리 도구에는 조직 내 다양한 그룹에서 사용하는 기타 모듈(예: 프로젝트 일정과 예산 정보)뿐 아니라 테스트 관리 도구 모듈도 들어있다.
+<span style="color:blue">이는 통합 도구(예: ALM, Application Lifecycle Management 애플리케이션 수명주기 관리)를 사용할 때 특히 중요하다.</span> 애플리케이션 수명주기 관리 도구에는 조직 내 다양한 그룹에서 사용하는 기타 모듈(예: 프로젝트 일정과 예산 정보)뿐 아니라 테스트 관리 도구 모듈도 들어있다.
 
 # 6.2 도구의 효과적인 사용 (Effective use of tools)
 {: .notice--warning .text-center}
