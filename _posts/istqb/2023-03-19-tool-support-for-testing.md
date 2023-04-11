@@ -110,7 +110,7 @@ toc_sticky: true
 
 <span style="background-color:rgb(232,233,234);"><span style="color:blue">위에서 언급한 접근법은 스크립트 언어 전문가(테스터, 개발자 또는 테스트 자동화 전문가)가 필요하다. 데이터 주도 또는 키워드 주도 테스트 접근법을 사용하는 경우 스크립팅 언어에 익숙하지 않은 테스터도 이렇게 사전 정의된 스크립트에 대한 테스트 데이터나 키워드를 작성함으로써 테스팅에 기여할 수 있다.</span> 사용한 스크립트 기술과 상관없이 각 테스트의 기대 결과와 실제 결과를 비교할 필요가 있다. 동적(테스트 실행 도중)으로 아니면 차후(실행 후) 비교할 수 있다.<br>
 데이터 주도와 키워드 주도 테스트 접근법에 대한 자세한 내용과 예는 (ISTQB-CTAL-TAE, Fewster 1999 및 Buwalda 2001)에 나와 있다.<br>
-<span style="color:blue">모델 기반 테스팅(MBT, Model based testing) 도구는 기능 명세를 액티비티 다이어그램과 같은 모델의 형태로 표현할 수 있도록 해준다. 일반적으로 이 작업은 시스템 설계자가 수행한다.</span> MBT 도구는 모델을 해석해 테스트 케이스 명세를 생성하고, 생성한 명세는 테스트 관리 도구에 저장하거나 테스트 실행 도구로 실행한다 (ISTQB- CTFL-MBT 참조).</span>
+<span style="color:blue">모델 기반 테스팅(MBT, Model based testing) 도구는 기능 명세를 액티비티 다이어그램과 같은 모델의 형태로 표현할 수 있도록 해준다. 일반적으로 이 작업은 시스템 설계자가 수행한다. MBT 도구는 모델을 해석해 테스트 케이스 명세를 생성하고, 생성한 명세는 테스트 관리 도구에 저장하거나 테스트 실행 도구로 실행한다 (ISTQB- CTFL-MBT 참조).</span></span>
 
 **<span style="background-color:rgb(207,228,207);">테스트 관리 도구 (Test management tools)</span>**<br>
 <span style="background-color:rgb(237,220,195);">테스트 관리 도구는 아래와 같은 여러 이유로 다른 도구나 스프레드시트와 연동해야 하는 경우가 많다:</span>
@@ -118,7 +118,7 @@ toc_sticky: true
 - <span style="background-color:rgb(242,213,214);">요구사항 관리 도구에 저장된 요구사항과의 추적성을 지속적으로 유지하기 위해</span>
 - <span style="background-color:rgb(242,213,214);">형상 관리 도구에 저장된 테스트 대상 버전 정보와 연결하기 위해</span>
 
-<span style="color:blue">이는 통합 도구(예: ALM, Application Lifecycle Management 애플리케이션 수명주기 관리)를 사용할 때 특히 중요하다.</span> 애플리케이션 수명주기 관리 도구에는 조직 내 다양한 그룹에서 사용하는 기타 모듈(예: 프로젝트 일정과 예산 정보)뿐 아니라 테스트 관리 도구 모듈도 들어있다.
+<span style="color:blue">이는 통합 도구(예: ALM, Application Lifecycle Management 애플리케이션 수명주기 관리)를 사용할 때 특히 중요하다. 애플리케이션 수명주기 관리 도구에는 조직 내 다양한 그룹에서 사용하는 기타 모듈(예: 프로젝트 일정과 예산 정보)뿐 아니라 테스트 관리 도구 모듈도 들어있다.</span>
 
 # 6.2 도구의 효과적인 사용 (Effective use of tools)
 {: .notice--warning .text-center}
@@ -150,11 +150,11 @@ toc_sticky: true
 
 <span style="color:blue">도구 선택과 사전 검증이 성공적으로 끝난 다음 선택한 도구를 조직에 도입하는 시점은 주로 <span style="background-color:rgb(207,228,207);">파일럿 프로젝트(pilot project)</span>이다.</span><br>
 <span style="background-color:rgb(237,220,195);">파일럿 프로젝트의 목적은 다음과 같다:</span>
-- <span style="background-color:rgb(242,213,214);">깊이 있는 도구 지식의 습득, 장단점 모두 이해</span>
-- <span style="background-color:rgb(242,213,214);">도구를 기존 프로세스와 프랙티스에 어떻게 적용할지 평가하고 무엇을 변경할지 결정</span>
-- <span style="background-color:rgb(242,213,214);">도구와 테스트 작업 산출물의 사용, 관리, 저장, 유지보수에 대한 기준 결정 (예: 파일과 테스트를 명명하는 규칙 결정, 코딩 표준 선택, 라이브러리 생성, 테스트 스위트의 모듈성 정의)</span>
-- <span style="background-color:rgb(242,213,214);">목표한 가치를 적절한 비용으로 달성할 수 있는지 평가</span>
-- <span style="background-color:rgb(242,213,214);">도구에서 수집하고 보고하기를 희망하는 메트릭을 이해하고 그런 메트릭을 도출하고 보고할 수 있도록 도구를 설정</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">깊이 있는 도구 지식의 습득, 장단점 모두 이해</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">도구를 기존 프로세스와 프랙티스에 어떻게 적용할지 평가하고 무엇을 변경할지 결정</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">도구와 테스트 작업 산출물의 사용, 관리, 저장, 유지보수에 대한 기준 결정 (예: 파일과 테스트를 명명하는 규칙 결정, 코딩 표준 선택, 라이브러리 생성, 테스트 스위트의 모듈성 정의)</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">목표한 가치를 적절한 비용으로 달성할 수 있는지 평가</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">도구에서 수집하고 보고하기를 희망하는 메트릭을 이해하고 그런 메트릭을 도출하고 보고할 수 있도록 도구를 설정</span></span>
 
 ## 6.2.3 도구 성공 요인 (Success Factors for Tools)
 {: .notice--success}
@@ -215,7 +215,7 @@ toc_sticky: true
 참조 : Graham<br>
 컴포넌트를 개별적으로 또는 적절한 스텁 및 드라이버를 가지고 테스트할 수 있도록 지원하는 단위 또는 컴포넌트 테스팅 환경 도구. 개발자에게 디버깅 기능과 같은 기타 지원도 제공
 
-- 동적 분석 도구 (dynamic analysis tool): 소프트웨어 코드 상태에 관한 런타임(run-time) 정보를 제공하는 도구. 이런 도구는 일반적으로 할당되지 않은 포인터를 식별하고, 포인터 연산을 점검하고, 메모리의 할당, 사용, 반환을 모니터링하고, 메모리 누수를 확인하는 데 사용됨
+- 동적 분석 도구 (dynamic analysis tool): 소프트웨어 코드 상태에 관한 런타임(run-time) 정보를 제공하는 도구. 이런 도구는 일반적으로 할당되지 않은 포인터를 식별하고, 포인터 연산을 점검하고, 메모리의 할당, 사용, 반환을 모니터링하고, <span style="color:red">메모리 누수를 확인하는 데 사용</span>됨
 
 - 성능 테스팅 도구 (performance testing tool): 대상 테스트 항목에 필요한 부하를 발생시켜, 테스트 실행 동안 성능을 측정하고 기록하는 테스트 도구
 
@@ -319,9 +319,9 @@ B - Q40. 다음 중 조직에 도구를 도입하기 위해 파일럿 프로젝�
 
 FL-6.2.2 (K1) 도구를 도입할 때 파일럿 프로젝트의 목적을 상기할 수 있다.
 - A. 정답- 실러버스 (6.2.2) 참조
-- B. 오답- 테스트 자동화 기술 평가와 도구를 사용할 테스터의 교육, 멘토링, 코칭 요구를 파악하는 것은 테스트 도구 선택 활동의 일환으로 수행해야 한다. 실러버스 (6.2.1) 참조
-- C. 오답- 도구가 필요한 기능을 제공하고 기존 도구와 중복되지 않는지에 대한 판단은 도구 선택 활동의 일환으로 수행해야 한다. 실러버스 (6.2.1) 참조
-- D. 오답- 도구 제공업체가 제공하는 교육 및 기타 지원사항의 관점에서의 업체 평가는 도구 선택 활동의 일환으로 수행해야 한다. 실러버스 (6.2.1) 참조
+- B. 오답- 테스트 자동화 기술 평가와 도구를 사용할 테스터의 교육, 멘토링, 코칭 요구를 파악하는 것은 테스트 <span style="color:red">도구 선택 활동</span>의 일환으로 수행해야 한다. 실러버스 (6.2.1) 참조
+- C. 오답- 도구가 필요한 기능을 제공하고 기존 도구와 중복되지 않는지에 대한 판단은 <span style="color:red">도구 선택 활동</span>의 일환으로 수행해야 한다. 실러버스 (6.2.1) 참조
+- D. 오답- 도구 제공업체가 제공하는 교육 및 기타 지원사항의 관점에서의 업체 평가는 <span style="color:red">도구 선택 활동</span>의 일환으로 수행해야 한다. 실러버스 (6.2.1) 참조
 
 </div>
 </details>
