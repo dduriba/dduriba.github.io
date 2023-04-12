@@ -52,11 +52,11 @@ toc_sticky: true
 
 일반적으로 <span style="background-color:rgb(207,228,207);">테스트 관리자의 역할과 업무</span>는 다음과 같다:
 - <span style="background-color:rgb(237,220,195);">조직의 테스트 정책과 테스트 전략을 개발하고 리뷰</span>
-- <span style="background-color:rgb(237,220,195);">정황을 고려한 테스트 활동과 테스트 목적과 리스크 이해를 바탕으로 테스트 활동을 계획. 예를 들어, 테스트 접근법 선택, 테스트 추정(테스트 시간, 노력, 비용), 리소스 획득, 테스트 레벨과 테스트 주기 정의, 결함 관리 등이 계획에 포함될 수 있다.</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">정황을 고려한 테스트 활동과 테스트 목적과 리스크 이해를 바탕으로 테스트 활동을 계획. 예를 들어, 테스트 접근법 선택, 테스트 추정(테스트 시간, 노력, 비용), 리소스 획득, 테스트 레벨과 테스트 주기 정의, 결함 관리 등이 계획에 포함될 수 있다.</span></span>
 - <span style="background-color:rgb(237,220,195);">테스트 계획서 작성과 업데이트</span>
 - <span style="background-color:rgb(237,220,195);">프로젝트 관리자, 제품 책임자, 기타 관계자와 테스트 계획 관련 협의</span>
 - <span style="background-color:rgb(237,220,195);">통합 계획 등과 같은 다른 프로젝트 활동과 테스팅 관점 공유</span>
-- <span style="background-color:rgb(237,220,195);">테스트 분석, 설계, 구현, 실행 활동을 개시하고, 테스트 진행과 결과를 모니터링하며 종료 조건(또는 종료 조건 정의)의 상태를 점검하고 테스트 완료 활동을 촉진</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">테스트 분석, 설계, 구현, 실행 활동을 개시하고, 테스트 진행과 결과를 모니터링하며 종료 조건(또는 종료 조건 정의)의 상태를 점검하고 테스트 완료 활동을 촉진</span></span>
 - <span style="background-color:rgb(237,220,195);">수집한 정보를 바탕으로 테스트 진행 상황 보고서와 테스트 요약 보고서 작성과 배포</span>
 - <span style="background-color:rgb(237,220,195);">테스트 결과와 진행 상황(테스트 진행 상황 보고서나 이미 완료된 다른 테스트 프로젝트의 테스트 요약 보고서에서 문서화된)에 따라 계획을 조정하고 테스트 제어에 필요한 모든 조치를 취함</span>
 - <span style="background-color:rgb(237,220,195);">결함 관리 시스템과 테스트웨어에 적합한 형상 관리 체제 구축 지원</span>
@@ -96,7 +96,7 @@ toc_sticky: true
 <span style="background-color:rgb(207,228,207);">테스트 계획</span>은 <span style="background-color:rgb(237,220,195);">개발 및 유지보수 프로젝트의 테스트 활동에 대한 전반적인 내용을 담고 있다. 계획에 영향을 주는 요소로는 조직의 테스트 정책과 테스트 전략, 사용하는 개발 수명주기 및 방법(2.1 절 참조), 테스팅의 범위, 목적, 리스크, 제약, 심각도, 테스트 용이성, 자원의 가용성 등이 있다.<br>
 프로젝트와 테스트 계획 작업을 진행함에 따라 더 많은 정보를 알게 되고 테스트 계획에 더 많은 세부 정보를 추가할 수 있다. 테스트 계획 활동은 제품의 수명주기 전반에 걸쳐 이루어지는 지속적인 활동이다 (제품의 수명주기는 프로젝트 범위를 넘어서 유지보수 단계까지 포함할 수 있다). 테스트 활동의 피드백으로 리스크의 변화를 인지하고 테스트 계획을 수정해야 한다. 계획은 마스터 테스트 계획의 일부로 작성하거나 시스템 테스팅, 인수 테스팅과 같은 테스트 레벨별 또는 사용성 테스팅, 성능 테스팅과 같은 테스트 유형별 테스트 계획으로 나눠서 작성할 수도 있다.</span> 테스트 계획에는 <span style="background-color:rgb(237,220,195);">다음과 같은 활동이 있고 이 중 일부는 테스트 계획서에 기록할 수 있다.</span>
 - <span style="background-color:rgb(242,213,214);">테스팅의 범위 정의, 목적, 리스크 결정</span>
-- <span style="background-color:rgb(242,213,214);">전반적인 테스팅 접근법 정의</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">전반적인 테스팅 접근법 정의</span></span>
 - <span style="background-color:rgb(242,213,214);">테스트 활동을 소프트웨어 수명주기 활동에 통합하고 조정</span>
 - <span style="background-color:rgb(242,213,214);">테스트 대상 다양한 테스트 활동에 필요한 인력과 기타자원, 테스트 활동 수행 방법 결정</span>
 - <span style="background-color:rgb(242,213,214);">테스트 분석, 설계, 구현, 실행, 평가 활동의 일정 조정. 일정은 특정 날짜(예: 순차적 개발에서)나 반복주기 단위(예: 반복적 개발)로 편성할 수 있다.</span>
@@ -112,15 +112,15 @@ toc_sticky: true
 <span style="color:green">(K2) 여러 테스트 전략을 구별할 수 있다.</span>
 
 테스트 전략은 테스트 프로세스의 일반적인 모습을 반영한다. <u>주로 제품이나 조직 수준에서 작성</u>된다. 대표적인 <span style="background-color:rgb(207,228,207);">테스트 전략 유형</span>에는 다음과 같은 것들이 있다:
-- **<span style="background-color:rgb(237,220,195);">분석적 (Analytiacl)</span>**: <span style="background-color:rgb(242,213,214);">특정 요소(예: 요구사항이나 리스크)에 대한 분석을 기반으로 한 테스트 전략. 리스크 수준에 따라 테스트를 설계하고 우선순위를 결정하는 리스크 기반 테스팅이 분석적 접근법의 예이다.</span>
-- **<span style="background-color:rgb(237,220,195);">모델 기반 (Model-Based)</span>**: <span style="background-color:rgb(242,213,214);">이러한 유형의 테스트 전략에서 테스트는 요구되는 제품의 특정 측면에 대한 모델을 기반으로 만들어진다. 특정 측면에는 기능, 비즈니스 프로세스, 내부 구조, 비기능 특성(예: 신뢰성) 등이 있다. 모델에는 비즈니스 프로세스 모델, 상태 모델, 신뢰성 성장 모델 등이 있다.</span>
-- **<span style="background-color:rgb(237,220,195);">방법론적 (Methodical)</span>**: <span style="background-color:rgb(242,213,214);">이 테스트 전략은 사전에 정의한 테스트 셋이나 테스트 컨디션을 체계적으로 사용하는 데 의존한다. 예를 들어, 보편적이고 발생 가능성이 높은 장애 분류, 주요 품질 특성 목록, 모바일 애플리케이션이나 웹페이지에 대한 전사 룩앤필(look-and-feel) 표준 등이 있다.</span>
+- **<span style="background-color:rgb(237,220,195);">분석적 (Analytiacl)</span>**: <span style="background-color:rgb(242,213,214);">특정 요소(예: 요구사항이나 리스크)에 대한 분석을 기반으로 한 테스트 전략. 리스크 수준에 따라 테스트를 설계하고 우선순위를 결정하는 <span style="color:red">리스크 기반 테스팅이 분석적 접근법의 예</span>이다.</span>
+- **<span style="background-color:rgb(237,220,195);">모델 기반 (Model-Based)</span>**: <span style="background-color:rgb(242,213,214);">이러한 유형의 테스트 전략에서 테스트는 요구되는 제품의 특정 측면에 대한 모델을 기반으로 만들어진다. 특정 측면에는 기능, 비즈니스 프로세스, 내부 구조, 비기능 특성(예: 신뢰성) 등이 있다. <span style="color:red">모델에는 비즈니스 프로세스 모델, 상태 모델, 신뢰성 성장 모델</span> 등이 있다.</span>
+- **<span style="background-color:rgb(237,220,195);">방법론적 (Methodical)</span>**: <span style="background-color:rgb(242,213,214);">이 테스트 전략은 <span style="color:red">사전에 정의한 테스트 셋이나 테스트 컨디션을 체계적으로 사용하는 데 의존</span>한다. 예를 들어, 보편적이고 발생 가능성이 높은 장애 분류, 주요 품질 특성 목록, 모바일 애플리케이션이나 웹페이지에 대한 전사 룩앤필(look-and-feel) 표준 등이 있다.</span>
 - **<span style="background-color:rgb(237,220,195);">프로세스 준수 ((Process-compliant), 또는 표준 준수(standard-compliant))</span>**: <span style="background-color:rgb(242,213,214);">이 테스트 전략은 외부 규정이나 표준을 기반으로 테스트를 분석, 설계, 구현한다. 예를 들어, 특정 산업 표준에서 제시하는 규정이나 표준, 프로세스의 문서화, 테스트 베이시스의 엄격한 식별과 사용, 조직이 강제하거나 조직에 강요된 모든 프로세스나 표준을 기반으로 한다.</span>
 - **<span style="background-color:rgb(237,220,195);">전문가 조언 ((Directive), 또는 자문(consultative))</span>**: <span style="background-color:rgb(242,213,214);">이 테스트 전략은 주로 이해관계자, 비즈니스 도메인 전문가, 기술 전문가 등의 조언, 지도, 지시를 바탕으로 이루어진다. 이 사람들은 외부 테스트팀이나 외부 조직 소속일 수 있다.</span>
 - **<span style="background-color:rgb(237,220,195);">리그레션-기피 (Regression-averse)</span>**: <span style="background-color:rgb(242,213,214);">기존 기능에 대한 리그레션 테스트 기피를 목표로 한다. 이 테스트 전략에는 기존 테스트웨어(특히 테스트 케이스와 테스트 데이터)의 재사용, 리그레션 테스트 자동화 확대, 테스트 스위트 표준화가 포함된다.</span>
-- **<span style="background-color:rgb(237,220,195);">반응적 (Reactive)</span>**: <span style="background-color:rgb(242,213,214);">지금까지 소개한 사전 계획에 따라 실행하는 테스트 전략과는 달리 테스트 대상 컴포넌트나 시스템에 따라 대응하고 테스트 실행 중 발생하는 이벤트에 따라 반응적으로 수행하는 테스트 접근법이다. 이전 테스트 결과에서 얻은 지식을 바탕으로 테스트를 설계하고 구현하며 즉각 테스트를 실행할 수 있다. 탐색적 테스팅이 반응적 전략에서 일반적으로 사용하는 기법이다.</span>
+- **<span style="background-color:rgb(237,220,195);">반응적 (Reactive)</span>**: <span style="background-color:rgb(242,213,214);">지금까지 소개한 사전 계획에 따라 실행하는 테스트 전략과는 달리 테스트 대상 컴포넌트나 시스템에 따라 대응하고 테스트 실행 중 발생하는 이벤트에 따라 반응적으로 수행하는 테스트 접근법이다. 이전 테스트 결과에서 얻은 지식을 바탕으로 테스트를 설계하고 구현하며 즉각 테스트를 실행할 수 있다. <span style="color:red">탐색적 테스팅이 반응적 전략에서 일반적으로 사용하는 기법</span>이다.</span>
 
-<span style="background-color:rgb(232,233,234);">앞서 나열한 테스트 전략의 일부를 조합해 적절한 테스트 전략을 만든다. 예를 들어 분석적 전략인 리스크 기반 테스팅을 반응적 전략인 탐색적 테스팅과 조합할 수 있다; 서로 다른 접근법을 조합해 적용했을 때 각 접근법은 서로를 보완하며 더 효과적으로 테스팅을 수행할 수 있게 한다.</span><br>
+<span style="background-color:rgb(232,233,234);"><u>앞서 나열한 테스트 전략의 일부를 조합해 적절한 테스트 전략을 만든다.</u> 예를 들어 분석적 전략인 리스크 기반 테스팅을 반응적 전략인 탐색적 테스팅과 조합할 수 있다; 서로 다른 접근법을 조합해 적용했을 때 각 접근법은 서로를 보완하며 더 효과적으로 테스팅을 수행할 수 있게 한다.</span><br>
 테스트 전략은 테스트 프로세스를 종합해 개괄적으로 설명하는 반면, <span style="background-color:rgb(207,228,207);">테스트 접근법</span>은 <span style="background-color:rgb(237,220,195);">특정 프로젝트나 릴리스용으로 테스트 전략을 조정(tailoring)한 것이다. 테스트 접근법은 테스트 기법, 테스트 레벨, 테스트 유형을 선택하는 출발점이고, 시작 조건과 종료 조건(시작 조건과 종료 조건은 준비의 정의와 완료의 정의라고 부르기도 함)을 정의하는 출발점이다. 프로젝트의 복잡도와 목표, 개발하는 제품 유형, 제품 리스크 평가에 관한 결정을 기반으로 테스트 전략을 조정한다. 테스트 접근법은 정황(context)을 기반으로 선택하고 리스크, 안전 사항, 사용 가능한 자원과 역량, 기술, 시스템 특성(예: 맞춤형 개발 vs 상용 소프트웨어), 테스트 목적과 규정 같은 요소를 고려한다.</span>
 
 ## 5.2.3 시작 조건과 종료 조건 (준비의 정의와 완료의 정의) Entry Criteria and Exit Criteria (Definition of Ready and Definition of Done)
@@ -170,7 +170,7 @@ toc_sticky: true
 - <span style="background-color:rgb(242,213,214);">제품 도메인의 복잡도</span>
 - <span style="background-color:rgb(242,213,214);">품질 특성 요구사항 (예: 보안성, 신뢰성)</span>
 - <span style="background-color:rgb(242,213,214);">요구되는 테스트 문서의 상세화 정도</span>
-- <span style="background-color:rgb(242,213,214);">법적, 규제 준수 요구사항</span>
+- <span style="background-color:rgb(242,213,214);">법적, 규제 준수 요구사항</span></span>
 
 **<span style="background-color:rgb(237,220,195);">개발 프로세스 특성 (Development process characteristics)</span>**
 - <span style="background-color:rgb(242,213,214);">조직의 안정성과 성숙도</span>
@@ -207,9 +207,9 @@ toc_sticky: true
 
 <span style="background-color:rgb(207,228,207);">테스트 제어</span>는 <span style="background-color:rgb(237,220,195);">수집하고 보고된 정보와 메트릭의 결과로 취해진 수정 조치나 가이드를 의미한다. 수정 조치(활동)는 어떤 테스트 활동을 커버하거나 소프트웨어 수명주기 활동에 영향을 미칠 수 있다.</span><br>
 <span style="background-color:rgb(237,220,195);">테스트 제어 활동의 예</span>는 다음과 같다:
-- <span style="background-color:rgb(242,213,214);">식별한 리스크(예: 소프트웨어 인도 지연) 발생 시 테스트 우선순위의 변경</span>
-- <span style="background-color:rgb(242,213,214);">테스트 환경이나 기타 자원의 가용 여부에 따라 테스트 일정 변경</span>
-- <span style="background-color:rgb(242,213,214);">재작업으로 인해 테스트 항목이 시작 조건이나 종료 조건 만족하는지 재평가</span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">식별한 리스크(예: 소프트웨어 인도 지연) 발생 시 테스트 우선순위의 변경</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">테스트 환경이나 기타 자원의 가용 여부에 따라 테스트 일정 변경</span></span>
+- <span style="background-color:rgb(242,213,214);"><span style="color:red">재작업으로 인해 테스트 항목이 시작 조건이나 종료 조건 만족하는지 재평가</span></span>
 
 ## 5.3.1 테스팅에 사용하는 메트릭 (Metrics Used in Testing)
 {: .notice--success}
@@ -225,7 +225,7 @@ toc_sticky: true
 일반적인 <span style="background-color:rgb(207,228,207);">테스트 메트릭</span>은 다음과 같다:
 - <span style="background-color:rgb(237,220,195);">계획 대비 테스트 케이스 준비 작업 완료율 (또는 계획 대비 테스트 케이스 작성률)</span>
 - <span style="background-color:rgb(237,220,195);">계획 대비 테스트 환경 준비 작업 완료율</span>
-- <span style="background-color:rgb(237,220,195);">테스트 케이스 실행률 (예: 수행한/수행하지 않은 테스트 케이스 수, 테스트 케이스 합격/불합격 수, 테스트 컨디션 합격/불합격 수)</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">테스트 케이스 실행률 (예: 수행한/수행하지 않은 테스트 케이스 수, 테스트 케이스 합격/불합격 수, 테스트 컨디션 합격/불합격 수)</span></span>
 - <span style="background-color:rgb(237,220,195);">결함 정보 (예: 결함 밀도, 발견한 결함, 수정한 결함, 실패율, 확인 테스트 결과)</span>
 - <span style="background-color:rgb(237,220,195);">요구사항 커버리지, 사용자 스토리 커버리지, 인수 기준 커버리지, 리스크 커버리지, 코드 커버리지</span>
 - <span style="background-color:rgb(237,220,195);">작업 완료, 자원 할당과 사용, 노력</span>
@@ -238,10 +238,10 @@ toc_sticky: true
 
 <span style="background-color:rgb(207,228,207);">테스트 보고의 목적</span>은 <span style="background-color:rgb(237,220,195);">테스트 활동(예: 테스트 레벨) 중이나 마무리 시점의 테스트 활동 정보 요약과 공유</span>이다. <span style="background-color:rgb(207,228,207);">테스트 활동 중 작성하는 테스트 보고서</span>는 <span style="background-color:rgb(237,220,195);">테스트 진행 상황 보고서</span>, <span style="background-color:rgb(207,228,207);">테스트 활동 종료 시점에 작성하는 테스트 보고서</span>는 <span style="background-color:rgb(237,220,195);">테스트 요약 보고서</span>라고 부르기도 한다.<br>
 <u>테스트 관리자는 테스트 모니터링과 제어 과정 중에 이해관계자에게 정기적으로 테스트 진행 상황을 보고</u>한다. 테스트 진행 상황 보고서와 테스트 요약 보고서에 공통으로 들어가는 보고 내용 외에, 일반적인 <span style="background-color:rgb(207,228,207);">테스트 진행 상황 보고서</span>에 들어가는 정보는 아래와 같다:
-- <span style="background-color:rgb(237,220,195);">테스트 계획 대비 테스트 활동과 진행 상황</span>
-- <span style="background-color:rgb(237,220,195);">진행을 방해하는 요소</span>
-- <span style="background-color:rgb(237,220,195);">다음 보고 기간에 진행하기로 계획한 테스팅</span>
-- <span style="background-color:rgb(237,220,195);">테스트 대상의 품질</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">테스트 계획 대비 테스트 활동과 진행 상황</span></span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">진행을 방해하는 요소</span></span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">다음 보고 기간에 진행하기로 계획한 테스팅</span></span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">테스트 대상의 품질</span></span>
 
 <u>종료 조건을 만족하면 테스트 관리자는 테스트 요약 보고서를 작성한다. 이 보고서에는 최근 테스트 진행 상황과 기타 관련 정보에 근거해 테스팅 수행 요약 정보를 기록</u>한다.<br>
 일반적인 <span style="background-color:rgb(207,228,207);">테스트 요약 보고서</span>는 다음과 같은 내용을 포함한다:
@@ -249,13 +249,13 @@ toc_sticky: true
 - <span style="background-color:rgb(237,220,195);">테스트 기간 도중에 발생한 상황 정보</span>
 - <span style="background-color:rgb(237,220,195);">계획 대비 편차 (예: 일정, 기간, 테스팅 활동 노력)</span>
 - <span style="background-color:rgb(237,220,195);">종료 조건 및 완료의 정의에 대한 테스팅 현황과 제품 품질</span>
-- <span style="background-color:rgb(237,220,195);">진행을 방해했거나 계속해서 방해하고 있는 요소</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">진행을 방해했거나 계속해서 방해하고 있는 요소</span></span>
 - <span style="background-color:rgb(237,220,195);">메트릭 (5.3.1 에서 설명한 결함, 테스트 케이스, 테스트 커버리지, 활동 진행 상황, 소비한 자원)</span>
 - <span style="background-color:rgb(237,220,195);">잔존 리스크 (5.5 절 참조)</span>
 - <span style="background-color:rgb(237,220,195);">재사용 가능한(만들어 낸) 테스트 작업 산출물</span>
 
 테스트 보고서의 내용은 프로젝트, 조직 요구사항, 소프트웨어 개발 수명주기에 따라 달라진다. 예를 들어 이해관계자나 규제가 많은 복잡한 프로젝트는 간단한 소프트웨어 업데이트 프로젝트보다 훨씬 상세하고 철저한 보고가 필요하다. 또 다른 예로, 애자일 개발에서 테스트 진행 상황 보고를 작업 보드, 결함 요약, 번다운 차트에 통합할 수 있고 일일 스탠드업(stand-up) 회의에서 공유할 수 있다 (ISTQB-CTFL-AT 참조).<br>
-<span style="background-color:rgb(207,228,207);">테스트 보고서는 프로젝트의 정황뿐 아니라 보고의 대상자에 따라서도 조정해야 한다. 기술적인 배경이 있거나 테스트팀을 대상으로 하는 보고서의 형식이나 내용은 경영층을 대상으로 하는 요약 보고서와 달라야 한다.</span> <span style="background-color:rgb(207,228,207);">전자</span>에서는 <span style="background-color:rgb(237,220,195);">결함 유형과 추세에 대한 상세한 정보가 중요</span>하고, <span style="background-color:rgb(207,228,207);">후자</span>에서는 <span style="background-color:rgb(237,220,195);">상위 수준으로 작성된 보고서(예: 우선순위별 결함 상태 요약, 예산, 일정, 테스트 컨디션별 합격/불합격/미실행 정보)가 더 적절</span>할 수 있다.<br>
+<span style="background-color:rgb(207,228,207);">테스트 보고서는 프로젝트의 정황뿐 아니라 보고의 대상자에 따라서도 조정해야 한다. 기술적인 배경이 있거나 테스트팀을 대상으로 하는 보고서의 형식이나 내용은 경영층을 대상으로 하는 요약 보고서와 달라야 한다.<span style="color:red"></span> <span style="background-color:rgb(207,228,207);">전자</span>에서는 <span style="background-color:rgb(237,220,195);">결함 유형과 추세에 대한 상세한 정보가 중요</span></span>하고, <span style="color:red"><span style="background-color:rgb(207,228,207);">후자</span>에서는 <span style="background-color:rgb(237,220,195);">상위 수준으로 작성된 보고서(예: 우선순위별 결함 상태 요약, 예산, 일정, 테스트 컨디션별 합격/불합격/미실행 정보)가 더 적절</span></span>할 수 있다.<br>
 ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스트 완료 보고서(본 실러버스는 테스트 요약 보고서라고 함), 두가지 형식의 보고서 내용 구성과 예제를 제공하고 있다.
 
 # 5.4 형상 관리 (Configuration Management)
@@ -263,13 +263,13 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
 
 <span style="color:green">(K2) 형상 관리가 테스팅을 어떻게 지원하는지 요약할 수 있다.</span>
 
-<span style="background-color:rgb(207,228,207);">형상 관리의 목적</span>은 <span style="background-color:rgb(237,220,195);">프로젝트와 제품 수명주기 동안 컴포넌트나 시스템, 테스트웨어와 이들 서로간의 관계 통합을 수립하고 유지</span>하는 데 있다.<br>
+<span style="background-color:rgb(207,228,207);">형상 관리의 목적</span>은 <span style="background-color:rgb(237,220,195);"><span style="color:red">프로젝트와 제품 수명주기 동안 컴포넌트나 시스템, 테스트웨어와 이들 서로간의 관계 통합을 수립하고 유지</span></span>하는 데 있다.<br>
 <span style="background-color:rgb(207,228,207);">형상 관리는 테스팅을 적절히 지원하고자 아래 내용을 확인</span>한다:
-- <span style="background-color:rgb(237,220,195);">모든 테스트 항목에 고유 식별번호를 부여하고, 버전을 관리하고, 변경 이력을 기록한다. 형상 관리에서 테스트 항목은 서로 연관돼 있다.</span>
-- <span style="background-color:rgb(237,220,195);">모든 테스트웨어 항목에 고유 식별번호를 부여하고, 버전을 관리하고, 변경사항을 추적하고, 서로 연결해 테스트 항목 버전과도 연결되도록 해서 테스트 프로세스 전반에 걸쳐 추적성을 유지할 수 있게 한다.</span>
-- <span style="background-color:rgb(237,220,195);">식별한 모든 문서와 소프트웨어 아이템은 테스트 문서 내에서 명확하게 상호 참조되도록 한다.</span>
+- <span style="background-color:rgb(237,220,195);">모든 테스트 항목에 <span style="color:red">고유 식별번호를 부여</span>하고, 버전을 관리하고, 변경 이력을 기록한다. 형상 관리에서 테스트 항목은 서로 연관돼 있다.</span>
+- <span style="background-color:rgb(237,220,195);">모든 테스트웨어 항목에 고유 식별번호를 부여하고, 버전을 관리하고, 변경사항을 추적하고, 서로 연결해 테스트 항목 버전과도 연결되도록 해서 테스트 프로세스 전반에 걸쳐 <span style="color:red">추적성을 유지</span>할 수 있게 한다.</span>
+- <span style="background-color:rgb(237,220,195);">식별한 모든 문서와 소프트웨어 아이템은 테스트 문서 내에서 명확하게 <span style="color:red">상호 참조되도록</span> 한다.</span>
 
-<u>테스트 계획을 수립하면서 형상관리 절차와 인프라(도구)를 식별하고 구현</u>해야 한다.
+<span style="color:red">테스트 계획을 수립하면서 형상관리 절차와 인프라(도구)를 식별하고 구현</span>해야 한다.
 
 # 5.5 리스크와 테스팅 (Risks and Testing)
 {: .notice--warning .text-center}
@@ -279,14 +279,14 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
 
 <span style="color:green">(K1) 장애 발생 가능성과 영향도를 이용해 리스크 수준을 정의할 수 있다.</span>
 
-<span style="background-color:rgb(207,228,207);">리스크</span>란 <span style="background-color:rgb(237,220,195);">미래에 부정적 결과를 가져오는 이벤트의 발생 가능성</span>이다. <span style="background-color:rgb(207,228,207);">리스크 수준</span>은 <span style="background-color:rgb(237,220,195);"><span style="color:red">이벤트 발생 가능성</span>과 <span style="color:red">이벤트로 인한 영향도(피해)</span>로 결정</span>한다.
+<span style="background-color:rgb(207,228,207);">리스크</span>란 <span style="background-color:rgb(237,220,195);"><span style="color:blue">미래에 부정적 결과를 가져오는 이벤트의 발생 가능성</span></span>이다. <span style="background-color:rgb(207,228,207);">리스크 수준</span>은 <span style="background-color:rgb(237,220,195);"><span style="color:red">이벤트 발생 가능성</span>과 <span style="color:red">이벤트로 인한 영향도(피해)</span>로 결정</span>한다.
 
 ## 5.5.2 제품 및 프로젝트 리스크 (Product and Project Risks)
 {: .notice--success}
 
 <span style="color:green">(K2) 프로젝트 리스크와 제품 리스크를 구별할 수 있다.</span>
 
-<span style="background-color:rgb(207,228,207);">제품 리스크</span>는 <span style="background-color:rgb(237,220,195);">작업 산출물(예: 명세, 컴포넌트, 시스템, 테스트 등)이 사용자나 이해관계자의 합당한 니즈를 충족하지 못할 가능성이다. 제품 리스크가 제품의 특정 품질 특성(예: 기능 안전성, 신뢰성, 성능 효율성, 사용성, 보안성, 호환성, 유지 보수성, 이식성)과 연관되는 경우 품질 리스크라고 한다.</span><br>
+<span style="background-color:rgb(207,228,207);">제품 리스크</span>는 <span style="background-color:rgb(237,220,195);">작업 산출물(예: 명세, 컴포넌트, 시스템, 테스트 등)이 사용자나 이해관계자의 합당한 니즈를 충족하지 못할 가능성이다. <span style="color:red">제품 리스크가 제품의 특정 품질 특성(예: 기능 안전성, 신뢰성, 성능 효율성, 사용성, 보안성, 호환성, 유지 보수성, 이식성)과 연관되는 경우 품질 리스크</span>라고 한다.</span><br>
 <span style="background-color:rgb(207,228,207);">제품 리스크의 예</span>는 다음과 같다:
 - <span style="background-color:rgb(237,220,195);">소프트웨어가 명세에서 의도한 기능을 수행하지 못함</span>
 - <span style="background-color:rgb(237,220,195);">소프트웨어가 사용자, 고객이나 이해관계자가 요구하는 기능을 수행하지 못함</span>
@@ -310,7 +310,7 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
   + <span style="background-color:rgb(242,213,214);">테스터가 필요한 사항이나 테스트 결과를 제대로 전달하지 못할 수 있다.</span>
   + <span style="background-color:rgb(242,213,214);">개발자나 테스터가 테스팅과 리뷰 도중 발견한 사항에 대한 후속 조치를 못할 수 있다 (예를 들어, 개발 및 테스팅 프랙티스를 개선하지 못함).</span>
   + <span style="background-color:rgb(242,213,214);">테스팅에 대한 잘못된 태도나 기대가 있을 수 있다 (예를 들어, 테스팅 도중 발견한 결함의 가치를 알아보지 못함).</span>
-- <span style="background-color:rgb(237,220,195);">기술적 이슈:</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:blue">기술적 이슈</span>:</span>
   + <span style="background-color:rgb(242,213,214);">요구사항이 충분히 잘 정의되지 않을 수 있다.</span>
   + <span style="background-color:rgb(242,213,214);">기존 제약 사항으로 요구사항을 만족하지 못할 수 있다.</span>
   + <span style="background-color:rgb(242,213,214);">테스트 환경이 필요한 시점에 준비되지 않을 수 있다.</span>
@@ -329,15 +329,15 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
 <span style="color:green">(K2) 제품 리스크 분석이 테스팅의 범위와 테스팅의 충분함에 어떻게 영향을 미치는지 예를 들어 설명할 수 있다.</span>
 
 <span style="background-color:rgb(207,228,207);">리스크</span>는 <span style="background-color:rgb(237,220,195);">테스팅 노력을 집중하는 데 사용된다. 리스크는 테스팅을 언제, 어디서 시작할지 결정하고 좀 더 관심을 가져야 할 영역을 식별하는 데 사용</span>된다. <span style="background-color:rgb(207,228,207);">테스팅</span>은 <span style="background-color:rgb(237,220,195);">부정적인 이벤트의 발생 가능성을 줄이거나 부정적인 이벤트의 영향을 줄이기 위해 사용한다. 리스크 완화 활동으로써 테스팅은 식별한 리스크뿐 아니라 잔존(해결하지 못한) 리스크에 대한 정보도 제공</span>한다.<br>
-<span style="background-color:rgb(207,228,207);">리스크 기반 접근법</span>은 <span style="background-color:rgb(237,220,195);">제품 리스크 수준을 조기에 낮추는 데 기여</span>한다. <span style="background-color:rgb(207,228,207);">리스크 기반 테스팅</span>은 <span style="background-color:rgb(237,220,195);">제품 리스크 식별과 리스크 발생 가능성과 영향을 평가하는 제품 리스크 분석을 포함한다. 제품 리스크 정보로 얻은 결과는 테스트 계획, 명세, 테스트 케이스 준비와 실행, 테스트 모니터링에 사용한다. 초기에 제품 리스크를 평가하면 프로젝트 성공에 기여</span>한다.<br>
-<span style="background-color:rgb(207,228,207);">리스크 기반 접근법에서 제품 리스크 분석 결과는 다음에 사용</span>된다:
+<span style="background-color:rgb(207,228,207);">리스크 기반 접근법</span>은 <span style="background-color:rgb(237,220,195);">제품 리스크 수준을 조기에 낮추는 데 기여</span>한다. <span style="background-color:rgb(207,228,207);">리스크 기반 테스팅</span>은 <span style="background-color:rgb(237,220,195);"><span style="color:red">제품 리스크 식별과 리스크 발생 가능성과 영향을 평가하는 제품 리스크 분석을 포함한다. 제품 리스크 정보로 얻은 결과는 테스트 계획, 명세, 테스트 케이스 준비와 실행, 테스트 모니터링에 사용</span>한다. 초기에 제품 리스크를 평가하면 프로젝트 성공에 기여</span>한다.<br>
+<span style="background-color:rgb(207,228,207);">리스크 기반 접근법에서 <span style="color:blue">제품 리스크 분석 결과는 다음에 사용</span></span>된다:
 - <span style="background-color:rgb(237,220,195);">사용할 테스트 기법 결정</span>
 - <span style="background-color:rgb(237,220,195);">수행할 테스트 레벨과 유형 확정 (예: 보안성 테스팅, 가용성 테스팅)</span>
 - <span style="background-color:rgb(237,220,195);">테스트 수행 범위 결정</span>
 - <span style="background-color:rgb(237,220,195);">가능한 조기에 심각한 결함을 발견하기 위해 테스트 우선순위 결정</span>
 - <span style="background-color:rgb(237,220,195);">기존 테스팅 활동 외 리스크 완화를 위한 다른 활동의 식별 (예: 경험이 부족한 설계자에게 교육 제공)</span>
 
-<span style="background-color:rgb(207,228,207);">리스크 기반 테스팅은 프로젝트 이해관계자의 집단 지식과 통찰력을 기반으로 제품 리스크를 분석한다. 제품 장애 발생 가능성을 최소화하기 위해 리스크 관리 활동은 다음과 같은 절차</span>를 따르게 된다:
+<span style="background-color:rgb(207,228,207);">리스크 기반 테스팅은 프로젝트 이해관계자의 집단 지식과 통찰력을 기반으로 제품 리스크를 분석한다. 제품 장애 발생 가능성을 최소화하기 위해 <span style="color:blue">리스크 관리 활동은 다음과 같은 절차</span></span>를 따르게 된다:
 - <span style="background-color:rgb(237,220,195);">잘못될 수 있는 것(리스크)을 분석 (그리고 정기적으로 재분석)</span>
 - <span style="background-color:rgb(237,220,195);">처리해야 할 중요한 리스크가 무엇인지 판단</span>
 - <span style="background-color:rgb(237,220,195);">해당 리스크를 완화하기 위한 행동 구현</span>
