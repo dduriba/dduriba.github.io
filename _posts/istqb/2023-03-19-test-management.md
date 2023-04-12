@@ -355,28 +355,28 @@ ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스�
 결함은 코드 작성 중, 정적 분석, 리뷰, 동적 테스팅 또는 소프트웨어 제품을 사용하는 중에 보고할 수 있다. 결함은 코드나 운영 중인 시스템이나 요구사항, 사용자 스토리와 인수 조건, 개발 문서, 테스트 문서, 사용자 매뉴얼, 설치 가이드 같은 문서에서 이슈로 보고할 수 있다. 효율적이고 효과적인 결함 관리 프로세스를 위해 조직은 결함의 속성, 분류, 워크플로우에 대한 표준을 정의해 놓을 수 있다.</span>
 
 <span style="background-color:rgb(207,228,207);">일반적인 결함 보고서의 목적</span>은 다음과 같다:
-- <span style="background-color:rgb(237,220,195);">발생한 모든 부정적인 이벤트 정보를 개발자와 기타 관계자에게 제공해 구체적인 영향을 식별하고, 재현 테스트로 문제를 격리하고, 잠재 결함을 수정하고, 필요에 따라서는 문제를 해결할 다른 방법을 찾을 수 있도록 한다.</span>
-- <span style="background-color:rgb(237,220,195);">테스트 관리자에게 작업 산출물의 품질과 테스팅 영향을 추적할 방법을 제공한다 (예: 많은 결함을 보고하면 테스터는 테스트를 수행하는 데 시간을 쓰는 대신에 결함 보고에 많은 시간을 할애하게 되고 필요한 확인 테스팅의 양도 많아진다).</span>
-- <span style="background-color:rgb(237,220,195);">개발과 테스트 프로세스 개선에 대한 아이디어를 제공한다.</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">발생한 모든 부정적인 이벤트 정보를 개발자와 기타 관계자에게 제공해 구체적인 영향을 식별하고, 재현 테스트로 문제를 격리하고, 잠재 결함을 수정하고, 필요에 따라서는 문제를 해결할 다른 방법을 찾을 수 있도록 한다.</span></span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">테스트 관리자에게 작업 산출물의 품질과 테스팅 영향을 추적할 방법을 제공한다 (예: 많은 결함을 보고하면 테스터는 테스트를 수행하는 데 시간을 쓰는 대신에 결함 보고에 많은 시간을 할애하게 되고 필요한 확인 테스팅의 양도 많아진다).</span></span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">개발과 테스트 프로세스 개선에 대한 아이디어를 제공한다.</span></span>
 
 <span style="background-color:rgb(207,228,207);">동적 테스팅에서 작성하는 결함 보고서의 내용</span>은 일반적으로 다음과 같다:
 - <span style="background-color:rgb(237,220,195);">식별 번호</span>
 - <span style="background-color:rgb(237,220,195);">제목, 보고하는 결함에 대한 짧은 요약</span>
 - <span style="background-color:rgb(237,220,195);">결함 보고 날짜, 보고 주체 조직 및 작성자</span>
 - <span style="background-color:rgb(237,220,195);">테스트 항목 식별자(테스트 대상 형상 항목)와 환경</span>
-- <span style="background-color:rgb(237,220,195);">결함을 발견한 개발 수명주기 단계</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">결함을 발견한 개발 수명주기 단계</span></span>
 - <span style="background-color:rgb(237,220,195);">로그, 데이터베이스 덤프, 스크린샷, 녹화 기록(테스트 실행 중 녹화했다면) 등의 결함 재현과 해결을 위한 설명</span>
 - <span style="background-color:rgb(237,220,195);">기대 및 실제 결과</span>
-- <span style="background-color:rgb(237,220,195);">이해관계자의 관점에서의 결함 영향도(심각도)의 범위와 정도</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">이해관계자의 관점에서의 결함 영향도(심각도)의 범위와 정도</span></span>
 - <span style="background-color:rgb(237,220,195);">수정 우선순위 (긴급하게 처리해야 하는 순서)</span>
-- <span style="background-color:rgb(237,220,195);">결함 보고서의 상태 (예: 신규, 연기, 중복, 수정 대기, 확인 테스팅 대기, 재오픈, 완료)</span>
+- <span style="background-color:rgb(237,220,195);"><span style="color:red">결함 보고서의 상태 (예: 신규, 연기, 중복, 수정 대기, 확인 테스팅 대기, 재오픈, 완료)</span></span>
 - <span style="background-color:rgb(237,220,195);">결론, 의견, 승인 여부</span>
 - <span style="background-color:rgb(237,220,195);">글로벌 이슈 (예를 들어, 결함 수정의 결과로 영향을 받는 다른 영역)</span>
 - <span style="background-color:rgb(237,220,195);">변경 이력 (예를 들어, 프로젝트 팀원이 결함을 격리하고 복구하고, 수정 여부를 확인하는 데 취한 조치 순서)</span>
 - <span style="background-color:rgb(237,220,195);">참조 (문제를 발견하게 해 준 테스트 케이스 포함)</span>
 
 결함 관리 도구를 사용하면 위 정보 중 일부는 자동으로 작성될 수 있다 (예: 고유 식별번호 자동 부여, 결함 상태 자동 할당, 결함 보고 상태 자동 업데이트). 정적 테스팅, 특히 리뷰에서 발견하는 결함은 다양한 방법(예: 리뷰 회의록)으로 문서화한다.<br>
-<u>결함 보고서의 내용 관련 예제는 ISO 표준(ISO/IEC/IEEE 29119-3)을 참조한다. 해당 표준은 결함 보고서를 인시던트 보고서</u>로 부른다.
+<u>결함 보고서의 내용 관련 예제는 ISO 표준(ISO/IEC/IEEE 29119-3)을 참조한다. 해당 표준은 <span style="color:blue">결함 보고서를 인시던트 보고서</span></u>로 부른다.
 
 # ● 용어
 {: .notice .text-center}
