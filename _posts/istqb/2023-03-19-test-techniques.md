@@ -216,7 +216,7 @@ toc_sticky: true
 
 - 오류 추정(error guessing):<br>
 참조 : ISO 29119<br>
-과거 장애(failures)에 대한 테스터의 지식이나 장애 형태에 대한 일반적인 지식에 기초하여 테스트 케이스를 도출하는 테스트 기법
+<span style="color:red">과거 장애(failures)에 대한 테스터의 지식이나 장애 형태에 대한 일반적인 지식에 기초하여 테스트 케이스를 도출하는 테스트 기법</span>
 
 - 동등 분할(equivalence partitioning):<br>
 유의어 : 동등 클래스(equivalence class)<br>
@@ -228,7 +228,7 @@ toc_sticky: true
 
 - 탐색적 테스팅(exploratory testing):<br>
 참조 : ISO 29119<br>
-테스터가 자신의 지식, 테스트 항목에 대한 탐색, 이전 테스트 결과를 기반으로 하여 테스트를 동적으로 설계하고 실행하는 테스팅 접근법
+<span style="color:red">테스터가 자신의 지식, 테스트 항목에 대한 탐색, 이전 테스트 결과를 기반으로 하여 테스트를 동적으로 설계하고 실행하는 테스팅 접근법</span>
 
 - 상태 전이 테스팅(state transition testing):<br>
 연관 항목 : N-스위치 테스팅(N-switch testing)<br>
