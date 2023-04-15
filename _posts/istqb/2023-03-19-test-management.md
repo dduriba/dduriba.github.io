@@ -255,7 +255,7 @@ toc_sticky: true
 - <span style="background-color:rgb(237,220,195);">재사용 가능한(만들어 낸) 테스트 작업 산출물</span>
 
 테스트 보고서의 내용은 프로젝트, 조직 요구사항, 소프트웨어 개발 수명주기에 따라 달라진다. 예를 들어 이해관계자나 규제가 많은 복잡한 프로젝트는 간단한 소프트웨어 업데이트 프로젝트보다 훨씬 상세하고 철저한 보고가 필요하다. 또 다른 예로, 애자일 개발에서 테스트 진행 상황 보고를 작업 보드, 결함 요약, 번다운 차트에 통합할 수 있고 일일 스탠드업(stand-up) 회의에서 공유할 수 있다 (ISTQB-CTFL-AT 참조).<br>
-<span style="background-color:rgb(207,228,207);">테스트 보고서는 프로젝트의 정황뿐 아니라 보고의 대상자에 따라서도 조정해야 한다. 기술적인 배경이 있거나 테스트팀을 대상으로 하는 보고서의 형식이나 내용은 경영층을 대상으로 하는 요약 보고서와 달라야 한다.</span> <span style="background-color:rgb(207,228,207);">전자</span>에서는 <span style="background-color:rgb(237,220,195);">결함 유형과 추세에 대한 상세한 정보가 중요</span>하고, <span style="color:red"><span style="background-color:rgb(207,228,207);">후자</span>에서는 <span style="background-color:rgb(237,220,195);">상위 수준으로 작성된 보고서(예: 우선순위별 결함 상태 요약, 예산, 일정, 테스트 컨디션별 합격/불합격/미실행 정보)가 더 적절</span></span>할 수 있다.<br>
+<span style="background-color:rgb(207,228,207);">테스트 보고서는 프로젝트의 정황뿐 아니라 보고의 대상자에 따라서도 조정해야 한다. 기술적인 배경이 있거나 테스트팀을 대상으로 하는 보고서의 형식이나 내용은 경영층을 대상으로 하는 요약 보고서와 달라야 한다.</span> <span style="background-color:rgb(207,228,207);">전자</span>에서는 <span style="background-color:rgb(237,220,195);">결함 유형과 추세에 대한 상세한 정보가 중요</span>하고, <span style="background-color:rgb(207,228,207);">후자</span>에서는 <span style="background-color:rgb(237,220,195);">상위 수준으로 작성된 보고서(예: 우선순위별 결함 상태 요약, 예산, 일정, 테스트 컨디션별 합격/불합격/미실행 정보)가 더 적절</span>할 수 있다.<br>
 ISO 표준(ISO/IEC/IEEE 29119-3)은 테스트 진행 상황 보고서와 테스트 완료 보고서(본 실러버스는 테스트 요약 보고서라고 함), 두가지 형식의 보고서 내용 구성과 예제를 제공하고 있다.
 
 # 5.4 형상 관리 (Configuration Management)
