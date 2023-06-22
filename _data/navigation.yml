@@ -10,7 +10,7 @@ main:
     url: /tags/
 
 docs:
-  - title: "Category"
+  - title: "Main Category"
     children:
       - title: "Unreal Engine"
         url: /categories/#unreal
@@ -18,6 +18,8 @@ docs:
       - title: "Game Math"
         url: /categories/#math
         category: "math"
+  - title: "Sub Category"
+    children:
       - title: "ISTQB"
         url: /categories/#istqb
         category: "istqb"
