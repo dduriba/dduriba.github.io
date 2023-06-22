@@ -12,26 +12,21 @@ main:
 docs:
   - title: "Category"
     children:
+      - title: "Unreal Engine"
+        url: /categories/#unreal
+        category: "unreal"
+      - title: "Game Math"
+        url: /categories/#math
+        category: "math"
       - title: "ISTQB"
         url: /categories/#istqb
         category: "istqb"
       - title: "Jekyll"
         url: /categories/#jekyll
         category: "jekyll"
-      - title: "GitHub"
-        url: /categories/#github
-        category: "github"
-      - title: "Interview Q&A"
-        url: /categories/#interviewQnA
-        category: "interviewQnA"
       - title: "Memo"
         url: /categories/#memo
         category: "memo"
-  - title: Unity 2D
-    children:
-      - title: Stardew Valley
-        url: /categories/#stardewValley
-        category: "stardewValley"
       
   # - title: "Category"
   #   url: /categories/
