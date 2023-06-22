@@ -6,14 +6,14 @@ tag: [unreal, aimbot]
 classes: wide
 ---
 
-# 1.프로젝트 세팅 인풋에 바인드
+# 1.프로젝트 세팅 인풋에 맵핑할 키 바인드
 {: .notice--warning .text-center}
 
-Project Settings >Engine >Input >Bindings >Axis Mappings
+Project Settings >Engine-Input >Bindings >Axis Mappings
 
 <img src="/img/unreal/aimbot/1_movement/axis_mappings.PNG"/>
 
-# 2.캐릭터 C++ 클래스 생성
+# 2.플레이어 C++ 클래스 생성
 {: .notice--warning .text-center}
 
 parent class: character
@@ -100,21 +100,26 @@ void AAimBotPlayer::MoveRight(float AxisValue)
 </div>
 </details>
 
-# 3.캐릭터 C++ 클래스 기반 BP 클래스 생성
+# 3.플레이어 C++ 클래스 기반 BP 클래스 생성
 {: .notice--warning .text-center}
 
 <img src="/img/unreal/aimbot/1_movement/mesh.PNG"/>
 
-파라곤 레이스 캐릭터 어셋을 받아 캐릭터 블루프린트 클래스의 mesh >skeletal mesh에 지정, 발끝을 캡슐콜라이더의 하단에 위치시키고 캐릭터의 앞이 front를 보게 회전
+0. 파라곤 레이스 캐릭터 어셋 임포트
+1. 플레이어 BP 클래스의 mesh >skeletal mesh에 지정
+2. 발끝을 캡슐콜라이더의 하단에 위치
+3. 캐릭터의 정면이 front를 향하도록 회전
 
 # 4.게임모드베이스 클래스 기반 BP 클래스 생성
 {: .notice--warning .text-center}
 
 <img src="/img/unreal/aimbot/1_movement/gamemode.PNG"/>
 
+C++ 폴더에 생성된 (ProjectName)GameModeBase 기반 BP 클래스 생성
+
 Project Settings >Maps & Modes
-Default GameMode 에 만든 게임모드 BP 클래스 지정
-Default Pawn Class 에 만든 캐릭터 BP 클래스 지정
+Default GameMode에 만든 게임모드 BP 클래스 지정
+Default Pawn Class에 만든 플레이어 BP 클래스 지정
 
 Window >Place Actors >Player Start 를 월드에 생성
 
