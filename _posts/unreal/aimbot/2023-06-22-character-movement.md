@@ -110,6 +110,8 @@ void AAimBotPlayer::MoveRight(float AxisValue)
 # 4.게임모드베이스 클래스 기반 BP 클래스 생성
 {: .notice--warning .text-center}
 
+<img src="/img/unreal/aimbot/1_movement/gamemode.PNG"/>
+
 Project Settings >Maps & Modes
 Default GameMode 에 만든 게임모드 BP 클래스 지정
 Default Pawn Class 에 만든 캐릭터 BP 클래스 지정
