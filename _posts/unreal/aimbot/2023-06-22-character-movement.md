@@ -105,7 +105,7 @@ void AAimBotPlayer::MoveRight(float AxisValue)
 
 <img src="/img/unreal/aimbot/1_movement/mesh.PNG"/>
 
-0. 파라곤 레이스 캐릭터 어셋 임포트
+0. 파라곤 레이스 캐릭터 애셋 임포트
 1. 플레이어 BP 클래스의 mesh >skeletal mesh에 지정
 2. 발끝을 캡슐콜라이더의 하단에 위치
 3. 캐릭터의 정면이 front를 향하도록 회전
