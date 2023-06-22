@@ -10,16 +10,16 @@ main:
     url: /tags/
 
 docs:
-  - title: "Main Category"
+  - title: "UNREAL ENGINE"
     children:
-      - title: "Unreal Engine"
-        url: /categories/#unreal
-        category: "unreal"
+      - title: "AimBot"
+        url: /categories/#aimbot
+        category: "aimbot"
+  - title: "OTHERS"
+    children:
       - title: "Game Math"
         url: /categories/#math
         category: "math"
-  - title: "Sub Category"
-    children:
       - title: "ISTQB"
         url: /categories/#istqb
         category: "istqb"
