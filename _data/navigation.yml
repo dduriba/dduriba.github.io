@@ -12,7 +12,7 @@ main:
 docs:
   - title: "UNREAL ENGINE"
     children:
-      - title: "AimBot"
+      - title: "PROJECT AimBot"
         url: /categories/#aimbot
         category: "aimbot"
   - title: "OTHERS"
