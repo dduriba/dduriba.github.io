@@ -118,8 +118,8 @@ void AAimBotPlayer::MoveRight(float AxisValue)
 C++ 폴더에 생성된 (ProjectName)GameModeBase 기반 BP 클래스 생성
 
 Project Settings >Maps & Modes
-Default GameMode에 만든 게임모드 BP 클래스 지정
-Default Pawn Class에 만든 플레이어 BP 클래스 지정
+1. Default GameMode에 만든 게임모드 BP 클래스 지정
+2. Default Pawn Class에 만든 플레이어 BP 클래스 지정
 
 Window >Place Actors >Player Start 를 월드에 생성
 
