@@ -1,5 +1,5 @@
 ---
-title:  "1.캐릭터 무브먼트"
+title:  "1.캐릭터 이동, 회전, 카메라"
 excerpt: "character movement"
 categories: aimbot
 tag: [unreal, aimbot]
@@ -109,6 +109,14 @@ void AAimBotPlayer::MoveRight(float AxisValue)
 1. 플레이어 BP 클래스의 mesh >skeletal mesh에 지정
 2. 발끝을 캡슐콜라이더의 하단에 위치
 3. 캐릭터의 정면이 front를 향하도록 회전
+
+<img src="/img/unreal/aimbot/1_movement/camera.png"/>
+
+0. SpringArm 컴포넌트 생성, 하위에 Camera 종속 생성
+1. SpringArm Detials
+	1. Camera Settings >Use Pawn Control Rotation = true
+	2. Camera >Socket Offset 값 조절
+	3. Transform 값 조절
 
 # 4.게임모드베이스 클래스 기반 BP 클래스 생성
 {: .notice--warning .text-center}
