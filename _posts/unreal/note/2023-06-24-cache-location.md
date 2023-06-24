@@ -14,13 +14,13 @@ toc_sticky: true
 
 EpicGamesLauncher<br>
 --> Settings<br>
-----> Edit Vault Cache Location 
+--> Edit Vault Cache Location 
 
 # 셰이더 캐시 위치 변경
 {: .notice--warning .text-center}
 
-Unreal Engine
+Unreal Engine<br>
 --> Edit<br>
-----> Editor Preferences<br>
-------> General-Global<br>
---------> Derived Data Cache(Global Local DDC Path & Global Shared DDC Path)
+--> Editor Preferences<br>
+--> General-Global<br>
+--> Derived Data Cache(Global Local DDC Path & Global Shared DDC Path)
