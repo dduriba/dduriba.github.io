@@ -12,14 +12,14 @@ toc_sticky: true
 # 볼트 캐시 위치 변경
 {: .notice--warning .text-center}
 
->EpicGamesLauncher
->>Settings
->>>Edit Vault Cache Location 
+-> EpicGamesLauncher<br>
+--> Settings<br>
+---> Edit Vault Cache Location 
 
 # 셰이더 캐시 위치 변경
 {: .notice--warning .text-center}
 
->Edit
->>Editor Preferences
->>>General-Global
->>>>Derived Data Cache(Global Local DDC Path) & Global Shared DDC Path both)
+-> Edit<br>
+->> Editor Preferences<br>
+->>> General-Global<br>
+->>>> Derived Data Cache(Global Local DDC Path & Global Shared DDC Path)
