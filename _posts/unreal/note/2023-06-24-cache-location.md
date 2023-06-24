@@ -19,4 +19,7 @@ EpicGamesLauncher<br>
 # 셰이더 캐시 위치 변경
 {: .notice--warning .text-center}
 
-Edit >Editor Preferences >General-Global >Derived Data Cache(Global Local DDC Path) & Global Shared DDC Path both)
+Edit
+ >Editor Preferences
+  >General-Global
+   >Derived Data Cache(Global Local DDC Path) & Global Shared DDC Path both)
