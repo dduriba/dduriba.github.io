@@ -133,4 +133,4 @@ void AAimBotPlayer::Shoot()
 # 5.총 BP 클래스에 이미터 연결
 {: .notice--warning .text-center}
 
-<img src="/img/unreal/aimbot/4_lineTrace/muzzleSocket.png"/>
+<img src="/img/unreal/aimbot/4_lineTrace/emitter.png"/>
