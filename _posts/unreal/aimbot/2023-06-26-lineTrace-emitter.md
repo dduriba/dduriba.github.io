@@ -26,9 +26,23 @@ classes: wide
 <div markdown="1">
 
 ```cpp
+public:	
+	void PullTrigger();
 
+private:
+	UPROPERTY(EditAnywhere)
+	UParticleSystem* ImpactEffect;
+
+	UPROPERTY(EditAnywhere)
+	UParticleSystem* MuzzleEffect;
+
+	UPROPERTY(EditAnywhere)
+	float MaxRange = 10000;
+
+	bool LineTrace(FHitResult& Hit, FVector& ShotDirection);
+
+	AController* GetOwnerController() const;
 ```
-
 </div>
 </details>
 
@@ -37,7 +51,44 @@ classes: wide
 <div markdown="1">
 
 ```cpp
+#include "Kismet/GameplayStatics.h"
 
+void ARifle::PullTrigger()
+{
+	UGameplayStatics::SpawnEmitterAttached(MuzzleEffect, Mesh, TEXT("Muzzle"));
+
+	FHitResult Hit;
+	FVector ShotDirection;
+	bool bSuccess = LineTrace(Hit, ShotDirection);
+	if (bSuccess)
+	{
+		UGameplayStatics::SpawnEmitterAtLocation(GetWorld(), ImpactEffect, Hit.Location, ShotDirection.Rotation());
+	}
+}
+
+bool ARifle::LineTrace(FHitResult& Hit, FVector& ShotDirection)
+{
+	AController* OwnerController = GetOwnerController();
+	if (OwnerController == nullptr) return false;
+
+	FVector Location;
+	FRotator Rotation;
+	OwnerController->GetPlayerViewPoint(Location, Rotation);
+	ShotDirection = -Rotation.Vector();
+
+	FVector End = Location + Rotation.Vector() * MaxRange;
+	FCollisionQueryParams Params;
+	Params.AddIgnoredActor(this);
+	Params.AddIgnoredActor(GetOwner());
+	return GetWorld()->LineTraceSingleByChannel(Hit, Location, End, ECollisionChannel::ECC_GameTraceChannel1, Params);
+}
+
+AController* ARifle::GetOwnerController() const
+{
+	APawn* OwnerPawn = Cast<APawn>(GetOwner());
+	if (OwnerPawn == nullptr) return nullptr;
+	return OwnerPawn->GetController();
+}
 ```
 
 </div>
@@ -51,7 +102,8 @@ classes: wide
 <div markdown="1">
 
 ```cpp
-
+public:	
+	void Shoot();
 ```
 
 </div>
@@ -62,7 +114,17 @@ classes: wide
 <div markdown="1">
 
 ```cpp
+void AAimBotPlayer::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+{
+	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+	PlayerInputComponent->BindAction(TEXT("Shoot"), EInputEvent::IE_Pressed, this, &AAimBotPlayer::Shoot);
+}
+
+void AAimBotPlayer::Shoot()
+{
+	Rifle->PullTrigger();
+}
 ```
 
 </div>
