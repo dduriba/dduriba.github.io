@@ -91,7 +91,7 @@ public class AimBot : ModuleRules
 # 2.Widget BP(User Widget) 생성
 {: .notice--warning .text-center}
 
-Canvas Panel이 없으면 생성 후 하위에 Image를 생성, Anchors를 중앙에 맞춰주고 Size To Content = true, 적절한 이미지를 찾아 넣어주고 사이즈 조절을 해준다
+Canvas Panel이 없으면 생성 후 하위에 Image를 생성, Anchors를 중앙에 맞춰주고 Size To Content = true, 적절한 이미지를 찾아 넣어주고 이미지 사이즈 조절을 해준다
 
 <img src="/img/unreal/aimbot/8_crosshair/wbp.png"/>
 
