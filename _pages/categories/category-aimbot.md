@@ -4,6 +4,8 @@ layout: archive
 permalink: categories/aimbot
 author_profile: true
 sidebar_main: true
+sidebar:
+    nav: "docs"
 ---
 
 {% assign posts = site.categories.aimbot %}
