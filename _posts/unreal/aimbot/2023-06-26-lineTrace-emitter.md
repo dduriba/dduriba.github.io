@@ -6,6 +6,28 @@ tag: [unreal, aimbot]
 classes: wide
 ---
 
+# 0.프로젝트 세팅 콜리전 채널 편집
+{: .notice--warning .text-center}
+
+Trace Channel을 Name=Bullet, Default Response=Block으로 하나 만들어주고 Preset에서 Bullet을 편집<br>
+NoCollision=Ignore
+BlockAll=block
+InvisibleWall=Ignore
+InvisibleWallDynamic=Ignore
+
+<details>
+<summary>DefaultEngine.ini 확인</summary>
+<div markdown="1">
+
+```ini
++DefaultChannelResponses=(Channel=ECC_GameTraceChannel1,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="Bullet")
+```
+
+</div>
+</details>
+
+<img src="/img/unreal/aimbot/4_lineTrace/collisionChannel.png"/>
+
 # 1.프로젝트 세팅 인풋에 맵핑할 키 바인드
 {: .notice--warning .text-center}
 
