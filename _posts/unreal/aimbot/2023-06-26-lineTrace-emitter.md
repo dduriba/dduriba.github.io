@@ -19,7 +19,7 @@ InvisibleWallDynamic=Ignore
 <img src="/img/unreal/aimbot/4_lineTrace/collisionChannel.png"/>
 
 <details>
-<summary>DefaultEngine.ini 확인</summary>
+<summary>DefaultEngine.ini 에서 콜리전 채널 넘버 확인(ECC_GameTraceChannel)</summary>
 <div markdown="1">
 
 ```ini
