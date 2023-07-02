@@ -1,5 +1,5 @@
 ---
-title: "Note"
+title: "Unreal Note"
 layout: archive
 permalink: categories/note
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-title: "PROJECT AimBot"
+title: "Unreal Project AimBot"
 layout: archive
 permalink: categories/aimbot
 author_profile: true

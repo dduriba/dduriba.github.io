@@ -10,22 +10,22 @@ main:
     url: /tags/
 
 docs:
-  - title: "UNREAL ENGINE"
+  - title: "GAME DEV"
     children:
-      - title: "PROJECT AimBot"
-        url: /categories/aimbot
-        category: "aimbot"
-      - title: "Note"
+      - title: "Unreal Note"
         url: /categories/note
         category: "note"
-  - title: "OTHERS"
-    children:
+      - title: "Unreal Project AimBot"
+        url: /categories/aimbot
+        category: "aimbot"
       - title: "Game Math"
         url: /categories/math
         category: "math"
       - title: "ISTQB"
         url: /categories/istqb
         category: "istqb"
+  - title: "OTHERS"
+    children:
       - title: "Jekyll"
         url: /categories/jekyll
         category: "jekyll"
