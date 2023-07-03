@@ -291,7 +291,7 @@ defaults:
       sidebar_main: true
       sidebar:
         nav: "docs"
-      read_time: true
+      read_time: false
       comments: true
       share: false
       related: false
