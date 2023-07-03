@@ -162,8 +162,8 @@
 
   /* next/previous buttons */
   &--pager {
-    //margin-top: 0em;
-    //padding-top: 0em;
+    margin-top: 1em;
+    padding-top: 0em;
     display: block;
     padding: 1em 2em;
     //float: left;
@@ -193,7 +193,7 @@
 
     &:last-child {
       //margin-left: -1px;
-      //margin-bottom: 1em;
+      margin-bottom: 1em;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
     }
@@ -207,7 +207,7 @@
     }
 
     &.disabled-last-child {
-      //margin-bottom: 1em;
+      margin-bottom: 1em;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
       color: rgba($muted-text-color, 0.5);
