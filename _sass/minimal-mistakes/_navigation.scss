@@ -193,7 +193,7 @@
 
     &:last-child {
       //margin-left: -1px;
-      margin-bottom: 1em;
+      //margin-bottom: 1em;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
     }
@@ -207,7 +207,7 @@
     }
 
     &.disabled-last-child {
-      margin-bottom: 1em;
+      //margin-bottom: 1em;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
       color: rgba($muted-text-color, 0.5);
@@ -217,7 +217,6 @@
 
     &.disabled {
       margin-top: 1em;
-      margin-bottom: 1em;
       color: rgba($muted-text-color, 0.5);
       pointer-events: none;
       cursor: not-allowed;
