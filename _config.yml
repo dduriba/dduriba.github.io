@@ -291,11 +291,11 @@ defaults:
       sidebar_main: true
       sidebar:
         nav: "docs"
-      read_time: true
+      read_time: false
       comments: true
       share: false
-      related: true
-      show_date : true
+      related: false
+      show_date : false
       search: true
       # toc: true
       # toc_label: "목록"
