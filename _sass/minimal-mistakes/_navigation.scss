@@ -119,12 +119,10 @@
 
   /* next/previous buttons */
   &--pager {
-    margin-top: 0em;
-    padding-top: 0em;
     display: block;
     padding: 1em 2em;
-    //float: left;
-    width: 100%;
+    float: left;
+    width: 50%;
     font-family: $sans-serif;
     font-size: $type-size-5;
     font-weight: bold;
@@ -155,11 +153,6 @@
       cursor: not-allowed;
     }
   }
-}
-
-.prev_next {
-  font-family: $cute;
-  color:#ffd861;
 }
 
 .page__content + .pagination,
