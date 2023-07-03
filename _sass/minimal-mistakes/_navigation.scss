@@ -216,6 +216,8 @@
     }
 
     &.disabled {
+      margin-top: 1em;
+      margin-bottom: 1em;
       color: rgba($muted-text-color, 0.5);
       pointer-events: none;
       cursor: not-allowed;
