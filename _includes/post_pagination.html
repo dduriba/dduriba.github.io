@@ -27,7 +27,9 @@
       <a href="#" class="pagination_prev_next--pager disabled-last-child ">현재 페이지가 해당 카테고리의 마지막 페이지입니다</a>
     {% endif %}
   </nav>
-{% else %}
+<!-- {% else %}
   <a href="#" class="pagination_prev_next--pager disabled-first-child">현재 페이지가 해당 카테고리의 첫번째 페이지입니다</a>
-  <a href="#" class="pagination_prev_next--pager disabled-last-child ">현재 페이지가 해당 카테고리의 마지막 페이지입니다</a>
+  <a href="#" class="pagination_prev_next--pager disabled-last-child ">현재 페이지가 해당 카테고리의 마지막 페이지입니다</a> -->
+{% else %}
+  <a href="#" class="pagination_prev_next--pager disabled-first-child">현재 페이지는 해당 카테고리의 하나뿐인 페이지입니다</a>
 {% endif %}
