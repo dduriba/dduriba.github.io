@@ -158,6 +158,8 @@
 .pagination_prev_next {
   @include clearfix();
   float: left;
+  margin-top: 1em;
+  padding-top: 1em;
   width: 100%;
 
   /* next/previous buttons */
@@ -187,19 +189,15 @@
     }
 
     &:first-child {
-      //border-bottom-left-radius: 0;
-      //border-bottom-right-radius: 0;
-      border-top-right-radius: 0;
+      border-bottom-left-radius: 0;
       border-bottom-right-radius: 0;
     }
 
     &:last-child {
-      margin-left: -1px;
-      //margin-bottom: 1em;
-      //border-top-left-radius: 0;
-      //border-top-right-radius: 0;
+      //margin-left: -1px;
+      margin-bottom: 1em;
       border-top-left-radius: 0;
-      border-bottom-left-radius: 0;
+      border-top-right-radius: 0;
     }
 
     &.disabled-first-child {
