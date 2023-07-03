@@ -293,7 +293,7 @@ defaults:
         nav: "docs"
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       show_date : true
       search: true
