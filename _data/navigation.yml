@@ -26,15 +26,15 @@ docs:
         category: "istqb"
   - title: "OTHERS"
     children:
+      - title: "Hacker Rank"
+        url: /categories/hackerRank
+        category: "hackerRank"
       - title: "Jekyll"
         url: /categories/jekyll
         category: "jekyll"
       - title: "Memo"
         url: /categories/memo
         category: "memo"
-      - title: "Hacker Rank"
-        url: /categories/hackerRank
-        category: "hackerRank"
       
   # - title: "Category"
   #   url: /categories/
