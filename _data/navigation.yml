@@ -32,6 +32,9 @@ docs:
       - title: "Memo"
         url: /categories/memo
         category: "memo"
+      - title: "Hacker Rank"
+        url: /categories/hackerRank
+        category: "hackerRank"
       
   # - title: "Category"
   #   url: /categories/
