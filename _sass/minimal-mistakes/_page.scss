@@ -361,13 +361,13 @@ body {
   text-decoration: none;
   border: 1px solid $background-color;
   border-radius: $border-radius;
-  background-color: mix(#ffffff, #EDDCC3, 80%);
+  background-color: mix(#ffffff, #EDDCC3, 70%);
   font-family: $serif;
   color: mix(#ffffff, $primary-color, 10%);
 
   &:hover {
     text-decoration: none;
-    color: mix(#EDDCC3, $text-color, 100%);
+    color: mix(#EDDCC3, $text-color, 90%);
   }
 }
 
@@ -379,13 +379,13 @@ body {
   text-decoration: none;
   border: 1px solid $background-color;
   border-radius: $border-radius;
-  background-color: mix(#ffffff, #EDDCC3, 60%);
+  background-color: mix(#ffffff, #EDDCC3, 50%);
   font-family: $serif;
   color: $primary-color;
 
   &:hover {
     text-decoration: none;
-    color: mix(#EDDCC3, $text-color, 100%);
+    color: mix(#EDDCC3, $text-color, 90%);
   }
 }
 
