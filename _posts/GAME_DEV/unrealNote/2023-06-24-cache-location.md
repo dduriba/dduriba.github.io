@@ -1,8 +1,8 @@
 ---
 title: "캐시 저장 위치 변경"
 excerpt: "replace cache storage location"
-categories: note
-tag: [unreal, note]
+categories: unrealNote
+tag: [unreal, unrealNote]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"

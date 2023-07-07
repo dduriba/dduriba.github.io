@@ -13,8 +13,8 @@ docs:
   - title: "GAME DEV"
     children:
       - title: "Unreal Note"
-        url: /categories/note
-        category: "note"
+        url: /categories/unrealNote
+        category: "unrealNote"
       - title: "Unreal Project AimBot"
         url: /categories/aimbot
         category: "aimbot"
@@ -26,6 +26,9 @@ docs:
         category: "istqb"
   - title: "OTHERS"
     children:
+      - title: "Algorithm"
+        url: /categories/algorithm
+        category: "algorithm"
       - title: "Hacker Rank"
         url: /categories/hackerRank
         category: "hackerRank"
@@ -35,6 +38,7 @@ docs:
       - title: "Memo"
         url: /categories/memo
         category: "memo"
+  - title: "PRIVATE ROOM"
       
   # - title: "Category"
   #   url: /categories/

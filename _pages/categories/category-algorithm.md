@@ -1,7 +1,7 @@
 ---
-title: "Unreal Note"
+title: "Algorithm"
 layout: archive
-permalink: categories/note
+permalink: categories/algorithm
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.note %}
+{% assign posts = site.categories.algorithm %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
