@@ -10,7 +10,7 @@ main:
     url: /tags/
 
 docs:
-  - title: "UNREAL ENGINE ▼"
+  - title: "- UNREAL ENGINE ▼"
     children:
       - title: "Unreal Note"
         url: /categories/unrealNote
@@ -18,13 +18,13 @@ docs:
       - title: "Unreal Project AimBot"
         url: /categories/aimbot
         category: "aimbot"
-  - title: "GAME MATH ◀"
+  - title: "- GAME MATH ◀"
     url: /categories/math
     category: "math"
-  - title: "DATA STRUCTURE ◀"
+  - title: "- DATA STRUCTURE ◀"
     url: /categories/dataStructure
     category: "dataStructure"
-  - title: "ALGORITHM ▼"
+  - title: "- ALGORITHM ▼"
     children:
       - title: "Programmers"
         url: /categories/programmers
@@ -32,12 +32,12 @@ docs:
       - title: "Hacker Rank"
         url: /categories/hackerRank
         category: "hackerRank"
-  - title: "QA ▼"
+  - title: "- QA ▼"
     children:
       - title: "ISTQB"
         url: /categories/istqb
         category: "istqb"
-  - title: "OTHERS ▼"
+  - title: "- OTHERS ▼"
     children:
       - title: "Jekyll"
         url: /categories/jekyll
