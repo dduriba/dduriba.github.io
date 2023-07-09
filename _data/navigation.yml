@@ -10,7 +10,7 @@ main:
     url: /tags/
 
 docs:
-  - title: "▽ UNREAL ENGINE"
+  - title: "UNREAL ENGINE"
     children:
       - title: "Unreal Note"
         url: /categories/unrealNote
@@ -18,26 +18,44 @@ docs:
       - title: "Unreal Project AimBot"
         url: /categories/aimbot
         category: "aimbot"
-  - title: "▶ GAME MATH"
-    url: /categories/math
-    category: "math"
-  - title: "▶ DATA STRUCTURE"
-    url: /categories/dataStructure
-    category: "dataStructure"
-  - title: "▽ ALGORITHM"
+
+  - title: "COMPUTER SCIENCE"
     children:
-      - title: "Programmers"
-        url: /categories/programmers
-        category: "programmers"
-      - title: "Hacker Rank"
-        url: /categories/hackerRank
-        category: "hackerRank"
-  - title: "▽ QA"
+      - title: "OS"
+        url: /categories/os
+        category: "os"
+      - title: "Graphics"
+        url: /categories/graphics
+        category: "graphics"
+      - title: "Network"
+        url: /categories/network
+        category: "network"
+      - title: "Data Base"
+        url: /categories/dataBase
+        category: "dataBase"
+      - title: "Design Pattern"
+        url: /categories/designPattern
+        category: "designPattern"
+      - title: "Data Structure"
+        url: /categories/dataStructure
+        category: "dataStructure"
+      - title: "Algorithm"
+        url: /categories/algorithm
+        category: "algorithm"
+      - title: "C/C++/C#"
+        url: /categories/c
+        category: "c"
+      - title: "Game Math"
+        url: /categories/math
+        category: "math"
+
+  - title: "QA"
     children:
       - title: "ISTQB"
         url: /categories/istqb
         category: "istqb"
-  - title: "▽ OTHERS"
+
+  - title: "OTHERS"
     children:
       - title: "Jekyll"
         url: /categories/jekyll
@@ -45,7 +63,7 @@ docs:
       - title: "Memo"
         url: /categories/memo
         category: "memo"
-      
+
   # - title: "Category"
   #   url: /categories/
   # - title: "Tag"

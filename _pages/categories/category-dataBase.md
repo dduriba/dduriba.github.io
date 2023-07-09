@@ -1,7 +1,7 @@
 ---
-title: "Programmers"
+title: "DataBase"
 layout: archive
-permalink: categories/programmers
+permalink: categories/dataBase
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.programmers %}
+{% assign posts = site.categories.dataBase %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
