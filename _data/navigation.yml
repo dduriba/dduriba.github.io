@@ -10,7 +10,7 @@ main:
     url: /tags/
 
 docs:
-  - title: "GAME DEV"
+  - title: "Unreal Engine"
     children:
       - title: "Unreal Note"
         url: /categories/unrealNote
@@ -18,27 +18,33 @@ docs:
       - title: "Unreal Project AimBot"
         url: /categories/aimbot
         category: "aimbot"
-      - title: "Game Math"
-        url: /categories/math
-        category: "math"
-      - title: "ISTQB"
-        url: /categories/istqb
-        category: "istqb"
-  - title: "OTHERS"
+  - title: "Game Math"
+    url: /categories/math
+    category: "math"
+  - title: "Data Structure"
+    url: /categories/dataStructure
+    category: "dataStructure"
+  - title: "Algorithm"
     children:
-      - title: "Algorithm"
-        url: /categories/algorithm
-        category: "algorithm"
+      - title: "Programmers"
+        url: /categories/programmers
+        category: "programmers"
       - title: "Hacker Rank"
         url: /categories/hackerRank
         category: "hackerRank"
+  - title: "QA"
+    children:
+      - title: "ISTQB"
+        url: /categories/istqb
+        category: "istqb"
+  - title: "Others"
+    children:
       - title: "Jekyll"
         url: /categories/jekyll
         category: "jekyll"
       - title: "Memo"
         url: /categories/memo
         category: "memo"
-  - title: "PRIVATE ROOM"
       
   # - title: "Category"
   #   url: /categories/
