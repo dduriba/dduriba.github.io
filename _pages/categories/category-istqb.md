@@ -1,7 +1,7 @@
 ---
 title: "ISTQB"
 layout: archive
-permalink: categories/istqb
+permalink: categories/ISTQB
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.istqb %}
+{% assign posts = site.categories.ISTQB %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

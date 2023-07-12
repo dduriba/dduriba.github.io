@@ -57,17 +57,20 @@ docs:
   - title: "QA"
     children:
       - title: "ISTQB"
-        url: /categories/istqb
-        category: "istqb"
+        url: /categories/ISTQB
+        category: "ISTQB"
+      - title: "MS Office"
+        url: /categories/MS_Office
+        category: "MS_Office"
 
   - title: "OTHERS"
     children:
       - title: "Jekyll"
-        url: /categories/jekyll
-        category: "jekyll"
+        url: /categories/Jekyll
+        category: "Jekyll"
       - title: "Memo"
-        url: /categories/memo
-        category: "memo"
+        url: /categories/Memo
+        category: "Memo"
 
   # - title: "Category"
   #   url: /categories/

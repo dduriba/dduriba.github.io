@@ -1,7 +1,7 @@
 ---
 title: "ISTQB CTFL 시험 후기"
 excerpt: "ISTQB CTFL test review"
-categories: istqb
+categories: ISTQB
 tag: [ISTQB, Foundation Level]
 classes: wide
 ---
