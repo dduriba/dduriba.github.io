@@ -2,7 +2,7 @@
 title:  "8.HUD 조준점"
 excerpt: "HUD crosshair"
 categories: Unreal_Project_AimBot
-tag: [unreal, aimbot]
+tag: [Unreal, Project, AimBot]
 classes: wide
 ---
 

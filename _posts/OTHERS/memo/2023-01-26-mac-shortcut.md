@@ -2,7 +2,7 @@
 title:  "맥 단축키"
 excerpt: "mac shortcut"
 categories: Memo
-tag: [mac, shortcut]
+tag: [Memo, Mac, Shortcut]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"

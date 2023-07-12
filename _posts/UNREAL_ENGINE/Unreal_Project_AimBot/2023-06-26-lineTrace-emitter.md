@@ -2,7 +2,7 @@
 title:  "4.라인 트레이스, 이미터"
 excerpt: "line trace, emitter"
 categories: Unreal_Project_AimBot
-tag: [unreal, aimbot]
+tag: [Unreal, Project, AimBot]
 classes: wide
 ---
 
