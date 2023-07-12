@@ -1,7 +1,7 @@
 ---
 title:  "2.캐릭터 이동 애니메이션"
 excerpt: "character movement animation"
-categories: aimbot
+categories: Unreal_Project_AimBot
 tag: [unreal, aimbot]
 classes: wide
 ---

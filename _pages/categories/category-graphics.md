@@ -1,7 +1,7 @@
 ---
 title: "Graphics"
 layout: archive
-permalink: categories/graphics
+permalink: categories/Graphics
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.graphics %}
+{% assign posts = site.categories.Graphics %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

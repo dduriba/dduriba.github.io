@@ -1,7 +1,7 @@
 ---
-title: "Game Math"
+title: "Data Structure"
 layout: archive
-permalink: categories/math
+permalink: categories/Data_Structure
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.math %}
+{% assign posts = site.categories.Data_Structure %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

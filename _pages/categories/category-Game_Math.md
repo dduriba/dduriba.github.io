@@ -1,7 +1,7 @@
 ---
-title: "C/C++/C#"
+title: "Game Math"
 layout: archive
-permalink: categories/c
+permalink: categories/Game_Math
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.c %}
+{% assign posts = site.categories.Game_Math %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

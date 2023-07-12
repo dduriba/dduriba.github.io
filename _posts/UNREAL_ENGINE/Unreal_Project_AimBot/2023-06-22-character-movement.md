@@ -1,7 +1,7 @@
 ---
 title:  "1.캐릭터 이동, 회전, 카메라"
 excerpt: "character movement, rotation, camera"
-categories: aimbot
+categories: Unreal_Project_AimBot
 tag: [unreal, aimbot]
 classes: wide
 ---

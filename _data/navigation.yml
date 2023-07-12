@@ -13,46 +13,47 @@ docs:
   - title: "UNREAL ENGINE"
     children:
       - title: "Unreal Note"
-        url: /categories/unrealNote
-        category: "unrealNote"
+        url: /categories/Unreal_Note
+        category: "Unreal_Note"
       - title: "Unreal Project AimBot"
-        url: /categories/aimbot
-        category: "aimbot"
+        url: /categories/Unreal_Project_AimBot
+        category: "Unreal_Project_AimBot"
 
   - title: "UNITY"
     children:
       - title: "Unity Note"
-        url: /categories/unityNote
+        url: /categories/Unity_Note
+        category: "Unity_Note"
 
   - title: "COMPUTER SCIENCE"
     children:
       - title: "OS"
-        url: /categories/os
-        category: "os"
+        url: /categories/OS
+        category: "OS"
       - title: "Graphics"
-        url: /categories/graphics
-        category: "graphics"
+        url: /categories/Graphics
+        category: "Graphics"
       - title: "Network"
-        url: /categories/network
-        category: "network"
+        url: /categories/Network
+        category: "Network"
       - title: "Data Base"
-        url: /categories/dataBase
-        category: "dataBase"
+        url: /categories/Data_Base
+        category: "Data_Base"
       - title: "Design Pattern"
-        url: /categories/designPattern
-        category: "designPattern"
+        url: /categories/Design_Pattern
+        category: "Design_Pattern"
       - title: "Data Structure"
-        url: /categories/dataStructure
-        category: "dataStructure"
+        url: /categories/Data_Structure
+        category: "Data_Structure"
       - title: "Algorithm"
-        url: /categories/algorithm
-        category: "algorithm"
-      - title: "C/C++/C#"
-        url: /categories/c
-        category: "c"
+        url: /categories/Algorithm
+        category: "Algorithm"
+      - title: "C C++ C#"
+        url: /categories/C_C++_C#
+        category: "C_C++_C#"
       - title: "Game Math"
-        url: /categories/math
-        category: "math"
+        url: /categories/Game_Math
+        category: "Game_Math"
 
   - title: "QA"
     children:

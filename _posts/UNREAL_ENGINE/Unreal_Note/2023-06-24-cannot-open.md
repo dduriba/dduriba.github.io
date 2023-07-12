@@ -1,7 +1,7 @@
 ---
 title: "cannot open source file"
 excerpt: "cannot open source file"
-categories: unrealNote
+categories: Unreal_Note
 tag: [unreal, unrealNote]
 toc: true
 toc_label: "목록"

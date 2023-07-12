@@ -1,7 +1,7 @@
 ---
-title: "Design Pattern"
+title: "Unity Note"
 layout: archive
-permalink: categories/designPattern
+permalink: categories/Unity_Note
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.designPattern %}
+{% assign posts = site.categories.Unity_Note %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

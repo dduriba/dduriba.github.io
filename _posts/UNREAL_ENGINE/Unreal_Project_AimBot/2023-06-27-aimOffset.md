@@ -1,7 +1,7 @@
 ---
 title:  "6.에임 오프셋"
 excerpt: "aim offset"
-categories: aimbot
+categories: Unreal_Project_AimBot
 tag: [unreal, aimbot]
 classes: wide
 ---
