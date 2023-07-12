@@ -48,9 +48,9 @@ docs:
       - title: "Algorithm"
         url: /categories/Algorithm
         category: "Algorithm"
-      - title: "C C++ C#"
-        url: /categories/C_C++_C#
-        category: "C_C++_C#"
+      - title: "C&C++&C#"
+        url: /categories/C&CPP&CSharp
+        category: "C&CPP&CSharp"
       - title: "Game Math"
         url: /categories/Game_Math
         category: "Game_Math"
