@@ -39,7 +39,7 @@ toc_sticky: true
 <summary>Windows</summary>
 <div markdown="1">
 
-자동 줄 바꿈: 홈 리본 메뉴 → 맞춤
+자동 줄 바꿈: 홈 리본 메뉴 → 맞춤<br>
 셀에 맞춤: 홈 리본 메뉴 → 셀 서식(Ctrl + 1) → 맞춤 → 텍스트 조정 
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/TextAutoAdjust.png"/>
@@ -65,7 +65,7 @@ toc_sticky: true
 <summary>Mac</summary>
 <div markdown="1">
 
-기준이 될 셀과 채울 셀을 선택 후 홈 리본 메뉴 → 채우기 → 빠른 채우기
+기준이 될 셀과 채울 셀을 선택 후 홈 리본 메뉴 → 채우기 → 빠른 채우기<br>
 (참조할 셀이 좌측에 위치해야 함)
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/AutoFillMac.png"/>
