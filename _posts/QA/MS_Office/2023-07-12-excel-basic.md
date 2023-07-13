@@ -39,8 +39,10 @@ toc_sticky: true
 <summary>Windows</summary>
 <div markdown="1">
 
-temp.자동 줄 바꿈
-temp.셀에 맞춤
+자동 줄 바꿈: 홈 리본 메뉴 → 맞춤
+셀에 맞춤: 홈 리본 메뉴 → 셀 서식(Ctrl + 1) → 맞춤 → 텍스트 조정 
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/TextAutoAdjust.png"/>
 
 </div>
 </details>
@@ -49,13 +51,12 @@ temp.셀에 맞춤
 <summary>Mac</summary>
 <div markdown="1">
 
+셀에 맞춤(Windows) == 텍스트에 맞게 축소(Mac)
+
 <img src="/img/MS_Office/2023-07-12-excel-basic/TextAutoAdjustMac.png"/>
 
 </div>
 </details>
-
-# 수식 입력 및 채우기
-{: .notice--warning .text-center}
 
 # 빠른 채우기
 {: .notice--warning .text-center}
