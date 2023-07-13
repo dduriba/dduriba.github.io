@@ -35,5 +35,53 @@ toc_sticky: true
 # 텍스트 조정
 {: .notice--warning .text-center}
 
+<details>
+<summary>Windows</summary>
+<div markdown="1">
+
 temp.자동 줄 바꿈
 temp.셀에 맞춤
+
+</div>
+</details>
+
+<details>
+<summary>Mac</summary>
+<div markdown="1">
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/TextAutoAdjustMac.png"/>
+
+</div>
+</details>
+
+# 수식 입력 및 채우기
+{: .notice--warning .text-center}
+
+# 빠른 채우기
+{: .notice--warning .text-center}
+
+<details>
+<summary>Mac</summary>
+<div markdown="1">
+
+기준이 될 셀과 채울 셀을 선택 후 홈 리본 메뉴 → 채우기 → 빠른 채우기
+(참조할 셀이 좌측에 위치해야 함)
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/AutoFillMac.png"/>
+
+</div>
+</details>
+
+# 내용 지우기와 삭제
+{: .notice--warning .text-center}
+
+<details>
+<summary>Mac</summary>
+<div markdown="1">
+
+내용 지우기는 삭제와 달리 서식이 남는다.
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/Erase&Delete.png"/>
+
+</div>
+</details>
