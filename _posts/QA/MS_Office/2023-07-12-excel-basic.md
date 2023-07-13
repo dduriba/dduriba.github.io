@@ -61,34 +61,17 @@ toc_sticky: true
 # 빠른 채우기
 {: .notice--warning .text-center}
 
-<details>
-<summary>Mac</summary>
-<div markdown="1">
-
 기준이 될 셀과 채울 셀을 선택 후 홈 리본 메뉴 → 채우기 → 빠른 채우기<br>
 (참조할 셀이 좌측에 위치해야 함)
 
-<img src="/img/MS_Office/2023-07-12-excel-basic/AutoFillMac.png"/>
-
-</div>
-</details>
+<img src="/img/MS_Office/2023-07-12-excel-basic/AutoFill.png"/>
 
 # 내용 지우기와 삭제
 {: .notice--warning .text-center}
 
-<details>
-<summary>Mac</summary>
-<div markdown="1">
-
 내용 지우기는 삭제와 달리 서식이 남는다.
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/Erase&Delete.png"/>
-
-</div>
-</details>
-
-# 빠른 실행 도구 모음
-{: .notice--warning .text-center}
 
 # 함수
 {: .notice--warning .text-center}
@@ -199,9 +182,12 @@ toc_sticky: true
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/INDEX+MATCH.png"/>
 
+# 빠른 실행 도구 모음
+{: .notice--warning .text-center}
+
 # 숏컷
 {: .notice--warning .text-center}
 
 - 셀 서식:
-    + Windows= Ctrl + 1
-    + Mac= Command + 1
+    + Windows: Ctrl + 1
+    + Mac: Command + 1
