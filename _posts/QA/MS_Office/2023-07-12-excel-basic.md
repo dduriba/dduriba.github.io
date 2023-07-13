@@ -92,45 +92,61 @@ temp.셀에 맞춤
 # 함수
 {: .notice--warning .text-center}
 
-## =COUNTA(셀 주소:셀 주소)
+## =COUNTA(셀 범위)
 {: .notice--success}
 
-해당 셀 범위의 셀의 갯수를 반환
+해당 셀 범위의 비어있지 않은 셀의 갯수를 반환
 
-## =COUNTIF(셀 주소:셀 주소,"조건 텍스트")
+<img src="/img/MS_Office/2023-07-12-excel-basic/COUNTA.png"/>
+
+## =COUNTIF(셀 범위, 조건)
 {: .notice--success}
 
 해당 셀 범위 내 조건에 해당하는 셀의 갯수를 반환
 
-## =SUM(셀 주소:셀 주소)
+<img src="/img/MS_Office/2023-07-12-excel-basic/COUNTIF.png"/>
+
+## =SUM(셀 범위)
 {: .notice--success}
 
 해당 셀 범위 내 값들의 합 연산 값을 반환
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/SUM.png"/>
 
 ## =SUMIF(셀 주소:셀 주소,"조건 텍스트",셀 주소:셀 주소)
 {: .notice--success}
 
 첫 번째 파라미터 값의 셀 범위 내 조건에 해당하는 세 번째 파라미터 값의 셀 범위 내 값들의 합 연산 값을 반환
 
+<img src="/img/MS_Office/2023-07-12-excel-basic/SUMIF.png"/>
+
 ## =AVERAGE(셀 주소:셀 주소)
 {: .notice--success}
 
 해당 셀 범위 내 값들의 평균 값을 반환
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/AVERAGE.png"/>
 
 ## =AVERAGEIF(셀 주소:셀 주소,"조건 텍스트",셀 주소:셀 주소)
 {: .notice--success}
 
 첫 번째 파라미터 값의 셀 범위 내 조건에 해당하는 세 번째 파라미터 값의 셀 범위 내 값들의 평균 값을 반환
 
+<img src="/img/MS_Office/2023-07-12-excel-basic/AVERAGEIF.png"/>
+
 ## =MIN(셀 주소:셀 주소)
 {: .notice--success}
 
 해당 셀 범위 내 값들 중 최솟값을 반환
 
+<img src="/img/MS_Office/2023-07-12-excel-basic/MIN.png"/>
+
 ## =MAX(셀 주소:셀 주소)
 {: .notice--success}
 
 해당 셀 범위 내 값들 중 최댓값을 반환
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/MAX.png"/>
 
 ## =RANK(셀 주소,절대 셀 주소:절대 셀 주소,1|0)
 {: .notice--success}
@@ -139,12 +155,16 @@ temp.셀에 맞춤
 두 번째 파라미터 값엔 기준이 될 셀 범위를 지정해 절대값 셀 주소로 변경(F4)<br>
 세 번째 파라미터 값엔 오름차순:1, 내림차순:0을 선택
 
+<img src="/img/MS_Office/2023-07-12-excel-basic/RANK.png"/>
+
 ## =IF(조건식,if실행문,else실행문)
 {: .notice--success}
 
 첫 번째 파라미터 값엔 조건식<br>
 두 번째 파라미터 값엔 조건식이 트루일 경우 해당 셀에 반환받을 값<br>
 세 번째 파라미터 값엔 조건식이 펄스일 경우 해당 셀에 반환받을 값
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/IF.png"/>
 
 ## =VLOOKUP(셀 주소,절대 셀 주소:절대 셀 주소,열 넘버,TRUE|FALSE)
 {: .notice--success}
@@ -156,16 +176,27 @@ temp.셀에 맞춤
 
 찾을 값은 세 번째 파라미터 값의 첫 번째 열이여야 하며 이 열이 세 번째 파라미터 값의 첫 번째 열이기 때문에 보다 왼쪽에 있는 값은 찾을 수 없음에 주의해야 한다.
 
+<img src="/img/MS_Office/2023-07-12-excel-basic/VLOOKUP.png"/>
+
 ## =INDEX(셀 주소:셀 주소,행,열)
 {: .notice--success}
 
 해당 셀 범위를 기준으로 행(row), 열(column)에 위치한 셀의 값 반환
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/INDEX.png"/>
 
 ## =MATCH(찾을 값,절대 셀 주소:절대 셀 주소,-1|0|1)
 {: .notice--success}
 
 해당 셀 범위를 기준으로 찾을 값의 인덱스를 반환<br>
 -1=보다 작음, 0=정확히 일치, 1=보다 큼
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/MATCH.png"/>
+
+## INDEX+MATCH
+{: .notice--success}
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/INDEX+MATCH.png"/>
 
 # 숏컷
 {: .notice--warning .text-center}
