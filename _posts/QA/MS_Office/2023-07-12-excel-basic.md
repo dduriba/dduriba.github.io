@@ -76,6 +76,16 @@ toc_sticky: true
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/Erase&Delete.png"/>
 
+# 틀 고정 기능
+{: .notice--warning .text-center}
+
+고정 할 열|행의 다음 열|행을 선택 후 → 보기 리본 메뉴 → 창 → 틀 고정 → 틀 고정<br>
+열&행을 동시에 선택할 경우 교차되는 셀을 선택 후 틀 고정
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/FixingMold1.png"/>
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/FixingMold2.png"/>
+
 # 함수
 {: .notice--warning .text-center}
 
@@ -197,9 +207,51 @@ toc_sticky: true
 # 빠른 실행 도구 모음
 {: .notice--warning .text-center}
 
+빠른 실행 도구 모음을 지정 후 Alt키를 통해 숏컷 사용
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/AltShortcut1.png"/>
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/AltShortcut2.png"/>
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/AltShortcut3.png"/>
+
 # 숏컷
 {: .notice--warning .text-center}
 
 - 셀 서식:
     + Windows: Ctrl + 1
     + Mac: Command + 1
+
+- F2: 해당 셀 편집
+- F4: 이전 작업 반복
+
+- Ctrl + 방향키: 해당 방향으로 연속으로 입력된 셀의 끝으로 이동
+- Shift + 방향키: 해당 방향으로 셀 범위 증감
+
+- Ctrl + Space bar: 선택된 셀의 열 선택
+- Shift + Space bar: 선택된 셀의 행 선택
+
+- Ctrl + '-': 선택된 셀의 열|행 삭제
+- Ctrl + Shift + '+': 선택된 셀에 열|행 삽입
+
+- 선택된 행|열 밀어서 붙여넣기: 밀어서 붙여 넣을 행|열을 선택 후 테두리에 커서를 올려 사이즈 조절 커서로 바꾼 후 Shift를 누른 채로 원하는 위치로 드래그
+
+- 마우스 휠로 횡 이동: Ctrl + Shift + 휠 업|다운
+
+- 자동 필터: Ctrl + Shift + L
+
+- 선택하여 붙여넣기: Ctrl + Alt + V
+
+- 찾기/바꾸기: Ctrl + F/H
+
+- 빠른 채우기: Ctrl + E
+
+- 통화서식: Ctrl + Shift + 1
+- 날짜서식: Ctrl + Shift + 3
+- 백분율서식: Ctrl + Shift + 5
+
+# 공유 할 파일 저장 전 정리
+{: .notice--warning .text-center}
+
+시트를 열었을 때 좌측 최상단이 우선 보이도록, 파일을 열었을 때 첫 시트가 보이도록 정리하고 저장해 공유 받을 사람의 혼란을 줄여줄 수 있다.<br>
+Ctrl + PgDn키를 꾹 눌러 마지막 시트로 이동 후 Ctrl + Home키를 눌러 좌측 최상단으로 위치시켜준다. 연속해서 첫 번째 시트가 나올때 까지 Ctrl + PgUp키를 눌러 이전 시트로 이동해 Ctrl + Home키를 눌러 좌측 최상단으로 위치시킴을 반복해준다.
