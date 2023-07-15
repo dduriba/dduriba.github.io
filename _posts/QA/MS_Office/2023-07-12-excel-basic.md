@@ -86,6 +86,18 @@ toc_sticky: true
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/FixingMold2.png"/>
 
+# 조건부 서식
+{: .notice--warning .text-center}
+
+## 특정 텍스트를 포함하는 셀만 서식 지정
+{: .notice--success}
+
+조건부 서식을 지정할 열을 선택 → 홈 리본 메뉴 → 스타일 → 조건부 서식 → 규칙 관리 → 새 규칙
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/AutoFormColor1.png"/>
+
+<img src="/img/MS_Office/2023-07-12-excel-basic/AutoFormColor2.png"/>
+
 # 함수
 {: .notice--warning .text-center}
 
