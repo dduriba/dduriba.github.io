@@ -12,7 +12,7 @@ Package Manager
 - 2D Animation
 - 2D PSD Importer
 
-# 1.PSB 파일 생성
+# 1..psb 파일 생성
 {: .notice--warning c}
 
 포토샵으로 캐릭터를 구성해 PSB 확장자로 저장 후 유니티에 Import
@@ -53,3 +53,6 @@ Package Manager
 Bone을 연결한 모든 Sprite를 Generate Weights
 
 <img src="/img/Unity/Unity_Note/2023_08_23_auto_weights.png"/>
+
+# 3.완성한 .psb 파일 기반 Prefab Variant 생성 후 Hierachy(World) 에 생성
+{: .notice--warning .text-center}
