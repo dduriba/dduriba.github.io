@@ -14,7 +14,7 @@ Package Manager
 - 2D PSD Importer
 
 # - .psb 파일 생성
-{: .notice--warning c}
+{: .notice--warning .text-center}
 
 포토샵으로 캐릭터를 구성해 PSB 확장자로 저장 후 유니티에 Import
 
