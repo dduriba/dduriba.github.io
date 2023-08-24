@@ -3,7 +3,10 @@ title:  "2D Character Rigging"
 excerpt: "Unity 2D Character Rigging"
 categories: Unity_Note
 tag: [2D Rigging]
-classes: wide
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
 ---
 
 # - Package 다운로드
@@ -55,5 +58,5 @@ Bone을 연결한 모든 Sprite를 Generate Weights
 
 <img src="/img/Unity/Unity_Note/2023_08_23_auto_weights.png"/>
 
-# 3.완성한 .psb 파일 기반 Prefab Variant 생성 후 Hierachy(World) 에 생성
+# - 완성한 .psb 파일 기반 Prefab Variant 생성 후 Hierachy(World) 에 생성
 {: .notice--warning .text-center}
