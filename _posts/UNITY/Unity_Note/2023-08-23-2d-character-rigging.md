@@ -81,7 +81,7 @@ Bone을 연결한 모든 Sprite를 Generate Weights
 # - Animation 추가
 {: .notice--warning .text-center}
 
-1. Animation clip 생성 (Hierachy의 Prafab을 선택하고 Animation 창에서 Create Animation, Animator는 자동 생성됨)
+1. Animation clip 생성 (Hierachy의 Prafab을 선택하고 Animation 창에서 Create, Animator는 자동 생성됨)
 2. keyframe recording mode를 Enable해 Bone과 Target을 움직여 Transform 값 기록을 통해 각 frame을 만들어 전체 애니메이션 생성
 
 - 마지막 keyframe에 첫 keyframe을 Copy&Paste
