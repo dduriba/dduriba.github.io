@@ -19,7 +19,7 @@ Package Manager
 # - .psb 파일 생성
 {: .notice--warning .text-center}
 
-포토샵으로 캐릭터를 구성해 PSB 확장자로 저장 후 유니티에 Import
+포토샵으로 캐릭터를 구성해 .psb 확장자로 저장 후 유니티에 Import
 
 - 레이어 = 신체 부위
 - 레이어 순서 = 카메라 기준 신체 depth
