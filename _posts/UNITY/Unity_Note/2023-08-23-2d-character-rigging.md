@@ -1,7 +1,7 @@
 ---
 title:  "2D Character Rigging"
 excerpt: "Unity 2D Character Rigging"
-categories: Unity Note
+categories: Unity_Note
 tag: [2D Rigging]
 toc: true
 toc_label: "목록"

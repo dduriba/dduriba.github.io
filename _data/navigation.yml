@@ -22,8 +22,8 @@ docs:
   - title: "UNITY"
     children:
       - title: "Unity Note"
-        url: /categories/Unity Note
-        category: "Unity Note"
+        url: /categories/Unity_Note
+        category: "Unity_Note"
 
   - title: "COMPUTER SCIENCE"
     children:
