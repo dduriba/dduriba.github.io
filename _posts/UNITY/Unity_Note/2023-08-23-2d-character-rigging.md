@@ -69,7 +69,7 @@ Bone을 연결한 모든 Sprite를 Generate Weights
 1. 프리팹(최상위 게임오브젝트)에 IK Manager 2D (Script) 컴포넌트 추가
 2. IK Solvers 중 Limb 추가
 3. 생성된 LimbSolver2D 게임오브젝트의 Limb Solver 2D (Script) 컴포넌트 중 Effector 부분에 손 부분 Bone 게임오브젝트 연결 후 Create Target
-4. 남은 다른 손과 두 발에 대해 Target을 만들어 준다.
+4. 남은 다른 손과 두 발에 대해서도 Target을 만들어 준다.
 5. Target 게임오브젝트의 Position을 움직여보고 팔꿈치나 무릎관절이 부자연스러울 경우 해당 Solver의 Limb Solver 2D 컴포넌트에서 Flip=true
 
 - 프리팹에 빈 게임오브젝트를 만들어 Solver들을 차일드화 해 정리
