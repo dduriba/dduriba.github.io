@@ -9,13 +9,6 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-# - Package 다운로드
-{: .notice--warning .text-center}
-
-Package Manager
-- 2D Animation
-- 2D PSD Importer
-
 # - .psb 파일 생성
 {: .notice--warning .text-center}
 
@@ -25,6 +18,13 @@ Package Manager
 - 레이어 순서 = 카메라 기준 신체 depth
 
 <img src="/img/Unity/Unity_Note/2023_08_23_create_psb_file.png"/>
+
+# - Package 다운로드
+{: .notice--warning .text-center}
+
+Package Manager
+- 2D Animation
+- 2D PSD Importer
 
 # - Rigging
 {: .notice--warning .text-center}
