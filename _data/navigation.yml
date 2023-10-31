@@ -10,50 +10,17 @@ main:
     url: /tags/
 
 docs:
-  - title: "UNREAL ENGINE"
+  - title: "BRICKS"
     children:
-      - title: "Unreal Note"
-        url: /categories/Unreal_Note
-        category: "Unreal_Note"
-      - title: "Unreal Project AimBot"
-        url: /categories/Unreal_Project_AimBot
-        category: "Unreal_Project_AimBot"
+      - title: "Java"
+        url: /categories/Java
+        category: "Java"
 
   - title: "UNITY"
     children:
       - title: "Unity Note"
         url: /categories/Unity_Note
         category: "Unity_Note"
-
-  - title: "COMPUTER SCIENCE"
-    children:
-      - title: "OS"
-        url: /categories/OS
-        category: "OS"
-      - title: "Graphics"
-        url: /categories/Graphics
-        category: "Graphics"
-      - title: "Network"
-        url: /categories/Network
-        category: "Network"
-      - title: "Data Base"
-        url: /categories/Data_Base
-        category: "Data_Base"
-      - title: "Design Pattern"
-        url: /categories/Design_Pattern
-        category: "Design_Pattern"
-      - title: "Data Structure"
-        url: /categories/Data_Structure
-        category: "Data_Structure"
-      - title: "Algorithm"
-        url: /categories/Algorithm
-        category: "Algorithm"
-      - title: "C&C++&C#"
-        url: /categories/C&CPP&CSharp
-        category: "C&CPP&CSharp"
-      - title: "Game Math"
-        url: /categories/Game_Math
-        category: "Game_Math"
 
   - title: "QA"
     children:
@@ -72,6 +39,45 @@ docs:
       - title: "Memo"
         url: /categories/Memo
         category: "Memo"
+
+  # - title: "UNREAL ENGINE"
+  #   children:
+  #     - title: "Unreal Note"
+  #       url: /categories/Unreal_Note
+  #       category: "Unreal_Note"
+  #     - title: "Unreal Project AimBot"
+  #       url: /categories/Unreal_Project_AimBot
+  #       category: "Unreal_Project_AimBot"
+
+  # - title: "COMPUTER SCIENCE"
+  #   children:
+  #     - title: "OS"
+  #       url: /categories/OS
+  #       category: "OS"
+  #     - title: "Graphics"
+  #       url: /categories/Graphics
+  #       category: "Graphics"
+  #     - title: "Network"
+  #       url: /categories/Network
+  #       category: "Network"
+  #     - title: "Data Base"
+  #       url: /categories/Data_Base
+  #       category: "Data_Base"
+  #     - title: "Design Pattern"
+  #       url: /categories/Design_Pattern
+  #       category: "Design_Pattern"
+  #     - title: "Data Structure"
+  #       url: /categories/Data_Structure
+  #       category: "Data_Structure"
+  #     - title: "Algorithm"
+  #       url: /categories/Algorithm
+  #       category: "Algorithm"
+  #     - title: "C&C++&C#"
+  #       url: /categories/C&CPP&CSharp
+  #       category: "C&CPP&CSharp"
+  #     - title: "Game Math"
+  #       url: /categories/Game_Math
+  #       category: "Game_Math"
 
   # - title: "Category"
   #   url: /categories/
