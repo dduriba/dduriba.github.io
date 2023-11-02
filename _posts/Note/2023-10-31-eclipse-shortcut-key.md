@@ -58,7 +58,7 @@ toc_sticky: true
 
 [windows](){: .btn .btn--info}
 [Alt](){: .btn .btn--success} 
-[up|down](){: .btn .btn--success}
+[up/down](){: .btn .btn--success}
 
 # Duplicate Line
 {: .notice--warning}
@@ -66,9 +66,9 @@ toc_sticky: true
 [windows](){: .btn .btn--info}
 [Ctrl](){: .btn .btn--success}
 [Alt](){: .btn .btn--success} 
-[up|down](){: .btn .btn--success}
+[up/down](){: .btn .btn--success}
 
-# Deletes Current Line in The Editor
+# Delete Current Line in The Editor
 {: .notice--warning}
 
 [windows](){: .btn .btn--info}
