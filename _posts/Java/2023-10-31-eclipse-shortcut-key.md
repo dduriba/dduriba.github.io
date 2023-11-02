@@ -9,9 +9,11 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-IDE 마다 단축키가 다르기 때문에 간단한 것도 한 번씩 확인!
+**IDE 마다 단축키가 다르기 때문에 간단한 것도 한 번씩 확인!**
 
 # format source code
+{: .notice--warning .text-center}
+
 [windows](){: .btn .btn--info}
 [Control](){: .btn .btn--success}
 [Shift](){: .btn .btn--success} 
