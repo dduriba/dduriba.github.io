@@ -15,9 +15,9 @@ docs:
       - title: "Java"
         url: /categories/Java
         category: "Java"
-      - title: "Journal"
-        url: /categories/Journal
-        category: "Journal"
+      - title: "Note"
+        url: /categories/Note
+        category: "Note"
 
   - title: "UNITY"
     children:

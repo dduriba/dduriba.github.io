@@ -1,7 +1,7 @@
 ---
 title:  "이클립스 단축키"
 excerpt: "eclipse shortcut key"
-categories: Java
+categories: Note
 tag: [eclipse, shortcut]
 toc: true
 toc_label: "목록"
