@@ -18,30 +18,12 @@ docs:
       - title: "Note"
         url: /categories/Note
         category: "Note"
-
-  - title: "UNITY"
-    children:
-      - title: "Unity Note"
-        url: /categories/Unity_Note
-        category: "Unity_Note"
-
-  - title: "QA"
-    children:
-      - title: "ISTQB"
-        url: /categories/ISTQB
-        category: "ISTQB"
-      - title: "MS Office"
-        url: /categories/MS_Office
-        category: "MS_Office"
-
-  - title: "OTHERS"
-    children:
-      - title: "Jekyll"
-        url: /categories/Jekyll
-        category: "Jekyll"
-      - title: "Memo"
-        url: /categories/Memo
-        category: "Memo"
+      - title: "Story"
+        url: /categories/Story
+        category: "Story"
+      - title: "Unity"
+        url: /categories/Unity
+        category: "Unity"
 
   # - title: "UNREAL ENGINE"
   #   children:

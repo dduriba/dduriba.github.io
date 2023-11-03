@@ -1,8 +1,8 @@
 ---
 title:  "맥 단축키"
 excerpt: "mac shortcut"
-categories: Memo
-tag: [Memo, Mac, Shortcut]
+categories: Note
+tag: [Mac, Shortcut]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"

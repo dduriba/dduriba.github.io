@@ -11,6 +11,14 @@ toc_sticky: true
 
 **IDE 마다 단축키가 다르기 때문에 간단한 것도 한 번씩 확인!**
 
+# Save and Compile All Opened Editor
+{: .notice--warning}
+
+[windows](){: .btn .btn--info}
+[Ctrl](){: .btn .btn--success}
+[Shift](){: .btn .btn--success} 
+[S](){: .btn .btn--success}
+
 # Format Source Code
 {: .notice--warning}
 
@@ -36,14 +44,6 @@ toc_sticky: true
 [Command](){: .btn .btn--success}
 [Shift](){: .btn .btn--success}
 [O](){: .btn .btn--success}
-
-# Save and Compile All Opened Editor
-{: .notice--warning}
-
-[windows](){: .btn .btn--info}
-[Ctrl](){: .btn .btn--success}
-[Shift](){: .btn .btn--success} 
-[S](){: .btn .btn--success}
 
 # Rename
 {: .notice--warning}
@@ -96,6 +96,13 @@ toc_sticky: true
 [Ctrl](){: .btn .btn--success}
 [A](){: .btn .btn--success} 
 
+# Cut (for paste)
+{: .notice--warning}
+
+[windows](){: .btn .btn--info}
+[Ctrl](){: .btn .btn--success}
+[X](){: .btn .btn--success} 
+
 # Remove Indent
 {: .notice--warning}
 
@@ -136,7 +143,9 @@ toc_sticky: true
 {: .notice--warning}
 
 [windows](){: .btn .btn--info}
-[F3](){: .btn .btn--success}
+- [F3](){: .btn .btn--success}
+- [Ctrl](){: .btn .btn--success}
+[Click](){: .btn .btn--success}
 
 # Run
 {: .notice--warning}

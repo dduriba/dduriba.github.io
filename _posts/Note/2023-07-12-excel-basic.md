@@ -1,8 +1,8 @@
 ---
 title: "엑셀 기본"
 excerpt: "실무에서 필요한 엑셀 기본기"
-categories: MS_Office
-tag: [MS_Office, Excel]
+categories: Note
+tag: [Excel]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"

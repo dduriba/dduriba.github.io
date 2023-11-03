@@ -1,7 +1,7 @@
 ---
-title: "Unity Note"
+title: "Unity"
 layout: archive
-permalink: categories/Unity_Note
+permalink: categories/Unity
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.Unity_Note %}
+{% assign posts = site.categories.Unity %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

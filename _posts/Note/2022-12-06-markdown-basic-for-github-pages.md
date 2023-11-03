@@ -1,7 +1,7 @@
 ---
 title:  "Github Pages운용을 위한 문법들"
 excerpt: "markdown, html등의 문법들을 알아봅시다."
-categories: Jekyll
+categories: Note
 tag: [Jekyll, Github Pages, Markdown, HTML]
 toc: true
 toc_label: "목록"
