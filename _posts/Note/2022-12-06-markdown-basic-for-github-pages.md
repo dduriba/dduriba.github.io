@@ -350,15 +350,15 @@ abcd<br>efg
 # 19.Youtube
 {: .notice--warning .text-center}
 
-`https://www.youtube.com/watch?v=QKXXF3uxzvI`<br>
-`https://youtu.be/QKXXF3uxzvI`<br>
-유튜브 링크 주소의 id="QKXXF3uxzvI" 를 사용
+`https://youtu.be/b3TOVBNSJDA?si=hyK0cokDO4uAdKnk`<br>
+`https://youtu.be/b3TOVBNSJDA`<br>
+유튜브 링크 주소의 id="b3TOVBNSJDA" 를 사용
 
 ```liquid
-{% raw %}{% include video id="QKXXF3uxzvI" provider="youtube" %}{% endraw %}
+{% raw %}{% include video id="b3TOVBNSJDA" provider="youtube" %}{% endraw %}
 ```
 
-{% include video id="QKXXF3uxzvI" provider="youtube" %}
+{% include video id="b3TOVBNSJDA" provider="youtube" %}
 
 # 20.Notice
 {: .notice--warning .text-center}
