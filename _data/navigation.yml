@@ -15,6 +15,9 @@ docs:
       - title: "Java"
         url: /categories/Java
         category: "Java"
+      - title: "Algorithm"
+        url: /categories/Algorithm
+        category: "Algorithm"
       - title: "Note"
         url: /categories/Note
         category: "Note"
@@ -54,9 +57,6 @@ docs:
   #     - title: "Data Structure"
   #       url: /categories/Data_Structure
   #       category: "Data_Structure"
-  #     - title: "Algorithm"
-  #       url: /categories/Algorithm
-  #       category: "Algorithm"
   #     - title: "C&C++&C#"
   #       url: /categories/C&CPP&CSharp
   #       category: "C&CPP&CSharp"
