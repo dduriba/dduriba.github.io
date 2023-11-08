@@ -12,7 +12,9 @@ toc_sticky: true
 # if
 {: .notice--warning .text-center}
 
-안으로 말려들어가는 코드
+스파게티 코드
+{: .notice--success}
+
 ```java
 if () {
     if () {
@@ -20,16 +22,22 @@ if () {
     } else {
         if () {
 
+        } else {
+
         }
     }
 }
 ```
 
-예외를 먼저 if + return으로 필터링
-통과 케이스를 코드 하단에 배치
-최소한의 들여쓰기 구성
+리팩터링
+{: .notice--success}
+
+- 들여쓰기 최소화
+1. 예외 처리: if + return으로 필터링 후
+2. 패스 케이스 배치
+
 ```java
-//예외 필터링
+//1.예외 처리
 if () {
 
     return;
@@ -40,7 +48,12 @@ if () {
     return;
 }
 
-//통과 케이스 배치
+if () {
+    
+    return;
+}
+
+//2.패스 케이스 배치
 ```
 
 # switch
