@@ -101,9 +101,27 @@ do {
 # for
 {: .notice--warning .text-center}
 
-//continue
-//break
-//이중포문 flag 기법
+```java
+boolean flag = false;
+for(int i = 0; i < 10; i++) {
+    if(i % 2 == 0) continue;
+    for(int j = 0; j < 10; j++) { //중첩for문
+        if(i * j == 72) {
+            flag = true;
+            break;
+        }
+    }
+    if(flag) break; //flag기법
+}
+```
 
 # for each
 {: .notice--warning .text-center}
+
+for ({배열의 데이터 타입}{요소 명} : {배열 명})
+```java
+int[] numbers = new int[10];
+for (int number : numbers) {
+
+}
+```
