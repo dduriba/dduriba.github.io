@@ -1,5 +1,5 @@
 ---
-title:  "정적 메서드"
+title:  "정적 메서드(공사중)"
 excerpt: "static method"
 categories: Java
 tag: [static method]
