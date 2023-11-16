@@ -1,8 +1,8 @@
 ---
-title:  "java.lang.object"
-excerpt: "java.lang.object"
+title:  "java.lang.Object"
+excerpt: "java.lang.Object"
 categories: Java
-tag: [lang, object]
+tag: [lang, Object]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
