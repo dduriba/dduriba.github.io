@@ -1,6 +1,6 @@
 ---
-title:  "java.lang.StringBuffer, StringBuilder"
-excerpt: "java.lang.StringBuffer, StringBuilder"
+title:  "java.lang.StringBuffer&Builder"
+excerpt: "java.lang.StringBuffer&Builder"
 categories: Java
 tag: [lang, StringBuffer, StringBuilder]
 toc: true
