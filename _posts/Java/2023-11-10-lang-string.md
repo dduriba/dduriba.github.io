@@ -20,6 +20,23 @@ System.out.println("AA".equals("aa".toUpperCase()));//true, toUpperCase : 문자
 System.out.println("aa".equalsIgnoreCase("AA"));//true, equalsIgnoreCase : 대소문자를 무시하고 문자열을 비교해 boolean값으로 리턴
 ```
 
+# intern
+{: .notice--warning .text-center}
+
+```java
+// intern : 문자열 복사
+String str1 = "java";
+String str2 = new String("java");
+String str3 = str1.intern();
+String str4 = str1.toString();
+System.out.println(str1.equals(str2));//true
+System.out.println(str1.equals(str3));//true
+System.out.println(str1.equals(str4));//true
+System.out.println(str1==str2);//false
+System.out.println(str1==str3);//true
+System.out.println(str1==str4);//true
+```
+
 # contains
 {: .notice--warning .text-center}
 
