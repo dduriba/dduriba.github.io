@@ -198,10 +198,11 @@ String[] strArray1 = str.split(",");
 for(String s : strArray1) {
 	System.out.println(s.strip());
 }
-		
+
 // 2중으로 자르기
+String[] strArray2;
 for(String s1 : strArray1) {
-	String[] strArray2 = s1.split(":");
+	strArray2 = s1.split(":");
 	for(String s2 : strArray2) {
 		System.out.println(s2.strip());
 	}
@@ -279,7 +280,6 @@ System.out.println("-=".repeat(5));//-=-=-=-=-=
 
 ```java
 // format : %d, %f, %s등 format출력 지원 함수->소수점 자르는 용도로 많이 활용
-String str = String.format("%.2f %s", 3.14159, "pi");
-System.out.println(str);//3.14 pi
+String str = String.format("%03d %.2f %s", 1, 3.14159, "pi");
+System.out.println(str);//001 3.14 pi
 ```
-
