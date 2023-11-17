@@ -18,20 +18,19 @@ System.out.println("aa".equals("AA"));//false
 System.out.println("aa".equals("AA".toLowerCase()));//true, toLowerCase : 문자열의 모든 문자들을 소문자로 전환
 System.out.println("AA".equals("aa".toUpperCase()));//true, toUpperCase : 문자열의 모든 문자들을 대문자로 전환
 System.out.println("aa".equalsIgnoreCase("AA"));//true, equalsIgnoreCase : 대소문자를 무시하고 문자열을 비교해 boolean값으로 리턴
-```
 
-# intern
-{: .notice--warning .text-center}
-
-```java
-// intern : 문자열 복사
-String str1 = "java";
-String str2 = new String("java");
-String str3 = str1.intern();
-String str4 = str1.toString();
+//String의 저장소는 heap과 String constant pool 두 가지가 있다.
+//String constant pool을 사용하는 것이 메모리 관리 측면에서 유리
+//String을 new로 생성하면 heap을 거쳐서 생성돼 성능적으로 느려지기 때문에 사용하지 않는다.
+String str1 = "java";//string pool
+String str2 = new String("java");//heap
+String str3 = str1.intern();//intern : 문자열 복사
+String str4 = str1.toString();//문자열 복사하는 다른 방법
+//equals는 해시코드로 비교
 System.out.println(str1.equals(str2));//true
 System.out.println(str1.equals(str3));//true
 System.out.println(str1.equals(str4));//true
+//==는 메모리 주소를 기반으로 비교, equals와 비교해 속도 면에서 우월
 System.out.println(str1==str2);//false
 System.out.println(str1==str3);//true
 System.out.println(str1==str4);//true
