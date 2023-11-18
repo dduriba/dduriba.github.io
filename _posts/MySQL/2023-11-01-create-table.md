@@ -98,4 +98,15 @@ Insert into nation_independence (ISO_3166_1, Independence_day) values ('ES', '14
 -- select * from nation_independence;
 
 COMMIT; -- insert를 수행하는 경우 DB에 완전히 저장하기 위해선 commit이 필요
+
+-- ==================== 다른 테이블의 컬럼들을 합쳐 새로운 테이블 만드는 방법 ====================
+select * from nation_code;
+select * from nation_independence;
+select * from nation_time;
+
+CREATE TABLE nation_copy
+AS SELECT nation_id, nation_name, iso_3166_1, independence_day, UTC_OFFSET
+     FROM nation_code
+     LEFT JOIN nation_independence USING (iso_3166_1)
+     LEFT JOIN nation_time USING (iso_3166_1);
 ```
