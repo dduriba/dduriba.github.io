@@ -1,8 +1,8 @@
 ---
-title:  "테이블 만들기"
+title:  "테이블 생성"
 excerpt: "create table"
 categories: MySQL
-tag: [create table]
+tag: [create, insert, into, values, data type, commit]
 classes: wide
 ---
 
@@ -33,23 +33,27 @@ classes: wide
 -- ※ File은 웬만하면 DB에 저장하지 않고, 경로만 저장하는 게 일반적
 
 -- DROP SCHEMA global_info;
-CREATE SCHEMA global_info;
+CREATE SCHEMA global_info; -- schema 생성
 USE global_info;
 
 CREATE TABLE nation_code  (
     NATION_ID INT PRIMARY KEY AUTO_INCREMENT comment '인덱스', 
-    NATION_NAME VARCHAR(20) NOT NULL comment '국가이름', 
+    NATION_NAME VARCHAR(30) NOT NULL comment '국가이름', 
     ISO_3166_1 CHAR(2) NOT NULL comment '국가코드'
 );
 
 -- desc nation_code;
    
-Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, '대한민국', 'KR');
-Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, '일본', 'JP');
-Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, '미국', 'US');
-Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, '중국', 'CN');
-Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, '캐나다', 'CA');
-Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, '영국', 'GB');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'republic_of_korea', 'KR');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'japan', 'JP');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'united_states_of_america', 'US');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'peoples_republic_of_china', 'CN');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'canada', 'CA');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'united_kingdom', 'GB');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'Germany', 'DE');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'France', 'FR');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'Italy', 'IT');
+Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'Spain', 'ES');
 
 -- select * from nation_code;
 
@@ -66,8 +70,32 @@ Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('US', -5);
 Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('CN', +8);
 Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('CA', -5);
 Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('GB', 0);
+Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('DE', +1);
+Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('FR', +1);
+Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('IT', +1);
+Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('ES', +1);
 
 -- select * from nation_time;
+
+CREATE TABLE nation_independence  (
+	ISO_3166_1 CHAR(2) PRIMARY KEY NOT NULL comment '국가코드',
+    Independence_day DATE comment '국가 선포일'
+);
+
+-- desc nation_independence;
+
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('KR', '1948-08-15');
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('JP', null);
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('US', '1776-07-04');
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('CN', '1949-10-01');
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('CA', '1867-07-01');
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('GB', '1707-05-01');
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('DE', '1871-01-18');
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('FR', '0843-08-10');
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('IT', '1861-03-17');
+Insert into nation_independence (ISO_3166_1, Independence_day) values ('ES', '1469-01-01');
+
+-- select * from nation_independence;
 
 COMMIT; -- insert를 수행하는 경우 DB에 완전히 저장하기 위해선 commit이 필요
 ```
