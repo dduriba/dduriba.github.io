@@ -36,10 +36,31 @@ classes: wide
 CREATE SCHEMA global_info; -- schema 생성
 USE global_info;
 
-CREATE TABLE nation_code  (
+CREATE TABLE nation_continent (
+	country_classification VARCHAR(30) NOT NULL comment '대륙 분류',
+    ISO_3166_1 CHAR(2) PRIMARY KEY comment '국가코드'
+);
+
+-- desc nation_continent;
+
+Insert into nation_continent (country_classification, ISO_3166_1) values ('Asia', 'KR');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('Asia', 'JP');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('North America', 'US');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('Asia', 'CN');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('North America', 'CA');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('Europe', 'GB');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('Europe', 'DE');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('Europe', 'FR');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('Europe', 'IT');
+Insert into nation_continent (country_classification, ISO_3166_1) values ('Europe', 'ES');
+
+-- select * from nation_continent;
+
+CREATE TABLE nation_code (
     NATION_ID INT PRIMARY KEY AUTO_INCREMENT comment '인덱스', 
     NATION_NAME VARCHAR(30) NOT NULL comment '국가이름', 
-    ISO_3166_1 CHAR(2) NOT NULL comment '국가코드'
+    ISO_3166_1 CHAR(2) NOT NULL comment '국가코드',
+    foreign key(ISO_3166_1) references nation_continent(ISO_3166_1)
 );
 
 -- desc nation_code;
@@ -57,8 +78,8 @@ Insert into nation_code (NATION_ID, NATION_NAME, ISO_3166_1) values (null, 'Spai
 
 -- select * from nation_code;
 
-CREATE TABLE nation_time  (
-	ISO_3166_1 CHAR(2) PRIMARY KEY NOT NULL comment '국가코드',
+CREATE TABLE nation_time (
+	ISO_3166_1 CHAR(2) PRIMARY KEY comment '국가코드',
     UTC_OFFSET int NOT NULL comment 'UTC 시간 차이'
 );
 
@@ -77,8 +98,8 @@ Insert into nation_time (ISO_3166_1, UTC_OFFSET) values ('ES', +1);
 
 -- select * from nation_time;
 
-CREATE TABLE nation_independence  (
-	ISO_3166_1 CHAR(2) PRIMARY KEY NOT NULL comment '국가코드',
+CREATE TABLE nation_independence (
+	ISO_3166_1 CHAR(2) PRIMARY KEY comment '국가코드',
     Independence_day DATE comment '국가 선포일'
 );
 
