@@ -15,12 +15,15 @@ docs:
       - title: "Java"
         url: /categories/Java
         category: "Java"
-      - title: "MySQL"
-        url: /categories/MySQL
-        category: "MySQL"
+      - title: "DataStructure"
+        url: /categories/DataStructure
+        category: "DataStructure"
       - title: "Algorithm"
         url: /categories/Algorithm
         category: "Algorithm"
+      - title: "MySQL"
+        url: /categories/MySQL
+        category: "MySQL"
       - title: "Note"
         url: /categories/Note
         category: "Note"
