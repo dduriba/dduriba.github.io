@@ -21,6 +21,9 @@ docs:
       - title: "Algorithm"
         url: /categories/Algorithm
         category: "Algorithm"
+      - title: "DesignPattern"
+        url: /categories/DesignPattern
+        category: "DesignPattern"
       - title: "MySQL"
         url: /categories/MySQL
         category: "MySQL"
