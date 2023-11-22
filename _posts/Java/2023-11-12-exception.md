@@ -28,18 +28,18 @@ Object
 &nbsp;- 자바의 모든 클래스는 Object 클래스를 상속받습니다.
 
 2) Throwable:
-- Throwable 클래스는 모든 예외 클래스와 에러 클래스의 최상위 클래스입니다.
-- Throwable 클래스는 예외를 나타내는 데 필요한 메커니즘을 제공합니다.
+&nbsp;- Throwable 클래스는 모든 예외 클래스와 에러 클래스의 최상위 클래스입니다.<br>
+&nbsp;- Throwable 클래스는 예외를 나타내는 데 필요한 메커니즘을 제공합니다.
 
 3) Error:
-- Error 클래스는 프로그램이 복구할 수 없는 심각한 오류를 나타냅니다.
-- 예를 들어, OutOfMemoryError나 StackOverflowError 등이 Error 클래스에 속합니다.
-- 프로그래머가 직접 처리하기 어려운 상황에서 발생하며, 보통 시스템 수준의 문제를 나타냅니다.
+&nbsp;- Error 클래스는 프로그램이 복구할 수 없는 심각한 오류를 나타냅니다.<br>
+&nbsp;- 예를 들어, OutOfMemoryError나 StackOverflowError 등이 Error 클래스에 속합니다.<br>
+&nbsp;- 프로그래머가 직접 처리하기 어려운 상황에서 발생하며, 보통 시스템 수준의 문제를 나타냅니다.
 
 4) Exception:
-- Exception 클래스는 프로그램이 처리할 수 있는 예외 상황을 나타냅니다.
-- RuntimeException을 포함하여 다양한 예외들이 Exception 클래스에서 파생됩니다.
-- 예외 처리를 통해 프로그램이 비정상적인 상황에서도 제어를 유지하고 복구할 수 있도록 합니다.
+&nbsp;- Exception 클래스는 프로그램이 처리할 수 있는 예외 상황을 나타냅니다.<br>
+&nbsp;- RuntimeException을 포함하여 다양한 예외들이 Exception 클래스에서 파생됩니다.<br>
+&nbsp;- 예외 처리를 통해 프로그램이 비정상적인 상황에서도 제어를 유지하고 복구할 수 있도록 합니다.
 
 ```plaintext
 Object
