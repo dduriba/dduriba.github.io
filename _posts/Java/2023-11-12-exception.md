@@ -27,16 +27,16 @@ Object
 1) Object:<br>
 &nbsp;- 자바의 모든 클래스는 Object 클래스를 상속받습니다.
 
-2) Throwable:
+2) Throwable:<br>
 &nbsp;- Throwable 클래스는 모든 예외 클래스와 에러 클래스의 최상위 클래스입니다.<br>
 &nbsp;- Throwable 클래스는 예외를 나타내는 데 필요한 메커니즘을 제공합니다.
 
-3) Error:
+3) Error:<br>
 &nbsp;- Error 클래스는 프로그램이 복구할 수 없는 심각한 오류를 나타냅니다.<br>
 &nbsp;- 예를 들어, OutOfMemoryError나 StackOverflowError 등이 Error 클래스에 속합니다.<br>
 &nbsp;- 프로그래머가 직접 처리하기 어려운 상황에서 발생하며, 보통 시스템 수준의 문제를 나타냅니다.
 
-4) Exception:
+4) Exception:<br>
 &nbsp;- Exception 클래스는 프로그램이 처리할 수 있는 예외 상황을 나타냅니다.<br>
 &nbsp;- RuntimeException을 포함하여 다양한 예외들이 Exception 클래스에서 파생됩니다.<br>
 &nbsp;- 예외 처리를 통해 프로그램이 비정상적인 상황에서도 제어를 유지하고 복구할 수 있도록 합니다.
@@ -64,7 +64,7 @@ Object
           └── 기타 예외 클래스들...
 ```
 
-- RuntimeException 및 그 하위 클래스들은 주로 프로그래머의 오류나 잘못된 사용에 의한 예외를 나타냅니다. 이러한 예외들은 명시적인 예외 처리를 강제하지 않습니다. 하지만, 그 외의 Exception 클래스와 그 하위 클래스들은 명시적인 예외 처리를 강제합니다.
+&nbsp;- RuntimeException 및 그 하위 클래스들은 주로 프로그래머의 오류나 잘못된 사용에 의한 예외를 나타냅니다. 이러한 예외들은 명시적인 예외 처리를 강제하지 않습니다. 하지만, 그 외의 Exception 클래스와 그 하위 클래스들은 명시적인 예외 처리를 강제합니다.
 
 # Checked Exception, Unchecked Exception
 {: .notice--warning .text-center}
@@ -128,33 +128,33 @@ public static int divide(int a, int b) {
 }
 ```
 
-1) try 블록 :
-- try 블록은 예외가 발생할 가능성이 있는 코드를 감싸는 블록입니다.
-- try 블록 내에서 예외가 발생하면 예외 처리 부분으로 이동하고 남은 try 블록의 명령문들은 실행되지 않습니다.
+1) try 블록 :<br>
+&nbsp;- try 블록은 예외가 발생할 가능성이 있는 코드를 감싸는 블록입니다.<br>
+&nbsp;- try 블록 내에서 예외가 발생하면 예외 처리 부분으로 이동하고 남은 try 블록의 명령문들은 실행되지 않습니다.
 
-2) catch 블록 :
-- catch 블록은 try 블록에서 발생한 예외를 처리하는 부분입니다.
-- try 블록에서 발생한 예외의 종류에 따라 적절한 catch 블록이 선택되어 실행됩니다.
-- 여러 개의 catch 블록을 사용하여 다양한 종류의 예외를 처리할 수 있습니다.
+2) catch 블록 :<br>
+&nbsp;- catch 블록은 try 블록에서 발생한 예외를 처리하는 부분입니다.<br>
+&nbsp;- try 블록에서 발생한 예외의 종류에 따라 적절한 catch 블록이 선택되어 실행됩니다.<br>
+&nbsp;- 여러 개의 catch 블록을 사용하여 다양한 종류의 예외를 처리할 수 있습니다.
 
-3) finally 블록 :
-- finally 블록은 예외 발생 여부와 관계없이 항상 실행되는 부분입니다.
-- try 블록에서 예외가 발생하더라도 finally 블록은 반드시 실행됩니다.
+3) finally 블록 :<br>
+&nbsp;- finally 블록은 예외 발생 여부와 관계없이 항상 실행되는 부분입니다.<br>
+&nbsp;- try 블록에서 예외가 발생하더라도 finally 블록은 반드시 실행됩니다.
 주로 리소스의 해제나 마무리 작업을 위해 사용됩니다. try-catch 블록에서 return 명령이 있어도 실행됩니다.
 
-4) printStackTrace 메서드 :
-- printStackTrace는 예외의 스택 트레이스(StackTrace)를 출력하는 메서드입니다.
-- 스택 트레이스는 예외가 발생한 위치부터 예외를 던진 지점까지의 호출 스택 정보를 나타냅니다.
-- 주로 디버깅이나 예외 정보를 기록할 때 사용됩니다.
+4) printStackTrace 메서드 :<br>
+&nbsp;- printStackTrace는 예외의 스택 트레이스(StackTrace)를 출력하는 메서드입니다.<br>
+&nbsp;- 스택 트레이스는 예외가 발생한 위치부터 예외를 던진 지점까지의 호출 스택 정보를 나타냅니다.<br>
+&nbsp;- 주로 디버깅이나 예외 정보를 기록할 때 사용됩니다.
 
 ## throw, throws
 {: .notice--success .text-center}
 
-1) throw :
-- throw 키워드는 예외를 명시적으로 발생시킬 때 사용됩니다. 개발자가 직접 예외를 발생시키는 데 사용됩니다.
+1) throw :<br>
+&nbsp;- throw 키워드는 예외를 명시적으로 발생시킬 때 사용됩니다. 개발자가 직접 예외를 발생시키는 데 사용됩니다.
 
-2) throws :
-- throws 키워드는 메소드 선언부에서 해당 메소드가 어떤 종류의 예외를 던질 수 있는지 명시하는 데 사용됩니다.
+2) throws :<br>
+&nbsp;- throws 키워드는 메소드 선언부에서 해당 메소드가 어떤 종류의 예외를 던질 수 있는지 명시하는 데 사용됩니다.
 
 ```java
 public static void main(String[] args) {
