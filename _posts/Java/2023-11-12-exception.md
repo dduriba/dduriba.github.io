@@ -24,8 +24,8 @@ Object
       └── Exception
 ```
 
-1) Object:
-- 자바의 모든 클래스는 Object 클래스를 상속받습니다.
+1) Object:<br>
+  자바의 모든 클래스는 Object 클래스를 상속받습니다.
 
 2) Throwable:
 - Throwable 클래스는 모든 예외 클래스와 에러 클래스의 최상위 클래스입니다.
