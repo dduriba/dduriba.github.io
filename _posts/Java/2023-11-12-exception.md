@@ -102,7 +102,7 @@ Object
 # Exception 사용 예시
 {: .notice--warning .text-center}
 
-# try-catch, finally, printStackTrace() 예시
+## try-catch, finally, printStackTrace()
 {: .notice--success .text-center}
 
 ```java
@@ -147,7 +147,7 @@ public static int divide(int a, int b) {
 - 스택 트레이스는 예외가 발생한 위치부터 예외를 던진 지점까지의 호출 스택 정보를 나타냅니다.
 - 주로 디버깅이나 예외 정보를 기록할 때 사용됩니다.
 
-# throw, throws 예시
+## throw, throws
 {: .notice--success .text-center}
 
 1) throw :
@@ -175,3 +175,35 @@ public static void processFile(String filename) throws FileNotFoundException {
 위의 예제에서 processFile 메소드는 파일이 없을 경우 FileNotFoundException을 던집니다. 메소드 선언부에서는 throws 키워드를 사용하여 해당 예외를 처리할 것임을 나타냅니다.
 
 종합하면, throw는 예외를 발생시키는 데 사용되고, throws는 메소드에서 예외를 처리하지 않고 상위 호출자에게 예외를 전달할 때 사용됩니다.
+
+## 사용자 정의 예외 클래스
+{: .notice--success .text-center}
+
+```java
+// 사용자 정의 예외 클래스
+class CustomException extends Exception {
+    public CustomException(String message) {
+        super(message);
+    }
+}
+
+public class CustomExceptionExample {
+    public static void main(String[] args) {
+        try {
+            validateInput(25);
+            validateInput(10); // 예외 발생
+        } catch (CustomException e) {
+            System.out.println("Caught Custom Exception: " + e.getMessage());
+        }
+    }
+
+    // 사용자 정의 예외를 던지는 메소드
+    public static void validateInput(int value) throws CustomException {
+        if (value < 18) {
+            throw new CustomException("Input value must be 18 or older.");
+        } else {
+            System.out.println("Input is valid.");
+        }
+    }
+}
+```
