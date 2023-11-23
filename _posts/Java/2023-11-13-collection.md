@@ -47,7 +47,6 @@ Iterable
        ├── HashMap
        ├── TreeMap
        └── LinkedHashMap
-
 ```
 
 - Iterable 인터페이스: 모든 컬렉션 클래스가 구현하는 인터페이스로, 반복자(Iterator)를 생성하기 위한 메서드를 정의합니다.
