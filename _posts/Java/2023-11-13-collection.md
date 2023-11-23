@@ -27,16 +27,27 @@ Java에서 Collection은 객체들을 담을 수 있는 컨테이너의 일반�
 {: .notice--warning .text-center}
 
 ```mathematica
-         Iterable (인터페이스)
-           |
-       Collection (인터페이스)
-       /   |    |    \
-     Set List Queue  Map
-     |   |   |     |
-    HashSet ArrayList PriorityQueue HashMap
-    TreeSet LinkedList LinkedList LinkedHashMap
-            Vector    ArrayDeque TreeMap
-           Stack
+Iterable
+│
+└─ Collection
+   │
+   ├── Set
+   │   ├── HashSet
+   │   └── TreeSet
+   │
+   ├── List
+   │   ├── ArrayList
+   │   └── LinkedList
+   │
+   ├── Queue
+   │   ├── PriorityQueue
+   │   └── LinkedList
+   │
+   └── Map
+       ├── HashMap
+       ├── TreeMap
+       └── LinkedHashMap
+
 ```
 
 - Iterable 인터페이스: 모든 컬렉션 클래스가 구현하는 인터페이스로, 반복자(Iterator)를 생성하기 위한 메서드를 정의합니다.
