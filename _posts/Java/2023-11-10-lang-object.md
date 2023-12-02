@@ -136,12 +136,11 @@ public class ObjectLibrary {
 		//7.return 타입을 본인 클래스로 바꾸고 super.clone()를 본인 클래스 타입으로 캐스팅
 		@Override
 		public CloneTest clone() {
-			try {
-				return (CloneTest)super.clone();
-			} catch (CloneNotSupportedException e) {
+			try { return (CloneTest)super.clone(); }
+			catch (CloneNotSupportedException e) {
 				e.printStackTrace();
+				return null;
 			}
-			return null;
 		}
 	}
 }
