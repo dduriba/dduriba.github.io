@@ -1,8 +1,8 @@
 ---
-title:  "Static"
-excerpt: "static"
+title:  "Static, Final"
+excerpt: "static, final"
 categories: Java
-tag: [static]
+tag: [static, final]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
@@ -126,4 +126,48 @@ public interface MyInterface {
         // 인터페이스의 정적 메서드
     }
 }
+```
+
+# 변수에 대한 final 키워드
+{: .notice--warning .text-center}
+
+변수에 final 키워드가 사용되면 해당 변수는 상수로 취급되어 값을 한 번 할당한 후에는 변경할 수 없습니다.
+
+```java
+final int myConstant = 10;
+// myConstant = 20; // 이 부분은 컴파일 오류가 발생합니다.
+```
+
+# 메서드에 대한 final 키워드
+{: .notice--warning .text-center}
+
+메서드에 final 키워드가 사용되면 해당 메서드는 하위 클래스에서 오버라이드될 수 없습니다.
+
+```java
+public class Parent {
+    public final void myMethod() {
+        // 메서드 내용
+    }
+}
+
+public class Child extends Parent {
+    // 오버라이드 시도
+    // 컴파일 오류 발생
+    // public void myMethod() { }
+}
+```
+
+# 클래스에 대한 final 키워드
+{: .notice--warning .text-center}
+
+클래스에 final 키워드가 사용되면 해당 클래스는 상속될 수 없습니다.
+
+```java
+public final class MyFinalClass {
+    // 클래스 내용
+}
+
+// 아래와 같이 상속 시도
+// 컴파일 오류 발생
+// public class ChildClass extends MyFinalClass { }
 ```
