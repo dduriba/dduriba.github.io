@@ -12,6 +12,9 @@ main:
 docs:
   - title: "BRICKS"
     children:
+      - title: "HTML"
+        url: /categories/HTML
+        category: "HTML"    
       - title: "Java"
         url: /categories/Java
         category: "Java"
