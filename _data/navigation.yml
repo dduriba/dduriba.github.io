@@ -15,6 +15,9 @@ docs:
       - title: "HTML"
         url: /categories/HTML
         category: "HTML"    
+      - title: "CSS"
+        url: /categories/CSS
+        category: "CSS"    
       - title: "Java"
         url: /categories/Java
         category: "Java"
