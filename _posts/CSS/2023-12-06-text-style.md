@@ -40,12 +40,18 @@ toc_sticky: true
         color: rgb(48, 200, 10);
     }
     .color3{
-        /* 표준화된 컬러 사용 */
-        color:blue;
-    }
-    .color4{
         /* 4바이트 10진수 rgba 표현 */
         color:rgba(207, 79, 79, 0.675);
+    }
+    .color4{
+        /* 표준화된 컬러 사용 */
+        color:blue;
+        /* hsla 표현 (hue(색조), saturation(채도), lightness(명도), alpha(투명도)) */
+        /* hue: 0부터 360까지의 색상 화면에서의 각도 */
+        /* saturation: 0%에서 100% 사이의 값으로, 0%는 회색을 의미하고, 100%는 가장 선명한 색을 의미 */
+        /* lightness: 0%에서 100% 사이의 값으로, 0%는 검은색, 100%는 흰색을 의미 */
+        /* alpha: 0에서 1 사이의 값으로, 0은 완전투명(투명), 1은 완전불투명(불투명)을 의미 */
+        background: hsla(21, 100%, 57%, 0.819);
     }
 </style>
 
