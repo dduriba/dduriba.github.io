@@ -13,54 +13,32 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 ```html
-<style>
-    /* 채운 원 모양 불렛(기본값) */
-    #default-bullet {
-        list-style-type: disc;
-    }
-
-    /* 빈 원 모양 불렛 */
-    #circle-bullet {
-        list-style-type: circle;
-    }
-
-    /* 채운 사각형 모양 불렛 */
-    #square-bullet {
-        list-style-type: square;
-    }
-    
-    /* 불렛 없애기 */
-    #none-bullet {
-        list-style-type: none;
-    }
-</style>
-
-<h4>채운 원 모양 불렛(기본값)</h4>
-<ul id="default-bullet">
+<!-- 채운 원 모양 불렛(기본값) -->
+<ul style="list-style-type: disc;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>JQuery</li>
 </ul>
 
-<h4>빈 원 모양 불렛</h4>
-<ul id="circle-bullet">
+<!-- 빈 원 모양 불렛 -->
+<ul style="list-style-type: circle;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>JQuery</li>
 </ul>
 
-<h4>채운 사각형 모양 불렛</h4>
-<ul id="square-bullet">
+<!-- 채운 사각형 모양 불렛 -->
+<ul style="list-style-type: square;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>JQuery</li>
 </ul>
 
-<h4>불렛 없애기</h4>
-<ul id="none-bullet">
+<!-- 불렛 없애기 -->
+<ul style="list-style-type: none;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
@@ -72,80 +50,53 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 ```html
-<style>
-    /* 1로 시작하는 10진수(기본값) */
-    #default-number {
-        list-style-type: decimal;
-    }
-
-    /* 앞에 0이 붙는 10진수 */
-    #zero-number {
-        list-style-type: decimal-leading-zero;
-    }
-
-    /* 소문자 로마 숫자 */
-    #lower-rome-number {
-        list-style-type: lower-roman;
-    }
-
-    /* 대문자 로마 숫자 */
-    #upper-rome-number {
-        list-style-type: upper-roman;
-    }
-
-    /* 알파벳 소문자 */
-    #lower-alpha {
-        list-style-type: lower-alpha;
-    }
-
-    /* 알파벳 대문자 */
-    #upper-alpha {
-        list-style-type: upper-alpha;
-    }
-</style>
-
-<h4>1로 시작하는 10진수(기본값)</h4>
-<ol id="default-number">
+<!-- 1로 시작하는 10진수(기본값) -->
+<!-- <ol type="1"> -->
+<ol style="list-style-type: decimal;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>JQuery</li>
 </ol>
 
-<h4>앞에 0이 붙는 10진수</h4>
-<ol id="zero-number">
+<!-- 앞에 0이 붙는 10진수 -->
+<ol style="list-style-type: decimal-leading-zero;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>JQuery</li>
 </ol>
 
-<h4>소문자 로마 숫자</h4>
-<ol id="lower-rome-number">
+<!-- 소문자 로마 숫자 -->
+<!-- <ol type="i"> -->
+<ol style="list-style-type: lower-roman;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>JQuery</li>
 </ol>
 
-<h4>대문자 로마 숫자</h4>
-<ol id="upper-rome-number">
+<!-- 대문자 로마 숫자 -->
+<!-- <ol type="I"> -->
+<ol style="list-style-type: upper-roman;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>JQuery</li>
 </ol>
 
-<h4>알파벳 소문자</h4>
-<ol id="lower-alpha">
+<!-- 알파벳 소문자 -->
+<!-- <ol type="a"> -->
+<ol style="list-style-type: lower-alpha;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>JQuery</li>
 </ol>
 
-<h4>알파벳 대문자</h4>
-<ol id="upper-alpha">
+<!-- 알파벳 대문자 -->
+<!-- <ol type="A"> -->
+<ol style="list-style-type: upper-alpha;">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
@@ -157,15 +108,8 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 ```html
-<style>
-    /* 기호 대신 이미지 삽입 */
-    #image-bullet {
-        list-style-image: url("resources/image/iconsample.PNG");
-    }
-</style>
-
-<h3>기호 대신 이미지 삽입</h3>
-<ul id="image-bullet">
+<!-- 기호 대신 이미지 삽입 -->
+<ul style="list-style-image: url(resources/image/iconsample.PNG);">
     <li>HTML5</li>
     <li>CSS3</li>
     <li>JavaScript</li>
