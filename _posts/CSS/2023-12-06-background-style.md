@@ -9,7 +9,7 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-# border, padding, margin과 background-clip
+# border, outline, padding, margin과 background-clip
 {: .notice--warning .text-center}
 
 ```html
@@ -25,10 +25,18 @@ toc_sticky: true
         width: 100px;
         /* border : width(두께) style(테두리 스타일) color -> 요소의 테두리를 설정하는 속성 */
         border: 10px dashed white;
+        /* border-width: 4px; */
+        /* border-style: dotted; */
+        /* outline-style:dashed; */
+        /* border-color: red; */
+        /* border-radius: 5px; */
+        /* outline-width: 2px; */
         /* padding : 요소의 내용과 테두리 사이에 여백을 설정하는 속성 */
         padding: 60px;
+        /* padding-top: 10px; */
         /* margin : 요소의 바깥 부분에 여백을 설정하는 속성 */
         margin: 100px;
+        /* margin-left : 20px; */
     }
 </style>
 
