@@ -136,10 +136,17 @@ toc_sticky: true
 <img class="trans7" src="resources/image/flower2.PNG">
 ```
 
-# transition 관련 속성
+# transition
 {: .notice--warning .text-center}
 
 ```html
+<!-- transition: property duration timing-function delay; -->
+<!-- property: 애니메이션화할 CSS 속성을 지정(width, height, background-color 등) -->
+<!-- duration: 애니메이션의 지속 시간을 초 또는 밀리초 단위로 설정(0.5s, 1000ms) -->
+<!-- timing-function: 애니메이션의 진행 속도를 조절하는 함수를 지정 -->
+<!--    주로 ease, linear, ease-in, ease-out, ease-in-out 등의 키워드를 사용 -->
+<!--    또는 cubic-bezier 함수를 사용하여 사용자 정의 타이밍 함수를 지정할 수 있음 -->
+<!-- delay: 애니메이션이 시작되기 전에 대기할 시간을 초 또는 밀리초 단위로 설정 -->
 <style>
     img,
     div {
@@ -150,19 +157,18 @@ toc_sticky: true
     }
     .trans1:hover {
         transform: rotate(45deg);
-        /* transition-duration: 2s; */
-        transition: 2s all;
+        transition: all 2s;
     }
     .trans1:active {
         transform: rotate(-45deg);
-        /* transition-duration: 2s; */
-        transition: 2s all;
+        transition: all 2s;
     }
     .trans2:hover {
         width: 300px;
         height: 300px;
         transform: rotateZ(200deg);
         background-color: chartreuse;
+        /* 각 property 마다 duration 지정 */
         transition-property: background-color, transform, height, width;
         transition-duration: 5s, 10s, 1s, 100ms;
     }
