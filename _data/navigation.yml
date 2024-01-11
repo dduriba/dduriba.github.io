@@ -24,6 +24,9 @@ docs:
       - title: "Java"
         url: /categories/Java
         category: "Java"
+      - title: "Spring"
+        url: /categories/Spring
+        category: "Spring"
       - title: "DataStructure"
         url: /categories/DataStructure
         category: "DataStructure"
