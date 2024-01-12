@@ -12,12 +12,13 @@ toc_sticky: true
 # 0. 사용 도구
 {: .notice--warning .text-center}
 
-OpenJDK11U-jdk_x64_windows_hotspot_11.0.19_7
-spring-tool-suite-3.9.20.CI-B2026-e4.22.0-win32-x86_64
+OpenJDK11U-jdk_x64_windows_hotspot_11.0.19_7<br>
+spring-tool-suite-3.9.20.CI-B2026-e4.22.0-win32-x86_64<br>
 lombok.jar (lombok-1.18.24)
 
-STS : 3.9.17
-java : 11
+version=<br>
+java : 11<br>
+STS : 3.9.17<br>
 tomcat : 9(apache-tomcat-9.0.71) or 10
 
 # 1. OpenJDK 설치
@@ -25,12 +26,12 @@ tomcat : 9(apache-tomcat-9.0.71) or 10
 
 [https://adoptium.net/temurin/releases/?version=11](https://adoptium.net/temurin/releases/?version=11)
 
-cmd에서 java -version 명령어를 이용해 설치 확인
+cmd창에서 java -version 명령어를 이용해 설치 확인
 
 # 2. spring-tool-suite 설치
 {: .notice--warning .text-center}
 
-설치 후 sts.exe 파일 확인
+IDE : eclipse
 
 # 3. lombok 설치
 {: .notice--warning .text-center}
@@ -38,9 +39,8 @@ cmd에서 java -version 명령어를 이용해 설치 확인
 ## 방법 1.
 {: .notice--success .text-center}
 
-cmd에서 lombok.jar 파일이 있는 경로에서 java -jar lombok.jar 명령어를 이용해 설치
-
-Specify location을 sts.exe로 설정 후 인스톨
+1. cmd창에서 lombok.jar 파일이 있는 경로로 이동해 java -jar lombok.jar 명령어 사용
+2. Specify location을 sts.exe로 설정 후 인스톨
 
 ## 방법 2.
 {: .notice--success .text-center}
@@ -52,18 +52,17 @@ sts.ini 파일을 열어 끝에<br>
 # 4. Spring 세팅
 {: .notice--warning .text-center}
 
-Servers의 디폴트 서버 삭제 후 톰캣으로 세팅(버전과 경로 설정)<br>
-Servers의 톰캣을 더블클릭해 Timeouts Start 를 600 로 설정
+1. Servers 세팅
+- Servers의 디폴트 서버 삭제 후 톰캣으로 세팅(버전과 경로 설정)
+- Servers의 톰캣을 더블클릭해 Timeouts Start 를 600 로 설정
 
-Spring Legacy Project(jsp를 표준 템플릿으로 사용하기 위해) - Spring MVC Project 생성
+2. Spring Legacy Project(jsp를 표준 템플릿으로 사용하기 위해) - Spring MVC Project 생성
 
-UTF-8 세팅<br>
-Window-Preferences<br>
-General-Workspace -> UTF-8<br>
-Web-HTML, CSS, JSP -> UTF-8
+3. UTF-8 세팅(Window-Preferences)
+- General-Workspace -> UTF-8
+- Web-HTML, CSS, JSP -> UTF-8
 
-pom.xml의 테스트 구간 아래에 롬복 추가<br>
-(메이븐 사이트 참고) https://mvnrepository.com/
+4. pom.xml의 테스트 구간 아래에 롬복 추가 (메이븐 사이트 참고) https://mvnrepository.com/
 
 ```xml
 <!-- Test -->
@@ -84,7 +83,7 @@ pom.xml의 테스트 구간 아래에 롬복 추가<br>
 </dependency>
 ```
 
-src/main/resources/log4j.xml의 Logger 수정
+5. src/main/resources/log4j.xml의 Logger 수정
 
 ```xml
 <root>
@@ -95,7 +94,7 @@ src/main/resources/log4j.xml의 Logger 수정
 </root>
 ```
 
-src/main/webapp/WEB-INF/web.xml 설명
+6. src/main/webapp/WEB-INF/web.xml 세팅
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -177,7 +176,7 @@ src/main/webapp/WEB-INF/web.xml 설명
 </web-app>
 ```
 
-src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml
+7. src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml 세팅
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -218,7 +217,7 @@ src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml
 </beans:beans>
 ```
 
-src/main/webapp/WEB-INF/spring/root-context.xml
+8. src/main/webapp/WEB-INF/spring/root-context.xml 세팅
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
