@@ -14,7 +14,7 @@ toc_sticky: true
 
 기존에 렌더링된 씬에 렌더링 효과를 더하는 작업
 
-[docs.unity3d](https://docs.unity3d.com/kr/2019.4/Manual/BestPracticeMakingBelievableVisuals8.html)
+[https://docs.unity3d.com/kr/2019.4/Manual/BestPracticeMakingBelievableVisuals8.html](https://docs.unity3d.com/kr/2019.4/Manual/BestPracticeMakingBelievableVisuals8.html)
 
 # 적용 방법
 {: .notice--warning .text-center}
