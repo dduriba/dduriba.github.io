@@ -29,7 +29,7 @@ Volumn Blending-Layer를 앞서 설정한 PostProcessing으로 변경<br>
 Post-process Layer 컴포넌트에서 Anti-aliasing을 설정해준다.
 
 다음은 같은 오브젝트에 Post-process Volume 컴포넌트를 추가해주고,<br>
-Is Global을 True로, Profile을 New로 생성해준다.
+Is Global을 True로, Profile을 New로 생성해준다.<br>
 (이 Profile은 Clone을 통해 다양하게 설정해둔 포스트 프로세싱 옵션을 프리팹처럼 사용할 수 있다)
 
 이제 Add effect...를 통해 원하는 포스트 프로세싱 기능을 사용할 수 있다.
