@@ -2,12 +2,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Search"
-    url: /search/
-  - title: "Category"
-    url: /categories/
-  - title: "Tag"
-    url: /tags/
+  # hiding for CODOG hidden category
+  # - title: "Search"
+  #   url: /search/
+  # - title: "Category"
+  #   url: /categories/
+  # - title: "Tag"
+  #   url: /tags/
 
 docs:
   - title: "BRICKS"
