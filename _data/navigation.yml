@@ -13,33 +13,33 @@ main:
 docs:
   - title: "BRICKS"
     children:
-      # - title: "HTML"
-      #   url: /categories/HTML
-      #   category: "HTML"    
-      # - title: "CSS"
-      #   url: /categories/CSS
-      #   category: "CSS"    
-      # - title: "JavaScript"
-      #   url: /categories/JavaScript
-      #   category: "JavaScript"
-      # - title: "Java"
-      #   url: /categories/Java
-      #   category: "Java"
-      # - title: "Spring"
-      #   url: /categories/Spring
-      #   category: "Spring"
-      # - title: "DataStructure"
-      #   url: /categories/DataStructure
-      #   category: "DataStructure"
-      # - title: "Algorithm"
-      #   url: /categories/Algorithm
-      #   category: "Algorithm"
-      # - title: "DesignPattern"
-      #   url: /categories/DesignPattern
-      #   category: "DesignPattern"
-      # - title: "MySQL"
-      #   url: /categories/MySQL
-      #   category: "MySQL"
+      - title: "HTML"
+        url: /categories/HTML
+        category: "HTML"    
+      - title: "CSS"
+        url: /categories/CSS
+        category: "CSS"    
+      - title: "JavaScript"
+        url: /categories/JavaScript
+        category: "JavaScript"
+      - title: "Java"
+        url: /categories/Java
+        category: "Java"
+      - title: "Spring"
+        url: /categories/Spring
+        category: "Spring"
+      - title: "DataStructure"
+        url: /categories/DataStructure
+        category: "DataStructure"
+      - title: "Algorithm"
+        url: /categories/Algorithm
+        category: "Algorithm"
+      - title: "DesignPattern"
+        url: /categories/DesignPattern
+        category: "DesignPattern"
+      - title: "MySQL"
+        url: /categories/MySQL
+        category: "MySQL"
       - title: "Note"
         url: /categories/Note
         category: "Note"
