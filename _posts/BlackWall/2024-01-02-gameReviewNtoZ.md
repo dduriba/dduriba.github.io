@@ -1,6 +1,6 @@
 ---
-title:  "GAME REVIEW S-"
-categories: CODOG
+title:  "GAME REVIEW NtoZ"
+categories: BlackWall
 toc: true
 toc_label: "목록"
 toc_icon: "bars"

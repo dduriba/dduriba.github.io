@@ -1,6 +1,6 @@
 ---
-title: "Red Field"
-categories: CODOG
+title: "Project Red-Field"
+categories: BlackWall
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
