@@ -104,6 +104,8 @@ toc_sticky: true
 
 - 메인의 UI가 매우 복잡해 시작부터 진입 장벽을 느끼게 해줌
 
+- 장비를 바꿀 때만 하단에 가로 일렬로 퀵슬롯이 나타나고 HP도 감소하거나 증가할 때만 등장해 최소한의 UI만 놓은점이 좋았음, 탄환의 수는 항시 표시함
+
 # Lethal Company
 {: .notice--warning .text-center}
 
