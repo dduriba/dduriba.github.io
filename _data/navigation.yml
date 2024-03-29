@@ -49,9 +49,10 @@ docs:
       - title: "Unity"
         url: /categories/Unity
         category: "Unity"
+    children:
       - title: "GameMath"
         url: /categories/GameMath
-        category: "GameMath"
+        category: "GameMath"    
 
   # - title: "UNREAL ENGINE"
   #   children:
