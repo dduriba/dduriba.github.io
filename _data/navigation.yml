@@ -11,7 +11,12 @@ main:
   #   url: /tags/
 
 docs:
-  - title: "BRICKS"
+  - title: "BRICKS-A"
+    children:
+      - title: "GameMath"
+        url: /categories/GameMath
+        category: "GameMath"
+  - title: "BRICKS-B"
     children:
       - title: "HTML"
         url: /categories/HTML
@@ -49,14 +54,6 @@ docs:
       - title: "Unity"
         url: /categories/Unity
         category: "Unity"
-      - title: "GameMath"
-        url: /categories/GameMath
-        category: "GameMath"
-  - title: "TEST"
-    children:
-      - title: "GameMath"
-        url: /categories/GameMath
-        category: "GameMath"   
 
   # - title: "UNREAL ENGINE"
   #   children:
