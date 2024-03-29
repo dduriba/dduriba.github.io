@@ -13,9 +13,18 @@ main:
 docs:
   - title: "BRICKS-A"
     children:
+      - title: "Unity"
+        url: /categories/Unity
+        category: "Unity"
+      - title: "Blender"
+        url: /categories/Blender
+        category: "Blender"
       - title: "GameMath"
         url: /categories/GameMath
         category: "GameMath"
+      - title: "C#"
+        url: /categories/C#
+        category: "C#"
   - title: "BRICKS-B"
     children:
       - title: "HTML"
@@ -51,9 +60,6 @@ docs:
       - title: "Story"
         url: /categories/Story
         category: "Story"
-      - title: "Unity"
-        url: /categories/Unity
-        category: "Unity"
 
   # - title: "UNREAL ENGINE"
   #   children:
