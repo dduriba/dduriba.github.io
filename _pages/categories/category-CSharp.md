@@ -1,7 +1,7 @@
 ---
-title: "C#"
+title: "CSharp"
 layout: archive
-permalink: categories/C#
+permalink: categories/CSharp
 author_profile: true
 sidebar_main: true
 sidebar:
@@ -9,5 +9,5 @@ sidebar:
 classes: wide
 ---
 
-{% assign posts = site.categories.C# %}
+{% assign posts = site.categories.CSharp %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

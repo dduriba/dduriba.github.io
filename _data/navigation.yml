@@ -22,9 +22,9 @@ docs:
       - title: "GameMath"
         url: /categories/GameMath
         category: "GameMath"
-      - title: "C#"
-        url: /categories/C#
-        category: "C#"
+      - title: "CSharp"
+        url: /categories/CSharp
+        category: "CSharp"
   - title: "BRICKS-B"
     children:
       - title: "HTML"
