@@ -100,6 +100,11 @@ toc_sticky: true
 
 - 해당 맵에서 숙면을 취할 수 있음, 맵의 몬스터를 모두 제거하지 않을 시 확률적으로 패널티(습격)이 있을 수 있음
 
+## 퍼즐
+{: .notice--success .text-center}
+
+- 락픽으로 문을 딸 때 간단한 퍼즐이 나오는 등 압박감과 손맛을 느끼게 해주는 장치
+
 # 레벨(난이도)
 {: .notice--warning .text-center}
 
