@@ -11,7 +11,7 @@ main:
   #   url: /tags/
 
 docs:
-  - title: "BRICKS-A"
+  - title: "BRICKS-G"
     children:
       - title: "Unity"
         url: /categories/Unity
@@ -25,7 +25,7 @@ docs:
       - title: "CSharp"
         url: /categories/CSharp
         category: "CSharp"
-  - title: "BRICKS-B"
+  - title: "BRICKS-W"
     children:
       - title: "HTML"
         url: /categories/HTML
@@ -60,6 +60,11 @@ docs:
       - title: "Story"
         url: /categories/Story
         category: "Story"
+  - title: "BRICKS-C"
+    children:
+      - title: "SCA Course"
+        url: /categories/SCA
+        category: "SCA"
 
   # - title: "UNREAL ENGINE"
   #   children:
