@@ -14,7 +14,7 @@ toc_sticky: true
 {: .notice--success .text-center}
 
 - 채팅 & 친구 - 비속어 필터 사용 : false
-- 음향 - 전체 볼륨 : 30
+- 음향 - 전체 볼륨 : 30, 주변 음향 효과 듣기 : false
 
 ## 게임
 {: .notice--success .text-center}
