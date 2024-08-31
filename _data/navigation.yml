@@ -69,7 +69,7 @@ docs:
     children:
       - title: "English"
         url: /categories/English
-        category: "English"   
+        category: "English"
 
   # - title: "UNREAL ENGINE"
   #   children:
