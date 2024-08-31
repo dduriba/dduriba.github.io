@@ -11,6 +11,11 @@ main:
   #   url: /tags/
 
 docs:
+  - title: "BRICKS-C"
+    children:
+      - title: "SCA Course"
+        url: /categories/SCA
+        category: "SCA"
   - title: "BRICKS-G"
     children:
       - title: "Unity"
@@ -60,11 +65,11 @@ docs:
       - title: "Story"
         url: /categories/Story
         category: "Story"
-  - title: "BRICKS-C"
+  - title: "BRICKS-1"
     children:
-      - title: "SCA Course"
-        url: /categories/SCA
-        category: "SCA"
+      - title: "English"
+        url: /categories/English
+        category: "English"   
 
   # - title: "UNREAL ENGINE"
   #   children:
