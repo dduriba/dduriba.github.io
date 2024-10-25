@@ -51,7 +51,7 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 1. 단축키(안쓰는 키는 지정 해제, 점수판에서의 스펠 체크 등은 Shift+LMB으로 사용)
-- 커뮤니케이션 - 빠른 경고 신호 : Alt MB1
+- 커뮤니케이션 - 후퇴 신호 : Alt MB1
 - 커뮤니케이션 - 빠른 조심 신호 : Alt 1
 - 커뮤니케이션 - 적 사라짐 신호 : Alt 3
 - 커뮤니케이션 - 지원 요청 신호 : Alt 2
