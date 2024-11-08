@@ -1,7 +1,7 @@
 ---
 title:  "Inkscape에서 eps파일 열기"
-categories: Unity
-tag: [Post Processing]
+categories: Setup
+tag: [Inkscape]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
