@@ -30,6 +30,9 @@ docs:
       - title: "CSharp"
         url: /categories/CSharp
         category: "CSharp"
+      - title: "Setup"
+        url: /categories/Setup
+        category: "Setup"
   - title: "BRICKS-W"
     children:
       - title: "HTML"
