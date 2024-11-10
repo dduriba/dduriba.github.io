@@ -27,7 +27,7 @@ Window - TextMeshPro - Font Asset Creator에서
 # 카메라를 바라보는 빌보드 UI
 {: .notice--warning .text-center}
 
-적들의 머리 위에 이름이나 체력 바를 만들려고 한다.<br>
+3D 일 때, 적들의 머리 위에 카메라를 바라보는 이름이나 체력 바를 만들려고 한다.<br>
 Canvas 오브젝트를 적 오브젝트 하위에 두고 
 Canvas 오브젝트의 Render Mode = World Space, Event Camera = Main Camera 연결 후
 Look At Constraint 컴포넌트를 추가, Sources에 Main Camera를 연결해 주고 
