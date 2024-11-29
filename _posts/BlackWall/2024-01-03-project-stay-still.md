@@ -32,6 +32,11 @@ toc_sticky: true
 
 - 스페이스 바로 좀비를 밀칠 수 있는데 아주 잠깐의 시간동안 밀치며 적 공격에 맞춰 밀칠 시 패링으로 인해 한 번 이상의 공격 기회를 얻는 구조
 
+## 하이딩 포인트
+{: .notice--success .text-center}
+
+- 맵에 가끔 하이딩 포인트가 있으며 안에 숨으면 바로 앞의 일정 거리와 영역을 제외하고 시야가 차단됨
+
 # 좀비 타입
 {: .notice--warning .text-center}
 
@@ -40,3 +45,16 @@ toc_sticky: true
 
 ## temp2
 {: .notice--success .text-center}
+
+# 무기 타입
+{: .notice--warning .text-center}
+
+## 활
+{: .notice--success .text-center}
+
+## 근접 무기
+{: .notice--success .text-center}
+
+- 적의 뒤에 조용히 접근했을 때 커서를 적에 두고 암살 매커니즘을 진행 가능, 우클릭 홀드 시 캐릭터가 준비 애니메이션을 취하고 동시에 좌클릭 홀드 시 암살 미니 게임 시작
+
+<img src="/img/BlackWall/StayStill/stealth_kill.png"/>
