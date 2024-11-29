@@ -1,5 +1,5 @@
 ---
-title: "Project Graphic Text RPG"
+title: "Graphic Text RPG Project ???"
 categories: BlackWall
 toc: true
 toc_label: "목록"
