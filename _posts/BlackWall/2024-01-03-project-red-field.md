@@ -114,6 +114,11 @@ toc_sticky: true
 
 - 락픽으로 문을 딸 때 간단한 퍼즐이 나오는 등 압박감과 손맛을 느끼게 해주는 장치
 
+## 특수아이템
+{: .notice--success .text-center}
+
+- 특정 아이템(가스 마스크 등)이 있어야 갈 수 있는 지역이 있음
+
 # 레벨(난이도)
 {: .notice--warning .text-center}
 
