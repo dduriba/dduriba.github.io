@@ -51,6 +51,11 @@ toc_sticky: true
 
 - 시력이 없는 크리처, 작은 소리에 큰 행동 패턴을 보이며 소리를 내지 않아도 플레이어 쪽을 바라보는 등 공포감을 줌
 
+## 크리처8
+{: .notice--success .text-center}
+
+- 점액같은 흔적을 남기는 등 플레이어가 상호작용 했을 때 죽을때까지 쫒아오는 크리처
+
 # 동물
 {: .notice--warning .text-center}
 
