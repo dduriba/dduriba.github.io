@@ -124,6 +124,11 @@ toc_sticky: true
 
 - 특정 아이템(가스 마스크 등)이 있어야 갈 수 있는 지역이 있음
 
+## 환경 사운드
+{: .notice--success .text-center}
+
+- 잔잔한 분위기에 몰입감을 높여줄 환경 사운드가 중요
+
 # 레벨(난이도)
 {: .notice--warning .text-center}
 
