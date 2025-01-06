@@ -61,6 +61,11 @@ toc_sticky: true
 
 - 모습이 보이지 않다가 근처에가면 보이거나 일렁이는 등 힌트를 주며 플레이어를 멈추게하는 크리처
 
+## 크리처10
+{: .notice--success .text-center}
+
+- 플레이어의 라이트를 포함한 주변 조명을 깜빡거리게 하거나 작동 불가능하게 만듦ㄴ
+
 # 동물
 {: .notice--warning .text-center}
 
