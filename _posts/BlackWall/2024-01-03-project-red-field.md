@@ -64,7 +64,7 @@ toc_sticky: true
 ## 크리처10
 {: .notice--success .text-center}
 
-- 플레이어의 라이트를 포함한 주변 조명을 깜빡거리게 하거나 작동 불가능하게 만듦ㄴ
+- 불빛에 민감한 크리처, 플레이어의 라이트를 포함한 주변 조명을 깜빡거리게 하다가 작동 불가능하게 만듦, 불빛을 보면 달려들음
 
 # 동물
 {: .notice--warning .text-center}
