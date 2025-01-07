@@ -54,7 +54,7 @@ toc_sticky: true
 ## 크리처8
 {: .notice--success .text-center}
 
-- 점액같은 흔적을 남기는 등 플레이어가 상호작용 했을 때 죽을때까지 쫒아오는 크리처
+- 트랩을 사용하는 크리처, 점액같은 흔적을 남기는 등 플레이어가 상호작용 했을 때 죽을때까지 쫒아오는 크리처
 
 ## 크리처9
 {: .notice--success .text-center}
@@ -123,6 +123,11 @@ toc_sticky: true
 {: .notice--success .text-center}
 
 - 해당 맵에서 숙면을 취할 수 있음, 맵의 몬스터를 모두 제거하지 않을 시 확률적으로 패널티(습격)이 있을 수 있음
+
+## 부상 시스템
+{: .notice--success .text-center}
+
+- 부상 당했을 시 걷거나 뛰는 모션의 카메라 워크가 다리가 절뚝거리는 등의 연출
 
 ## 퍼즐
 {: .notice--success .text-center}
