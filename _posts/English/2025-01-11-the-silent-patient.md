@@ -109,11 +109,15 @@ An unnamed something that I **occasionally** write in
 
 1. 가끔
 
+---
+
 - [X] outlet
 
 an **outlet**, a space to express myself. A bit like therapy
 
 1. (감정,생각,에너지의 바람직한)발산 수단
+
+---
 
 - [X] overwhelm
 
