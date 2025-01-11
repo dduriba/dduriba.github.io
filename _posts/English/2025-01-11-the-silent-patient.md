@@ -127,9 +127,9 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - threaten
- + sometimes it threatens to overwhelm me
  1. 협박(위협)하다
  2. (나쁜 일이 있을)조짐을 보이다
+  + sometimes it threatens to overwhelm me
 
 # U
 {: .notice--warning .text-center}
@@ -145,8 +145,8 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - wade
- + I feel like I'm **wading** through mud
  1. (물, 진흙 속을 힘겹게)헤치며 걷다
+  + I feel like I'm **wading** through mud
 
 # X
 {: .notice--warning .text-center}
