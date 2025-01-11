@@ -23,6 +23,8 @@ I can't **bear** the thought of him worrying about me
 2. 참다, 견디다
 3. ...할 만한 것이 못 되다
 
+---
+
 # C
 {: .notice--warning .text-center}
 
@@ -31,6 +33,8 @@ I can't **bear** the thought of him worrying about me
 if it becomes **chore**
 
 1. (정기적으로 하는) 일, 하기 싫은(따분한) 일
+
+---
 
 # D
 {: .notice--warning .text-center}
@@ -41,6 +45,8 @@ I don't ever want to cause him any **distress** or make him unhappy or cause him
 
 1. (정신적)고통, 괴로움, 고충, 곤경
 2. 괴롭히다, 고통스럽게 하다
+
+---
 
 # E
 {: .notice--warning .text-center}
@@ -70,6 +76,8 @@ I don't ever want to cause him any **distress** or make him unhappy or cause him
 the tip of an **iceberg**
 
 1. 빙산
+
+---
 
 # J
 {: .notice--warning .text-center}
@@ -126,6 +134,8 @@ sometimes it threatens to **overwhelm** me
 1. (격한 감정이)휩싸다
 2. 제압하다
 
+---
+
 # P
 {: .notice--warning .text-center}
 
@@ -134,6 +144,8 @@ sometimes it threatens to **overwhelm** me
 I feel better already-writing this down is **providing** a kind of release
 
 1. 제공(공급)하다, 주다, 규정하다
+
+---
 
 # Q
 {: .notice--warning .text-center}
@@ -149,6 +161,8 @@ I agreed to keep this diary was to **reassure** him-prove that I'm okay
 
 1. 안심시키다
 
+---
+
 # S
 {: .notice--warning .text-center}
 
@@ -163,6 +177,8 @@ sometimes it **threatens** to overwhelm me
 
 1. 협박(위협)하다
 2. (나쁜 일이 있을)조짐을 보이다
+
+---
 
 # U
 {: .notice--warning .text-center}
@@ -182,6 +198,8 @@ sometimes it **threatens** to overwhelm me
 + I feel like I'm **wading** through mud
 
 1. (물, 진흙 속을 힘겹게)헤치며 걷다
+
+---
 
 # X
 {: .notice--warning .text-center}
