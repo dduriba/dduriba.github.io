@@ -16,6 +16,7 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - bear
+  + I can't **bear** the thought of him worrying about me
  1. 곰
  2. 참다, 견디다
  3. ...할 만한 것이 못 되다
@@ -24,12 +25,14 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - chore
+  + if it becomes **chore**
  1. (정기적으로 하는) 일, 하기 싫은(따분한) 일
 
 # D
 {: .notice--warning .text-center}
 
 - distress
+  + I don't ever want to cause him any **distress** or make him unhappy or cause him pain
  1. (정신적)고통, 괴로움, 고충, 곤경
  2. 괴롭히다, 고통스럽게 하다
 
@@ -57,6 +60,7 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - iceberg
+  + the tip of an **iceberg**
  1. 빙산
 
 # J
@@ -83,29 +87,31 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - nag
- 1. (계속)잔소리를 하다
   + He kept **nagging** me
+ 1. (계속)잔소리를 하다
 
 # O
 {: .notice--warning .text-center}
 
 - occasionally
+  + An unnamed something that I **occasionally** write in
  1. 가끔
 
 - outlet
+  + an **outlet**, a space to express myself. A bit like therapy
  1. (감정,생각,에너지의 바람직한)발산 수단
 
 - overwhelm
+  + sometimes it threatens to **overwhelm** me
  1. (격한 감정이)휩싸다
  2. 제압하다
-  + sometimes it threatens to **overwhelm** me
 
 # P
 {: .notice--warning .text-center}
 
 - provide
- 1. 제공(공급)하다, 주다, 규정하다
   + I feel better already-writing this down is **providing** a kind of release
+ 1. 제공(공급)하다, 주다, 규정하다
 
 # Q
 {: .notice--warning .text-center}
@@ -116,6 +122,7 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - reassure
+  + I agreed to keep this diary was to **reassure** him-prove that I'm okay
  1. 안심시키다
 
 # S
@@ -127,9 +134,9 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - threaten
+  + sometimes it **threatens** to overwhelm me
  1. 협박(위협)하다
  2. (나쁜 일이 있을)조짐을 보이다
-  + sometimes it **threatens** to overwhelm me
 
 # U
 {: .notice--warning .text-center}
@@ -145,8 +152,8 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - wade
- 1. (물, 진흙 속을 힘겹게)헤치며 걷다
   + I feel like I'm **wading** through mud
+ 1. (물, 진흙 속을 힘겹게)헤치며 걷다
 
 # X
 {: .notice--warning .text-center}
