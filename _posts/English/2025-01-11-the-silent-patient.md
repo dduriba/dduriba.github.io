@@ -32,9 +32,11 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - distress
-  + I don't ever want to cause him any **distress** or make him unhappy or cause him pain
-  1. (정신적)고통, 괴로움, 고충, 곤경
-  2. 괴롭히다, 고통스럽게 하다
+
+I don't ever want to cause him any **distress** or make him unhappy or cause him pain
+
+1. (정신적)고통, 괴로움, 고충, 곤경
+2. 괴롭히다, 고통스럽게 하다
 
 # E
 {: .notice--warning .text-center}
