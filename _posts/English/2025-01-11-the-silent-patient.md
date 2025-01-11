@@ -83,8 +83,8 @@ toc_sticky: true
 {: .notice--warning .text-center}
 
 - nag
+ 1. (계속)잔소리를 하다
   + He kept **nagging** me
-  1. (계속)잔소리를 하다
 
 # O
 {: .notice--warning .text-center}
@@ -96,16 +96,16 @@ toc_sticky: true
  1. (감정,생각,에너지의 바람직한)발산 수단
 
 - overwhelm
+ 1. (격한 감정이)휩싸다
+ 2. 제압하다
   + sometimes it threatens to overwhelm me
-  1. (격한 감정이)휩싸다
-  2. 제압하다
 
 # P
 {: .notice--warning .text-center}
 
 - provide
- + I feel better already-writing this down is **providing** a kind of release
  1. 제공(공급)하다, 주다, 규정하다
+  + I feel better already-writing this down is **providing** a kind of release
 
 # Q
 {: .notice--warning .text-center}
