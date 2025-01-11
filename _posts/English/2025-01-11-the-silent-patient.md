@@ -98,7 +98,7 @@ toc_sticky: true
 - overwhelm
  1. (격한 감정이)휩싸다
  2. 제압하다
-  + sometimes it threatens to overwhelm me
+  + sometimes it threatens to **overwhelm** me
 
 # P
 {: .notice--warning .text-center}
@@ -129,7 +129,7 @@ toc_sticky: true
 - threaten
  1. 협박(위협)하다
  2. (나쁜 일이 있을)조짐을 보이다
-  + sometimes it threatens to overwhelm me
+  + sometimes it **threatens** to overwhelm me
 
 # U
 {: .notice--warning .text-center}
