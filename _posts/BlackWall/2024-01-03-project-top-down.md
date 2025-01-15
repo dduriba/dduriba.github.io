@@ -1,5 +1,5 @@
 ---
-title: "2D top-down Project Stay-Still"
+title: "2D top-down Project"
 categories: BlackWall
 toc: true
 toc_label: "목록"

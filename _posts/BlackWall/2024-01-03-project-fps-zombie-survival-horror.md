@@ -1,5 +1,5 @@
 ---
-title: "3D Project Red-Field"
+title: "3D Zombie Survival Horror Project Stay Still"
 categories: BlackWall
 toc: true
 toc_label: "목록"
@@ -113,6 +113,8 @@ toc_sticky: true
 
 - 맵에 밟거나 지나가면 사운드를 발생시켜 좀비에게 들키게 만드는 장치 존재(유리조각 등)
 
+- 뛰다가 밟으면 넘어지는 프롭 존재(적당한 크기의 돌 등)
+
 ## 그리드 인벤토리
 {: .notice--success .text-center}
 
@@ -171,3 +173,4 @@ toc_sticky: true
 - UI는 최소한으로(탄약은 플레이어가 직접 세도록), 장착한 무기와 소모품등의 퀵슬롯UI는 바꿀 때만 등장하고 러프하게 비활성화
   + 낮은 HP는 화면 스크린 UI등으로 표현(흑백, 시야가 늘어지는듯한 연출 등)
 - 기본적으로 크리처가 플레이어의 일정범위(5m) 이내 일 경우 천천히 다가오며 공격을 준비하는 등의 모션을 취하고 일정범위(5m) 밖일 경우 거리를 빠르게 좁히는 모션 등을 통해 압박감을 유도
+- 크리처 개체 수, 밀집 지역, 일반 크리처와 특수 크리처를 적절히 분배해야 함
