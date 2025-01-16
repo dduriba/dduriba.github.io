@@ -94,12 +94,14 @@
 
 .notice--warning {
   @include notice($warning-color);
+  border-left: 5px solid #efbe79 !important;
 }
 
 /* Success notice */
 
 .notice--success {
   @include notice($success-color);
+  border-left: 5px solid #8bcf8b !important;
 }
 
 /* Danger notice */
