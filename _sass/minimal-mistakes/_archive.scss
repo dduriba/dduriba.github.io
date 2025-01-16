@@ -224,9 +224,7 @@
   }
 
   .archive__item-excerpt-custom {
-    @include breakpoint($medium) {
-      color: gray;
-    }
+    color: #cfe4cf;
   }
 
   .archive__item-teaser {

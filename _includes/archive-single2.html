@@ -22,8 +22,7 @@
               {%- include post__taxonomy_category.html -%}
               {% endif %}
               <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
-              {% if post.excerpt %}<p class="archive__item-excerpt-custom">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
-              <!-- {% if post.excerpt %}{{ post.excerpt | markdownify | strip_html | truncate: 160 }}{% endif %} -->
+              {% if post.excerpt %}<span class="archive__item-excerpt-custom">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</span>{% endif %}
             </small>
         </div>
       </article>
