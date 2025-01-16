@@ -298,10 +298,10 @@ defaults:
       # show_date : true
       search: true
       mathjax: true
-      # toc: true
-      # toc_label: "목록"
-      # toc_icon: "bars"
-      # toc_sticky: true
+      toc: true
+      toc_label: "Table"
+      toc_icon: "bars"
+      toc_sticky: true
       # classes: wide
 
 date_format: "%Y-%m-%d"
