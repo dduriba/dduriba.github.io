@@ -1,10 +1,7 @@
 ---
 title:  "롤 설정"
 categories: BlackWall
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
+excerpt: ""
 ---
 
 # 클라이언트 설정
