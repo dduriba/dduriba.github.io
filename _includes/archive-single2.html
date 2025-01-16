@@ -23,7 +23,7 @@
               {% endif %}
               <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
               <!-- {% if post.excerpt %}<span class="archive__item-excerpt-custom" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</span>{% endif %} -->
-              {% if post.excerpt %}<span style="background-color: #cfe4cf;">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</span>{% endif %}
+              {% if post.excerpt %}<span style="color: gray; text-decoration: underline; text-decoration-color: #cfe4cf;">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</span>{% endif %}
             </small>
         </div>
       </article>
