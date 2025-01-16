@@ -295,7 +295,7 @@ defaults:
       comments: true
       share: false
       related: false
-      show_date : true
+      # show_date : true
       search: true
       mathjax: true
       # toc: true
