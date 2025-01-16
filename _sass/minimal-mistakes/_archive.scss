@@ -223,6 +223,15 @@
     }
   }
 
+  .archive__item-excerpt-custom {
+    display: none;
+
+    @include breakpoint($medium) {
+      display: block;
+      color: gray;
+    }
+  }
+
   .archive__item-teaser {
     @include breakpoint($small) {
       max-height: 200px;
