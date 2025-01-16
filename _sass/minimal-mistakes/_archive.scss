@@ -224,10 +224,7 @@
   }
 
   .archive__item-excerpt-custom {
-    display: none;
-
     @include breakpoint($medium) {
-      display: block;
       color: gray;
     }
   }
