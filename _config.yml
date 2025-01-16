@@ -303,5 +303,6 @@ defaults:
       toc_icon: "bars"
       toc_sticky: true
       # classes: wide
+      excerpt: ""
 
 date_format: "%Y-%m-%d"
