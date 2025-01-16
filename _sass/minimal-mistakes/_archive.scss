@@ -224,7 +224,8 @@
   }
 
   .archive__item-excerpt-custom {
-    color: #cfe4cf;
+    color: #cfe4cf !important;
+    text-shadow: 0px 1px 20px #EDDCC3;
   }
 
   .archive__item-teaser {
