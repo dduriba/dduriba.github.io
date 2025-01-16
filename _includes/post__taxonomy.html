@@ -1,10 +1,10 @@
 {%- if site.category_archive.type and post.categories[0] -%}
-    <!-- {%- case site.category_archive.type -%}
+    {%- case site.category_archive.type -%}
         {%- when "liquid" -%}
         {%- assign path_type = "#" -%}
         {%- when "jekyll-archives" -%}
         {%- assign path_type = nil -%}
-    {%- endcase -%} -->
+    {%- endcase -%}
 
     {% case site.tag_archive.type %}
         {% when "liquid" %}
