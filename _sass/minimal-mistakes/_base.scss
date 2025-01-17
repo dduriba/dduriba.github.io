@@ -177,12 +177,14 @@ ul li,
 ol li {
   // margin-bottom: 0.5em;
   margin-bottom: 0;
+  padding-inline-start: 0;
 }
 
 li ul,
 li ol {
   // margin-top: 0.5em;
   margin-top: 0;
+  padding-inline-start: 0;
 }
 
 /*
