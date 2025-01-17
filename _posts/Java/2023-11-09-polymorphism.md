@@ -1,16 +1,10 @@
 ---
 title:  "다형성"
-excerpt: "polymorphism"
 categories: Java
-tag: [polymorphism]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # class:Mac
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 public class Mac {
@@ -37,7 +31,7 @@ public class Mac {
 ```
 
 # class:Pro13_2017
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 public class Pro13_2017 extends Mac {
@@ -64,7 +58,7 @@ public class Pro13_2017 extends Mac {
 ```
 
 # class:Pro13_2020
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 public class Pro13_2020 extends Mac {
@@ -82,7 +76,7 @@ public class Pro13_2020 extends Mac {
 ```
 
 # class:Run
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 public class Run {

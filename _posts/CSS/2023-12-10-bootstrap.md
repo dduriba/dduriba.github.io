@@ -1,16 +1,10 @@
 ---
 title:  "부트스트랩"
-excerpt: "bootstrap"
 categories: CSS
-tag: [CSS, bootstrap]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # quick start
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/getting-started/introduction/ -->
@@ -35,7 +29,7 @@ toc_sticky: true
 ```
 
 # container
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/layout/overview/ -->
@@ -53,7 +47,7 @@ toc_sticky: true
 ```
 
 # button, button group
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/components/buttons/ -->
@@ -72,7 +66,7 @@ toc_sticky: true
 ```
 
 # typography, colors
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/content/typography/ -->
@@ -86,7 +80,7 @@ toc_sticky: true
 ```
 
 # badge
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/components/badge/ -->\
@@ -96,7 +90,7 @@ toc_sticky: true
 ```
 
 # alert
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/components/alerts/ -->
@@ -112,7 +106,7 @@ toc_sticky: true
 ```
 
 # grid
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/layout/grid/ -->
@@ -145,7 +139,7 @@ toc_sticky: true
 ```
 
 # form
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/components/forms/ -->
@@ -196,7 +190,7 @@ toc_sticky: true
 ```
 
 # navbar
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/components/navbar/ -->
@@ -222,7 +216,7 @@ toc_sticky: true
 ```
 
 # icon
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://icons.getbootstrap.com/ -->
@@ -235,7 +229,7 @@ toc_sticky: true
 ```
 
 # input group
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- https://getbootstrap.com/docs/4.6/components/input-group/ -->

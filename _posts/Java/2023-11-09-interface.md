@@ -1,16 +1,10 @@
 ---
 title:  "인터페이스"
-excerpt: "interface"
 categories: Java
-tag: [interface]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # interface:Charger
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 //인터페이스
@@ -26,7 +20,7 @@ public interface Charger {
 ```
 
 # interface:SleepMode
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 public interface SleepMode {
@@ -35,7 +29,7 @@ public interface SleepMode {
 ```
 
 # class:Mac
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 public abstract class Mac{
@@ -54,7 +48,7 @@ public abstract class Mac{
 ```
 
 # class:Pro13_2017
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 public class Pro13_2017 extends Mac implements SleepMode {
@@ -71,7 +65,7 @@ public class Pro13_2017 extends Mac implements SleepMode {
 ```
 
 # class:Pro13_2020
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 //인터페이스는 다중상속이 가능
@@ -94,7 +88,7 @@ public class Pro13_2020 extends Mac implements SleepMode, Charger {
 ```
 
 # class:Run
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 public class Run {

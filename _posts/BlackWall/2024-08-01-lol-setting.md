@@ -1,20 +1,19 @@
 ---
 title:  "롤 설정"
 categories: BlackWall
-excerpt: ""
 ---
 
 # 클라이언트 설정
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## 클라이언트
-{: .notice--success .text-center}
+{: .notice--success}
 
 - 채팅 & 친구 - 비속어 필터 사용 : false
 - 음향 - 전체 볼륨 : 30, 주변 음향 효과 듣기, 로비/게임 종료 화면 음악 켜기 : false
 
 ## 게임
-{: .notice--success .text-center}
+{: .notice--success}
 
 1. 단축키
 - 모두 즉시 시전
@@ -46,7 +45,7 @@ excerpt: ""
 - 게임플레이 - 커서 위치로 이동 공격 : true
 
 # 인게임 설정
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 1. 단축키(안쓰는 키는 지정 해제, 점수판에서의 스펠 체크 등은 Shift+LMB으로 사용)
 - 커뮤니케이션 - 후퇴 신호 : Alt MB1

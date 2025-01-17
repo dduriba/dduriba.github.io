@@ -1,16 +1,10 @@
 ---
 title:  "SCA 로스팅 파운데이션"
-excerpt: "SCA Roasting Foundation"
 categories: SCA
-tag: [Roasting]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # agtron number : 일본 : SCAA
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 95 : 라이트 : Very Light
   + 신향, 강한 신맛
@@ -43,7 +37,7 @@ toc_sticky: true
   + 약한 단맛, 매우 강한 쓴맛
 
 # 이론
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 배전은 예열로부터 시작(전체 드럼 내부를 똑같은 온도로 해 원두 간 격차가 없도록)하고 약한 불로부터 천천히 한다. 갑자기 강한 열을 가하면 기계를 손상시킴
 
@@ -73,13 +67,13 @@ toc_sticky: true
 
 
 ## 로스터기 명칭
-{: .notice--success .text-center}
+{: .notice--success}
 
 <img src="/img/SCA/roasting_machine.png"/>
 
 
 # 필기 요약
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 1. 로스팅 시 첫 크랙이 일어나는 원인 : 세포 안에서 증기 압력이 증가해 세포벽이 파열
 

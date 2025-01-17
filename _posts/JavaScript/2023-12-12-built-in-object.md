@@ -1,16 +1,10 @@
 ---
 title: "내장 객체"
-excerpt: "built in object"
 categories: JavaScript
-tag: [JavaScript, built in object]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # String 내장 객체
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <script>
@@ -42,7 +36,7 @@ toc_sticky: true
 ```
 
 # String 객체의 HTML 관련 메서드
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- HTML 속성으로 조정하는 방법임으로 CSS 에서 사용X -->
@@ -69,7 +63,7 @@ toc_sticky: true
 ```
 
 # Number 관련 메서드
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <div id="div2"></div>
@@ -113,7 +107,7 @@ toc_sticky: true
 ```
 
 # Math 관련 메서드
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <div id="div4"></div>
@@ -143,7 +137,7 @@ toc_sticky: true
 ```
 
 # Date 내장 객체
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <div id="div3"></div>

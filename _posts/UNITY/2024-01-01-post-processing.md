@@ -1,23 +1,17 @@
 ---
 title:  "포스트 프로세싱"
-excerpt: "Post Processing"
 categories: Unity
-tag: [Post Processing]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # 포스트 프로세싱?
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 기존에 렌더링된 씬에 렌더링 효과를 더하는 작업
 
 [https://docs.unity3d.com/kr/2019.4/Manual/BestPracticeMakingBelievableVisuals8.html](https://docs.unity3d.com/kr/2019.4/Manual/BestPracticeMakingBelievableVisuals8.html)
 
 # 적용 방법
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 Window -> Package Manager에서 먼저 Post Processing을 인스톨한다.
 

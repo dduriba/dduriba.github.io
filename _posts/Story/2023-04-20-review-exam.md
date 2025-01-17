@@ -1,9 +1,6 @@
 ---
 title: "ISTQB CTFL 시험 후기"
-excerpt: "ISTQB CTFL test review"
 categories: Story
-tag: [ISTQB, Foundation Level]
-classes: wide
 ---
 
 <img src="/img/istqbCtfl/testResult.png"/>

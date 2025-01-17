@@ -1,19 +1,13 @@
 ---
 title:  "제어문"
-excerpt: "control statement"
 categories: Java
-tag: [control statement]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # if
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 스파게티 코드
-{: .notice--success .text-center}
+{: .notice--success}
 
 ```java
 if () {
@@ -30,7 +24,7 @@ if () {
 ```
 
 리팩터링
-{: .notice--success .text-center}
+{: .notice--success}
 
 코딩 중 들여쓰기는 최소화!
 1. 예외 처리: if + return으로 필터링 후
@@ -57,7 +51,7 @@ if () {
 ```
 
 # switch
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 char grade;
@@ -75,7 +69,7 @@ swtich(grade) {
 ```
 
 # while
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 int select = -1;
@@ -87,7 +81,7 @@ while(true) {
 ```
 
 # do while
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 do while의 특징: 조건에 관계없이 do 블록을 최초 한번은 무조건 실행
 ```java
@@ -99,7 +93,7 @@ do {
 ```
 
 # for
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 boolean flag = false;
@@ -116,7 +110,7 @@ for(int i = 0; i < 10; i++) {
 ```
 
 # for each
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 for ({배열의 데이터 타입}{요소 명} : {배열 명})
 ```java

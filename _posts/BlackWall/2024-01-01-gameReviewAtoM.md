@@ -1,14 +1,10 @@
 ---
 title:  "GAME REVIEW AtoM"
 categories: BlackWall
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # 바람의 나라 : 클래식
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 한칸씩 이동함과 그 시절 특유의 끊김이 합쳐진 불편함에서 오는 매력적인 조작감, 마우스를 전혀 사용하지 않고 키보드로만 커맨드식으로 플레이 할 수 있음
 
@@ -19,7 +15,7 @@ toc_sticky: true
 - 오리지널 바람의 나라는 편의성 부분이 너무 확대되어 빠른이동(퀘스트 지점으로 바로 순간이동)기능을 쓰는 순간 조작감의 재미가 매우 떨어지게 됨
 
 # Cyberpunk 2077
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 오픈 월드의 매력을 제일 잘 살린 게임이라고 말할 수 있음, 스토리 선택 상황에 따라 단역이라고 할 수 있는 NPC의 상황도 달라지게 됨
 
@@ -33,7 +29,7 @@ toc_sticky: true
   + 맵에 이런곳을 만들면 좋을 거 같음
 
 # Deppart Prototype
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - Hand 애니메이션을 바디캠 느낌으로 사용
   + 바디캠 느낌이 사실감을 증가시켜 공포감을 극대화 시켜준다.
@@ -42,7 +38,7 @@ toc_sticky: true
   + 크리처 중에 해당 패턴을 능력으로 가지는 크리처를 만들면 좋을 거 같다
 
 # Ghostrunner
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 3D 플랫포머(데스런 느낌)와 카타나 액션을 리듬감있게 잘 살림
 
@@ -70,7 +66,7 @@ toc_sticky: true
 
 
 # Ghostwire: Tokyo
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 적마다 약점(심장)이 있고 명중 시 그로기(처단할 수 있는)상태가 되는데 키를 홀드해서 처단시키는 손맛이 있음
 
@@ -111,7 +107,7 @@ toc_sticky: true
   + 반복되는, 자주 사용되는 기능들은 유저 편의성을 중심으로 만드는게 좋을 거 같음
 
 # Hunt: Showdown
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 메인의 UI가 매우 복잡해 처음 시작하는 유저의 진입 장벽이 높음
 
@@ -124,7 +120,7 @@ toc_sticky: true
 - 장비를 바꿀 때만 하단에 가로 일렬로 퀵슬롯이 나타나고 HP도 감소하거나 증가할 때만 등장해 최소한의 UI만 놓은점이 좋았음, 탄환의 수는 항시 표시함
 
 # Lethal Company
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 우천, 뇌우, 홍수, 안개, 일식에 따라 달라지는 환경
   + 비가오면 플레이어의 시야와 사운드 방해, 시각과 청각에 의존하는 크리처의 능력 약화

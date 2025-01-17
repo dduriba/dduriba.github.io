@@ -1,9 +1,7 @@
 ---
 title:  "고급 쿼리"
-excerpt: "advanced query"
 categories: MySQL
-tag: [order by, limit, offset, sum, avg, count, min, max, group by, having, rollup, grouping, union]
-classes: wide
+excerpt: "order by, limit, offset, sum, avg, count, min, max, group by, having, rollup, grouping, union"
 ---
 
 ```sql

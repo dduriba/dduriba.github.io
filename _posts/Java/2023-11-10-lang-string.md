@@ -1,16 +1,10 @@
 ---
 title:  "java.lang.String"
-excerpt: "java.lang.String"
 categories: Java
-tag: [lang, String]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # equals
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // equals : 문자열을 비교해 boolean값으로 리턴
@@ -37,7 +31,7 @@ System.out.println(str1==str4);//true
 ```
 
 # contains
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // contains : 문자열이 포함되었는지 확인 후 boolean값으로 리턴
@@ -45,7 +39,7 @@ System.out.println("aabb".contains("ab"));//true
 ```
 
 # compairTo
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // compareTo : 문자열끼리 비교해 거리의 차이를 int값으로 리턴
@@ -55,7 +49,7 @@ System.out.println("Alex".compareTo("Alex"));//0, 같은 문자열
 ```
 
 # concat
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // concat : 문자열을 결합해 String값으로 리턴
@@ -66,7 +60,7 @@ System.out.println(str1 + str2);//concat을 잘 쓰지 않는 이유
 ```
 
 # charAt
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // charAt : 문자열에서 index에 해당하는 문자를 char값으로 리턴
@@ -75,7 +69,7 @@ System.out.println(str.charAt(6));//@
 ```
 
 # indexOf
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // indexOf : 문자열에서 인자의 문자열과 일치하는 index를 int값으로 리턴
@@ -104,7 +98,7 @@ System.out.println("찾은 갯수 : " + count);
 ```
 
 # lastIndexOf
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // lastIndexOf : 문자열의 마지막 인덱스부터 인자의 문자열과 일치하는 index를 int값으로 리턴
@@ -114,7 +108,7 @@ System.out.println(str.lastIndexOf("can", 40 - "can".length()));//34
 ```
 
 # startWith
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // startWith : 문자열의 첫 번째 인덱스부터 연속성을 확인해 boolean값으로 리턴
@@ -126,7 +120,7 @@ System.out.println(str.startsWith("Can you"));//true
 ```
 
 # endsWith
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // endsWith : 문자열의 마지막 인덱스부터 연속성을 확인해 boolean값으로 리턴, *확장자를 확인할때 유용*
@@ -135,7 +129,7 @@ System.out.println(str.endsWith(".txt"));//true
 ```
 
 # trim, strip
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // trim, strip : 문자열의 white space 제거해 String값으로 리턴
@@ -158,7 +152,7 @@ System.out.println(str.stripIndent());// strip : \n\t 일부 공백을 살려 in
 ```
 
 # subString
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // subString : 문자열을 지정한 범위만큼 잘라 String값으로 리턴
@@ -170,7 +164,7 @@ System.out.println(str.substring(str.length() - 7, str.length()));//ABCDEFG
 ```
 
 # replace
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // replace : 지정한 문자열을 교체해 String값으로 리턴
@@ -181,7 +175,7 @@ System.out.println(str.replace("He__o", "Hello"));//Hello Wor_d
 ```
 
 # replaceAll
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // replaceAll : 정규식 패턴으로 문자열을 교체/제거 할때 활용, 일반 문자열도 가능, String값으로 리턴
@@ -196,7 +190,7 @@ System.out.println(str.replaceAll(match, "").strip());//white space까지 같이
 ```
 
 # repaceFirst
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // repaceFirst : 매칭되는 첫 번째 문자열을 교체해 String값으로 리턴
@@ -205,7 +199,7 @@ System.out.println(str.replaceFirst("!s", "is"));//!t is !t
 ```
 
 # split
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // split : 문자열을 특정 인자(Delimiter=구분자,정규식)로 잘라 토큰배열로 반환
@@ -227,7 +221,7 @@ for(String s1 : strArray1) {
 ```
 
 # join
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 String str = "name : Alex, name : Alen, name : Alice";
@@ -247,7 +241,7 @@ System.out.println(str3);//name : Alex, name : Alen, name : Alice
 ```
 
 # StringTokenizer
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // StringTokenizer : Split 객체버전
@@ -260,7 +254,7 @@ while(tokens.hasMoreElements()) {// 엘리먼트가 더 있을때
 ```
 
 # toUpperCase, toLowerCase
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // toUpperCase, toLowerCase : 문자열의 대소문자 변경
@@ -270,7 +264,7 @@ System.out.println(str.toLowerCase());//hello world!
 ```
 
 # valueOf
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // valueOf : 다른 자료형을 문자열로 변경하는 방법
@@ -284,7 +278,7 @@ System.out.println(str2);
 ```
 
 # repeat
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // repeat : 문자열 반복
@@ -292,7 +286,7 @@ System.out.println("-=".repeat(5));//-=-=-=-=-=
 ```
 
 # format
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 // format : %d, %f, %s등 format출력 지원 함수->소수점 자르는 용도로 많이 활용

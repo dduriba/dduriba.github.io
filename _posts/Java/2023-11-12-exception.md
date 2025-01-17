@@ -1,21 +1,15 @@
 ---
 title:  "Exception"
-excerpt: "exception"
 categories: Java
-tag: [exception]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # Exception이란?
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 Exception은 프로그램 실행 중에 예상치 못한 상황이나 오류가 발생했을 때, 그 정보를 전달하고 처리하는 Java에서의 메커니즘입니다. 이러한 상황을 처리함으로써 프로그램은 예외적인 상황에서도 계속해서 실행될 수 있도록 합니다.
 
 # Exception의 계층 구조
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```plaintext
 Object
@@ -67,10 +61,10 @@ Object
 &nbsp;- RuntimeException 및 그 하위 클래스들은 주로 프로그래머의 오류나 잘못된 사용에 의한 예외를 나타냅니다. 이러한 예외들은 명시적인 예외 처리를 강제하지 않습니다. 하지만, 그 외의 Exception 클래스와 그 하위 클래스들은 명시적인 예외 처리를 강제합니다.
 
 # Checked Exception, Unchecked Exception
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## Checked Exception
-{: .notice--success .text-center}
+{: .notice--success}
 
 - 컴파일 시점에서 확인되는 예외로, 예외를 처리(try-catch 블록으로 감싸거나 throws 선언을 통해 예외를 위로 전파)하지 않으면 컴파일 오류가 발생합니다.
 - Exception 클래스를 상속받은 모든 예외 중에서 RuntimeException 클래스를 상속받지 않은 것들이 여기에 속합니다.
@@ -83,7 +77,7 @@ Object
 5. InterruptedException : 스레드가 interrupt 되었을 때 발생하는 예외를 처리하는데 사용됩니다.
 
 ## Unchecked Exception
-{: .notice--success .text-center}
+{: .notice--success}
 
 - 컴파일러가 예외 처리 여부를 확인하지 않는 예외로, 개발자의 부주의 또는 프로그램의 논리적 오류로 인해 발생합니다.
 - RuntimeException 클래스 및 그 하위 클래스들이 여기에 속합니다.
@@ -100,10 +94,10 @@ Object
 이 외에도 많은 예외 클래스들이 있으며, 각각 특정한 예외 상황에서 발생하는 문제를 다룹니다. 위에서 나열한 것은 일부 주요한 Exception 클래스들과 그 하위 예외들입니다.
 
 # Exception 사용 예시
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## try-catch, finally, printStackTrace()
-{: .notice--success .text-center}
+{: .notice--success}
 
 ```java
 public static void main(String[] args) {
@@ -148,7 +142,7 @@ public static int divide(int a, int b) {
 &nbsp;- 주로 디버깅이나 예외 정보를 기록할 때 사용됩니다.
 
 ## throw, throws
-{: .notice--success .text-center}
+{: .notice--success}
 
 1) throw :<br>
 &nbsp;- throw 키워드는 예외를 명시적으로 발생시킬 때 사용됩니다. 개발자가 직접 예외를 발생시키는 데 사용됩니다.
@@ -177,7 +171,7 @@ public static void processFile(String filename) throws FileNotFoundException {
 종합하면, throw는 예외를 발생시키는 데 사용되고, throws는 메소드에서 예외를 처리하지 않고 상위 호출자에게 예외를 전달할 때 사용됩니다.
 
 ## 사용자 정의 예외 클래스
-{: .notice--success .text-center}
+{: .notice--success}
 
 ```java
 // 사용자 정의 예외 클래스

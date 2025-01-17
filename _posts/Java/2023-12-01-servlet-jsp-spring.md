@@ -1,16 +1,10 @@
 ---
 title:  "Servlet,JSP & Spring"
-excerpt: "Servlet,JSP & Spring"
 categories: Java
-tag: [Servlet, JSP, Spring]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # Servlet
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 서블릿(Servlet)은 자바 언어를 기반으로 하는 서버 측 프로그래밍 기술 중 하나로, 주로 웹 애플리케이션 개발에 사용됩니다. 서블릿은 클라이언트의 요청에 대해 동적으로 서비스를 제공하고, 주로 웹 서버에서 실행됩니다. 아래는 서블릿에 대한 주요 특징과 개념에 대한 간략한 설명입니다.
 
@@ -29,7 +23,7 @@ toc_sticky: true
 - 웹 애플리케이션 배포: 서블릿은 WAR(웹 애플리케이션 아카이브) 파일 형태로 패키징되어 배포됩니다. WAR 파일은 여러 서블릿, JSP, 정적 자원 등을 포함하고 있으며, 이를 서블릿 컨테이너에 배포하여 실행할 수 있습니다.
 
 # JSP
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 JavaServer Pages(JSP)는 동적 웹 페이지를 개발하기 위한 기술로, 주로 웹 애플리케이션에서 사용됩니다. JSP는 HTML 코드 안에 자바 코드를 삽입하여 웹 페이지를 동적으로 생성할 수 있게 해주는 서버 측 기술입니다. 아래는 JSP에 대한 주요 특징과 개념에 대한 간략한 설명입니다.
 
@@ -92,7 +86,7 @@ JavaServer Pages(JSP)는 동적 웹 페이지를 개발하기 위한 기술로, 
 ```
 
 # Spring
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 Spring은 자바 기반의 오픈 소스 프레임워크로, 엔터프라이즈급 애플리케이션을 개발하기 위한 다양한 모듈과 기능을 제공합니다. Spring은 경량이면서도 강력한 제어 역전(IoC, Inversion of Control)과 의존성 주입(DI, Dependency Injection)을 중심으로 하는 디자인 패턴을 기반으로 합니다. Spring 프레임워크는 주로 서블릿(Servlet)과 JSP(JavaServer Pages)를 기반으로 한 웹 애플리케이션 개발을 위한 프레임워크입니다. Spring은 서블릿과 JSP의 기능을 보완하고 확장하여 개발자가 더 효과적으로 웹 애플리케이션을 구축할 수 있도록 도와줍니다. 아래는 Spring 프레임워크에 대한 주요 특징과 개념에 대한 간략한 설명입니다.
 

@@ -1,23 +1,17 @@
 ---
-title: "엑셀 기본"
-excerpt: "실무에서 필요한 엑셀 기본기"
+title: "실무에서 필요한 엑셀 기본"
 categories: Note
-tag: [Excel]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # 채우기
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 기준이 되는 셀을 선택하고 해당 셀 우측 하단 모서리에 커서를 올려 +폼으로 바꾼 뒤 드래그
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/Fill.png"/>
 
 # 메모
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 메모 삽입: 셀 우클릭 → 메모 삽입(숏컷: Shift + F2)
 - 메모 삭제: 메모 셀 우클릭 → 메모 삭제
@@ -26,14 +20,14 @@ toc_sticky: true
 - 전체 메모 삭제: Ctrl + Shift + O → 메모 셀 우클릭 → 메모 삭제
 
 # 세로 쓰기
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 홈 리본 메뉴 → 맞춤 → 방향 → 세로 쓰기
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/VerticalText.png"/>
 
 # 텍스트 조정
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 <details>
 <summary>Windows</summary>
@@ -62,7 +56,7 @@ toc_sticky: true
 </details>
 
 # 빠른 채우기
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 기준이 될 셀과 채울 셀을 선택 후 홈 리본 메뉴 → 채우기 → 빠른 채우기<br>
 (참조할 셀이 좌측에 위치해야 함)
@@ -70,14 +64,14 @@ toc_sticky: true
 <img src="/img/MS_Office/2023-07-12-excel-basic/AutoFill.png"/>
 
 # 내용 지우기와 삭제
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 내용 지우기는 삭제와 달리 서식이 남는다.
 
 <img src="/img/MS_Office/2023-07-12-excel-basic/Erase&Delete.png"/>
 
 # 틀 고정 기능
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 고정 할 열|행의 다음 열|행을 선택 후 → 보기 리본 메뉴 → 창 → 틀 고정 → 틀 고정<br>
 열&행을 동시에 선택할 경우 교차되는 셀을 선택 후 틀 고정
@@ -87,7 +81,7 @@ toc_sticky: true
 <img src="/img/MS_Office/2023-07-12-excel-basic/FixingMold2.png"/>
 
 # 조건부 서식
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## 특정 텍스트를 포함하는 셀만 서식 지정
 {: .notice--success}
@@ -99,7 +93,7 @@ toc_sticky: true
 <img src="/img/MS_Office/2023-07-12-excel-basic/AutoFormColor2.png"/>
 
 # 함수
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## =COUNTA(셀 범위)
 {: .notice--success}
@@ -217,7 +211,7 @@ toc_sticky: true
 <img src="/img/MS_Office/2023-07-12-excel-basic/INDEX+MATCH.png"/>
 
 # 빠른 실행 도구 모음
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 빠른 실행 도구 모음을 지정 후 Alt키를 통해 숏컷 사용
 
@@ -228,7 +222,7 @@ toc_sticky: true
 <img src="/img/MS_Office/2023-07-12-excel-basic/AltShortcut3.png"/>
 
 # 숏컷
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 - 셀 서식:
     + Windows: Ctrl + 1
@@ -263,7 +257,7 @@ toc_sticky: true
 - 백분율 서식: Ctrl + Shift + 5
 
 # 공유할 파일 저장 전 정리
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 시트를 열었을 때 좌측 최상단이 우선 보이도록, 파일을 열었을 때 첫 시트가 보이도록 정리하고 저장해 공유 받을 사람의 혼란을 줄여줄 수 있다.<br>
 1. Ctrl + PgDn 키를 꾹 눌러 마지막 시트로 이동

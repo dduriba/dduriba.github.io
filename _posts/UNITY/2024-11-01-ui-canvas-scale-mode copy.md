@@ -1,20 +1,15 @@
 ---
 title:  "캔버스 UI 스캐일 모드"
 categories: Unity
-tag: [ui]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # Constant Pixel Size
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 화면 사이즈와 상관없이 정해진 픽셀 사이즈를 유지
 
 # Scale With Screen Size*
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 제일 자주 사용하는 기본적인 모드로, 화면 사이즈에 비례해 UI 스캐일이 변함
 
@@ -29,6 +24,6 @@ toc_sticky: true
   + Shrink : UI 오브젝트가 화면 밖으로 벗어나면 영역을 줄임
 
 # Constant Physical Size
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 화면 사이즈와 상관없이 정해진 물리적인 사이즈를 유지

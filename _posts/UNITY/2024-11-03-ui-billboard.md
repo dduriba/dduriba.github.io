@@ -1,15 +1,10 @@
 ---
 title:  "Billboard UI"
 categories: Unity
-tag: [ui]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # 카메라를 바라보는 빌보드 UI
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 3D 일 때, 적들의 머리 위에 카메라를 바라보는 이름이나 체력 바를 만들려고 한다.<br>
 Canvas 오브젝트를 적 오브젝트 하위에 두고 

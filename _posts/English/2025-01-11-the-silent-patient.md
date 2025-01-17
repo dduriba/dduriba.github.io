@@ -1,10 +1,6 @@
 ---
 title: "Book 1. THE SILENT PATIENT"
 categories: English
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # A

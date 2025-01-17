@@ -1,16 +1,10 @@
 ---
 title: "Spring 세팅"
-excerpt: "Spring setting"
 categories: Spring
-tag: [setting]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # 0. 사용 도구
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 OpenJDK11U-jdk_x64_windows_hotspot_11.0.19_7<br>
 spring-tool-suite-3.9.20.CI-B2026-e4.22.0-win32-x86_64<br>
@@ -22,35 +16,35 @@ STS : 3.9.17<br>
 tomcat : 9(apache-tomcat-9.0.71) or 10
 
 # 1. OpenJDK 설치
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 [https://adoptium.net/temurin/releases/?version=11](https://adoptium.net/temurin/releases/?version=11)
 
 cmd창에서 java -version 명령어를 이용해 설치 확인
 
 # 2. spring-tool-suite 설치
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 IDE : eclipse
 
 # 3. lombok 설치
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## 방법 1.
-{: .notice--success .text-center}
+{: .notice--success}
 
 1. cmd창에서 lombok.jar 파일이 있는 경로로 이동해 java -jar lombok.jar 명령어 사용
 2. Specify location을 sts.exe로 설정 후 인스톨
 
 ## 방법 2.
-{: .notice--success .text-center}
+{: .notice--success}
 
 sts.ini 파일을 열어 끝에<br>
 -javaagent:경로\lombok.jar<br>
 기입(sts.exe와 같은 경로에 lombok.jar를 두는걸 추천)
 
 # 4. Spring 세팅
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 1. Servers 세팅
 - Servers의 디폴트 서버 삭제 후 톰캣으로 세팅(버전과 경로 설정)

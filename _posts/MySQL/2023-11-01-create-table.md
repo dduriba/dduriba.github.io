@@ -1,9 +1,7 @@
 ---
 title:  "테이블 생성"
-excerpt: "create table"
 categories: MySQL
-tag: [create, insert, into, values, data type, commit]
-classes: wide
+excerpt: "create, insert, into, values, data type, commit"
 ---
 
 ```sql

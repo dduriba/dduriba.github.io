@@ -1,22 +1,17 @@
 ---
 title:  "Inkscape에서 eps파일 열기"
 categories: Setup
-tag: [Inkscape]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # inkscape, ghostscript 다운로드
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 [inkscape](https://apps.microsoft.com/detail/9pd9bhglfc7h?hl=ko-kr&gl=KR)
 
 [ghostscript](https://www.ghostscript.com/releases/gsdnld.html)
 
 # 솔루션
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 1. 시스템 - 고급 시스템 설정(시스템 속성) - 고급 탭의 환경 변수창을 오픈
 

@@ -1,24 +1,20 @@
 ---
 title: "Graphic Text RPG Project"
 categories: BlackWall
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # 기본 시스템
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## 탐험
-{: .notice--success .text-center}
+{: .notice--success}
 
 - 칸 별로 나누어진 맵이 있으며 동서남북으로 이동
 
 - 이동 시 마다 카메라 셰이크 애니메이션, 발걸음 사운드 효과
 
 ## 레벨링
-{: .notice--success .text-center}
+{: .notice--success}
 
 - 로그라이크 형식
 

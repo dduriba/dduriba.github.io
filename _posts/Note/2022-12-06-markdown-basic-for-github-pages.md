@@ -1,16 +1,11 @@
 ---
 title:  "Github Pages운용을 위한 문법들"
-excerpt: "markdown, html등의 문법들을 알아봅시다."
 categories: Note
-tag: [Jekyll, Github Pages, Markdown, HTML]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
+excerpt: "Jekyll, Markdown, HTML"
 ---
 
 # 1.Header
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```md
 # H1
@@ -29,7 +24,7 @@ toc_sticky: true
 ###### H6
 
 # 2.Link
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```md
 [Google](https://google.com)
@@ -38,7 +33,7 @@ toc_sticky: true
 [Google](https://google.com)
 
 # 3.BlockQuote (인용 블록)
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```md
 > BlockQuote
@@ -49,7 +44,7 @@ toc_sticky: true
   >> BlockQuote
 
 # 4.Ordered List
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```md
 1. first
@@ -70,7 +65,7 @@ toc_sticky: true
 3. third
 
 # 5.Unordered List
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```md
 - unordered
@@ -85,7 +80,7 @@ toc_sticky: true
 - unordered
 
 # 6.Code Block
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## 6-1 Code Block
 {: .notice--success}
@@ -162,7 +157,7 @@ namespace HelloWorld
 ```
 
 # 7.Strikethrough (취소선)
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```
 ~~Strikethrough~~
@@ -171,7 +166,7 @@ namespace HelloWorld
 ~~Strikethrough~~
 
 # 8.Bold, Italic
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```md
 *Italic*
@@ -184,7 +179,7 @@ namespace HelloWorld
 ***Italic & Bold***
 
 # 9.Image
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <img src="/path/filename.png" style="zoom:50%;"/>
@@ -213,7 +208,7 @@ namespace HelloWorld
 <img src="/img/retriever/retrieverCheer.png" width="100%" height="100%">
 
 # 10.line-break (줄바꿈)
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 abcd<br>efg
@@ -222,7 +217,7 @@ abcd<br>efg
 abcd<br>efg
 
 # 11.line-split
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```
 한 줄의 공백을 두어
@@ -235,7 +230,7 @@ abcd<br>efg
 작성을 하면 된다.
 
 # 12.Underline (밑줄)
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <u>밑줄</u>
@@ -244,7 +239,7 @@ abcd<br>efg
 <u>밑줄</u>
 
 # 13.text color
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <span style="color:red">코드</span>
@@ -253,7 +248,7 @@ abcd<br>efg
 <span style="color:red">코드</span>
 
 # 14.Check box
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```md
 - [ ] 체크 안됨
@@ -264,7 +259,7 @@ abcd<br>efg
 - [X] 체크 됨
 
 # 15.dividing line (구분선)
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## 15-1 dividing line
 {: .notice--success}
@@ -285,7 +280,7 @@ abcd<br>efg
 ---
 
 # 16.Table
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```
 |첫번째 셸|두번째 셸|세번째 셸|
@@ -302,7 +297,7 @@ abcd<br>efg
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 
 # 17.Toggle List
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <details>
@@ -325,7 +320,7 @@ abcd<br>efg
 </details>
 
 # 18.Button
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```md
 [Google](https://google.com){: .btn}
@@ -348,7 +343,7 @@ abcd<br>efg
 [FROM THE TOP](#){: .btn .btn--light-outline}
 
 # 19.Youtube
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 `https://youtu.be/b3TOVBNSJDA?si=hyK0cokDO4uAdKnk`<br>
 `https://youtu.be/b3TOVBNSJDA`<br>
@@ -361,7 +356,7 @@ abcd<br>efg
 {% include video id="b3TOVBNSJDA" provider="youtube" %}
 
 # 20.Notice
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```
 공지
@@ -392,7 +387,7 @@ abcd<br>efg
 {: .notice--danger}
 
 # 21.Inline
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ~~~md
 이것은 `인라인` 사용법입니다.
@@ -401,13 +396,13 @@ abcd<br>efg
 이것은 `인라인` 사용법입니다.
 
 # 22.Text alignment
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```
 Left aligned text
 {: .text-left}
 Center aligned text.
-{: .text-center}
+{:}
 Right aligned text.
 {: .text-right}
 ```
@@ -415,6 +410,6 @@ Right aligned text.
 Left aligned text
 {: .text-left}
 Center aligned text.
-{: .text-center}
+{:}
 Right aligned text.
 {: .text-right}

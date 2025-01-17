@@ -1,9 +1,7 @@
 ---
 title:  "제약조건"
-excerpt: "constraint"
 categories: MySQL
-tag: [not null, unique, primary key, foreign key, check, default, auto_increment, references, restrict, set null, cascade]
-classes: wide
+excerpt: "not null, unique, primary key, foreign key, check, default, auto_increment, references, restrict, set null, cascade"
 ---
 
 ```sql

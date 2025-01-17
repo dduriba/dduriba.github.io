@@ -1,16 +1,10 @@
 ---
 title:  "java.lang.StringBuffer&Builder"
-excerpt: "java.lang.StringBuffer&Builder"
 categories: Java
-tag: [lang, StringBuffer, StringBuilder]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # append, insert, indexOf, delete, replace, compareTo, reverse, setCharAt, sebSequence
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 //- String

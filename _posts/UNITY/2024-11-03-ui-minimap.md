@@ -1,15 +1,10 @@
 ---
 title:  "미니맵"
 categories: Unity
-tag: [ui]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # 미니맵
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 매니저(빈 오브젝트)에 추가할 스크립트를 생성
 

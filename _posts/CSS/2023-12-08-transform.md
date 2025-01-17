@@ -1,16 +1,10 @@
 ---
-title:  "변형"
-excerpt: "transform"
+title:  "변형(Transform)"
 categories: CSS
-tag: [CSS, transform]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # 2차원 변형
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <style>
@@ -84,7 +78,7 @@ toc_sticky: true
 ```
 
 # 3차원 변형
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <style>
@@ -137,7 +131,7 @@ toc_sticky: true
 ```
 
 # transition
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <!-- transition: property duration timing-function delay; -->
@@ -195,7 +189,7 @@ toc_sticky: true
 ```
 
 # animation
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```html
 <style>

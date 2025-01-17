@@ -1,16 +1,10 @@
 ---
 title:  "java.lang.Object"
-excerpt: "java.lang.Object"
 categories: Java
-tag: [lang, Object]
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
 ---
 
 # toString, hashCode, equals, identityHashCode, clone, getClass
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ```java
 import java.lang.reflect.InvocationTargetException;
