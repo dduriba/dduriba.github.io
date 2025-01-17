@@ -10,28 +10,23 @@ main:
     url: /tags/
 
 docs:
-  - title: "BRICKS-C"
-    children:
-      - title: "SCA Course"
-        url: /categories/SCA
-        category: "SCA"
   - title: "BRICKS-G"
     children:
-      - title: "Unity"
-        url: /categories/Unity
-        category: "Unity"
       - title: "my-unity-docu"
         url: /categories/my-unity-docu
         category: "my-unity-docu"
-      - title: "Blender"
-        url: /categories/Blender
-        category: "Blender"
+      - title: "C#"
+        url: /categories/C#
+        category: "C#"
       - title: "GameMath"
         url: /categories/GameMath
         category: "GameMath"
-      - title: "CSharp"
-        url: /categories/CSharp
-        category: "CSharp"
+      - title: "Blender"
+        url: /categories/Blender
+        category: "Blender"
+      - title: "Unity"
+        url: /categories/Unity
+        category: "Unity"
       - title: "Setup"
         url: /categories/Setup
         category: "Setup"
@@ -52,26 +47,31 @@ docs:
       - title: "Spring"
         url: /categories/Spring
         category: "Spring"
-      - title: "DataStructure"
-        url: /categories/DataStructure
-        category: "DataStructure"
+      - title: "MySQL"
+        url: /categories/MySQL
+        category: "MySQL"
       - title: "Algorithm"
         url: /categories/Algorithm
         category: "Algorithm"
       - title: "DesignPattern"
         url: /categories/DesignPattern
         category: "DesignPattern"
-      - title: "MySQL"
-        url: /categories/MySQL
-        category: "MySQL"
+      - title: "DataStructure"
+        url: /categories/DataStructure
+        category: "DataStructure"
+  - title: "BRICKS-C"
+    children:
+      - title: "SCA Course"
+        url: /categories/SCA
+        category: "SCA"
+  - title: "BRICKS-1"
+    children:
       - title: "Note"
         url: /categories/Note
         category: "Note"
       - title: "Story"
         url: /categories/Story
         category: "Story"
-  - title: "BRICKS-1"
-    children:
       - title: "English"
         url: /categories/English
         category: "English"
