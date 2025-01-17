@@ -77,18 +77,21 @@
 
 .notice {
   @include notice($light-gray);
+  border-left: 5px solid #cbcbcb !important;
 }
 
 /* Primary notice */
 
 .notice--primary {
   @include notice($primary-color);
+  border-left: 5px solid #878787 !important;
 }
 
 /* Info notice */
 
 .notice--info {
   @include notice($info-color);
+  border-left: 5px solid #74c4ff !important;
 }
 
 /* Warning notice */
@@ -109,4 +112,5 @@
 
 .notice--danger {
   @include notice($danger-color);
+  border-left: 5px solid #ff8787 !important;
 }

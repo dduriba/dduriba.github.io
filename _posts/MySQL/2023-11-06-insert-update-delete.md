@@ -1,7 +1,7 @@
 ---
-title:  "공사중****Insert, Update, Delete****"
+title:  "Insert, Update, Delete"
 categories: MySQL
-excerpt: ""
+excerpt: "빈 페이지입니다"
 ---
 
 ```sql

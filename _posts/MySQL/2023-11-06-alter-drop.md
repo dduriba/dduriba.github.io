@@ -1,7 +1,7 @@
 ---
-title:  "공사중****Alter, Drop****"
+title:  "Alter, Drop"
 categories: MySQL
-excerpt: ""
+excerpt: "빈 페이지입니다"
 ---
 
 ```sql
