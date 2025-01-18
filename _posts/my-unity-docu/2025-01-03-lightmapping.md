@@ -1,5 +1,5 @@
 ---
-title: "Lightmapping"
+title: "Lightmapping(Baked Lighting)"
 categories: my-unity-docu
 tag: [최적화]
 ---
