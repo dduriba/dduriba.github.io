@@ -17,7 +17,7 @@ tag: [최적화]
 정적 게임오브젝트 설정
 {: .notice}
 
-조명의 영향을 받을 게임오브젝트들의 <span class="highlight-pencel-black">Static</span> 옵션에서 Contribute GI(Contribute Global Illumination)를 활성화 시켜줍니다.
+조명의 영향을 받을 정적 게임오브젝트들의 <span class="highlight-pencel-black">Static</span> 옵션에서 Contribute GI(Contribute Global Illumination)를 활성화 시켜줍니다.
 
 조명 게임오브젝트 설정
 {: .notice}
