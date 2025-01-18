@@ -1,5 +1,5 @@
 ---
-title: "게임 뷰에 FPS 표시하기"
+title: "FPS Display"
 categories: my-unity-docu
 ---
 
