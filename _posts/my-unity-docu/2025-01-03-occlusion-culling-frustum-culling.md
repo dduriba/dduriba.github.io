@@ -51,8 +51,8 @@ excerpt: "Occluder, Occludee, Dynamic Occlusion"
 베이크
 {: .notice}
 
-오클루전 창을 엽니다.(<span class="highlight-black">Window</span>→<span class="highlight-black">Rendering</span>→<span class="highlight-black">Occlusion Culling</span>)
-Bake탭→Bake
+오클루전 창을 열고(<span class="highlight-black">Window</span>→<span class="highlight-black">Rendering</span>→<span class="highlight-black">Occlusion Culling</span>)
+Bake탭→Bake로 베이크를 시작합니다.
 
 - [X] <span class="highlight-black">Bake 옵션</span> :
 
@@ -62,9 +62,11 @@ Bake탭→Bake
 
   + [ ] Backface Threshold : 백페이스를 제거할 임계값으로 값이 작을수록 더 많은 백페이스를 제거합니다. 기본값인 100은 데이터에서 영역을 제거하지 않습니다. 값을 낮추면 파일 크기가 작아지지만 시각적 결함이 발생할 수 있습니다.
 
-- Bake가 끝나면 프로젝트 창에 씬의 이름으로 폴더가 생성되고 안에 컬링 데이터가 생성됩니다.
-- 오클루전 컬링 창에서 Visualization을 선택하면 씬 뷰에서 오클루전 컬링 적용을 확인할 수 있습니다.
-- 게임 뷰의 Status 창에서 Batches와 Saved by batching의 수치가 줄어듦을 확인할 수 있습니다.
+Bake가 끝나면 프로젝트 창에 씬의 이름으로 폴더가 생성되고 안에 컬링 데이터가 생성됩니다.
+
+오클루전 컬링 창에서 Visualization을 선택하면 씬 뷰에서 오클루전 컬링 적용을 확인할 수 있습니다.
+
+게임 뷰의 Status 창에서 Batches와 Saved by batching의 수치가 줄어듦을 확인할 수 있습니다.
 
 # 프러스텀 컬링(Frustum Culling)
 {: .notice--warning}
