@@ -30,25 +30,25 @@ excerpt: "Occluder, Occludee, Dynamic Occlusion"
 
   + [ ] 동적 오클루전(Dynamic Occlusion) : 동적 게임오브젝트의 경우 오클루더에 의해 컬링 되려면 해당 Mesh Renderer 컴포넌트에서에서  <span class="highlight-pencel-black">Dynamic Occlusion</span>을 활성화 시켜야합니다.(동적 게임 오브젝트의 경우 오클루전 컬링 데이터에 베이크할 수 없으므로 동적 오클루전을 활성화해 오클루더가 해당 렌더러를 가릴 때 컬링할 수 있도록 해줍니다.) 오클루전 컬링을 사용해 동적 게임 오브젝트를 가릴 수 있으나 동적 게임오브젝트는 다른 게임오브젝트를 가릴 수 없습니다.(동적 게임 오브젝트는 오클루디가 될 수 있지만 오클루더는 될 수 없습니다.)
 
-오클루전 컬링 설정 방법
-{: .notice--success}
+<span class="pen-bold">오클루전 컬링 설정 방법</span>
+{: .notice--primary}
 
-카메라 설정
+<span class="pen-bold">카메라 설정</span>
 {: .notice}
 
 카메라 컴포넌트의 Occlusion Culling을 활성화 시켜줍니다.
 
-정적 게임오브젝트 설정
+<span class="pen-bold">정적 게임오브젝트 설정</span>
 {: .notice}
 
 적용할 정적 게임오브젝트들의 Static 옵션에서 Everything 또는 Occluder Static, Occludee Static을 선택합니다.(일반적으로 Everything을 사용합니다.)
 
-동적 게임오브젝트 설정
+<span class="pen-bold">동적 게임오브젝트 설정</span>
 {: .notice}
 
 적용할 동적 게임오브젝트들의 Mesh Renderer 컴포넌트에서 Dynamic Occlusion을 활성화 시켜줍니다.
 
-베이크
+<span class="pen-bold">베이크</span>
 {: .notice}
 
 오클루전 창을 열고(<span class="highlight-black">Window</span>→<span class="highlight-black">Rendering</span>→<span class="highlight-black">Occlusion Culling</span>)
