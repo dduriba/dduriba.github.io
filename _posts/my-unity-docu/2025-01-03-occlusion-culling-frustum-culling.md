@@ -28,7 +28,43 @@ excerpt: "Occluder, Occludee, Dynamic Occlusion"
 
   + [ ] 오클루디(Occludee) : 다른 게임오브젝트에 의해 가려지는 렌더러(정적 게임 오브젝트)
 
-  + [ ] 동적 오클루전(Dynamic Occlusion) : 동적 게임오브젝트의 경우 오클루더에 의해 컬링 되려면 렌더러에서 해당 <span class="highlight-pencel-black">플래그</span>를 활성화 시켜야합니다.(동적 게임 오브젝트의 경우 오클루전 컬링 데이터에 베이크할 수 없으므로 동적 오클루전 플래그를 활성화해 오클루더가 해당 렌더러를 가릴 때 컬링할 수 있도록 해줍니다.) 오클루전 컬링을 사용해 동적 게임 오브젝트를 가릴 수 있으나 동적 게임오브젝트는 다른 게임오브젝트를 가릴 수 없습니다.(동적 게임 오브젝트는 오클루디가 될 수 있지만 오클루더는 될 수 없습니다.)
+  + [ ] 동적 오클루전(Dynamic Occlusion) : 동적 게임오브젝트의 경우 오클루더에 의해 컬링 되려면 해당 Mesh Renderer 컴포넌트에서에서  <span class="highlight-pencel-black">Dynamic Occlusion</span>을 활성화 시켜야합니다.(동적 게임 오브젝트의 경우 오클루전 컬링 데이터에 베이크할 수 없으므로 동적 오클루전을 활성화해 오클루더가 해당 렌더러를 가릴 때 컬링할 수 있도록 해줍니다.) 오클루전 컬링을 사용해 동적 게임 오브젝트를 가릴 수 있으나 동적 게임오브젝트는 다른 게임오브젝트를 가릴 수 없습니다.(동적 게임 오브젝트는 오클루디가 될 수 있지만 오클루더는 될 수 없습니다.)
+
+오클루전 컬링 설정 방법
+{: .notice--success}
+
+카메라 설정
+{: .notice}
+
+카메라 컴포넌트의 Occlusion Culling을 활성화 시켜줍니다.
+
+정적 게임오브젝트 설정
+{: .notice}
+
+적용할 정적 게임오브젝트들의 Static 옵션에서 Everything 또는 Occluder Static, Occludee Static을 선택합니다.(일반적으로 Everything을 사용합니다.)
+
+동적 게임오브젝트 설정
+{: .notice}
+
+적용할 동적 게임오브젝트들의 Mesh Renderer 컴포넌트에서 Dynamic Occlusion을 활성화 시켜줍니다.
+
+베이크
+{: .notice}
+
+오클루전 창을 엽니다.(<span class="highlight-black">Window</span>→<span class="highlight-black">Rendering</span>→<span class="highlight-black">Occlusion Culling</span>)
+Bake탭→Bake
+
+- [X] <span class="highlight-black">Bake 옵션</span> :
+
+  + [ ] Smallet Occluder : 오브젝트를 Occluder로 인식할 게임 오브젝트의 최소 크기(M단위)로 이 값보다 작은 크기를 가지는 게임오브젝트는 다른 게임오브젝트를 가리지 않는다고 판단합니다. 값이 작을수록 컬링 정밀도는 올라가지만 데이터 크기가 늘어나고 오버헤드가 발생할 수 있습니다.
+
+  + [ ] Smallet Hole : 카메라가 지오메트리 사이의 빈 공간으로 인식할 최소 거리(카메라가 들여다 볼 수 있는 가장 작은 직경(M단위))로 오브젝트들이 촘촘하게 배치되어 있을수록 더 작은 값을 설정해야 합니다.
+
+  + [ ] Backface Threshold : 백페이스를 제거할 임계값으로 값이 작을수록 더 많은 백페이스를 제거합니다. 기본값인 100은 데이터에서 영역을 제거하지 않습니다. 값을 낮추면 파일 크기가 작아지지만 시각적 결함이 발생할 수 있습니다.
+
+- Bake가 끝나면 프로젝트 창에 씬의 이름으로 폴더가 생성되고 안에 컬링 데이터가 생성됩니다.
+- 오클루전 컬링 창에서 Visualization을 선택하면 씬 뷰에서 오클루전 컬링 적용을 확인할 수 있습니다.
+- 게임 뷰의 Status 창에서 Batches와 Saved by batching의 수치가 줄어듦을 확인할 수 있습니다.
 
 # 프러스텀 컬링(Frustum Culling)
 {: .notice--warning}
