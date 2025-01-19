@@ -2,6 +2,7 @@
 title: "Lightmapping(Baked Lighting)"
 categories: my-unity-docu
 tag: [최적화]
+excerpt: "Contribute GI"
 ---
 
 <span style="color:gray">unity version 2022.3.7f1</span>
@@ -27,7 +28,7 @@ tag: [최적화]
 라이팅 창 설정
 {: .notice}
 
-Lighting 창(<span class="highlight-black">Window</span>→<span class="highlight-black">Rendering</span>→<span class="highlight-black">Lighting</span>)을 열어 Scene탭의 Mixed Lighting의 <span class="highlight-pencel-black">Baked Global Illumination</span>을 활성화 시켜줍니다.
+Lighting 창(<span class="highlight-black">Window</span>→<span class="highlight-black">Rendering</span>→<span class="highlight-black">Lighting</span>)을 열어 Scene 탭의 Mixed Lighting 토글을 열어 <span class="highlight-pencel-black">Baked Global Illumination</span>을 활성화 시켜줍니다.
 
 라이트맵 생성
 {: .notice}

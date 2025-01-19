@@ -1,6 +1,7 @@
 ---
 title: "FPS Display"
 categories: my-unity-docu
+excerpt: "OnGUI"
 ---
 
 # FPS Display
