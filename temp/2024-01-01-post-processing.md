@@ -1,4 +1,4 @@
----
+<!-- ---
 title:  "포스트 프로세싱"
 categories: Unity
 ---
@@ -29,5 +29,5 @@ Is Global을 True로, Profile을 New로 생성해준다.<br>
 이제 Add effect...를 통해 원하는 포스트 프로세싱 기능을 사용할 수 있다.
 
 <img src="/img/Unity/post-processing-1.PNG"/>
-<img src="/img/Unity/post-processing-2.PNG"/>
+<img src="/img/Unity/post-processing-2.PNG"/> -->
 
