@@ -18,21 +18,21 @@ categories: my-unity-docu
 유저 레이어 추가
 {: .notice}
 
-적용할 카메라 오브젝트에서 Layer→Add Layer...→Layers 토글을 열어 유저 레이어를 추가해주고(본문에선 레이어 이름을 "PostProcessing"으로 사용했습니다.) 카메라 오브젝트의 레이어를 만들어 준 유저 레이어로 적용합니다.
+적용할 카메라 오브젝트에서 <span class="highlight-black">Layer</span>→<span class="highlight-black">Add Layer...</span>→Layers 토글을 열어 <span class="highlight-pencel-black">유저 레이어를 추가</span>해주고(본문에선 유저 레이어 명을 "PostProcessing"으로 사용했습니다.) 카메라 오브젝트의 레이어에 만들어 준 <span class="highlight-pencel-black">유저 레이어를 적용</span>합니다.
 
 Post-process Layer 추가
 {: .notice}
 
-카메라 오브젝트에 Post-process Layer 컴포넌트를 추가해 Volume blending→Layer에 만들어 준 유저 레이어를 적용합니다.
+카메라 오브젝트에 <span class="highlight-pencel-black">Post-process Layer</span> 컴포넌트를 추가해 <span class="highlight-black">Volume blending</span>→Layer에 만들어 준 <span class="highlight-pencel-black">유저 레이어를 적용</span>합니다.
 
 Post-process Volume 추가
 {: .notice}
 
-카메라 오브젝트에 Post-process Volume 컴포넌트를 추가
+카메라 오브젝트에 <span class="highlight-pencel-black">Post-process Volume</span> 컴포넌트를 추가
 
-- [X] Is Global = true
+- [X] <span class="highlight-black">Is Global</span> = true
 
-- [X] Profile = New로 새로운 프로파일을 만들어 Add effect→Unity에서 필요한 효과를 추가합니다.(여러 개의 프로파일을 만들어 상황 마다 다른 포스트 프로세싱을 사용할 수 있습니다.)
+- [X] <span class="highlight-black">Profile</span> = New로 새로운 프로파일을 만들어 <span class="highlight-black">Add effect</span>→<span class="highlight-black">Unity</span>에서 필요한 효과를 추가합니다.(여러 개의 프로파일을 만들어 상황 마다 다른 포스트 프로세싱을 사용할 수 있습니다.)
 
 ## Ambient Occlusion
 {: .notice--success}
@@ -49,9 +49,9 @@ Post-process Volume 추가
 
 <img src="/img/my-unity-docu/Ambient-Occlusion-On.png"/>
 
-- [ ] Intensity = 1
+- [ ] <span class="highlight-black">Intensity</span> = 1
 
-- [ ] Thickness Modifier = 2
+- [ ] <span class="highlight-black">Thickness Modifier</span> = 2
 
 ## Bloom
 {: .notice--success}
@@ -68,13 +68,13 @@ Post-process Volume 추가
 
 <img src="/img/my-unity-docu/Bloom-On.png"/>
 
-- [ ] Intensity = 5
+- [ ] <span class="highlight-black">Intensity</span> = 5
 
-- [ ] Threshold = 0.9
+- [ ] <span class="highlight-black">Threshold</span> = 0.9
 
-- [ ] Soft Knee = 0.3
+- [ ] <span class="highlight-black">Soft Knee</span> = 0.3
 
-- [ ] Diffusion = 8
+- [ ] <span class="highlight-black">Diffusion</span> = 8
 
 ## Color Grading
 {: .notice--success}
@@ -91,12 +91,12 @@ Post-process Volume 추가
 
 <img src="/img/my-unity-docu/Color-Grading-On.png"/>
 
-- [ ] Tonemapping→Mode = ACES
+- [ ] <span class="highlight-black">Tonemapping</span>→<span class="highlight-black">Mode</span> = ACES
 
 ## Grain
 {: .notice--success}
 
-화면에 노이즈를 만들어 옛날 필름 느낌을 줍니다.(공포 게임이나 게임 내 캠코더 등에 사용합니다.)
+화면에 노이즈를 만들어 옛날 필름 느낌을 줍니다.(공포 장르나 게임 내 캠코더 등에 사용합니다.)
 
 적용 전
 {: .notice--primary}
@@ -108,13 +108,13 @@ Post-process Volume 추가
 
 <img src="/img/my-unity-docu/Grain-On.png"/>
 
-- [ ] Colored = true
+- [ ] <span class="highlight-black">Colored</span> = true
 
-- [ ] Intensity = 1
+- [ ] <span class="highlight-black">Intensity</span> = 1
 
-- [ ] Size = 3
+- [ ] <span class="highlight-black">Size</span> = 3
 
-- [ ] Luminance Contribution = 1
+- [ ] <span class="highlight-black">Luminance Contribution</span> = 1
 
 ## Vignette
 {: .notice--success}
@@ -131,16 +131,16 @@ Post-process Volume 추가
 
 <img src="/img/my-unity-docu/Vignette-On.png"/>
 
-- [ ] Mode = Classic
+- [ ] <span class="highlight-black">Mode</span> = Classic
 
-- [ ] Color = Black
+- [ ] <span class="highlight-black">Color</span> = Black
 
-- [ ] Center x = 0.5, y = 0.5
+- [ ] <span class="highlight-black">Center</span> = 0.5(x), 0.5(y)
 
-- [ ] Intensity = 0.6
+- [ ] <span class="highlight-black">Intensity</span> = 0.6
 
-- [ ] Smoothness = 1
+- [ ] <span class="highlight-black">Smoothness</span> = 1
 
-- [ ] Roundness = 1
+- [ ] <span class="highlight-black">Roundness</span> = 1
 
-- [ ] Rounded = true
+- [ ] <span class="highlight-black">Rounded</span> = true
