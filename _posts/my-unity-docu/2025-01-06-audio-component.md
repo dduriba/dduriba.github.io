@@ -106,8 +106,10 @@ excerpt: "Audio Listener, Audio Source"
 
 <img src="/img/my-unity-docu/VolumeRolloffGraph.png"/>
 
-<span class="highlight-black">Volume Rolloff Graph</span>
+<span class="highlight-black">사진 1. Volume Rolloff Graph</span>
+
+---
 
 <img src="/img/my-unity-docu/VolumeRolloffDistance.png"/>
 
-<span class="highlight-black">씬 뷰에서 선으로 이루어진 구를 통해 Min/Max Distance를 확인할 수 있습니다.</span>
+<span class="highlight-black">사진 2. 씬 뷰에서 선으로 이루어진 구를 통해 Min/Max Distance를 확인할 수 있습니다.</span>
