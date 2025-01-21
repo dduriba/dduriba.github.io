@@ -11,7 +11,7 @@ categories: English
 # B
 {: .notice--warning .text-center}
 
-- [X] bear
+- [X] bear bέər
 
 I can't **bear** the thought of him worrying about me
 
@@ -21,10 +21,18 @@ I can't **bear** the thought of him worrying about me
 
 ---
 
+- [X] betrayal bɪˈtreɪəl
+
+**betrayal** oozes out of him at every pore
+
+1. 배반, 배신; 밀고; 내통; 폭로, 탄로
+
+---
+
 # C
 {: .notice--warning .text-center}
 
-- [X] chore
+- [X] chore tʃɔː(r)
 
 if it becomes **chore**
 
@@ -32,10 +40,19 @@ if it becomes **chore**
 
 ---
 
+- [X] convince kənˈvɪns
+
+**convince** himself that no mortal can keep a secret
+
+1. 확신시키다, 납득시키다, 수긍하게 하다
+2. <남에게 …하도록> 설득하다
+
+---
+
 # D
 {: .notice--warning .text-center}
 
-- [X] distress
+- [X] distress dɪˈstres
 
 I don't ever want to cause him any **distress** or make him unhappy or cause him pain
 
@@ -67,7 +84,7 @@ I don't ever want to cause him any **distress** or make him unhappy or cause him
 # I
 {: .notice--warning .text-center}
 
-- [X] iceberg
+- [X] iceberg │aɪsbɜːrɡ
 
 the tip of an **iceberg**
 
@@ -93,12 +110,19 @@ the tip of an **iceberg**
 # M
 {: .notice--warning .text-center}
 
-- [X]
+- [X] mortal ˈmɔːrtl
+
+convince himself that no **mortal** can keep a secret
+
+1. 죽어야 할 운명의, 필멸의
+2. 치명적인; 죽음에 관한, 임종의
+
+---
 
 # N
 {: .notice--warning .text-center}
 
-- [X] nag
+- [X] nag nǽɡ
 
 He kept **nagging** me
 
@@ -107,7 +131,7 @@ He kept **nagging** me
 # O
 {: .notice--warning .text-center}
 
-- [X] occasionally
+- [X] occasionally əˈkeɪʒnəli
 
 An unnamed something that I **occasionally** write in
 
@@ -115,7 +139,7 @@ An unnamed something that I **occasionally** write in
 
 ---
 
-- [X] outlet
+- [X] outlet ˈaʊtlet
 
 an **outlet**, a space to express myself. A bit like therapy
 
@@ -123,7 +147,7 @@ an **outlet**, a space to express myself. A bit like therapy
 
 ---
 
-- [X] overwhelm
+- [X] overwhelm │oʊvər│welm
 
 sometimes it threatens to **overwhelm** me
 
@@ -132,14 +156,32 @@ sometimes it threatens to **overwhelm** me
 
 ---
 
+- [X] oozes úːz
+
+betrayal **oozes** out of him at every pore
+
+1. 스며나오다, 새어나오다
+2. <군중 등이> 서서히 나아가다
+
+---
+
 # P
 {: .notice--warning .text-center}
 
-- [X] provide
+- [X] provide prəˈvaɪd
 
 I feel better already-writing this down is **providing** a kind of release
 
 1. 제공(공급)하다, 주다, 규정하다
+
+---
+
+- [X] pore pɔː(r)
+
+betrayal oozes out of him at every **pore**
+
+1. 털구멍, (잎의) 기공; 작은 구멍
+2. (암석 등의) 세공, 흡수공
 
 ---
 
@@ -151,7 +193,7 @@ I feel better already-writing this down is **providing** a kind of release
 # R
 {: .notice--warning .text-center}
 
-- [X] reassure
+- [X] reassure │riːə│ʃʊr
 
 I agreed to keep this diary was to **reassure** him-prove that I'm okay
 
@@ -167,7 +209,7 @@ I agreed to keep this diary was to **reassure** him-prove that I'm okay
 # T
 {: .notice--warning .text-center}
 
-- [X] threaten
+- [X] threaten ˈθretn
 
 sometimes it **threatens** to overwhelm me
 
@@ -189,7 +231,7 @@ sometimes it **threatens** to overwhelm me
 # W
 {: .notice--warning .text-center}
 
-- [X] wade
+- [X] wade weɪd
 
 + I feel like I'm **wading** through mud
 
