@@ -14,50 +14,50 @@ excerpt: "Component"
 # Audio Source
 {: .notice--warning}
 
-AudioClip
-{: .notice--primary}
+## AudioClip
+{: .notice--success}
 
-Output
-{: .notice--primary}
+## Output
+{: .notice--success}
 
-Mute
-{: .notice--primary}
+## Mute
+{: .notice--success}
 
-Bypass Effects
-{: .notice--primary}
+## Bypass Effects
+{: .notice--success}
 
-Bypass Listener Effects
-{: .notice--primary}
+## Bypass Listener Effects
+{: .notice--success}
 
-Bypass Reverb Zones
-{: .notice--primary}
+## Bypass Reverb Zones
+{: .notice--success}
 
-Play On Awake
-{: .notice--primary}
+## Play On Awake
+{: .notice--success}
 
-Loop
-{: .notice--primary}
+## Loop
+{: .notice--success}
 
-Priority
-{: .notice--primary}
+## Priority
+{: .notice--success}
 
-Volume
-{: .notice--primary}
+## Volume
+{: .notice--success}
 
-Pitch
-{: .notice--primary}
+## Pitch
+{: .notice--success}
 
-Stereo Pan
-{: .notice--primary}
+## Stereo Pan
+{: .notice--success}
 
-Spatial Blend
-{: .notice--primary}
+## Spatial Blend
+{: .notice--success}
 
-Reverb Zone Mix
-{: .notice--primary}
+## Reverb Zone Mix
+{: .notice--success}
 
-3D Sound Settings
-{: .notice--primary}
+## 3D Sound Settings
+{: .notice--success}
 
 - [X] Doppler Level : 
 
