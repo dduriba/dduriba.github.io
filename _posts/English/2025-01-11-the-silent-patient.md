@@ -1,5 +1,5 @@
 ---
-title: "Book 1. THE SILENT PATIENT"
+title: "Book 1. T*E S****T P*****T"
 categories: English
 ---
 
