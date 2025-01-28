@@ -1,5 +1,5 @@
 ---
-title: "Book 1. T*E S****T P*****T"
+title: "Book 1. T_E S____T P_____T"
 categories: English
 ---
 
