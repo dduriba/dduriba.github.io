@@ -49,7 +49,6 @@ categories: English
 ## The Unification War... for Gonks!
 {: .notice--success}
 
-```
 *The Unification War is the most recent armed conflict to take place in North America since the Collapse, lasting from January 2069 to June 2070.
 
 *Although the Unification War is formally recognized as a war between the New United States of America (NUSA) and the governments of the Free States, most scholars also classify the conflict as a corporate war. It is well known that the NUSA was backed by Militech hardware, personnel and other resources, whereas the Free States received the significant yet tacit support of the Arasaka Corporation.
@@ -63,7 +62,6 @@ categories: English
 *The Unification War ended when all parties signed the Treaty of Unification in Arvin, South California. Both sides claimed victory: the Free States emphasizing that they had preserved their independence, and the NUSA boasting that they were closer than ever to reunifying a divided American people.
 
 *The end of the Unification War, however, was not an end to the conflict at large. The leading AI analytics software predicts another hot war will likely break out by 2080 (74% confidence).
-```
 
 # Cyberpsycho
 {: .notice--warning .text-center}
