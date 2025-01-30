@@ -6,9 +6,9 @@ categories: English
 # THE RESCUE
 {: .notice--warning .text-center}
 
-- [X] <span class="highlight-black">FIXER</span> : Wakako Okada
+<span class="highlight-pencel-mint">FIXER</span> <span class="pen-blue">Wakako Okada</span>
 
-- [X] <span class="highlight-black">CLIENT</span> : Sandra Dorsett
+<span class="highlight-pencel-mint">CLIENT</span> <span class="pen-red">Sandra Dorsett</span>
 
 ## FRESH MEAT
 {: .notice--success}
