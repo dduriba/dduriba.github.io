@@ -13,9 +13,9 @@ categories: English
 ## FRESH MEAT
 {: .notice--success}
 
-From: your favorite supplier
+<span class="highlight-pencel-black">From: your favorite supplier</span>
 
-To: Gomp
+<span class="highlight-pencel-black">To: Gomp</span>
 
 we won't forget
 
@@ -49,3 +49,9 @@ Militech lock-on sights (wonder where this gonk got it)
 Arasaka hormone regulator NO BIO-SIGNATURE
 
 and some other little curiosities - optics actuator and cosmetic RealSkinn
+
+# PC - Viktor Vektor
+{: .notice--warning .text-center}
+
+# Misty's Computer
+{: .notice--warning .text-center}
