@@ -206,6 +206,14 @@ Taka - hawk. As symbolic as the dove is, so, too, is the hawk. This faction, hea
 
 * You can learn more about Arasaka family genealogy from the eight-book series "Two Centuries in the Clover's Shadow." Available in stores soon.
 
+## STORM ON THE MARE CRISIUM
+{: .notice--success}
+
+By now we're all avid viewers of the reality TV show that is orbital politics. 
+Except this is real life, and what happens up there could have real consequences for all of us down here. Recently everyone's been talking about the attack on Ursula Correira, resulting in the complete loss of control in the lower half of her body. The media has been endlessly replaying remarks made by Correira's younger brother, Vagner, while also discussing the latest outfit worn by Yara Ayoade to the official press conference where she denied rumors that Correira's family had any hand in her "accident."
+
+I don't know about all of you, but with each passing day, the saying "What happens in orbit, stays in orbit" is starting to sound like dangerously wishful thinking.
+
 # Leaflets
 {: .notice--warning .text-center}
 
@@ -218,11 +226,11 @@ Need to be on time for an important meeting? Don't want your valuable tech to fa
 With Delamain, you leave your problems at the door. Our corporate transport service has a fleet of over 20 ARMORED CARS ready and waiting to bring you to your destination in comfort and security.
 
 We guarantee: 
-> secure transport for individuals and packages in the Night City area; 
-> quality that goes hand in hand with speed; 
-> professional customer servers; 
-> specifications to suit even the most demanding clients; 
-> discounts for loyal customers.
+- secure transport for individuals and packages in the Night City area; 
+- quality that goes hand in hand with speed; 
+- professional customer servers; 
+- specifications to suit even the most demanding clients; 
+- discounts for loyal customers.
 
 They say that most accidents happen in the home. They're wrong. Did you know that over 82% of crimes and accidents happen on the streets? Thanks to Delamain, you'll never have to worry about statistics again. Our clients' comfort and security is our #1 priority.
 
@@ -812,6 +820,28 @@ Yet, as is usually the case with corporate conflicts, the onset proved subtle: A
 
 Military clashes between Militech and Arasaka were notoriously bloody, brutal and without mercy, they waged their most damaging campaigns on the Net. Arasaka and Militech netrunners launched attacks with the help of viruses that were often highly experimental. What's more, they created lethal ICE measures and AI-like programs that could lurk in dark corners of the Net for long periods to make strikes at the most opportune times. 
 By the second half of 2022, Arasaka and Militech entered the final phase of the conflict where both sides used every resource and strategy at their disposal. The Hot War had begun. Around this time, the Net that the world had known for years ceased to exist, and mercenaries hired by both corporations were slaughtered in open warfare fought with the cutting-edge weapons technology. Then, in the War's most shocking and iconic turning point, the coup de grâce came when an unknown group of mercenaries denoted a nuclear device at Arasaka's Night City headquarters. Shortly after the blast, bowing under increased pressure from the Japanese government, Arasaka laid down its arms and withdrew from many of its strategic positions, but most notably in Night City. Victory belonged to Militech, but it came at a heavy cost. (...)
+
+## LAT-AM WARS
+{: .notice--success}
+
+As a direct result of the armed conflicts on U.S. soil from the early 1990s until the early 2000s, Latin America (comprising South and Central America) remodeled itself into a strong federation of independent nations, bound through mutual aid and cooperation.
+The U.S.'s military presence was forced from Latin American territories with the exception of Panama, where it stood its ground despite fierce pressure from guerilla forces.
+
+Many researchers and contemporary historians maintain that, in fact, the Lat-Am Wars were responsible for the U.S.'s eventual collapse, breaking up the Gang of Four (CIA, FBI, DEA and NSA) and decimating the U.S. Army. However, it's important to bear in mind that no external conflict could have toppled the colossus of American imperialism were it not already built on clay foundations.
+
+## PROTEIN FARMS: A REPORT
+{: .notice--success}
+
+Protein farms are currently the source of most meat and meat-substitute products in Night City. Biotechnica is the clear industry leader, providing for over half of the city's demand for alternative protein. Currently, the most popular, albeit cost-intensive form of production is based on protein-rich crickets, which allow producers to achieve the highest-quality protein. Earthworms are available as a cheaper alternative, achieving a higher yield of product per square meter. However, worms pose a more difficult marketing challenge - while crickets have become acceptable, most consumers still bristle at being told to "go eat worms."
+
+## AVIAN EXTERMINATION ACT
+{: .notice--success}
+
+The AEA was adopted by the Night City Council on May 04, 2063.
+
+Purpose: In the face of increasingly frequent and deadly zoonotic disease outbreaks, the City Council has decided that the most effective method for reducing the risk of infection among residents is via the extermination of all avian life within 18 miles of city limits (See Fig.1)
+
+The extermination process will begin on May 07, 2063 once the call and selection of tenders for the contract have been completed (See Annex 2).
 
 # Cyberpsycho
 {: .notice--warning .text-center}
