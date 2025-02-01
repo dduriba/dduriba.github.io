@@ -485,6 +485,20 @@ Con: I'll have to consistently scroll the dreams of a dozen/couple dozen people 
 Pro: it'd be nova 
 Con: tech for it doesn't exist
 
+## CERTIFICATE
+{: .notice--success}
+
+CERTIFICATE OF PARTICIPATION 
+Presented to: 
+VIKTOR VEKTOR 
+Second Place 
+Heavyweight Class 
+4th OPEN FINALS 
+WATSON BOXING GRAND PRIX 
+Harriet Boehner, Organizer
+Keeshan Roberts, NCBA President
+April 3, 2061
+
 # Other
 {: .notice--warning .text-center}
 
