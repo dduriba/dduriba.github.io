@@ -10,12 +10,16 @@ categories: English
 
 <span class="highlight-pencel-mint">CLIENT</span> <span class="pen-red">Sandra Dorsett</span>
 
+산드라 도셋 구출 미션 중 스캐빈저 소굴의 컴퓨터 메시지
+
 ## FRESH MEAT
 {: .notice--success}
 
-<span class="highlight-pencel-black">From: your favorite supplier</span>
+- [ ] <span class="pen-bold">From: your favorite supplier</span>
 
-<span class="highlight-pencel-black">To: Gomp</span>
+- [ ] <span class="pen-bold">To: Gomp</span>
+
+---
 
 we won't forget
 
@@ -36,9 +40,11 @@ That's not an empty threat. Try me. motherfuckers.
 ## TOYS
 {: .notice--success}
 
-From: Gomp
+- [ ] <span class="pen-bold">From: Gomp</span>
 
-To: Artyom
+- [ ] <span class="pen-bold">To: Artyom</span>
+
+---
 
 got a lot of good stuff...
 
@@ -53,5 +59,5 @@ and some other little curiosities - optics actuator and cosmetic RealSkinn
 # PC - Viktor Vektor
 {: .notice--warning .text-center}
 
-# Misty's Computer
+# PC - Misty Olszewski
 {: .notice--warning .text-center}
