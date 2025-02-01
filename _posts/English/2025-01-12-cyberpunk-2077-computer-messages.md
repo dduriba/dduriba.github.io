@@ -132,5 +132,15 @@ Items go fast so buy now! Continue following us for the latest and best deals!
 
 ---
 
-**** !!! DANGER PROWLS NIGHT CITY !!! ****
++++ !!! DANGER PROWLS NIGHT CITY !!! +++
+
+Got a stalker on your tail? Hired iron out for your blood? Some freak giving you crooked looks and bad vibes? Or maybe you're just looking to pad your personal security?
+
+!!! THE ANIMALS GOT YOUR BACK !!!
+
+"Survival of the fittest" - it's the only law that matters in Night City. You hire us, we show your enemies just what that means. We'll protect you, your home, your workplace, your property - hell, we're even happy to knock on a few doors if necessary.
+
+(งಠ益ಠ)ง Become king of the jungle! Choose the ANIMALS! 
+
+(งಠ益ಠ)ง
 

@@ -179,11 +179,74 @@ Do you have what it takes? Apply today.
 
 Lizzy Wizzy is an artist par excellence. Her work includes award-winning albums and concert tours, film appearances as well as (for lack of a better term) conceptual performance art. Her latest artistic obsession features the medium of braindance. In recent interviews, Lizzy has mused about the boundary between our documentation of reality versus our active shaping of it. Could that mean Lizzy Wizzy plans to scroll her own BD? We can only dream! The chance to live just one day in her chrome skin... Fans would go wild!
 
+## WHAT REALLY HAPPENED IN ARASAKA TOWER?
+{: .notice--success}
+
+(...) If Militech was behind the assault on Arasaka Tower in 2023, and if there's actual EVIDENCE to support that, then why didn't Arasaka return the favor and nuke Militech?
+
+By now there's no doubt the bomb was manufactured by Militech, but that doesn't mean they detonated it. I confess, I'm not a huge fan of the popular theory that Johnny Silverhand, the controversial rockerboy, was behind the whole thing. In fact, I'm not really a Silverhand fan, period. Silverhand was a poser and a blowhard - not someone who would actually follow through on his grandiose bluffs (full disclosure, I just don't think Silverhand would have the balls to pull off something like that).
+
+Let's think this through - who hates corporations the most?
+
+Nomads, obviously. Remember that mass-market BD called "Badlands Raid" from the 20s about a band of nomads who attack a Militech convoy? Well, guess when it premiered? That's right - on the night of the attack. Coincidence? I think not.
+
+Yes, yes, there's a Silverhand cameo in there somewhere, but that's just a marketing ploy - a BD scrolled by a bunch of cactus-huggers wouldn't sell for an enny without a recognizable face. But I'm more intrigued by the main actress - how is it she didn't star in any other production despite "Badlands Raid's" huge sales? Where was she during the attack?
+
+## ARASAKA AND ORNITHOLOGY: THREE JAPANESE WORDS TO KNOW
+{: .notice--success}
+
+As conversations over factionalism within Arasaka heat up, many industry insiders wonder about the company's future trajectory. If you struggle to understand the complicated inner machinations of the world's largest arms manufacturer, look no further than the obscure science of ornithology. Yes, that's right; the study of birds can help. At least, in a sense. There are three Japanese words every corporate player ought to be familiar with: kiji, hato, and taka.
+
+Kiji - green pheasant. This bird has long held cultural and symbolic significance in Japan. One can admire the world's last living specimens at Hanako Arasaka's private preserve on the island of Shikoku. But the word "kiji" also bears meaning among the factional identities within Arasaka. This group, with Hanako at its center, consists primarily of conservative technocrats who wish to follow the course set by Saburo Arasaka himself.
+In his daughter, Hanako, they see a guiding force to maintain the old order and stability within the corporation..
+
+Hato - dove. The symbolism of the dove is recognized far and wide. The symbol also aptly captures the character of the a much smaller faction within the company led by Michiko Arasaka, daughter of the late Kei and niece to Hanako.* This liberal wing of the corporation has unified those who seek deeper reforms. Although they currently hold little influence, they enjoy growing support popularity among some politicians and media personalities.
+
+Taka - hawk. As symbolic as the dove is, so, too, is the hawk. This faction, headed by Yorinobu Arasaka, often prefers to take the most direct and uncompromising solutions. Both stubborn and temperamental, he resembles Saburo which has given him wide support among the more militant-minded Arasaka Corp. elite. However, his more pro-Western inclinations and ideas that are innovative as they are controversial have weakened his support from the Board's loyal traditionalists.
+
+* You can learn more about Arasaka family genealogy from the eight-book series "Two Centuries in the Clover's Shadow." Available in stores soon.
+
 # Leaflets
 {: .notice--warning .text-center}
 
-## 
+## DELAMAIN - TRANSPORT SERVICES
 {: .notice--success}
+
+DELAMAIN
+
+Need to be on time for an important meeting? Don't want your valuable tech to fall into the wrong hands? Or maybe you just don't like crowds? 
+With Delamain, you leave your problems at the door. Our corporate transport service has a fleet of over 20 ARMORED CARS ready and waiting to bring you to your destination in comfort and security.
+
+We guarantee: 
+> secure transport for individuals and packages in the Night City area; 
+> quality that goes hand in hand with speed; 
+> professional customer servers; 
+> specifications to suit even the most demanding clients; 
+> discounts for loyal customers.
+
+They say that most accidents happen in the home. They're wrong. Did you know that over 82% of crimes and accidents happen on the streets? Thanks to Delamain, you'll never have to worry about statistics again. Our clients' comfort and security is our #1 priority.
+
+We hold ALL safety requirement certificates! 
+WE DON'T ASK QUESTIONS!
+
+There's no sound more beautiful than the symphony of hostile bullets bouncing off our armored windows. Try the EXCELSIOR PACKAGE and enjoy our maximum security option.
+
+Safety is the one luxury you CAN afford. 
+So what are you waiting for? Order a Delamain TODAY.
+
+DELAMAIN 
+LEAVE YOUR PROBLEMS AT THE DOOR
+
+## KONPEKI PLAZA
+{: .notice--success}
+
+KONPEKI PLAZA 
+Luxury. Beauty. Discretion. 
+ 
+What holds more power than a place? An idea. Konpeki Plaza is more than a hotel - it is a space in which reality is curated to even the most refined tastes and sensibilities. 
+At Konpeki Plaza, you'll find 420 exclusive apartments, 20 conference rooms, 14 fully equipped pools, and the finest bars, restaurants and that which cannot be measured by numbers alone - luxury, beauty and discretion. Our world-class customer care will fulfill even the deepest needs and desires of our guests, turning your stay in Konpeki Plaza into an unforgettable experience. When it comes to the comfort of our clients, there is no such thing as the impossible. 
+ 
+Discover new dimensions of comfort, enjoy the best Night City has to offer.
 
 # Literature
 {: .notice--warning .text-center}
@@ -283,6 +346,16 @@ The AI had a single objective: "Destroy enemy vessels." Simple, right? NUSA/Mili
 So let's come back to the question - how did you end up with this book? Unless you live in Chicago, where it was published, then surely not via the Net - since that was destroyed by Bartmoss. Maybe it was shipped by plane? But air freight is incredibly expensive, so most likely not. By car then? We can't rule it out. But if I had to bet on it, I'd say it came to your city via train.
 
 Imagine that trains (that's right, the ones that go choo! choo!) have survived into the present-day? Just last year, 15,526 miles of new train tracks were put into use, including the underground tunnel connecting Tokyo with Shanghai. At top-speed, an armored train can complete the distance between the two cities in under five hours! Now that's something I had to experience for myself. Two days later I was in Tokyo, standing on the platform of Sayonara Station...
+
+## IN THE SHADE OF AN APPLE TREE, BY VIRGINIA GRANCHESTER
+{: .notice--success} 
+
+My first memory isn't an image or a sound, but a smell. The smell of rotting apples - intense and dizzyingly sweet. I must've been around four. We were spending the summer at my grandparents' house. They had a small orchard with this old, huge apple tree by the fence. That year it grew so many apples that nobody even bothered to pick them. We just watched them fall to the ground, where they lay rotting.
+
+It's hard to imagine now - a world where things used to grow out of the ground without our help, without bioengineering. Where an apple was something normal - a fruit whose shape and taste every child knew by instinct.
+Where a normal person, like my granddad, could have more than he needed.
+
+Sometimes I think back to that orchard and that sweet, drowsy smell. But all I taste is bitterness.
 
 # Notes
 {: .notice--warning .text-center}
@@ -424,11 +497,65 @@ Stay committed to the Edge.
 
 That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and sisters in chrome and HE|SHE WILL SUFFER for it! If anyone catches him|her burnin rubber in Wats again, you drag him|her out by the hair and beat that cocky fuckin face of his|her into a fleshy pulp! Don't leave anything for the rats!!!
 
+## DIARY (117-121/77)
+{: .notice--success}
+
+117/77 
+We have set sail. Only Hanako knows the true purpose of our visit to Night City. The question is what to do with A. Hellman. He has proven loyal beyond even my own expectations and deserves compensation. Perhaps he might be interested in the position of Director of the Kyoto Institute of Technology, sweeten the deal by letting him have his own handpicked team. Employees like him should be kept on a short leash without seeing it as such.
+
+118/77 Militech have outdone themselves. This is not just a port, but a fortress. But the atoll is of no interest to me - it is what lies in the depths. I know what they hide. We should pay a tribute - five shots for every one of ours that lies on the seabed. The only thing that restrains me from giving the order is mercy for the innocents working on the port - I will spare them the panic and anguish with our missiles. 
+So rest well, Ye Fallen. Ne'er again will Ye be awoken with a BANG!
+
+119/77 
+The further I am from home, the more my memories become sharpened, more acute. 
+The faces of old enemies are suddenly thrown into relief. Even J.S. - I almost completely forgot about him.
+
+120/77 
+Hanako thinks that she should be the one to have a word with Y, or at the very least accompany me. I declined. She took it in her usual dignified manner. Still, she asked what I intend to do. As of yet I have no answer to this question.
+
+121/77 
+I see the coastline. Strange - in my memories the city seemed larger. If I wanted to, i could wipe it off the map in under ten minutes. I shared this thought with Hanako - she thinks I shouldn't do that. I usually defer to her opinion. But if the Relic somehow fell into the wrong hands, maybe it would be better to bury it among the ashes of NC? 
+Until we talk to Y, I will hold off on a firm decision.
+
 # People of Night City
 {: .notice--warning .text-center}
 
-## 
+## TAMED DRAGON: A BIOGRAPHY OF YORINOBU ARASAKA
 {: .notice--success}
+
+In many ways, the story of Yorinobu Arasaka resembles an ancient parable. The younger son of one of the modern world's most powerful CEOs renounces his heritage, forfeits his birthright, and instead chooses a rough-and-tumble life on the streets of Tokyo only to later scamper back home to the warm, sheltered bosom of his family with his tail tucked. At least, that is the story most have pieced together from official sources. But why did Yorinobu betray his father in the first place? Why did he return? For several years, I dug deeper, followed leads, reached out to his former friends and acquaintances. Slowly, I began to unearth answers to some of the public's most burning questions.
+
+Yorinobu was born in Tokyo in the early twenty-first century, the first child to Saburo Arasaka's third wife, Michiko. By all accounts, he seemed a happy child that grew to become a pleasant young man; that is, until his graduation from the University of Tokyo at the age of 21. Following the ceremony, the Arasaka family threw a party in his honor. At some point in the evening, Saburo invited his son to his study for a private conversation. What transpired there is wholly unknown, but after corroborating varied accounts, it is clear Yorinobu must have slipped out of from the party and the estate only a few hours later. Gone. A whisper in the night.
+
+Over the next few years, various eyewitnesses spotted Yorinobu in the company of a nomad group known as Kotetsu no Ryu, or the "Steel Dragons." As part of this youthful rebellion, he purposefully involved himself in altercations with Arasaka agents and promoted anti-corporate slogans. After his family eventually confirmed Yorinobu's involvement, Saburo renounced his son and Kei, Saburo's eldest son, swore to exact revenge on his younger brother. Ironically, it was later at Kei's funeral that Yorinobu at last reconciled with his father. Stubbornly proud to a fault, many were suprised(sic) by the Arasaka patriarch's conciliatory approach. What caused Saburo to change his mind? What role might have Yorinobu's sister, Hanako, played in their peaceable reunion? That much yet remains to be discovered...
+
+## THE FLOWERS OF SILENCE. A BIOGRAPHY OF HANAKO ARASAKA.
+{: .notice--success}
+
+If I had written this biography on the basis of publicly available material, there would be two sides of this story, not to mention the foreword, afterword, and the acknowledgments.
+
+Everyone knows that Hanako Arasaka is a very private individual. Everyone has heard about the tragic death of the last reporter who attempted to pen her life's story. Ten shots to the back. Suicide, according to the police.
+
+That's why when my publisher asked me to write this book, I had to politely decline. Then when I saw the advance they were offering me, I started to reconsider. And finally, when I discovered that Arasaka's PR department had given its stamp of approval to interview numerous members of Hanako's entourage, I was on the next flight to Tokyo.
+
+Soon enough, however, I lost my original enthusiasm. The people Arasaka sent me to be interviewed repeated the same answers to all questions - clearly memorized by heart. After a month's worth of research all I had was:
+
+Hanako Arasaka is the daughter of Saburo Arasaka from his third wife, Michiko. She was born in 1999 in Tokyo and has only left the city five times in her life. Living a cloistered lifestyle, she never fulfilled any important role in the family business. She is very close to Yorinobu Arasaka, the black sheep in the family.
+
+I was ready to give up when in the archives of a local T.V. station I found a recording of the opening of an Arasaka branch in Fukuoka, graced by the presence of none other than Hanako herself. She played the piano. Debussy's "Reverie." Why that piece? Why play a dreamy, introspective song while surrounded by stoic Japanese businessmen? Her golden fingers caressed the keys. I was mesmerized. Tears rolled down my cheeks as I listened. That's when I knew I had to finish this book. I had to meet this enigmatic woman and find out who Hanako Arasaka really was.
+
+## CALIFORNIA AFTER DUSK: THE LIFE OF RICHARD NIGHT
+{: .notice--success}
+
+Richard Night was a pessimist. Even in the late Eighties, when the economy seemed headed for endless growth and the nuclear threat for the ash heap of history, Night saw the United States as hurtling toward collapse.
+
+Richard Night was an optimist. He deeply believed the world could be changed for the better – and that he was the one to do it.
+
+Richard Night was a realist. Aware he couldn't change the face of the world all at once, he decided to start small (for him, at least) by constructing the ideal city. His utopian metropolis was to be called Coronado City. It would stand as a metaphorical city on a hill, a shining example to the rest of the world.
+
+Richard Night was doomed to fail. Not because his vision was inherently impossible to realize, but because many important, powerful people wished to make it so.
+
+Richard Night was murdered. The city whose foundations he laid was finished after his death – but his utopian dream soon became a dystopian nightmare. Even the original name was lost. In honor of the city's tragically deceased founder, Coronado City was rechristened "Night City." Ironically, the name fits. If anything, the city is a cat; sleepy during the day, it comes frantically alive at night. And it loves to toy with its prey.
 
 # Technology
 {: .notice--warning .text-center}
@@ -511,6 +638,13 @@ You can't improve upon perfection. This time-honored twin-blade has been in cont
 
 Kendachi Monowire 
 A weapon as discreet as it is deadly. Made for those who desire power but have no urge to flaunt it, this molecule-thin blade is manufactured by our teams of expect engineers in our state-of-art orbital facility. The Monowire can bear loads of up to 3,000 lbs and slices through armorweaves like butter-flavored scopspread. Rumor is, many officials at the Zurich Convention wanted this weapon banned and off the market. Now if that's not high praise, we don't know what is!
+
+## CHEMICALS: THE INVISIBLE KILLER
+{: .notice--success}
+
+We've long known that the AVs criss-crossing our skies are busy dumping harmful substances in the air, such as aluminum, carbon dioxide, sulphur trioxide and sulphuric acid. Studies have also revealed the presence of dead red blood cells and E coli., as well as sodium chloride (table salt).
+
+Now, you don't need a degree in science to know the harm these substances can wreak on the body. We've found that sulphur compounds can lead to cancer, heart decease and other illnesses arising from a weakened or even damaged immune system. They can also lead to spontaneous dental hydroplosion and acute meningitis.
 
 # Religion & Philosophy
 {: .notice--warning .text-center}
@@ -617,6 +751,68 @@ Then, at a book-signing in Heywood, I was asked a question I had never heard bef
 
 It is thanks for my loving wife's promise that I have never slept as soundly as I do now.
 
+## IN THE SHADOWS OF MEGABUILDINGS
+{: .notice--success}
+
+One could say we're living in stable times. The 4th Corporate War is ancient history, the Unification War is over and done with, and Night City is a free city - a jewel embedded between two Californias. Living here, you might have the impression that everything is OK in the world. But look around.
+
+The world is not OK. Despite technological recession between 2020 and 2040 reducing global pollution levels, humanity is still facing monumental existential threats. Climate change has turned into climate disaster - its effects are irreversible and dangerously unpredictable. Hurricanes, tornadoes, droughts, floods - natural catastrophes are growing in strength and frequency across the continent, leveling entire regions. Access to clean water is becoming increasingly more scarce, as well as fertile land. Hunger and starvation still reaps a bloody, human harvest in Asia and Africa, where corporations had no interest in building vertical, hydroponic farms.
+
+Meanwhile, advances in cybermodification have given rise to a new problem: cyberpsychosis. And though we've been aware of cyberpsychosis for over half a century, and know that incidents of cyberpsychosis are inextricably linked to a person's level of implantation, we still do not know why some are more prone to carrying out violent attacks than others. Let's not also forget the more serious issue of mass inequality, record high crime rates (including in places like Night City) and social unrest linked to immigration in almost every corner of the world...
+
+So I ask you again - look around. You see all of these problems in Night City already. Maybe you're standing in the shadow of a megabuilding and you think, "Night City is Night City - the rest of the world's problems don't affect me, right?"
+
+Right?
+
+## ARASAKA ACADEMY: BEST OF THE BEST, OR BEST FOR THE BEST?
+{: .notice--success}
+
+Arasaka Academy emerged as the #1 ranked institute of secondary education in Night City for the fourth consecutive time according to the Night City Perspective's annual review. The periodical earns the lion's share of its advertising revenue from the academy's namesake corporation, though their editorial staff claim this financial cooperation does not influence their rankings.
+
+The magazine's education experts claim Arasaka Academy's infrastructure has no equal in Night City. Bias or otherwise, we cannot argue them on this point. Lessons are primarily conducted via virtual reality or AI-generated lesson plans suited to a student group's specific needs. Public schools, meanwhile, can only dream... It comes as no surprise, then, that parents who are not gainfully employed at a megacorp are increasingly willing to incur a lifetime of debt for a chance to give their child a chance at the city's most prestigious education.
+
+But there are many uncomfortable truths the Academy is struggling to keep silent. Academy administrators promote a culture of constructive competition among its pupils as a way to forge the world's next great corporate executives. A rat race by another name with a diploma at the finish line...
+
+Night City Perspective factors placement in corporate leadership roles into their calculations, and with this criterion I take no issue. What they don't include, however, is the drop-out rate. The enormous pressures these students face inevitably translate to anxiety, depression and, for some, even suicide. These rates are especially high for students outside the Arasaka corporate family. Such is the dark side of Arasaka Academy's glowing reputation.
+
+Thank you for reading and supporting independent journalism! Find more inconvenient truths, visit my blog. Your donations keep the lights on and my coffee mug full.
+
+## PATHFINDER: HALF A CENTURY OF SILENCE
+{: .notice--success}
+
+When, in the summer of 2020, NASA's Pathfinder mission set off for Jupiter, it was the buzz of every radio station, TV media outlet, and screamsheet. Stills of the crew were plastered on every type of commemorative merchandise imaginable: mugs, shirts, plates, bobbleheads, bumper stickers, the list goes on.
+
+But, just a week later, the steady stream of information dried to a tickle. A month later, the world had all but forgotten about them. Three years later, and two years before their planned entry into Jupiter's orbit, a conflict now known as the Fourth Corporate War broke out.
+
+Cape Canaveral was one of the first strategic sites razed to the ground - NASA's mission control center along with it. Pathfinder, in the vast reaches of space, had been cut off. When the opposing sides finally signed a truce three years later, Militech set its sights on reestablishing contact with the Pathfinder crew, but to no avail. Pathfinder's signal, it seemed, had been swallowed by the void of the Big Black.
+
+To this day, it remains unknown whether the Pathfinder mission was a success. If the crew ever did reach Jupiter and its moons, we have received no word, no data, not a single lead to follow. Maybe they never stood a chance. Maybe, after a half-century of silence, they simply have nothing to say to us.
+
+## YŌKAI: JAPANESE DEMONS OF YESTERDAY AND TODAY
+{: .notice--success}
+
+They make their homes on mountaintops, in rivers and oceans, on city streets and on every megabuilding floor with the number 4 in it, even in your washing machine or infovisor. Some appear in concrete places, while others simply haunt a specific person. They're there when you hear a strange noise in the middle of the desert. They're there when you feel like someone's watching you, although there's not a soul in sight. They're there when you glimpse something out of the corner of your eye, something nobody else seems to notice, but you were just at the ripperdoc's for your checkup!
+
+The yōkai first appear in Japanese literature in the year 797. These mysterious beings, though closely linked to the invisible realm of the dead, have been alive in the Japanese consciousness from the very birth of animism. It's not that the Japanese believe in the yōkai. They simply know the yōkai exist.
+
+(...) In addition to phantoms, ogres and other mysterious phenomena, the yōkai also include a group of shape-shifting demons called obake or bakemono. The bakemono are said to sometimes take the form of a faceless person, a one-eyed scarecrow or an animal.
+
+(...)It's said that when a cat reaches a certain age, it becomes a bakeneko. These yōkai are able to walk on their two hind legs, speak and dance, assume human form or even devour their owners and take their place. The bakeneko sometimes visit people in their sleep, or even wake the dead – all they have to do is hop over a corpse to bring it suddenly back to life.
+
+However, the demons are capable of much, much more. One should exercise extreme caution around a double tailed cat. This is a nekomata, a yōkai with shamanic and necromantic capabilities, able to place curses on people and control the dead. In its human form, a nekomata resembles an old woman, often one addicted to some substance or other and with an eerie, disturbing air about her.
+
+However, let me assure American readers of this book; today, the most likely place you'll find a bakeneko is in the form of lucky Maneki-neko figurines. After all, real cats are an even rarer sight these days than your average yōkai.
+
+## WATER, CHROME AND BLOOD - THE FOURTH CORPORATE WAR
+{: .notice--success}
+
+(...) It is truly remarkable that the large-scale bloodshed of the Fourth Corporate War began first as a simple rivalry between two ocean exploitation corporations: CINO and OTEC. Both companies vied for the controlling stake of the failing IHA corporation. OTEC commissioned Militech to secure its business interests and perform certain "special operations." CINO, in turn, signed a cooperation agreement with the Arasaka Corporation with a similar aim. When circumstances at last called for both colossal and prideful security corporations to clash in open combat, the Fourth War had officially begun.
+
+Yet, as is usually the case with corporate conflicts, the onset proved subtle: Arasaka disables a Militech transport, Militech (allegedly) eliminates a high-ranking official of an Arasaka client, both sides engage in frequent sabotage and data theft operations, netrunners from both sides infiltrate dataforts to sow confusion, gather intel and cause chaos in the stock markets. Though none would have thought it possible in those early months, the Arasaka-Militech conflict truly jeopardized the stability of the world economy, making the threat of complete economic collapse all too real. For this reason, NetWatch introducted(sic) a communications embargo on both corporations. This did little to slow the conflict's pace, however. While CINO and OTEC had unilaterally reached a settlement and reach an understanding through "peace talks," tension between Arasaka and Militech continued to rise. This separation from the ocean dispute marks the beginning of the Fourth War's second phase: the so-called Shadow War.
+
+Military clashes between Militech and Arasaka were notoriously bloody, brutal and without mercy, they waged their most damaging campaigns on the Net. Arasaka and Militech netrunners launched attacks with the help of viruses that were often highly experimental. What's more, they created lethal ICE measures and AI-like programs that could lurk in dark corners of the Net for long periods to make strikes at the most opportune times. 
+By the second half of 2022, Arasaka and Militech entered the final phase of the conflict where both sides used every resource and strategy at their disposal. The Hot War had begun. Around this time, the Net that the world had known for years ceased to exist, and mercenaries hired by both corporations were slaughtered in open warfare fought with the cutting-edge weapons technology. Then, in the War's most shocking and iconic turning point, the coup de grâce came when an unknown group of mercenaries denoted a nuclear device at Arasaka's Night City headquarters. Shortly after the blast, bowing under increased pressure from the Japanese government, Arasaka laid down its arms and withdrew from many of its strategic positions, but most notably in Night City. Victory belonged to Militech, but it came at a heavy cost. (...)
+
 # Cyberpsycho
 {: .notice--warning .text-center}
 
@@ -626,8 +822,41 @@ It is thanks for my loving wife's promise that I have never slept as soundly as 
 # Poetry
 {: .notice--warning .text-center}
 
-## 
+## THE FALL OF ETEMENANKI
 {: .notice--success}
+
+The Fall of Etemenanki 
+(manuscript found behind the Totentanz)
+
+All ye mighty 
+look and despair 
+for here lived the City
+
+in the far-off land of Shinear 
+where once was clay tamed and wrought
+
+to build a temple among the narrow streets 
+where the howl of crazed prophets rose 
+from their skiff and the shadow of the ziggurat fell across the sands
+
+Look and despair for here rose the Tower 
+strong as a tongue glazed in spit 
+held fast on the scaffolding of throats on the vocal cords
+
+up which were pulled buckets of mortar 
+prayers fragments of code late cuneiform 
+on tablets plated with copper encrusted with tin
+
+look and remember for here She fell and Her name was Babel [o Babel of dreams!] lest we be scattered over the face of the earth 
+ask the archeologists beyond the Totentanz
+
+how she crumbled to dust the soft down of dialect 
+how the desert tore her how the sands of time ground her 
+until the word was ground fine and scattered among us
+
+look and beware in the final hours of night 
+for the sun shall rise over the ruins and dawn shall once again melt 
+from the rubble the memory of the City its original source
 
 # Encrypted
 {: .notice--warning .text-center}
