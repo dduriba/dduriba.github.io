@@ -321,6 +321,185 @@ Orgiatic by All Foods is your gateway to better living!
 
 Try out our savory nutrient pastes and vitamin boosters from the Orgiatic line NOW! Get 330% of all your daily vitamin needs in just one fashionable tube! Slurp down favorite flavor pairings from around the world as well as our Special Edition OMNIFLAVE which has more flavors packed into it than ever before! Buy one today - and let your tongue do the work.
 
+# THE HEIST
+{: .notice--warning .text-center}
+
+## RELIC - URGENT!
+{: .notice--success}
+
+콘페키 플라자 호텔의 요리노부 방 컴퓨터
+
+<span class="pen-bold">Relic - urgent!</span>
+
+<span class="pen-bold">From: Anders Hellman</span>
+
+<span class="pen-bold">To: Yorinobu Arasaka</span>
+
+---
+
+Please forgive me, but the matter is truly urgent. The biochip must be returned to the laboratory immediately. Otherwise, I cannot be held accountable for either its state or functionality. I assume you have been misled, but let me be abundantly clear now: the Relic is not ready for use in its current state. I will continue attempting to contact you by any and all possible means. I would be happy to explain everything, even over a phone call.
+
+Yours sincerely, 
+
+Anders Hellman
+
+## YOUR TIME IN THE CLOUDS
+{: .notice--success}
+
+콘페키 플라자 호텔의 요리노부 방 컴퓨터
+
+<span class="pen-bold">Your Time in the Clouds</span>
+
+<span class="pen-bold">From: Anjelica Milioti - Clouds</span>
+
+<span class="pen-bold">To: Yorinobu Arasaka</span>
+
+---
+
+Dear Mr. Arasaka, 
+
+As always, we thank you for using our services. We hope Clouds was able to make your stay in Night City more pleasant.
+
+Unforgettable, even. We would be honored to serve you again.
+
+Sincerely, 
+
+Anjelica Milioti 
+
+Senior VIP Services Representative 
+
+Clouds
+
+## RELIC
+{: .notice--success}
+
+콘페키 플라자 호텔의 요리노부 방 컴퓨터
+
+<span class="pen-bold">Relic</span>
+
+<span class="pen-bold">From: Ronald Cheever</span>
+
+<span class="pen-bold">To: Yorinobu Arasaka</span>
+
+---
+
+Following up on our last conversation - we are still very much interested in cooperating. For our agreement to succeed, we only require a sample biochip with a valid engram. The only question is, why must it be Johnny Silverhand's?
+
+Ronald Cheever
+
+NetWatch Operations Manager
+
+-----
+
+From: Yorinobu Arasaka 
+
+To: Ronald Cheever 
+
+RE: Relic
+
+Mr. Cheever, if you were an economist, I would tell you that the game played between the largest corporations has ceased to be a zero sum game - I am simply trying to restore the natural order of things. Yet, since you are not an economist, only a mere representative, my answer would be that I am doing this out of civic duty... But perhaps this would imply that I underestimate your intelligence. 
+
+You ask why Johnny Silverhand? It is a long story. Come to Konpeki Plaza and the veil of mystery shall be lifted.
+
+Y. Arasaka
+
+## Your Time in the Clouds: Invoice
+{: .notice--success}
+
+콘페키 플라자 호텔의 요리노부 방 컴퓨터 파일
+
+CLOUDS – INVOICE NO. 2077/PLA/791701 
+
+For Services Provided Under VIP Subscription Package: 
+
+Insured service 
+
+Multiple encryption of doll data 
+
+Guaranteed immediate deletion of data following session 
+
+Automated payment 
+
+
+CLOUDS – YOUR SEVEN MINUTES IN HEAVEN – THANK YOU
+
+## [ IMPORTANT 2.0 ] PLEASE READ
+{: .notice--success}
+
+콘페키 플라자 호텔의 직원 컴퓨터
+
+<span class="pen-bold">[IMPORTANT 2.0] Please read</span>
+
+<span class="pen-bold">From: Administration</span>
+
+<span class="pen-bold">To: Reception</span>
+
+---
+
+I have just been informed by City Hall that Konpeki Plaza will receive the mayor of Night City and his guests. They will not stay the night, therefore please book one of the smaller conference rooms. This information is confidential, i.e. hotel staff SHOULD NOT be informed.
+
+Thank you,
+
+Olivia Alcott
+
+## [ IMPORTANT ] PLEASE READ
+{: .notice--success}
+
+콘페키 플라자 호텔의 직원 컴퓨터
+
+<span class="pen-bold">[IMPORTANT] Please read</span>
+
+<span class="pen-bold">From: Administration</span>
+
+<span class="pen-bold">To: Reception</span>
+
+---
+
+Two Militech representatives will arrive at the hotel this evening - guests of Hajime Taki. Please direct them to him without delay.
+
+Same procedure as with H.T.'s other previous contractors, i.e. exercise the utmost discretion, turn off monitoring in the room, do not offer any additional services.
+
+Thank you,
+
+Olivia Alcott
+
+## TO DO//Restaurant//
+{: .notice--success}
+
+콘페키 플라자 호텔의 직원 컴퓨터 파일
+
+this week:
+
+-replacement of electrical system in room 2 and 3
+
+-reconfiguration of holographic projectors in room 1 (check remaining issues after changing light intensity, maybe order different models?)
+
+-additional pane installation in the bar
+
+-inform painting team Thénard Blue is NOT THE SAME as Turnbull Blue!!! Dock the new paints from the team's pay and fire Fidley
+
++++Warn Konpeki administration that we need another week to finish up.
+
+# PC - V
+{: .notice--warning .text-center}
+
+## RENT PAST DUE
+{: .notice--success}
+
+2막 시작 후 V의 컴퓨터에 온 메세지
+
+<span class="pen-bold">Rent Past Due</span>
+
+<span class="pen-bold">From: Megabuilding Administration</span>
+
+<span class="pen-bold">To: V</span>
+
+---
+
+Dear Sir/Madam,
+
+Our records show we have not received this month's rent payment for your unit in Megabuilding H10. In accordance with the tenancy agreement VD-233015722/2077, any subsequent payment delay will result in forced eviction from the property.
+
 # PC - Viktor Vektor
 {: .notice--warning .text-center}
 
@@ -409,6 +588,128 @@ RE: (alleged) Zen master
 ha ha, very funny.
 
 anyway, lemme know if hear about him again.
+
+# PC - Barry Lewis (happy together mission)
+{: .notice--warning .text-center}
+
+## Beer?
+{: .notice--success}
+
+<span class="pen-bold">Beer?</span>
+
+<span class="pen-bold">From: Juan Mendez</span>
+
+<span class="pen-bold">To: Barry Lewis</span>
+
+---
+
+Barry, what the hell are you babbling about? Pull yourself together, choom! A guy's gotta be tough - especially in this goddamn city. I don't know what kinda telenovelas you've been watching, but this sad sack bullshit ends now. You and I are going for a beer. How's thus thursday?
+
+## everything alright?
+{: .notice--success}
+
+<span class="pen-bold">everything alright?</span>
+
+<span class="pen-bold">From: Nadia Petrova</span>
+
+<span class="pen-bold">To: Barry Lewis</span>
+
+---
+
+Hey Barry,
+
+Just wanted to check in - see if everything's OK. The way you just quit all of a sudden... was that because of Andrew? I'm sure he was a great guy and all, but... life goes on. There are lots of good people out there. Who's gonna protect them if hardworking blues like you go quitting the force?
+
+Nadia
+
+## RE: everything alright?
+{: .notice--success}
+
+<span class="pen-bold">everything alright?</span>
+
+<span class="pen-bold">From: Nadia Petrova</span>
+
+<span class="pen-bold">To: Barry Lewis</span>
+
+---
+
+Barry,
+
+How come you're not answering? You don't talk to anyone, you don't go out... you can't blame a person for thinking the worst. You still worried about all that... y'know, stuff? Don't you think you're overreacting just a teeny bit?
+
+Nadia
+
+## RE: everything alright?
+{: .notice--success}
+
+<span class="pen-bold">everything alright?</span>
+
+<span class="pen-bold">From: Barry Lewis</span>
+
+<span class="pen-bold">To: Nadia Petrova</span>
+
+---
+
+I don't want to talk to any of you. Tell Mendez to stop trying to call me.
+
+## Report #17345
+{: .notice--success}
+
+On 12/03/2076 the remains of one Rudolph Franz were found in a dumpster on Santa Maria St. The victim had been conducting an independent media investigation into the black market for Trauma Team patients' data. The body was found with multiple stab wounds in the back.
+
+STATUS: investigation discontinued by order of NCPD Chief of Police
+
+Notes: (blank)
+
+## Report #17350
+{: .notice--success}
+
+Between the days of 01/15/2077 and 01/20/2077 more than a dozen individuals from the ages of 5 and 13 were killed in Arroyo district. All victims showed signs of severe radiation sickness, most likely due to playing with unmarked radiactive(sic) waste from the nearby power plant. An inquest has been opened into corporate negligence on the part of Petrochem.
+
+STATUS: inquest discontinued by order of NCPD Chief of Police
+
+Notes: (blank)
+
+## Report #17355
+{: .notice--success}
+
+From the night of 02/21/2077 until the morning of 02/22/2077 three Valentinos gang members suspected of murdering the journalist Rudolph Franz (see case from 12/03/2076) escaped from cell D-14. For unspecified reasons, all prison guards due to be present at the scene had been requested to report to NCPD Chief of Police.
+
+STATUS: investigation discontinued by NCPD Chief of Police
+
+Notes: @barry.lewis Stop digging through old cases. It's for your own good.
+
+# from - WWhfsil87
+{: .notice--warning .text-center}
+
+## @@@ MEGA MEDICINE LOTTERY @@@
+{: .notice--success}
+
+처음부터 V의 컴퓨터에 있던 메시지
+
+<span class="pen-bold">@@@ MEGA MEDICINE LOTTERY @@@</span>
+
+<span class="pen-bold">From: WWhfsil87</span>
+
+<span class="pen-bold">To: (ENCRYPTED)</span>
+
+---
+
+!!!!! ATTENTION !!!!!
+
+@@@ MEGA MEDICINE LOTTERY @@@
+
+( ^____^)
+
+Buy TWO tickets, get the THIRD for FREE!!!<3 <3 <3
+
+THOUSANDS of prizes are still available! DRUGS, REANIMATORS, PRIMARY CARE APPOINTMENTS, SURGERY VOUCHERS, BLOOD SCREENS, CYBERPSYCHOSIS VACCINES, RIPPERDOC REFERRALS, and our grand prize... a one-year TRAUMA TEAM PREMIUM PACKAGE!!!
+
+Hurry while supplies last!!! Your neighbors already have their tickets!!!
+
+BUY YOURS NOW!!!
+
+<3 <3 <3
 
 # from - N1gh7M4r3
 {: .notice--warning .text-center}
