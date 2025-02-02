@@ -37,11 +37,18 @@
 }
 
 .pen-notice-black {
-  color: #343434;
+  color: #343434 !important;
 }
 
 /* bold */
 
 .pen-bold {
   font-weight: bold !important;
+}
+
+/* border */
+
+.border-outset {
+  border: outset !important;
+  border-color: darkgray !important;
 }
