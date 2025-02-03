@@ -3,10 +3,8 @@ title: "Cyberpunk 2077 Shards"
 categories: English
 ---
 
-<!-- # Articles
-{: .notice--warning} -->
-
-<h1 class="page__content"># Articles</h1>
+# Articles
+{: .notice--warning}
 
 ## EMERGENCY ON DEMAND
 {: .notice--success}
