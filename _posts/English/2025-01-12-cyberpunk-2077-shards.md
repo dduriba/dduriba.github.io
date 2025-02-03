@@ -3,7 +3,7 @@ title: "Cyberpunk 2077 Shards"
 categories: English
 ---
 
-<div class="page__content h1 cyberpunk-yellow">Articles</div>
+<div class="page__content h1 cyberpunk-bg cyberpunk-yellow">Articles</div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
   <span class="page__content h2 cyberpunk-red">EMERGENCY ON DEMAND</span>
