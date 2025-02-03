@@ -6,7 +6,7 @@ categories: English
 # Articles
 {: .notice--warning}
 
-## <span class="cyberpunk-bg cyberpunk-red">EMERGENCY ON DEMAND</span>
+## EMERGENCY ON DEMAND
 {: .notice--success}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
