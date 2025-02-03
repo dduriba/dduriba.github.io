@@ -9,6 +9,7 @@ categories: English
 ## EMERGENCY ON DEMAND
 {: .notice--success}
 
+<div class="cyberpunk-bg cyberpunk-cyan">
 How did it happen? When and why did we as a society decide that human life is a commodity? A luxury?
 
 My mother passed away at 45. She still had decades of life to live until it was all stolen from her by common pneumonia. If she had held even the cheapest Trauma Team policy, she could have been cured within an hour. But she couldn't afford it. My mother died five months before her scheduled appointment with our family practitioner...
@@ -26,6 +27,7 @@ Trauma Team, on the other hand, treats its policyholders as both potential patie
 Surely, you ask, these medical "professionals" are also guided by their Hippocratic Oaths?
 
 Please...
+</div>
 
 ## NEW RELEASE BRAINDANCES
 {: .notice--success}

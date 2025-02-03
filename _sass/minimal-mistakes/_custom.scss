@@ -56,19 +56,25 @@
 /* cyberpunk 2077 UI style */
 
 .cyberpunk-red {
-  --text-color: 185, 60, 64;
-  color: rgb(var(--text-color));
-  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3);
+  --text-color: 245, 93, 80 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
 }
 
 .cyberpunk-cyan {
-  --text-color: 85, 234, 212;
-  color: rgb(var(--text-color));
-  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3);
+  --text-color: 49, 250, 255 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
 }
 
 .cyberpunk-yellow {
-  --text-color: 243, 230, 0;
-  color: rgb(var(--text-color));
-  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3);
+  --text-color: 255, 240, 0 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
+}
+
+.cyberpunk-bg {
+  background-color: rgb(52, 52, 52) !important;
+  padding: 10px !important;
+  border-radius: 2px !important;
 }
