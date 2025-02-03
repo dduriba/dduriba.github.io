@@ -52,3 +52,23 @@
   border: outset !important;
   border-color: darkgray !important;
 }
+
+/* cyberpunk 2077 UI style */
+
+.cyberpunk-red {
+  --text-color: 185, 60, 64;
+  color: rgb(var(--text-color));
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3);
+}
+
+.cyberpunk-cyan {
+  --text-color: 85, 234, 212;
+  color: rgb(var(--text-color));
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3);
+}
+
+.cyberpunk-yellow {
+  --text-color: 243, 230, 0;
+  color: rgb(var(--text-color));
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3);
+}
