@@ -31,13 +31,25 @@ $base0d: #96cbfe !default;
 $base0e: #ff73fd !default;
 $base0f: #b18a3d !default;
 
+// .page__content {
+//   .notice,
+//   .notice--primary,
+//   .notice--info,
+//   .notice--warning,
+//   .notice--success,
+//   .notice--danger {
+//     color: $text-color;
+//   }
+// }
+
 .page__content {
   .notice,
   .notice--primary,
   .notice--info,
   .notice--warning,
   .notice--success,
-  .notice--danger {
+  .notice--danger,
+  .notice--cyberpunk {
     color: $text-color;
   }
 }

@@ -20,7 +20,7 @@
   text-indent: initial; /* override*/
   background-color: mix($background-color, $notice-color, $notice-background-mix);
   border-radius: $border-radius;
-  box-shadow: 0 1px 1px rgba($notice-color, 0.25);
+  // box-shadow: 0 1px 1px rgba($notice-color, 0.25);
 
   h4 {
     margin-top: 0 !important; /* override*/
@@ -113,4 +113,10 @@
 .notice--danger {
   @include notice($danger-color);
   border-left: 5px solid #ff8787 !important;
+}
+
+/* custom notice */
+
+.notice--cyberpunk {
+  background-color: #525252;
 }
