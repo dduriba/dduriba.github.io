@@ -5,9 +5,11 @@ categories: English
 
 # Articles
 
-## EMERGENCY ON DEMAND
+
 
 <div class="cyberpunk-bg cyberpunk-cyan">
+  ## EMERGENCY ON DEMAND
+
   How did it happen? When and why did we as a society decide that human life is a   commodity? A luxury?
   <br><br>
   My mother passed away at 45. She still had decades of life to live until it was   all stolen from her by common pneumonia. If she had held even the cheapest   Trauma Team policy, she could have been cured within an hour. But she couldn't   afford it. My mother died five months before her scheduled appointment with our   family practitioner...
