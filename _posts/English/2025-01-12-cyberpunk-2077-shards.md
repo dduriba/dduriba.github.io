@@ -10,23 +10,23 @@ categories: English
 {: .notice--success}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-How did it happen? When and why did we as a society decide that human life is a commodity? A luxury?
-
-My mother passed away at 45. She still had decades of life to live until it was all stolen from her by common pneumonia. If she had held even the cheapest Trauma Team policy, she could have been cured within an hour. But she couldn't afford it. My mother died five months before her scheduled appointment with our family practitioner...
-
-The idea of privatized healthcare is deeply ingrained in our public psyche. Already in 2020, there was widespread consensus that 500 eurodollars a month was a fair price for Trauma Team insurance. Health wasn't something you were given, it was something you earned. The private system may not be perfect, but there's no alternative, we thought.
-
-BULLSHIT.
-
-Now cross the Pacific Ocean to the USSR where they also have highly trained medical technicians, high-precision nanosurgical suites, specialized antibodies, intravenous probes, the list goes on. Emergency airlifts using modern AVs equipped with cryotonic chambers? They have those, too. The difference, then? They don't leave their people to die on the streets, at the store, in their homes. They don't force anyone to purchase their lives from a corporation as if they're the ones who own it.
-
-Public healthcare isn't some unachievable utopia. It is a REALITY.
-
-Trauma Team, on the other hand, treats its policyholders as both potential patients to be treated and potential products to be bought. They save lives only because there is profit in it. A saved life is a returning customer. Client death can also bring in fiscal gains in the form of organ and implant resale, though of course in regulated, smaller sums. An emergency care provider can't afford to give its managers reasons to deliberately kill off its clientele base for short-term windfalls.
-
-Surely, you ask, these medical "professionals" are also guided by their Hippocratic Oaths?
-
-Please...
+  How did it happen? When and why did we as a society decide that human life is a   commodity? A luxury?
+  <br>
+  My mother passed away at 45. She still had decades of life to live until it was   all stolen from her by common pneumonia. If she had held even the cheapest   Trauma Team policy, she could have been cured within an hour. But she couldn't   afford it. My mother died five months before her scheduled appointment with our   family practitioner...
+  <br>
+  The idea of privatized healthcare is deeply ingrained in our public psyche.   Already in 2020, there was widespread consensus that 500 eurodollars a month   was a fair price for Trauma Team insurance. Health wasn't something you were   given, it was something you earned. The private system may not be perfect, but   there's no alternative, we thought.
+  <br>
+  BULLSHIT.
+  <br>
+  Now cross the Pacific Ocean to the USSR where they also have highly trained   medical technicians, high-precision nanosurgical suites, specialized   antibodies, intravenous probes, the list goes on. Emergency airlifts using   modern AVs equipped with cryotonic chambers? They have those, too. The   difference, then? They don't leave their people to die on the streets, at the   store, in their homes. They don't force anyone to purchase their lives from a   corporation as if they're the ones who own it.
+  <br>
+  Public healthcare isn't some unachievable utopia. It is a REALITY.
+  <br>
+  Trauma Team, on the other hand, treats its policyholders as both potential   patients to be treated and potential products to be bought. They save lives   only because there is profit in it. A saved life is a returning customer.   Client death can also bring in fiscal gains in the form of organ and implant   resale, though of course in regulated, smaller sums. An emergency care provider   can't afford to give its managers reasons to deliberately kill off its   clientele base for short-term windfalls.
+  <br>
+  Surely, you ask, these medical "professionals" are also guided by their   Hippocratic Oaths?
+  <br>
+  Please...
 </div>
 
 ## NEW RELEASE BRAINDANCES
