@@ -30,7 +30,7 @@ categories: English
 </div>
 
 ## NEW RELEASE BRAINDANCES
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 What's up, BD-maniacs? Hungry for a new emo-rush? Then check out the latest word from the freshest BDs on the market.
 
@@ -45,7 +45,7 @@ Badlands Raid
 At last, a BD for those looking for something a little lighter. "Badlands Raid" is a remake of the 2023 classic, which was an innovative tour de force of the time. For those of you unfamiliar, the plot revolves around an ordinary, boring guy who accidentally gets tangled up in a nomad ambush on a Zetatech convoy. I won't spoil it because, even though the main plot hasn't changed in 54 years, most people these days probably don't know the ending. What I will say is this: the remake's creators have introduced a few modern twists into the story that should make for a pleasant surprise to classics-lovers and newbies alike.
 
 ## THE RELIC – WHY ALL THE FUSS?
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 For years, experts in the field of cybernetics, neurology and psychology have been desperately trying to merge human consciousness with silicon. Until now, their efforts have been unsuccessful - though scientists have managed to create artificial intelligences that can compare, or indeed, surpass human intellect, copying the human "I" has remained beyond our capabilities. Attempts to do so have merely resulted in sophisticated chatbots - digital beings capable of mimicking human speech and mannerisms, but devoid of self-awareness.
 
@@ -55,7 +55,7 @@ What's more, the shard can be slotted into one's neural port, allowing its user 
 Sadly, I haven't been able to personally examine the specifications of this remarkable piece of technology. Access to the Relic is heavily restricted by Arasaka, and only a small, select group of testers are allowed to participate in the program. Unsurprisingly, these testers are among the wealthiest and most influential people in the world - precisely the kinds of people Arasaka would like to have in its pocket. For the ordinary consumers reading this - don't expect the Relic to hit mass markets anytime soon.
 
 ## BIG 5 EMPLOYERS IN NIGHT CITY – 2077
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 It's that time of the year again we present our list of the biggest and best corps to work for in Night City! Who offers paid vacation? Who pays for employees' Trauma Team insurance policies? Who provides discounts for daycare and child bodyguard services? Have a look at our rankings below!
 
@@ -70,7 +70,7 @@ It's that time of the year again we present our list of the biggest and best cor
 5. Night Corp – While this hometown product can't compete with the biggest international players in terms of budget or ambition, they certainly know how to spoil their staff. Night Corp snuck into our Big 5 after a recent announcement to reduce the mandatory workweek to just 80 hours! They are a must-apply for all you family-focused folks out there.
 
 ## HEALTHCARE AND TRAFFIC SAFETY – TRAUMA TEAM LEADS THE WAY
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Second-rate equipment, under-trained medical "professionals", and high death rates – this is the best Night City's public emergency services have to offer. In addition to poor performance metrics, so too has their public image suffered. Scandals involving city EMTs colluding with scavengers have gone from rare to commonplace.
 
@@ -79,7 +79,7 @@ Recent cuts in municipal healthcare spending have led to the outright collapse o
 For comparison, the average survival rate for traffic accidents across all Trauma Team policies is 91%. Response time is guaranteed to never exceed 3 minutes. Heaven on Earth? No. The minimum we all deserve. Something to keep in mind as you plan your personal budget... Purchase Trauma Team's Platinum-level coverage for the cost of Gold and safeguard your life today. Limited-time offer.
 
 ## LEFT JAB: BOXER'S MONTHLY
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Kazuo Kano – ronin from Osaka
 
@@ -88,7 +88,7 @@ Some accuse Kano of doping, others say he has connections with the Yakuza. While
 Will Kano become the light heavyweight champion of the world? We'll see after Malone takes his revenge on Hernandez.
 
 ## THE MOX
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 (...)It's one of those stories that is either very simple or very complicated, depending on who you ask. For Janice, it was a mix of both: "The Mox came to exist because it had to. We didn't have a soul in our corner, no one to make sure street justice was on our side. So we took matters into our own hands."
 
@@ -97,7 +97,7 @@ The Mox is composed of the people who, if any of them disappeared from the stree
 Know the story? "Lizzied used to work here back when it was just a typical dive with a stripper pole," Janice proudly explained. "She took care of the girls, made sure eddies were falling into the pockets... and their teeth weren't falling to the curb. Like this one time, this fucker (Editor's note: referring to a Tyger Claws gang member) was having too much "fun" with one of the girls, and Lizzie just couldn't stomach it anymore. Story is she deprived the worm of his little Tyger balls so quick and nasty it took them two days to clean up all the blood and puke splatter. 'Course, the Claws found out fast and they flatlined her in a flash. But everyone that she had impacted in some way, they were still around. They came together, fought back and-- (pause) Well... you already know the rest."
 
 ## NC NIGHT LIFE – DRINKS, DANCING, DEBAUCHERY
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 (...) If you're a dancehead like us, don't miss out on LIZZIE'S. You'll find no better braindance club in the city, no matter how deep you dig. Modern boxes, solid tech, but most important: the catalogue, chock-full of nearly any exp you can imagine. You'll find everything you need to get you off - fast or slow, nasty or classy, and everything in-between. Don't let the girls at the front door scare you off or kill your buzz - they're wary of newcomers, but once you get in they'll treat you like one of their own. Trust us, give LIZZIE'S a try and you'll never go anywhere else. 
 
@@ -106,7 +106,7 @@ Now, THE AFTERLIFE? That's a different story. Sure, you can cut loose and have a
 If you're looking for the city's marquee events, you'll find yourself at RIOT. Chart-topping playlists, live performances from the brightest stars (both local and from around the world), DJ battles, unique music shows, and media-packed album premieres - sound like your scene? Don't miss out on RIOT. (...)
 
 ## HOW TO KEEP YOUR SHARDS AND DATA SAFE FROM PICKSOCKETS! [TOP 3 WAYS]
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Are you reading this on the street? In a store? In the metro? When was the last time you checked your neural sockets?
 
@@ -119,7 +119,7 @@ Thefts largely go uninvestigated due to the police's prioritization of violent c
 3. Duct tape. Slap on a square of that and those shards aren't going anywhere. On a budget? Bad with tech? No regard for style? Then this is the option for you!
 
 ## A FAMILY OF EMPIRE
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 The legacy of Arasaka needs no introduction. The Arasaka Corporation is one of the world's most powerful, with offices located in every major metropolis across the globe. For years, it has been behind the proverbial wheel of our planet's economy and society. The history of Arasaka in Night City is deserving of its own article, but suffice to say, the media industry in our city follows the family behind the megacorp as closely as they do share prices.
 
@@ -130,7 +130,7 @@ Our sources report that Yorinobu Arasaka is currently in Night City, but not for
 No family is without its secrets, and the Arasakas are no exception. After all... "What appears first as heaven, appears second as hell." – Japanese proverb.
 
 ## THE VAMPIRE PRINCE IS BACK!
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Monster hunters beware!
 
@@ -139,12 +139,12 @@ Monster hunters beware!
 A polished real-time combat system and non-linear storyline offer the player deep immersion in singleplayer, while the multiplayer mode allows you to team up with your choombas as they take control of the brooding Varney or blonde fan favorite Herbert. Without spoiling any of the endings (yes, multiple endings!), I'll leave you with just one thing... Lady Carmilla Ruthven-Batory is hands down the most captivating character ever written in the hundred-year history of video games. Period.
 
 ## NO LIFE 3 - REVIEW
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 After fifty long years, the wait is finally over! The third and final installment of the No Life series will be available for purchase TOMORROW! As has been reported already, gamers should not expect any major shakeups in regard to the protagonist. We still play as strong-silent-type scientist Baron Freimensch. We follow Baron as he ventures to the Arctic Circle to... Well, why spoil it when you'll have your hands on it in less than 24 hours! The gist: with Alice at Baron's side and trusty crowbar in hand, those nasty aliens are in for a rude awakening.
 
 ## THE STRUGGLE OF O'NEILL STATION.
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 The European Space Agency (ESA) started out with seemingly noble intentions: "We'll open the door to the universe." "The Solar System - a home to all." And so on an so forth.
 
@@ -157,7 +157,7 @@ The consequences were inevitable - in 2022, after completing construction of the
 The thing is, out here it's not so easy to call for reinforcements. Workers outnumbered guards 40:1, and one stun-gun charge held only fifteen rounds. The ESA's management had effectively shot themselves in the foot. It was over before they could realize - only seven hours passed before O'Neill 1 and O'Neill 2 declared independence and became the first nations established outside of Earth...
 
 ## LOOKING FOR A CAREER CHANGE? JOIN NETWATCH!
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Tracking down netrunner renegades, combating daemons, rebuilding the American Net – these are just some of the daily tasks entrusted to the special agents at NetWatch. If you'd rather lose your eyes than your deck, if an encounter with Mephistopheles is just another walk in the park for you, then maybe it's time you joined out team.
 
@@ -175,14 +175,14 @@ Thanks to NetWatch, thousands of people can freely use approved search engines a
 Do you have what it takes? Apply today.
 
 ## WHO IS LIZZY WIZZY PRETENDING TO BE?
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 "We are who we pretend to be. I've pretended to be everything - that's why I've found the truth."
 
 Lizzy Wizzy is an artist par excellence. Her work includes award-winning albums and concert tours, film appearances as well as (for lack of a better term) conceptual performance art. Her latest artistic obsession features the medium of braindance. In recent interviews, Lizzy has mused about the boundary between our documentation of reality versus our active shaping of it. Could that mean Lizzy Wizzy plans to scroll her own BD? We can only dream! The chance to live just one day in her chrome skin... Fans would go wild!
 
 ## WHAT REALLY HAPPENED IN ARASAKA TOWER?
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 (...) If Militech was behind the assault on Arasaka Tower in 2023, and if there's actual EVIDENCE to support that, then why didn't Arasaka return the favor and nuke Militech?
 
@@ -195,7 +195,7 @@ Nomads, obviously. Remember that mass-market BD called "Badlands Raid" from the 
 Yes, yes, there's a Silverhand cameo in there somewhere, but that's just a marketing ploy - a BD scrolled by a bunch of cactus-huggers wouldn't sell for an enny without a recognizable face. But I'm more intrigued by the main actress - how is it she didn't star in any other production despite "Badlands Raid's" huge sales? Where was she during the attack?
 
 ## ARASAKA AND ORNITHOLOGY: THREE JAPANESE WORDS TO KNOW
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 As conversations over factionalism within Arasaka heat up, many industry insiders wonder about the company's future trajectory. If you struggle to understand the complicated inner machinations of the world's largest arms manufacturer, look no further than the obscure science of ornithology. Yes, that's right; the study of birds can help. At least, in a sense. There are three Japanese words every corporate player ought to be familiar with: kiji, hato, and taka.
 
@@ -209,7 +209,7 @@ Taka - hawk. As symbolic as the dove is, so, too, is the hawk. This faction, hea
 * You can learn more about Arasaka family genealogy from the eight-book series "Two Centuries in the Clover's Shadow." Available in stores soon.
 
 ## STORM ON THE MARE CRISIUM
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 By now we're all avid viewers of the reality TV show that is orbital politics. 
 Except this is real life, and what happens up there could have real consequences for all of us down here. Recently everyone's been talking about the attack on Ursula Correira, resulting in the complete loss of control in the lower half of her body. The media has been endlessly replaying remarks made by Correira's younger brother, Vagner, while also discussing the latest outfit worn by Yara Ayoade to the official press conference where she denied rumors that Correira's family had any hand in her "accident."
@@ -217,10 +217,10 @@ Except this is real life, and what happens up there could have real consequences
 I don't know about all of you, but with each passing day, the saying "What happens in orbit, stays in orbit" is starting to sound like dangerously wishful thinking.
 
 # Leaflets
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## DELAMAIN - TRANSPORT SERVICES
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 DELAMAIN
 
@@ -248,7 +248,7 @@ DELAMAIN
 LEAVE YOUR PROBLEMS AT THE DOOR
 
 ## KONPEKI PLAZA
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 KONPEKI PLAZA 
 Luxury. Beauty. Discretion. 
@@ -259,10 +259,10 @@ At Konpeki Plaza, you'll find 420 exclusive apartments, 20 conference rooms, 14 
 Discover new dimensions of comfort, enjoy the best Night City has to offer.
 
 # Literature
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## DR. HAVOC & RADON
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Introduction
 
@@ -272,7 +272,7 @@ until the legendary mercenary pair arrive just in the nick of time after years o
 I'll tell you - no one so far. Rose Tenorio and Martoni Eleazar take us into the world of computer games first imagined in the bestseller novel "Kibble and Scop" by Abe Frost. Fasten your seatbelts and get ready for a roller coaster ride of comic-book violence! If you've ever wondered what the action of the BATTERY ARENA may have looked like, "Dr. Havoc & Radon" is a must-buy. Dive in now.
 
 ## THE SOLO'S MANUAL BY MORGAN BLACKHAND
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 INTRO
 
@@ -285,7 +285,7 @@ So you still think you got what it takes to carve your name into solo history?
 Good. Then this book's for you.
 
 ## KIBBLE AND SCOP
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Kibble stared glumly at his glass of a seaweed-colored drink. A part of him hoped the bartender had poured a pint of rat poison by mistake. "I don't get it, choom...", he murmured gloomily. "At school, they said I had talent, a real knack for acting. Was it all a fucking lie, or what?"
 
@@ -308,7 +308,7 @@ Kibble snorted and spat out the cockroach piss he finally mustered the courage t
 Scop cracked a roguish smile. "Is Bloody Bout IV or these 'million other games' designed to work on a hybrid braindance system? Y'know, the kind I made a breakthrough on just last week?"
 
 ## "WATSON WHORE" DIARY
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 MONDAY 
 What a fucking world! Finally I get my ass on Ziggy's show and right bfore I walk on stage a fucking hospital somewhere gets shot up. This dick cancels the show last minute for a special ep about the fucking victims!!! Who the fuck cares?!? is anyone gonna them in a week? Did they spend HALF THEYRE FUCKING CAREER TO GET ON THAT SHOW??? No they just fucking died! I got my ass on stage anyway - let him know you dont cockblock a goddamn tv messiah but security fucked me up so bad what was scrolled got corrupted or sme shit
@@ -326,7 +326,7 @@ FRIDAY
 Christ I don't know which ways up... I'm fucking wiped. The boys brought over some laced shit or something but it hit me like a fucking firetruck. I dunno what happnd but everything smells like piss, there's a horse mask in the bathroom. if I had to guess it was probably me who wore it and got rode around, my knees do kinda kill thinking bout it now. Idk I jus thope it was that director from tuesday and not that skank from apt 3
 
 ## 1,000 BEATS A SECOND
-{: .notice--success} 
+{: .notice--cyberpunk-red} 
 
 I couldn't believe my eyes. For a moment, I thought Jessica had changed them out for faulty Kiroshis while I was asleep. But no, that wouldn't have been like her. I blinked again. No change. There I saw them, clear as day, the open flaps of Jason's chrome skull. I saw the electronic brain that, up until now, had been hidden by perfect imitation syn-skin.
 
@@ -343,7 +343,7 @@ I sat there stuck with a dumb expression on my face and Jason stared back with o
 My cardio implant began to beat more and more quickly. My face flushed. Had I been wrong? Could this body of bolts, wires, and plastic contain whatever is left of the real Jason Cadalez? If his father was able to design a synthetic heart for me, maybe he could do the same for his son's brain. The question is... why?
 
 ## SAYONARA STATION, BY LUKE STEELMAN
-{: .notice--success} 
+{: .notice--cyberpunk-red} 
 
 Wait a second, before we start - have you wondered how this book ended up in your hands? Where it came from, who delivered it?
 
@@ -358,7 +358,7 @@ So let's come back to the question - how did you end up with this book? Unless y
 Imagine that trains (that's right, the ones that go choo! choo!) have survived into the present-day? Just last year, 15,526 miles of new train tracks were put into use, including the underground tunnel connecting Tokyo with Shanghai. At top-speed, an armored train can complete the distance between the two cities in under five hours! Now that's something I had to experience for myself. Two days later I was in Tokyo, standing on the platform of Sayonara Station...
 
 ## IN THE SHADE OF AN APPLE TREE, BY VIRGINIA GRANCHESTER
-{: .notice--success} 
+{: .notice--cyberpunk-red} 
 
 My first memory isn't an image or a sound, but a smell. The smell of rotting apples - intense and dizzyingly sweet. I must've been around four. We were spending the summer at my grandparents' house. They had a small orchard with this old, huge apple tree by the fence. That year it grew so many apples that nobody even bothered to pick them. We just watched them fall to the ground, where they lay rotting.
 
@@ -368,10 +368,10 @@ Where a normal person, like my granddad, could have more than he needed.
 Sometimes I think back to that orchard and that sweet, drowsy smell. But all I taste is bitterness.
 
 # Notes
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## HOROSCOPES: STORYTELLER GROUP
-{: .notice--success} 
+{: .notice--cyberpunk-red} 
 
 Clients from group "Storyteller"
 
@@ -425,7 +425,7 @@ Avoid: getting attached to friendly, talking machines
 Your lucky place: the music scene
 
 ## ARCHIVED CONVERSATION: PAUL AND WILL
-{: .notice--success} 
+{: .notice--cyberpunk-red} 
 
 PAUL: pisses me off almost everyone still thinks I'm 2 people 
 
@@ -470,7 +470,7 @@ Username PAUL changed to: CERTO
 Username WILL changed to: ESQUERDO
 
 ## BRAINDANCES - CONCEPTS
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 BD of a woman giving birth:
 
@@ -488,7 +488,7 @@ Pro: it'd be nova
 Con: tech for it doesn't exist
 
 ## CERTIFICATE
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 CERTIFICATE OF PARTICIPATION 
 Presented to: 
@@ -502,10 +502,10 @@ Keeshan Roberts, NCBA President
 April 3, 2061
 
 # Other
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## CYBERPUNK 2020 RULEBOOK
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 It doesn't matter how well you do something, as long as you look good doing it. If you're going to blow it, make sure you look like you planned it that way.
 Normally, clothes and looks don't matter in an adventure - in this world, having a leather armor jacket and mirrorshades is a serious consideration.
@@ -517,12 +517,12 @@ Never play it too safe.
 Stay committed to the Edge.
 
 ## PISS ON HIS GRAVE | PISS ON HER GRAVE
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and sisters in chrome and HE|SHE WILL SUFFER for it! If anyone catches him|her burnin rubber in Wats again, you drag him|her out by the hair and beat that cocky fuckin face of his|her into a fleshy pulp! Don't leave anything for the rats!!!
 
 ## DIARY (117-121/77)
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 117/77 
 We have set sail. Only Hanako knows the true purpose of our visit to Night City. The question is what to do with A. Hellman. He has proven loyal beyond even my own expectations and deserves compensation. Perhaps he might be interested in the position of Director of the Kyoto Institute of Technology, sweeten the deal by letting him have his own handpicked team. Employees like him should be kept on a short leash without seeing it as such.
@@ -542,10 +542,10 @@ I see the coastline. Strange - in my memories the city seemed larger. If I wante
 Until we talk to Y, I will hold off on a firm decision.
 
 # People of Night City
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## TAMED DRAGON: A BIOGRAPHY OF YORINOBU ARASAKA
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 In many ways, the story of Yorinobu Arasaka resembles an ancient parable. The younger son of one of the modern world's most powerful CEOs renounces his heritage, forfeits his birthright, and instead chooses a rough-and-tumble life on the streets of Tokyo only to later scamper back home to the warm, sheltered bosom of his family with his tail tucked. At least, that is the story most have pieced together from official sources. But why did Yorinobu betray his father in the first place? Why did he return? For several years, I dug deeper, followed leads, reached out to his former friends and acquaintances. Slowly, I began to unearth answers to some of the public's most burning questions.
 
@@ -554,7 +554,7 @@ Yorinobu was born in Tokyo in the early twenty-first century, the first child to
 Over the next few years, various eyewitnesses spotted Yorinobu in the company of a nomad group known as Kotetsu no Ryu, or the "Steel Dragons." As part of this youthful rebellion, he purposefully involved himself in altercations with Arasaka agents and promoted anti-corporate slogans. After his family eventually confirmed Yorinobu's involvement, Saburo renounced his son and Kei, Saburo's eldest son, swore to exact revenge on his younger brother. Ironically, it was later at Kei's funeral that Yorinobu at last reconciled with his father. Stubbornly proud to a fault, many were suprised(sic) by the Arasaka patriarch's conciliatory approach. What caused Saburo to change his mind? What role might have Yorinobu's sister, Hanako, played in their peaceable reunion? That much yet remains to be discovered...
 
 ## THE FLOWERS OF SILENCE. A BIOGRAPHY OF HANAKO ARASAKA.
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 If I had written this biography on the basis of publicly available material, there would be two sides of this story, not to mention the foreword, afterword, and the acknowledgments.
 
@@ -569,7 +569,7 @@ Hanako Arasaka is the daughter of Saburo Arasaka from his third wife, Michiko. S
 I was ready to give up when in the archives of a local T.V. station I found a recording of the opening of an Arasaka branch in Fukuoka, graced by the presence of none other than Hanako herself. She played the piano. Debussy's "Reverie." Why that piece? Why play a dreamy, introspective song while surrounded by stoic Japanese businessmen? Her golden fingers caressed the keys. I was mesmerized. Tears rolled down my cheeks as I listened. That's when I knew I had to finish this book. I had to meet this enigmatic woman and find out who Hanako Arasaka really was.
 
 ## CALIFORNIA AFTER DUSK: THE LIFE OF RICHARD NIGHT
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Richard Night was a pessimist. Even in the late Eighties, when the economy seemed headed for endless growth and the nuclear threat for the ash heap of history, Night saw the United States as hurtling toward collapse.
 
@@ -582,10 +582,10 @@ Richard Night was doomed to fail. Not because his vision was inherently impossib
 Richard Night was murdered. The city whose foundations he laid was finished after his death – but his utopian dream soon became a dystopian nightmare. Even the original name was lost. In honor of the city's tragically deceased founder, Coronado City was rechristened "Night City." Ironically, the name fits. If anything, the city is a cat; sleepy during the day, it comes frantically alive at night. And it loves to toy with its prey.
 
 # Technology
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## CYBERWARE USAGE AND ITS SIDE EFFECTS
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Many people believe we live in a time when "impossible" has become an obsolete term. Ripperdocs can replace nearly any part of the human body with artificial implants, from your big toe to portions of the nervous system. My years in Trauma Team, however, taught me that the "impossible" is still very much possible. Even now, as we enter the twilight of the twenty-first century, we as medical professionals have not been able to eliminate all of the side effects that come from incorporating cybernetic elements into our bodies. Of course, everyone is familiar with the mental disorder most commonly referred to as cyberpsychosis. But it doesn't end there. Although advances in medical science for the greater part of a century have reduced its incidence to a minimum, cyberware rejection can still occur in a small subset of the population. These unlucky few can experience a range of complications, but the following are the most prevalent:
 
@@ -598,7 +598,7 @@ Many people believe we live in a time when "impossible" has become an obsolete t
 In the face of these known risks, what should our outlook be as consumers and medical professionals? To deny ourselves cybernetic enhancements on the 0.5 percent chance we could lose our vision forever? Or gamble away our life savings at the casino? The clear answer is "No." Cyberware technology has elevated human biology to the point where these what-if arguments serve against our best interests. The best advice I can offer for minimizing your risk is to read the technomedical profiles for all cyberware you intend to purchase before you install it.
 
 ## PAIN EDITORS AND MORTALITY RATES
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Introduction
 
@@ -611,7 +611,7 @@ However, some studies have reported that the pain editor can yield a range of un
 In this report, I address the question of how to better protect Zetatech clients from avoidable death while using our pain editors(...)
 
 ## RELIVE.IT - BRAINDANCE QUARTERLY
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 GUEST EDITORIAL
 
@@ -626,14 +626,14 @@ For a moment, let's consider why some reports suggest more and more users are se
 Relive.it - The quarterly magazine for braindance editors, amateurs, and enthusiasts, vol. 4/78, December 2076
 
 ## CAN CYBERPSYCHOSIS BE CURED?
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Can cyberpsychosis be cured? Opinions on that question are divided. Only a few years ago so-called braindance therapy was used across the entire country on a mass scale with the aim of bringing the sick back from the point of no return. The patient would be placed on a special chair and connected to a device that would deactivate all implants. 
 Then electrodes would be attached, inducing the patient into a coma-like braindance session. This was then followed up by medicine, psychosurgery and the aversion therapy. 
 The overall treatment was intended to sever all the patient's neural connections and tie them back together so that the cyberpsycho could return to society. Once the therapy was concluded, no symptoms of cyberpsychosis were detected, as well as the patient's former personality. But don't worry - nowadays other methods are used. At least, that's what they tell us.
 
 ## 75 YEARS OF CYBERWARE, BY TSUTOMU TAKAHASHI
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 INTRODUCTION
 
@@ -644,7 +644,7 @@ A century ago, employers could impose specific dress codes, hairstyle regulation
 Much has changed over the past seventy-five years from when cybernetic implants first hit the mass market. Many in the field of history of technology have argued cyberware is a positive force for progress, and many have argued the opposite. This book attempts to describe and contextualize the changes - for better or worse - that it has introduced to our professional and personal lives. How has cyberware led us to where we are today, and where is it taking us next?
 
 ## KENDACHI - NEW SPRING CATALOGUE
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Kenshiri-Adachi Arnaments
 
@@ -664,29 +664,29 @@ Kendachi Monowire
 A weapon as discreet as it is deadly. Made for those who desire power but have no urge to flaunt it, this molecule-thin blade is manufactured by our teams of expect engineers in our state-of-art orbital facility. The Monowire can bear loads of up to 3,000 lbs and slices through armorweaves like butter-flavored scopspread. Rumor is, many officials at the Zurich Convention wanted this weapon banned and off the market. Now if that's not high praise, we don't know what is!
 
 ## CHEMICALS: THE INVISIBLE KILLER
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 We've long known that the AVs criss-crossing our skies are busy dumping harmful substances in the air, such as aluminum, carbon dioxide, sulphur trioxide and sulphuric acid. Studies have also revealed the presence of dead red blood cells and E coli., as well as sodium chloride (table salt).
 
 Now, you don't need a degree in science to know the harm these substances can wreak on the body. We've found that sulphur compounds can lead to cancer, heart decease and other illnesses arising from a weakened or even damaged immune system. They can also lead to spontaneous dental hydroplosion and acute meningitis.
 
 # Religion & Philosophy
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## THE WORLD AS WILL AND IDEA
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 (...)But, besides all this, death is the great opportunity no longer to be I;—to him who uses it. During life the will of man is without freedom: his action takes place with necessity upon the basis of his unalterable character in the chain of motives. But every one remembers much that he has done, and on account of which he is by no means satisfied with himself. If now he were to go on living, he would go on acting in the same way, on account of the unalterable nature of his character. Accordingly he must cease to be what he is in order to be able to arise out of the germ of his nature as a new and different being. Therefore death looses these bonds; the will again becomes free; for freedom lies in the Esse, not in the Operari(...)
 
 Arthur Schopenhauer
 
 ## BEELZEBUB'S TALES TO HIS GRANDSON
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Even before our arrival, many beings in Babylon had lost their minds over this subject, while many others were inching closer to the same fate. The "burning question" of the day, the question that wracked the brains of both "pitiful scientists" and normal beings of Babylon was this:"Do we have a soul or not?" There were all sorts of the most fantastic theories on this subject, with new ones appearing all the time, and each and every one of the "tempting hypotheses" had its supporters. Despite the overwhelming number and diversity of these beliefs, they were all based on one of two completely opposing premises. The first was called "atheism," while the other was "idealism" or "dualism." All duelistic(sic) hypothesis held the soul existed and, of course, that it was immortal and could suffer many things even after the death of the being. Meanwhile, the atheistic theories held the complete opposite view. In short, my boy, when we cam to Babylon, we came upon what could only be called "constructing the Tower of Babel."
 
 ## HOMO DEUS: CHRISTIANITY AND CYBERMODIFICATION
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 "So God created man in his own image, in the image of God." So says the Book of Genesis. Religious components of cybernetic body modification believe the Christian God intended the same perfection for man as He Himself possesses. Suffering, disease, death - these exist in contradiction with divinity, but can be overcome with the aid of science and technology. So called "cybertheologists" interpret God's command to "subdue the earth" quite literally. By their account, any and all means that might enable man to reach a state closer to divinity are "good", both ethically and morally.
 
@@ -695,10 +695,10 @@ However, some in their Christian fold have voiced concern that such cybertheolog
 "Eritis sicut dii," said the serpent to Eve: "You will be as Gods." Religious purists exhort their sisters and brothers in faith to resist this temptation of Satan, masked as the will of God. But cybertheologists have stood fast and supplemented their cause with the phrase "scientes bonum et malum". They call upon humanity to tap into the divine and cosciously interpret for themselves what is Good and what is Evil.
 
 # World
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## THE UNIFICATION WAR... FOR GONKS!
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 *The Unification War is the most recent armed conflict to take place in North America since the Collapse, lasting from January 2069 to June 2070.
 
@@ -715,14 +715,14 @@ However, some in their Christian fold have voiced concern that such cybertheolog
 *The end of the Unification War, however, was not an end to the conflict at large. The leading AI analytics software predicts another hot war will likely break out by 2080 (74% confidence).
 
 ## THE DAY THE TOWER FELL
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 In early August 2023, a single event would change the course of history. Although it fell against the bloody backdrop of the Fourth Corporate War, the global media still fed on the story for weeks. And could you blame them? A group of terrorists detonated a nuclear bomb, blowing Arasaka Tower to pieces. The terrorists' warning came too late – not all of the Tower's employees could be evacuated. The blast itself killed and wounded thousands, while countless others died from radiation sickness. How did the biggest terrorist attack in the 21st century happen? Who was behind this catastrophe? To find the answers, we'll need to first understand the context of that era.
 
 The early 2020's was a period of unrest for Night City and anti-corporate sentiment was at an all-time high. In the epicenter of the city's lawlessness stood the Atlantis club. It was seen as an island of resistance against the powers that be, primarily megacorporations like Militech or Biotechnica – though a special place in hell was reserved for Arasaka, the Japanese arms-manufacturing zaibatsu that held the most influence over Night City. The kinds of people who frequented the Atlantis felt that corporations had hijacked the future and turned people into consumer-slaves and ironically, deprived of the two things capitalism loved most – freedom and choice. These people called themselves Edgerunners. They positioned themselves against the corporate world order – they declared their own freedom and opposition to the status quo. But deprived of any peaceful way to meaningfully change what they called "the System," they reached for more radical methods of self-expression. And these people were no strangers to violence.
 
 ## THE UNDOING: FALL OF THE FIRST NET
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Chapter I: The Apocalypse
 
@@ -740,7 +740,7 @@ It was supposed to save us, but now even the Net itself cannot be saved. It was 
 Rache Bartmoss
 
 ## WHY BE ME?: CONFESSIONS OF A BRAINDANCE ADDICT
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 PREFACE
 
@@ -757,13 +757,13 @@ Now, I ask you again: Of the millions upon millions of people in this world, do 
 Sergio Morales
 
 ## ALL FOODS – THE FUTURE OF MEAT
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Not only are All Foods products healthy and nutritious, they will feed our future. 
 Soon, All Foods will launch a pilot line of new products to complement the EEZYBEEF brand. This series of meat products will be based on flatworm cultures, which have been found to significantly help increase metabolism, slow weight gain, and cleanse the intestinal tract. We hope the flatworm initiative will usher in All Foods' latest successful generation of meat products.
 
 ## THE MAXTAC WAY, BY MATHIAS MADDOX
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 FOREWORD TO THE SECOND EDITION
 
@@ -776,7 +776,7 @@ Then, at a book-signing in Heywood, I was asked a question I had never heard bef
 It is thanks for my loving wife's promise that I have never slept as soundly as I do now.
 
 ## IN THE SHADOWS OF MEGABUILDINGS
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 One could say we're living in stable times. The 4th Corporate War is ancient history, the Unification War is over and done with, and Night City is a free city - a jewel embedded between two Californias. Living here, you might have the impression that everything is OK in the world. But look around.
 
@@ -789,7 +789,7 @@ So I ask you again - look around. You see all of these problems in Night City al
 Right?
 
 ## ARASAKA ACADEMY: BEST OF THE BEST, OR BEST FOR THE BEST?
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Arasaka Academy emerged as the #1 ranked institute of secondary education in Night City for the fourth consecutive time according to the Night City Perspective's annual review. The periodical earns the lion's share of its advertising revenue from the academy's namesake corporation, though their editorial staff claim this financial cooperation does not influence their rankings.
 
@@ -802,7 +802,7 @@ Night City Perspective factors placement in corporate leadership roles into thei
 Thank you for reading and supporting independent journalism! Find more inconvenient truths, visit my blog. Your donations keep the lights on and my coffee mug full.
 
 ## PATHFINDER: HALF A CENTURY OF SILENCE
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 When, in the summer of 2020, NASA's Pathfinder mission set off for Jupiter, it was the buzz of every radio station, TV media outlet, and screamsheet. Stills of the crew were plastered on every type of commemorative merchandise imaginable: mugs, shirts, plates, bobbleheads, bumper stickers, the list goes on.
 
@@ -813,7 +813,7 @@ Cape Canaveral was one of the first strategic sites razed to the ground - NASA's
 To this day, it remains unknown whether the Pathfinder mission was a success. If the crew ever did reach Jupiter and its moons, we have received no word, no data, not a single lead to follow. Maybe they never stood a chance. Maybe, after a half-century of silence, they simply have nothing to say to us.
 
 ## YŌKAI: JAPANESE DEMONS OF YESTERDAY AND TODAY
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 They make their homes on mountaintops, in rivers and oceans, on city streets and on every megabuilding floor with the number 4 in it, even in your washing machine or infovisor. Some appear in concrete places, while others simply haunt a specific person. They're there when you hear a strange noise in the middle of the desert. They're there when you feel like someone's watching you, although there's not a soul in sight. They're there when you glimpse something out of the corner of your eye, something nobody else seems to notice, but you were just at the ripperdoc's for your checkup!
 
@@ -828,7 +828,7 @@ However, the demons are capable of much, much more. One should exercise extreme 
 However, let me assure American readers of this book; today, the most likely place you'll find a bakeneko is in the form of lucky Maneki-neko figurines. After all, real cats are an even rarer sight these days than your average yōkai.
 
 ## WATER, CHROME AND BLOOD - THE FOURTH CORPORATE WAR
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 (...) It is truly remarkable that the large-scale bloodshed of the Fourth Corporate War began first as a simple rivalry between two ocean exploitation corporations: CINO and OTEC. Both companies vied for the controlling stake of the failing IHA corporation. OTEC commissioned Militech to secure its business interests and perform certain "special operations." CINO, in turn, signed a cooperation agreement with the Arasaka Corporation with a similar aim. When circumstances at last called for both colossal and prideful security corporations to clash in open combat, the Fourth War had officially begun.
 
@@ -838,7 +838,7 @@ Military clashes between Militech and Arasaka were notoriously bloody, brutal an
 By the second half of 2022, Arasaka and Militech entered the final phase of the conflict where both sides used every resource and strategy at their disposal. The Hot War had begun. Around this time, the Net that the world had known for years ceased to exist, and mercenaries hired by both corporations were slaughtered in open warfare fought with the cutting-edge weapons technology. Then, in the War's most shocking and iconic turning point, the coup de grâce came when an unknown group of mercenaries denoted a nuclear device at Arasaka's Night City headquarters. Shortly after the blast, bowing under increased pressure from the Japanese government, Arasaka laid down its arms and withdrew from many of its strategic positions, but most notably in Night City. Victory belonged to Militech, but it came at a heavy cost. (...)
 
 ## LAT-AM WARS
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 As a direct result of the armed conflicts on U.S. soil from the early 1990s until the early 2000s, Latin America (comprising South and Central America) remodeled itself into a strong federation of independent nations, bound through mutual aid and cooperation.
 The U.S.'s military presence was forced from Latin American territories with the exception of Panama, where it stood its ground despite fierce pressure from guerilla forces.
@@ -846,12 +846,12 @@ The U.S.'s military presence was forced from Latin American territories with the
 Many researchers and contemporary historians maintain that, in fact, the Lat-Am Wars were responsible for the U.S.'s eventual collapse, breaking up the Gang of Four (CIA, FBI, DEA and NSA) and decimating the U.S. Army. However, it's important to bear in mind that no external conflict could have toppled the colossus of American imperialism were it not already built on clay foundations.
 
 ## PROTEIN FARMS: A REPORT
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 Protein farms are currently the source of most meat and meat-substitute products in Night City. Biotechnica is the clear industry leader, providing for over half of the city's demand for alternative protein. Currently, the most popular, albeit cost-intensive form of production is based on protein-rich crickets, which allow producers to achieve the highest-quality protein. Earthworms are available as a cheaper alternative, achieving a higher yield of product per square meter. However, worms pose a more difficult marketing challenge - while crickets have become acceptable, most consumers still bristle at being told to "go eat worms."
 
 ## AVIAN EXTERMINATION ACT
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 The AEA was adopted by the Night City Council on May 04, 2063.
 
@@ -860,16 +860,16 @@ Purpose: In the face of increasingly frequent and deadly zoonotic disease outbre
 The extermination process will begin on May 07, 2063 once the call and selection of tenders for the contract have been completed (See Annex 2).
 
 # Cyberpsycho
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## 
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 # Poetry
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## THE FALL OF ETEMENANKI
-{: .notice--success}
+{: .notice--cyberpunk-red}
 
 The Fall of Etemenanki 
 (manuscript found behind the Totentanz)
@@ -905,7 +905,7 @@ for the sun shall rise over the ruins and dawn shall once again melt
 from the rubble the memory of the City its original source
 
 # Encrypted
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## 
-{: .notice--success}
+{: .notice--cyberpunk-red}
