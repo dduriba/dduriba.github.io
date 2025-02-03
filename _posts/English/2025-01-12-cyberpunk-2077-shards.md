@@ -3,11 +3,11 @@ title: "Cyberpunk 2077 Shards"
 categories: English
 ---
 
-<h1 class="page__content cyberpunk-bg cyberpunk-yellow">Articles</h1>
+# Articles
+
+## EMERGENCY ON DEMAND
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  <h2 class="page__content cyberpunk-red">EMERGENCY ON DEMAND</h2>
-
   How did it happen? When and why did we as a society decide that human life is a   commodity? A luxury?
   <br><br>
   My mother passed away at 45. She still had decades of life to live until it was   all stolen from her by common pneumonia. If she had held even the cheapest   Trauma Team policy, she could have been cured within an hour. But she couldn't   afford it. My mother died five months before her scheduled appointment with our   family practitioner...
