@@ -117,6 +117,22 @@
 
 /* custom notice */
 
-.notice--cyberpunk {
-  background-color: #525252;
+.notice--cyberpunk-red {
+  background-color: #343434;
+  margin: 0;
+  padding: 0.7em;
+  padding-bottom: 0 !important;
+  --text-color: 245, 93, 80 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
+}
+
+.notice--cyberpunk-yellow {
+  background-color: #343434;
+  margin: 0;
+  padding: 0.7em;
+  padding-bottom: 0 !important;
+  --text-color: 255, 240, 0 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
 }

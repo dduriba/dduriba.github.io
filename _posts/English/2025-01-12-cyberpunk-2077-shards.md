@@ -4,10 +4,10 @@ categories: English
 ---
 
 # Articles
-{: .notice--warning}
+{: .notice--cyberpunk-yellow}
 
 ## EMERGENCY ON DEMAND
-{: .notice--cyberpunk}
+{: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
   How did it happen? When and why did we as a society decide that human life is a   commodity? A luxury?
