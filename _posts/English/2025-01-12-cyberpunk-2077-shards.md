@@ -10,6 +10,7 @@ categories: English
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
+
   How did it happen? When and why did we as a society decide that human life is a   commodity? A luxury?
   <br><br>
   My mother passed away at 45. She still had decades of life to live until it was   all stolen from her by common pneumonia. If she had held even the cheapest   Trauma Team policy, she could have been cured within an hour. But she couldn't   afford it. My mother died five months before her scheduled appointment with our   family practitioner...
@@ -27,6 +28,7 @@ categories: English
   Surely, you ask, these medical "professionals" are also guided by their   Hippocratic Oaths?
   <br><br>
   Please...
+  
 </div>
 
 ## NEW RELEASE BRAINDANCES
@@ -35,15 +37,19 @@ categories: English
 <div class="cyberpunk-bg cyberpunk-cyan">
 
   What's up, BD-maniacs? Hungry for a new emo-rush? Then check out the latest   word from the freshest BDs on the market.
-  
+  <br><br>
   Foreign Body
+  <br>
   The body is everything. There is nothing else. It is you, but it is also just a   tool for your mind to interact with the world. But what would happen if this   tool tried to live its own life? What if it tried... to kill you?
+  <br>
   Though not a particularly original addition to the thriller genre, this   braindance featuring Luke Poller is still a solid experiential ride. The fear   of disobedient implants has been around since pirates were walking around on   peg legs – well, maybe not that long – as a result, the trope has been   pervasive in film, braindance, and urban legend alike. Still, "Foreign Body"   borrows some of the genre's best elements while still incorporating just enough   new stuff to the mix to keep it interesting. After all, it's not every day you   see the world from the perspective of a sentient arm.
-  
+  <br><br>
   Maxwell's Rehab
+  <br>
   This braindance season has been chock full of horror, but this one stands out   from the rest. The always phenomenal Maxwell Ramirez is pushed to the brink of   cyberpsychosis so we can relive his return to normalcy. The title offers a tone   of optimism, but don't let that fool you. You will relive Maxwell's slip into   psychosis, the heartbreak of his wife, and the gradual reintegration into a   world that is now far different from how he left it. This BD is a must-relive   of the season, but it's not for the faint of heart.
-  
+  <br><br>
   Badlands Raid
+  <br>
   At last, a BD for those looking for something a little lighter. "Badlands Raid"   is a remake of the 2023 classic, which was an innovative tour de force of the   time. For those of you unfamiliar, the plot revolves around an ordinary, boring   guy who accidentally gets tangled up in a nomad ambush on a Zetatech convoy. I   won't spoil it because, even though the main plot hasn't changed in 54 years,   most people these days probably don't know the ending. What I will say is this:   the remake's creators have introduced a few modern twists into the story that   should make for a pleasant surprise to classics-lovers and newbies alike.
   
 </div>
@@ -54,10 +60,10 @@ categories: English
 <div class="cyberpunk-bg cyberpunk-cyan">
   
   For years, experts in the field of cybernetics, neurology and psychology have   been desperately trying to merge human consciousness with silicon. Until now,   their efforts have been unsuccessful - though scientists have managed to create   artificial intelligences that can compare, or indeed, surpass human intellect,   copying the human "I" has remained beyond our capabilities. Attempts to do so   have merely resulted in sophisticated chatbots - digital beings capable of   mimicking human speech and mannerisms, but devoid of self-awareness.
-  
+  <br><br>
   Today, experts from Arasaka announced a breakthrough. Their newest project,   dubbed the "Relic," allows human minds to be copied onto shards no larger than   a credchip.
   What's more, the shard can be slotted into one's neural port, allowing its user   to "hear" and "see" digitized personality constructs.
-  
+  <br><br>
   Sadly, I haven't been able to personally examine the specifications of this   remarkable piece of technology. Access to the Relic is heavily restricted by   Arasaka, and only a small, select group of testers are allowed to participate   in the program. Unsurprisingly, these testers are among the wealthiest and most   influential people in the world - precisely the kinds of people Arasaka would   like to have in its pocket. For the ordinary consumers reading this - don't   expect the Relic to hit mass markets anytime soon.
   
 </div>
@@ -68,15 +74,15 @@ categories: English
 <div class="cyberpunk-bg cyberpunk-cyan">
   
   It's that time of the year again we present our list of the biggest and best   corps to work for in Night City! Who offers paid vacation? Who pays for   employees' Trauma Team insurance policies? Who provides discounts for daycare   and child bodyguard services? Have a look at our rankings below!
-  
+  <br><br>
   1. Arasaka – Coming in again this year in our #1 spot the Japanese zaibatsu   juggernaut. Employees can expect to be fit with the latest in cyberware   technology with a loyalty obligation of only 20 years!
-  
+  <br><br>
   2. Militech – The American arms giant provides its employees with up to 50%   discounts on all Militech weapons. With a deal that good, you'd be able to put   a Mk.31 Heavy Machine Gun under the Christmas tree for everyone in the family!
-  
+  <br><br>
   3. Biotechnica – Our 2077 bronze medal goes to Biotechnica who offers up to six   (yes, six!) paid vacation days a year!
-  
+  <br><br>
   4. Kang Tao – China's largest tech and arms manufacturer treats its employees   to a Gold Membership with Trauma Team. Never spend a single minute of your   50-year loyalty pledge worrying about paying for health coverage!
-  
+  <br><br>
   5. Night Corp – While this hometown product can't compete with the biggest   international players in terms of budget or ambition, they certainly know how   to spoil their staff. Night Corp snuck into our Big 5 after a recent   announcement to reduce the mandatory workweek to just 80 hours! They are a   must-apply for all you family-focused folks out there.
   
 </div>
