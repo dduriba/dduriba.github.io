@@ -4,12 +4,11 @@ categories: English
 ---
 
 # Articles
-{: .notice--warning .text-center}
-
-## EMERGENCY ON DEMAND
-{: .notice--success}
+{: .notice--warning}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
+  <span class="page__content h2">EMERGENCY ON DEMAND</span>
+
   How did it happen? When and why did we as a society decide that human life is a   commodity? A luxury?
   <br><br>
   My mother passed away at 45. She still had decades of life to live until it was   all stolen from her by common pneumonia. If she had held even the cheapest   Trauma Team policy, she could have been cured within an hour. But she couldn't   afford it. My mother died five months before her scheduled appointment with our   family practitioner...
@@ -217,7 +216,7 @@ Except this is real life, and what happens up there could have real consequences
 I don't know about all of you, but with each passing day, the saying "What happens in orbit, stays in orbit" is starting to sound like dangerously wishful thinking.
 
 # Leaflets
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## DELAMAIN - TRANSPORT SERVICES
 {: .notice--success}
@@ -259,7 +258,7 @@ At Konpeki Plaza, you'll find 420 exclusive apartments, 20 conference rooms, 14 
 Discover new dimensions of comfort, enjoy the best Night City has to offer.
 
 # Literature
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## DR. HAVOC & RADON
 {: .notice--success}
@@ -368,7 +367,7 @@ Where a normal person, like my granddad, could have more than he needed.
 Sometimes I think back to that orchard and that sweet, drowsy smell. But all I taste is bitterness.
 
 # Notes
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## HOROSCOPES: STORYTELLER GROUP
 {: .notice--success} 
@@ -502,7 +501,7 @@ Keeshan Roberts, NCBA President
 April 3, 2061
 
 # Other
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## CYBERPUNK 2020 RULEBOOK
 {: .notice--success}
@@ -542,7 +541,7 @@ I see the coastline. Strange - in my memories the city seemed larger. If I wante
 Until we talk to Y, I will hold off on a firm decision.
 
 # People of Night City
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## TAMED DRAGON: A BIOGRAPHY OF YORINOBU ARASAKA
 {: .notice--success}
@@ -582,7 +581,7 @@ Richard Night was doomed to fail. Not because his vision was inherently impossib
 Richard Night was murdered. The city whose foundations he laid was finished after his death – but his utopian dream soon became a dystopian nightmare. Even the original name was lost. In honor of the city's tragically deceased founder, Coronado City was rechristened "Night City." Ironically, the name fits. If anything, the city is a cat; sleepy during the day, it comes frantically alive at night. And it loves to toy with its prey.
 
 # Technology
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## CYBERWARE USAGE AND ITS SIDE EFFECTS
 {: .notice--success}
@@ -671,7 +670,7 @@ We've long known that the AVs criss-crossing our skies are busy dumping harmful 
 Now, you don't need a degree in science to know the harm these substances can wreak on the body. We've found that sulphur compounds can lead to cancer, heart decease and other illnesses arising from a weakened or even damaged immune system. They can also lead to spontaneous dental hydroplosion and acute meningitis.
 
 # Religion & Philosophy
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## THE WORLD AS WILL AND IDEA
 {: .notice--success}
@@ -695,7 +694,7 @@ However, some in their Christian fold have voiced concern that such cybertheolog
 "Eritis sicut dii," said the serpent to Eve: "You will be as Gods." Religious purists exhort their sisters and brothers in faith to resist this temptation of Satan, masked as the will of God. But cybertheologists have stood fast and supplemented their cause with the phrase "scientes bonum et malum". They call upon humanity to tap into the divine and cosciously interpret for themselves what is Good and what is Evil.
 
 # World
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## THE UNIFICATION WAR... FOR GONKS!
 {: .notice--success}
@@ -860,13 +859,13 @@ Purpose: In the face of increasingly frequent and deadly zoonotic disease outbre
 The extermination process will begin on May 07, 2063 once the call and selection of tenders for the contract have been completed (See Annex 2).
 
 # Cyberpsycho
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## 
 {: .notice--success}
 
 # Poetry
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## THE FALL OF ETEMENANKI
 {: .notice--success}
@@ -905,7 +904,7 @@ for the sun shall rise over the ruins and dawn shall once again melt
 from the rubble the memory of the City its original source
 
 # Encrypted
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## 
 {: .notice--success}

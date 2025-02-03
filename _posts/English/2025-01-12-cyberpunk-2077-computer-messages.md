@@ -4,7 +4,7 @@ categories: English
 ---
 
 # THE RESCUE
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 <span class="highlight-pencel-mint">FIXER</span> <span class="pen-blue">Wakako Okada</span>
 
@@ -61,7 +61,7 @@ Arasaka hormone regulator NO BIO-SIGNATURE
 and some other little curiosities - optics actuator and cosmetic RealSkinn
 
 # THE PICKUP
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 플랫헤드를 획득하려 멜스트롬 소굴에 들어가는 미션
 
@@ -322,7 +322,7 @@ Orgiatic by All Foods is your gateway to better living!
 Try out our savory nutrient pastes and vitamin boosters from the Orgiatic line NOW! Get 330% of all your daily vitamin needs in just one fashionable tube! Slurp down favorite flavor pairings from around the world as well as our Special Edition OMNIFLAVE which has more flavors packed into it than ever before! Buy one today - and let your tongue do the work.
 
 # THE HEIST
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## RELIC - URGENT!
 {: .notice--success}
@@ -481,7 +481,7 @@ this week:
 +++Warn Konpeki administration that we need another week to finish up.
 
 # PC - V
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## RENT PAST DUE
 {: .notice--success}
@@ -501,7 +501,7 @@ Dear Sir/Madam,
 Our records show we have not received this month's rent payment for your unit in Megabuilding H10. In accordance with the tenancy agreement VD-233015722/2077, any subsequent payment delay will result in forced eviction from the property.
 
 # PC - Viktor Vektor
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## YOUR FUCKED
 {: .notice--success}
@@ -552,7 +552,7 @@ Let me know. It's worth it.
 AE
 
 # PC - Misty Olszewski
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## (ALLEGED) ZEN MASTER
 {: .notice--success}
@@ -590,7 +590,7 @@ ha ha, very funny.
 anyway, lemme know if hear about him again.
 
 # PC - Barry Lewis (happy together mission)
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## Beer?
 {: .notice--success}
@@ -680,7 +680,7 @@ STATUS: investigation discontinued by NCPD Chief of Police
 Notes: @barry.lewis Stop digging through old cases. It's for your own good.
 
 # from - WWhfsil87
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## @@@ MEGA MEDICINE LOTTERY @@@
 {: .notice--success}
@@ -712,7 +712,7 @@ BUY YOURS NOW!!!
 <3 <3 <3
 
 # from - N1gh7M4r3
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## PAY OR UR HEAD WILL EXPLODE
 {: .notice--success}
@@ -736,7 +736,7 @@ U have 2 days to pay. And I know you read this cuz I install spycam in your opti
 This is not a negotiation, choom, so do not reply. Just pay and u will live.
 
 # from - ⓒyberw@re
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## IMPLANTS FOR CHEAP, CHEAP, CHEAP!
 {: .notice--success}
@@ -764,7 +764,7 @@ Synthetic calf muscle (red) - no casing, mint condition. Second gen, retrofit ca
 Items go fast so buy now! Continue following us for the latest and best deals!
 
 # from - ANIMALS R ALPHA
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## NEED SOMEONE TO WATCH YOUR BACK?
 {: .notice--success}
@@ -790,7 +790,7 @@ Got a stalker on your tail? Hired iron out for your blood? Some freak giving you
 (งಠ益ಠ)ง
 
 # from - L0v$$ K***knhk
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## I NEED YOUR HELP
 {: .notice--success}
@@ -812,7 +812,7 @@ I will not forget your mercy and generosity,
 Loviisa Kaukonen
 
 # from - Amanda Nelson
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## READ CAREFULLY!!!
 {: .notice--success}
@@ -832,7 +832,7 @@ It's true – it happened to my uncle!
 I'm very sorry to send this on to you, but someone sent it to me first. It sounds silly but forwarding this email will save your life!
 
 # from - Sanne Douwes
-{: .notice--warning .text-center}
+{: .notice--warning}
 
 ## YOUR INHERITANCE - URGENT REPLY NEEDED
 {: .notice--success}
