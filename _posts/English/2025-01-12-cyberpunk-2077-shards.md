@@ -3,10 +3,10 @@ title: "Cyberpunk 2077 Shards"
 categories: English
 ---
 
-<div class="page__content h1 cyberpunk-bg cyberpunk-yellow">Articles</div>
+<h1 class="cyberpunk-bg cyberpunk-yellow">Articles</h1>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  <span class="page__content h2 cyberpunk-red">EMERGENCY ON DEMAND</span>
+  <h2 class="cyberpunk-red">EMERGENCY ON DEMAND</h2>
 
   How did it happen? When and why did we as a society decide that human life is a   commodity? A luxury?
   <br><br>
