@@ -90,190 +90,164 @@ For comparison, the average survival rate for traffic accidents across all Traum
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Kazuo Kano – ronin from Osaka
-  <br><br>
-  Kazuo Kano's name is on the lips of everyone in the boxing world. The   up-and-coming light heavyweight remains undefeated after twenty professional fights, seventeen of which were won by technical knockout. 
-  Some accuse Kano of doping, others say he has connections with the Yakuza.   While training in Night City, the light heavyweight was allegedly seen   "receiving" guests from Japan in his gym. Afterwards they were then seen being carried out of the gym unconscious. Wide scars have been visible near Kano's ribs for the last three fights. Local ripperdocs say that the scars definitely do not look like an appendix removal procedure... 
-  Will Kano become the light heavyweight champion of the world? We'll see after Malone takes his revenge on Hernandez.
-  
+Kazuo Kano – ronin from Osaka
+<br><br>
+Kazuo Kano's name is on the lips of everyone in the boxing world. The up-and-coming light heavyweight remains undefeated after twenty professional fights, seventeen of which were won by technical knockout.<br>
+Some accuse Kano of doping, others say he has connections with the Yakuza. While training in Night City, the light heavyweight was allegedly seen "receiving" guests from Japan in his gym. Afterwards they were then seen being carried out of the gym unconscious. Wide scars have been visible near Kano's ribs for the last three fights. Local ripperdocs say that the scars definitely do not look like an appendix removal procedure... 
+Will Kano become the light heavyweight champion of the world? We'll see after Malone takes his revenge on Hernandez.
 </div>
 
 ## THE MOX
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  [...]It's one of those stories that is either very simple or very complicated, depending on who you ask. For Janice, it was a mix of both: "The Mox came to exist because it had to. We didn't have a soul in our corner, no one to make sure street justice was on our side. So we took matters into our own hands."
-  <br><br>
-  The Mox is composed of the people who, if any of them disappeared from the   streets tomorrow, you might never even notice: sex workers, ennyless artists, aimless rebels, and restless souls who weren't dealt a fair hand. Today, the Mox is thriving, as demonstrated by the booming biz of Lizzie's Bar. Lizzie's is renown for being arguably the best braindance club in Night City. Corporate suits, gangoons, pop stars, and locals alike all gather at Lizzie's to kick back, have a drink, and dip into the most beautifully scrolled and tuned BDs you've ever experienced. Most customers, however, are oblivious to the fact that the club is gang owned and operated, that the Mox are in charge, watching after their own. Just like the Lizzie of legend once did.
-  <br><br>
-  Know the story? "Lizzied used to work here back when it was just a typical dive   with a stripper pole," Janice proudly explained. "She took care of the girls, made sure eddies were falling into the pockets... and their teeth weren't falling to the curb. Like this one time, this fucker (Editor's note: referring to a Tyger Claws gang member) was having too much "fun" with one of the girls, and Lizzie just couldn't stomach it anymore. Story is she deprived the worm of his little Tyger balls so quick and nasty it took them two days to clean up all the blood and puke splatter. 'Course, the Claws found out fast and they flatlined her in a flash. But everyone that she had impacted in some way, they were still around. They came together, fought back and-- (pause) Well... you already know the rest."
-  
+(...)It's one of those stories that is either very simple or very complicated, depending on who you ask. For Janice, it was a mix of both: "The Mox came to exist because it had to. We didn't have a soul in our corner, no one to make sure street justice was on our side. So we took matters into our own hands."
+<br><br>
+The Mox is composed of the people who, if any of them disappeared from the streets tomorrow, you might never even notice: sex workers, ennyless artists, aimless rebels, and restless souls who weren't dealt a fair hand. Today, the Mox is thriving, as demonstrated by the booming biz of Lizzie's Bar. Lizzie's is renown for being arguably the best braindance club in Night City. Corporate suits, gangoons, pop stars, and locals alike all gather at Lizzie's to kick back, have a drink, and dip into the most beautifully scrolled and tuned BDs you've ever experienced. Most customers, however, are oblivious to the fact that the club is gang owned and operated, that the Mox are in charge, watching after their own. Just like the Lizzie of legend once did.
+<br><br>
+Know the story? "Lizzied used to work here back when it was just a typical dive with a stripper pole," Janice proudly explained. "She took care of the girls, made sure eddies were falling into the pockets... and their teeth weren't falling to the curb. Like this one time, this fucker (Editor's note: referring to a Tyger Claws gang member) was having too much "fun" with one of the girls, and Lizzie just couldn't stomach it anymore. Story is she deprived the worm of his little Tyger balls so quick and nasty it took them two days to clean up all the blood and puke splatter. 'Course, the Claws found out fast and they flatlined her in a flash. But everyone that she had impacted in some way, they were still around. They came together, fought back and-- (pause) Well... you already know the rest."
 </div>
 
 ## NC NIGHT LIFE – DRINKS, DANCING, DEBAUCHERY
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  [...] If you're a dancehead like us, don't miss out on LIZZIE'S. You'll find no   better braindance club in the city, no matter how deep you dig. Modern boxes,   solid tech, but most important: the catalogue, chock-full of nearly any exp you   can imagine. You'll find everything you need to get you off - fast or slow,   nasty or classy, and everything in-between. Don't let the girls at the front   door scare you off or kill your buzz - they're wary of newcomers, but once you   get in they'll treat you like one of their own. Trust us, give LIZZIE'S a try   and you'll never go anywhere else. 
-  
-  Now, THE AFTERLIFE? That's a different story. Sure, you can cut loose and have   a good time here, but THE AFTERLIFE is a place of business above all else. Want   to meet with a fixer about a job that needs doing? Discuss important gig   details with a client over drinks? Or maybe just sit back and people watch, to   see the comings and goings of the NC underworld's biggest merc and fixer names?   THE AFTERLIFE is a great place for all of the above. The only place, really. 
-  
-  If you're looking for the city's marquee events, you'll find yourself at RIOT.   Chart-topping playlists, live performances from the brightest stars (both local   and from around the world), DJ battles, unique music shows, and media-packed   album premieres - sound like your scene? Don't miss out on RIOT. [...]
-  
+(...) If you're a dancehead like us, don't miss out on LIZZIE'S. You'll find no better braindance club in the city, no matter how deep you dig. Modern boxes, solid tech, but most important: the catalogue, chock-full of nearly any exp you can imagine. You'll find everything you need to get you off - fast or slow, nasty or classy, and everything in-between. Don't let the girls at the front door scare you off or kill your buzz - they're wary of newcomers, but once you get in they'll treat you like one of their own. Trust us, give LIZZIE'S a try and you'll never go anywhere else. 
+<br><br>
+Now, THE AFTERLIFE? That's a different story. Sure, you can cut loose and have a good time here, but THE AFTERLIFE is a place of business above all else. Want to meet with a fixer about a job that needs doing? Discuss important gig details with a client over drinks? Or maybe just sit back and people watch, to see the comings and goings of the NC underworld's biggest merc and fixer names? THE AFTERLIFE is a great place for all of the above. The only place, really. 
+<br><br>
+If you're looking for the city's marquee events, you'll find yourself at RIOT. Chart-topping playlists, live performances from the brightest stars (both local and from around the world), DJ battles, unique music shows, and media-packed album premieres - sound like your scene? Don't miss out on RIOT. (...)
 </div>
 
 ## HOW TO KEEP YOUR SHARDS AND DATA SAFE FROM PICKSOCKETS! [TOP 3 WAYS]
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Are you reading this on the street? In a store? In the metro? When was the last   time you checked your neural sockets?
-  
-  The picksocket plague is worse than it's ever been. The NCPD received hundreds   of complaints in their last cycle from residents who reported having shards   stolen from their neural sockets. How can you protect yourself? We've got you   covered!
-  
-  Thefts largely go uninvestigated due to the police's prioritization of violent   crime, which has left picksockets feeling increasingly bold. Exploits used to   hack our neuralware are widely available on the black market, so many thieves   have shifted focus from our pockets to our sockets. One brief moment of   inattention and your private information is flying from your neck into   someone's sticky fingers. The NCPD admits tracking such thieves is difficult   and a waste of resources, which is why we're here to help keep your info safe   with 3 options to suit any budget.
-  
-  1. Change your settings to ensure you receive notifications any time a shard is   removed from a neural port. Unfortunately, this approach leads to a high number   of false positives when you're fiddling with your own neuralware.
-  2. Invest in new sockets. Several new models on the market already have   built-in safety and authorization measures to keep shards locked in tight. But   if you're pinching every enny, this solution could break the bank.
-  3. Duct tape. Slap on a square of that and those shards aren't going anywhere.   On a budget? Bad with tech? No regard for style? Then this is the option for   you!
-  
+Are you reading this on the street? In a store? In the metro? When was the last time you checked your neural sockets?
+<br><br>
+The picksocket plague is worse than it's ever been. The NCPD received hundreds of complaints in their last cycle from residents who reported having shards stolen from their neural sockets. How can you protect yourself? We've got you covered!
+<br><br>
+Thefts largely go uninvestigated due to the police's prioritization of violent crime, which has left picksockets feeling increasingly bold. Exploits used to hack our neuralware are widely available on the black market, so many thieves have shifted focus from our pockets to our sockets. One brief moment of inattention and your private information is flying from your neck into someone's sticky fingers. The NCPD admits tracking such thieves is difficult and a waste of resources, which is why we're here to help keep your info safe with 3 options to suit any budget.
+<br><br>
+1. Change your settings to ensure you receive notifications any time a shard is removed from a neural port. Unfortunately, this approach leads to a high number of false positives when you're fiddling with your own neuralware.<br>
+2. Invest in new sockets. Several new models on the market already have built-in safety and authorization measures to keep shards locked in tight. But if you're pinching every enny, this solution could break the bank.<br>
+3. Duct tape. Slap on a square of that and those shards aren't going anywhere. On a budget? Bad with tech? No regard for style? Then this is the option for you!
 </div>
 
 ## A FAMILY OF EMPIRE
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  The legacy of Arasaka needs no introduction. The Arasaka Corporation is one of   the world's most powerful, with offices located in every major metropolis   across the globe. For years, it has been behind the proverbial wheel of our   planet's economy and society. The history of Arasaka in Night City is deserving   of its own article, but suffice to say, the media industry in our city follows   the family behind the megacorp as closely as they do share prices.
-  
-  The story of the Arasaka family is one of empire – a true dynasty under the   rule of patriarch Saburo Arasaka. Rumors of the great Saburo's retirement and   cession of company control (as well as of its closely guarded secrets) to his   daughter, Hanako, and son, Yorinobu, have come and passed in recent years. But   has the time come where such rumors may finally contain a grain of truth?
-  
-  Our sources report that Yorinobu Arasaka is currently in Night City, but not   for a social call. And yet, if Yorinobu is strategizing a move for the throne,   what of Hanako? Experts who follow the family closely unanimously agree that –   due to "ideological" differences between Saburo and Yorinobu – Hanako will   likely cement herself as the one true heir to the immense fortune and power of   the Arasaka family. However, reality is hardly ever so predictable. Familial   power dynamics can shift in an instant. For example, what would happen if   Hanako fell from favor at a time when Yorinobu had his father's ear? And what   scenario might cause such a fall?
-  
-  No family is without its secrets, and the Arasakas are no exception. After   all... "What appears first as heaven, appears second as hell." – Japanese   proverb.
-  
+The legacy of Arasaka needs no introduction. The Arasaka Corporation is one of the world's most powerful, with offices located in every major metropolis across the globe. For years, it has been behind the proverbial wheel of our planet's economy and society. The history of Arasaka in Night City is deserving of its own article, but suffice to say, the media industry in our city follows the family behind the megacorp as closely as they do share prices.
+<br><br>
+The story of the Arasaka family is one of empire – a true dynasty under the rule of patriarch Saburo Arasaka. Rumors of the great Saburo's retirement and cession of company control (as well as of its closely guarded secrets) to his daughter, Hanako, and son, Yorinobu, have come and passed in recent years. But has the time come where such rumors may finally contain a grain of truth?
+<br><br>
+Our sources report that Yorinobu Arasaka is currently in Night City, but not for a social call. And yet, if Yorinobu is strategizing a move for the throne, what of Hanako? Experts who follow the family closely unanimously agree that – due to "ideological" differences between Saburo and Yorinobu – Hanako will likely cement herself as the one true heir to the immense fortune and power of the Arasaka family. However, reality is hardly ever so predictable. Familial power dynamics can shift in an instant. For example, what would happen if Hanako fell from favor at a time when Yorinobu had his father's ear? And what scenario might cause such a fall?
+<br><br>
+No family is without its secrets, and the Arasakas are no exception. After all... "What appears first as heaven, appears second as hell." – Japanese proverb.
 </div>
 
 ## THE VAMPIRE PRINCE IS BACK!
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Monster hunters beware!
-  
-  "Turbo Dracula" is a dark, gritty, visceral action game experience where you   play as the plasma-thirsty prince of puncture wounds himself – Dracula! He has   risen again, this time as a digi-clone in a body of chrome... but his appetite   for blood hasn't waned one bit. Assisted by the descendants of an ancient   bloodline, he wages war against the sinister HelsingCorp headed by the demon   brothers Manchester. They aim to take over the world with the help of   genetically spliced werewolf-zombies. Dracula must face difficult choices such   as whether to resurrect his old friend Viago or to transmutate into his nemeses!
-  
-  A polished real-time combat system and non-linear storyline offer the player   deep immersion in singleplayer, while the multiplayer mode allows you to team   up with your choombas as they take control of the brooding Varney or blonde fan   favorite Herbert. Without spoiling any of the endings (yes, multiple endings!),   I'll leave you with just one thing... Lady Carmilla Ruthven-Batory is hands   down the most captivating character ever written in the hundred-year history of   video games. Period.
-  
+Monster hunters beware!
+<br><br>
+"Turbo Dracula" is a dark, gritty, visceral action game experience where you play as the plasma-thirsty prince of puncture wounds himself – Dracula! He has risen again, this time as a digi-clone in a body of chrome... but his appetite for blood hasn't waned one bit. Assisted by the descendants of an ancient bloodline, he wages war against the sinister HelsingCorp headed by the demon brothers Manchester. They aim to take over the world with the help of genetically spliced werewolf-zombies. Dracula must face difficult choices such as whether to resurrect his old friend Viago or to transmutate into his nemeses!
+<br><br>
+A polished real-time combat system and non-linear storyline offer the player deep immersion in singleplayer, while the multiplayer mode allows you to team up with your choombas as they take control of the brooding Varney or blonde fan favorite Herbert. Without spoiling any of the endings (yes, multiple endings!), I'll leave you with just one thing... Lady Carmilla Ruthven-Batory is hands down the most captivating character ever written in the hundred-year history of video games. Period.
 </div>
 
 ## NO LIFE 3 - REVIEW
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  After fifty long years, the wait is finally over! The third and final   installment of the No Life series will be available for purchase TOMORROW! As   has been reported already, gamers should not expect any major shakeups in   regard to the protagonist. We still play as strong-silent-type scientist Baron   Freimensch. We follow Baron as he ventures to the Arctic Circle to... Well, why   spoil it when you'll have your hands on it in less than 24 hours! The gist:   with Alice at Baron's side and trusty crowbar in hand, those nasty aliens are   in for a rude awakening.
-  
+After fifty long years, the wait is finally over! The third and final installment of the No Life series will be available for purchase TOMORROW! As has been reported already, gamers should not expect any major shakeups in regard to the protagonist. We still play as strong-silent-type scientist Baron Freimensch. We follow Baron as he ventures to the Arctic Circle to... Well, why spoil it when you'll have your hands on it in less than 24 hours! The gist: with Alice at Baron's side and trusty crowbar in hand, those nasty aliens are in for a rude awakening.
 </div>
 
 ## THE STRUGGLE OF O'NEILL STATION.
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  The European Space Agency (ESA) started out with seemingly noble intentions:   "We'll open the door to the universe." "The Solar System - a home to all." And   so on an so forth.
-  
-  It didn't take long for these catchphrases to reveal themselves for what they   truly were - colonial ambitions wrapped up in lofty ideals. We, the builders   and first inhabitants of O'Neill 1 have witnessed this first-hand. The ESA sent   us into space with promises of a new life and a better tomorrow. Instead, what   lay in wait for us was a complete lack of freedom and back-breaking work in   extremely dangerous conditions.
-  
-  We would've pulled through, we would've toughed it out for the greater good -   if only they treated us as human beings, informed us of their decisions,   listened to our concerns and requests... But the ESA ignored us.
-  
-  The consequences were inevitable - in 2022, after completing construction of   the station, our situation was critical. Station management demanded eighteen   hours of work every day, seven days a week from everyone - regardless of age or   health condition. Our peaceful protest was met with a disproportionate use of   force, which included stun-guns. They thought it would break us, just like the   countless protests they broke back on Earth.
-  
-  The thing is, out here it's not so easy to call for reinforcements. Workers   outnumbered guards 40:1, and one stun-gun charge held only fifteen rounds. The   ESA's management had effectively shot themselves in the foot. It was over   before they could realize - only seven hours passed before O'Neill 1 and   O'Neill 2 declared independence and became the first nations established   outside of Earth...
-  
+The European Space Agency (ESA) started out with seemingly noble intentions: "We'll open the door to the universe." "The Solar System - a home to all." And so on an so forth.
+<br><br>
+It didn't take long for these catchphrases to reveal themselves for what they truly were - colonial ambitions wrapped up in lofty ideals. We, the builders and first inhabitants of O'Neill 1 have witnessed this first-hand. The ESA sent us into space with promises of a new life and a better tomorrow. Instead, what lay in wait for us was a complete lack of freedom and back-breaking work in extremely dangerous conditions.
+<br><br>
+We would've pulled through, we would've toughed it out for the greater good - if only they treated us as human beings, informed us of their decisions, listened to our concerns and requests... But the ESA ignored us.
+<br><br>
+The consequences were inevitable - in 2022, after completing construction of the station, our situation was critical. Station management demanded eighteen hours of work every day, seven days a week from everyone - regardless of age or health condition. Our peaceful protest was met with a disproportionate use of force, which included stun-guns. They thought it would break us, just like the countless protests they broke back on Earth.
+<br><br>
+The thing is, out here it's not so easy to call for reinforcements. Workers outnumbered guards 40:1, and one stun-gun charge held only fifteen rounds. The ESA's management had effectively shot themselves in the foot. It was over before they could realize - only seven hours passed before O'Neill 1 and O'Neill 2 declared independence and became the first nations established outside of Earth...
 </div>
 
 ## LOOKING FOR A CAREER CHANGE? JOIN NETWATCH!
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Tracking down netrunner renegades, combating daemons, rebuilding the American   Net – these are just some of the daily tasks entrusted to the special agents at   NetWatch. If you'd rather lose your eyes than your deck, if an encounter with   Mephistopheles is just another walk in the park for you, then maybe it's time   you joined out team.
-  
-  Here's what you can expect to contribute as a NetWatch agent:
-  
-  Ø Patrolling all public access levels of the Net 
-  Ø Tracking and eradicating illegal netrunner activity 
-  Ø Hunting down dangerous rogue AI 
-  Ø Exploring and neutralizing threats in the oldest parts of the Deep Net 
-  Ø Prohibiting the movement of people and AI across the Blackwall 
-  Ø Assisting in the expansion of secure netspace for public use
-  
-  Thanks to NetWatch, thousands of people can freely use approved search engines   and other Net services without fear of falling victim to nefarious daemon   threats. 24 hours a day, 365 days a year, we serve tirelessly to eliminate   corrupted data forts, safeguard our information, and arrest dangerous   cybercriminals.
-  
-  Do you have what it takes? Apply today.
-  
+Tracking down netrunner renegades, combating daemons, rebuilding the American Net – these are just some of the daily tasks entrusted to the special agents at NetWatch. If you'd rather lose your eyes than your deck, if an encounter with Mephistopheles is just another walk in the park for you, then maybe it's time you joined out team.
+<br><br>
+Here's what you can expect to contribute as a NetWatch agent:
+<br><br>
+Ø Patrolling all public access levels of the Net<br> 
+Ø Tracking and eradicating illegal netrunner activity<br> 
+Ø Hunting down dangerous rogue AI<br> 
+Ø Exploring and neutralizing threats in the oldest parts of the Deep Net<br> 
+Ø Prohibiting the movement of people and AI across the Blackwall<br> 
+Ø Assisting in the expansion of secure netspace for public use
+<br><br>
+Thanks to NetWatch, thousands of people can freely use approved search engines and other Net services without fear of falling victim to nefarious daemon threats. 24 hours a day, 365 days a year, we serve tirelessly to eliminate corrupted data forts, safeguard our information, and arrest dangerous cybercriminals.
+<br><br>
+Do you have what it takes? Apply today.
 </div>
 
 ## WHO IS LIZZY WIZZY PRETENDING TO BE?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  "We are who we pretend to be. I've pretended to be everything - that's why I've   found the truth."
-  
-  Lizzy Wizzy is an artist par excellence. Her work includes award-winning albums   and concert tours, film appearances as well as (for lack of a better term)   conceptual performance art. Her latest artistic obsession features the medium   of braindance. In recent interviews, Lizzy has mused about the boundary between   our documentation of reality versus our active shaping of it. Could that mean   Lizzy Wizzy plans to scroll her own BD? We can only dream! The chance to live   just one day in her chrome skin... Fans would go wild!
-  
+"We are who we pretend to be. I've pretended to be everything - that's why I've found the truth."
+<br><br>
+Lizzy Wizzy is an artist par excellence. Her work includes award-winning albums and concert tours, film appearances as well as (for lack of a better term) conceptual performance art. Her latest artistic obsession features the medium of braindance. In recent interviews, Lizzy has mused about the boundary between our documentation of reality versus our active shaping of it. Could that mean Lizzy Wizzy plans to scroll her own BD? We can only dream! The chance to live just one day in her chrome skin... Fans would go wild!
 </div>
 
 ## WHAT REALLY HAPPENED IN ARASAKA TOWER?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  [...] If Militech was behind the assault on Arasaka Tower in 2023, and if   there's actual EVIDENCE to support that, then why didn't Arasaka return the   favor and nuke Militech?
-  
-  By now there's no doubt the bomb was manufactured by Militech, but that doesn't   mean they detonated it. I confess, I'm not a huge fan of the popular theory   that Johnny Silverhand, the controversial rockerboy, was behind the whole   thing. In fact, I'm not really a Silverhand fan, period. Silverhand was a poser   and a blowhard - not someone who would actually follow through on his grandiose   bluffs (full disclosure, I just don't think Silverhand would have the balls to   pull off something like that).
-  
-  Let's think this through - who hates corporations the most?
-  
-  Nomads, obviously. Remember that mass-market BD called "Badlands Raid" from the   20s about a band of nomads who attack a Militech convoy? Well, guess when it   premiered? That's right - on the night of the attack. Coincidence? I think not.
-  
-  Yes, yes, there's a Silverhand cameo in there somewhere, but that's just a   marketing ploy - a BD scrolled by a bunch of cactus-huggers wouldn't sell for   an enny without a recognizable face. But I'm more intrigued by the main actress   - how is it she didn't star in any other production despite "Badlands Raid's"   huge sales? Where was she during the attack?
-  
+[...] If Militech was behind the assault on Arasaka Tower in 2023, and if there's actual EVIDENCE to support that, then why didn't Arasaka return the favor and nuke Militech?
+<br><br>
+By now there's no doubt the bomb was manufactured by Militech, but that doesn't mean they detonated it. I confess, I'm not a huge fan of the popular theory that Johnny Silverhand, the controversial rockerboy, was behind the whole thing. In fact, I'm not really a Silverhand fan, period. Silverhand was a poser and a blowhard - not someone who would actually follow through on his grandiose bluffs (full disclosure, I just don't think Silverhand would have the balls to pull off something like that).
+<br><br>
+Let's think this through - who hates corporations the most?
+<br><br>
+Nomads, obviously. Remember that mass-market BD called "Badlands Raid" from the 20s about a band of nomads who attack a Militech convoy? Well, guess when it premiered? That's right - on the night of the attack. Coincidence? I think not.
+<br><br>
+Yes, yes, there's a Silverhand cameo in there somewhere, but that's just a marketing ploy - a BD scrolled by a bunch of cactus-huggers wouldn't sell for an enny without a recognizable face. But I'm more intrigued by the main actress - how is it she didn't star in any other production despite "Badlands Raid's" huge sales? Where was she during the attack?
 </div>
 
 ## ARASAKA AND ORNITHOLOGY: THREE JAPANESE WORDS TO KNOW
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  As conversations over factionalism within Arasaka heat up, many industry   insiders wonder about the company's future trajectory. If you struggle to   understand the complicated inner machinations of the world's largest arms   manufacturer, look no further than the obscure science of ornithology. Yes,   that's right; the study of birds can help. At least, in a sense. There are   three Japanese words every corporate player ought to be familiar with: kiji,   hato, and taka.
-  
-  Kiji - green pheasant. This bird has long held cultural and symbolic   significance in Japan. One can admire the world's last living specimens at   Hanako Arasaka's private preserve on the island of Shikoku. But the word "kiji"   also bears meaning among the factional identities within Arasaka. This group,   with Hanako at its center, consists primarily of conservative technocrats who   wish to follow the course set by Saburo Arasaka himself.
-  In his daughter, Hanako, they see a guiding force to maintain the old order and   stability within the corporation..
-  
-  Hato - dove. The symbolism of the dove is recognized far and wide. The symbol   also aptly captures the character of the a much smaller faction within the   company led by Michiko Arasaka, daughter of the late Kei and niece to Hanako.*   This liberal wing of the corporation has unified those who seek deeper reforms.   Although they currently hold little influence, they enjoy growing support   popularity among some politicians and media personalities.
-  
-  Taka - hawk. As symbolic as the dove is, so, too, is the hawk. This faction,   headed by Yorinobu Arasaka, often prefers to take the most direct and   uncompromising solutions. Both stubborn and temperamental, he resembles Saburo   which has given him wide support among the more militant-minded Arasaka Corp.   elite. However, his more pro-Western inclinations and ideas that are innovative   as they are controversial have weakened his support from the Board's loyal   traditionalists.
-  
-  * You can learn more about Arasaka family genealogy from the eight-book series   "Two Centuries in the Clover's Shadow." Available in stores soon.
-  
+As conversations over factionalism within Arasaka heat up, many industry insiders wonder about the company's future trajectory. If you struggle to understand the complicated inner machinations of the world's largest arms manufacturer, look no further than the obscure science of ornithology. Yes, that's right; the study of birds can help. At least, in a sense. There are three Japanese words every corporate player ought to be familiar with: kiji, hato, and taka.
+<br><br>
+Kiji - green pheasant. This bird has long held cultural and symbolic significance in Japan. One can admire the world's last living specimens at Hanako Arasaka's private preserve on the island of Shikoku. But the word "kiji" also bears meaning among the factional identities within Arasaka. This group, with Hanako at its center, consists primarily of conservative technocrats who wish to follow the course set by Saburo Arasaka himself.
+In his daughter, Hanako, they see a guiding force to maintain the old order and stability within the corporation..
+<br><br>
+Hato - dove. The symbolism of the dove is recognized far and wide. The symbol also aptly captures the character of the a much smaller faction within the company led by Michiko Arasaka, daughter of the late Kei and niece to Hanako.* This liberal wing of the corporation has unified those who seek deeper reforms. Although they currently hold little influence, they enjoy growing support popularity among some politicians and media personalities.
+<br><br>
+Taka - hawk. As symbolic as the dove is, so, too, is the hawk. This faction, headed by Yorinobu Arasaka, often prefers to take the most direct and uncompromising solutions. Both stubborn and temperamental, he resembles Saburo which has given him wide support among the more militant-minded Arasaka Corp. elite. However, his more pro-Western inclinations and ideas that are innovative as they are controversial have weakened his support from the Board's loyal traditionalists.
+<br><br>
+* You can learn more about Arasaka family genealogy from the eight-book series "Two Centuries in the Clover's Shadow." Available in stores soon.
 </div>
 
 ## STORM ON THE MARE CRISIUM
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  By now we're all avid viewers of the reality TV show that is orbital politics. 
-  Except this is real life, and what happens up there could have real   consequences for all of us down here. Recently everyone's been talking about   the attack on Ursula Correira, resulting in the complete loss of control in the   lower half of her body. The media has been endlessly replaying remarks made by   Correira's younger brother, Vagner, while also discussing the latest outfit   worn by Yara Ayoade to the official press conference where she denied rumors   that Correira's family had any hand in her "accident."
-  
-  I don't know about all of you, but with each passing day, the saying "What   happens in orbit, stays in orbit" is starting to sound like dangerously wishful   thinking.
-  
+By now we're all avid viewers of the reality TV show that is orbital politics. 
+Except this is real life, and what happens up there could have real consequences for all of us down here. Recently everyone's been talking about the attack on Ursula Correira, resulting in the complete loss of control in the lower half of her body. The media has been endlessly replaying remarks made by Correira's younger brother, Vagner, while also discussing the latest outfit worn by Yara Ayoade to the official press conference where she denied rumors that Correira's family had any hand in her "accident."
+<br><br>
+I don't know about all of you, but with each passing day, the saying "What happens in orbit, stays in orbit" is starting to sound like dangerously wishful thinking.
 </div>
 
 # Leaflets
@@ -283,47 +257,43 @@ For comparison, the average survival rate for traffic accidents across all Traum
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  DELAMAIN
-  
-  Need to be on time for an important meeting? Don't want your valuable tech to   fall into the wrong hands? Or maybe you just don't like crowds? 
-  With Delamain, you leave your problems at the door. Our corporate transport   service has a fleet of over 20 ARMORED CARS ready and waiting to bring you to   your destination in comfort and security.
-  
-  We guarantee: 
-  - secure transport for individuals and packages in the Night City area; 
-  - quality that goes hand in hand with speed; 
-  - professional customer servers; 
-  - specifications to suit even the most demanding clients; 
-  - discounts for loyal customers.
-  
-  They say that most accidents happen in the home. They're wrong. Did you know   that over 82% of crimes and accidents happen on the streets? Thanks to   Delamain, you'll never have to worry about statistics again. Our clients'   comfort and security is our #1 priority.
-  
-  We hold ALL safety requirement certificates! 
-  WE DON'T ASK QUESTIONS!
-  
-  There's no sound more beautiful than the symphony of hostile bullets bouncing   off our armored windows. Try the EXCELSIOR PACKAGE and enjoy our maximum   security option.
-  
-  Safety is the one luxury you CAN afford. 
-  So what are you waiting for? Order a Delamain TODAY.
-  
-  DELAMAIN 
-  LEAVE YOUR PROBLEMS AT THE DOOR
-  
+DELAMAIN
+<br><br>
+Need to be on time for an important meeting? Don't want your valuable tech to fall into the wrong hands? Or maybe you just don't like crowds?<br>
+With Delamain, you leave your problems at the door. Our corporate transport service has a fleet of over 20 ARMORED CARS ready and waiting to bring you to your destination in comfort and security.
+<br><br>
+We guarantee:<br>
+> secure transport for individuals and packages in the Night City area;<br> 
+> quality that goes hand in hand with speed;<br> 
+> professional customer servers;<br> 
+> specifications to suit even the most demanding clients;<br> 
+> discounts for loyal customers.
+<br><br>
+They say that most accidents happen in the home. They're wrong. Did you know that over 82% of crimes and accidents happen on the streets? Thanks to Delamain, you'll never have to worry about statistics again. Our clients' comfort and security is our #1 priority.
+<br><br>
+We hold ALL safety requirement certificates!<br>
+WE DON'T ASK QUESTIONS!
+<br><br>
+There's no sound more beautiful than the symphony of hostile bullets bouncing off our armored windows. Try the EXCELSIOR PACKAGE and enjoy our maximum security option.
+<br><br>
+Safety is the one luxury you CAN afford.<br> 
+So what are you waiting for? Order a Delamain TODAY.
+<br><br>
+DELAMAIN<br> 
+LEAVE YOUR PROBLEMS AT THE DOOR
 </div>
 
 ## KONPEKI PLAZA
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  KONPEKI PLAZA 
-  Luxury. Beauty. Discretion. 
-   
-  What holds more power than a place? An idea. Konpeki Plaza is more than a hotel   - it is a space in which reality is curated to even the most refined tastes and   sensibilities. 
-  At Konpeki Plaza, you'll find 420 exclusive apartments, 20 conference rooms, 14   fully equipped pools, and the finest bars, restaurants and that which cannot be   measured by numbers alone - luxury, beauty and discretion. Our world-class   customer care will fulfill even the deepest needs and desires of our guests,   turning your stay in Konpeki Plaza into an unforgettable experience. When it   comes to the comfort of our clients, there is no such thing as the impossible. 
-   
-  Discover new dimensions of comfort, enjoy the best Night City has to offer.
-  
+KONPEKI PLAZA<br>
+Luxury. Beauty. Discretion. 
+<br><br>
+What holds more power than a place? An idea. Konpeki Plaza is more than a hotel - it is a space in which reality is curated to even the most refined tastes and sensibilities. 
+At Konpeki Plaza, you'll find 420 exclusive apartments, 20 conference rooms, 14 fully equipped pools, and the finest bars, restaurants and that which cannot be measured by numbers alone - luxury, beauty and discretion. Our world-class customer care will fulfill even the deepest needs and desires of our guests, turning your stay in Konpeki Plaza into an unforgettable experience. When it comes to the comfort of our clients, there is no such thing as the impossible. 
+<br><br>
+Discover new dimensions of comfort, enjoy the best Night City has to offer.
 </div>
 
 # Literature
