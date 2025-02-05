@@ -93,9 +93,9 @@ categories: English
 <div class="cyberpunk-bg cyberpunk-cyan">
   
   Second-rate equipment, under-trained medical "professionals", and high death   rates – this is the best Night City's public emergency services have to offer.   In addition to poor performance metrics, so too has their public image   suffered. Scandals involving city EMTs colluding with scavengers have gone from   rare to commonplace.
-  
+  <br><br>
   Recent cuts in municipal healthcare spending have led to the outright collapse   of a medical system that already underperformed by most standards in the   developed world. Ironically, this so-called "reform" resulted in a greater   drain of doctors, nurses, paramedics and dispatchers from the public sector.   Where quality healthcare was spotty before, now too is even calling the   emergency hotline. Should you be among the lucky to reach a dispatcher, expect   more than a half hour for an ambulance to arrive. And should you not bleed out   before reaching the hospital, you're even less likely to find an available bed.   Recent data show a survival rate for traffic accidents in Night City at a   meager 17%.
-  
+  <br><br>
   For comparison, the average survival rate for traffic accidents across all   Trauma Team policies is 91%. Response time is guaranteed to never exceed 3   minutes. Heaven on Earth? No. The minimum we all deserve. Something to keep in   mind as you plan your personal budget... Purchase Trauma Team's Platinum-level   coverage for the cost of Gold and safeguard your life today. Limited-time offer.
   
 </div>
@@ -106,10 +106,10 @@ categories: English
 <div class="cyberpunk-bg cyberpunk-cyan">
   
   Kazuo Kano – ronin from Osaka
-  
-  Kazuo Kano's name is on the lips of everyone in the boxing world. The   up-and-coming light heavyweight remains undefeated after twenty professional   fights, seventeen of which were won by technical knockout. 
-  Some accuse Kano of doping, others say he has connections with the Yakuza.   While training in Night City, the light heavyweight was allegedly seen   "receiving" guests from Japan in his gym. Afterwards they were then seen being   carried out of the gym unconscious. Wide scars have been visible near Kano's   ribs for the last three fights. Local ripperdocs say that the scars definitely   do not look like an appendix removal procedure... 
-  Will Kano become the light heavyweight champion of the world? We'll see after   Malone takes his revenge on Hernandez.
+  <br><br>
+  Kazuo Kano's name is on the lips of everyone in the boxing world. The   up-and-coming light heavyweight remains undefeated after twenty professional fights, seventeen of which were won by technical knockout. 
+  Some accuse Kano of doping, others say he has connections with the Yakuza.   While training in Night City, the light heavyweight was allegedly seen   "receiving" guests from Japan in his gym. Afterwards they were then seen being carried out of the gym unconscious. Wide scars have been visible near Kano's ribs for the last three fights. Local ripperdocs say that the scars definitely do not look like an appendix removal procedure... 
+  Will Kano become the light heavyweight champion of the world? We'll see after Malone takes his revenge on Hernandez.
   
 </div>
 
@@ -118,11 +118,11 @@ categories: English
 
 <div class="cyberpunk-bg cyberpunk-cyan">
   
-  (...)It's one of those stories that is either very simple or very complicated,   depending on who you ask. For Janice, it was a mix of both: "The Mox came to   exist because it had to. We didn't have a soul in our corner, no one to make   sure street justice was on our side. So we took matters into our own hands."
-  
-  The Mox is composed of the people who, if any of them disappeared from the   streets tomorrow, you might never even notice: sex workers, ennyless artists,   aimless rebels, and restless souls who weren't dealt a fair hand. Today, the   Mox is thriving, as demonstrated by the booming biz of Lizzie's Bar. Lizzie's   is renown for being arguably the best braindance club in Night City. Corporate   suits, gangoons, pop stars, and locals alike all gather at Lizzie's to kick   back, have a drink, and dip into the most beautifully scrolled and tuned BDs   you've ever experienced. Most customers, however, are oblivious to the fact   that the club is gang owned and operated, that the Mox are in charge, watching   after their own. Just like the Lizzie of legend once did.
-  
-  Know the story? "Lizzied used to work here back when it was just a typical dive   with a stripper pole," Janice proudly explained. "She took care of the girls,   made sure eddies were falling into the pockets... and their teeth weren't   falling to the curb. Like this one time, this fucker (Editor's note: referring   to a Tyger Claws gang member) was having too much "fun" with one of the girls,   and Lizzie just couldn't stomach it anymore. Story is she deprived the worm of   his little Tyger balls so quick and nasty it took them two days to clean up all   the blood and puke splatter. 'Course, the Claws found out fast and they   flatlined her in a flash. But everyone that she had impacted in some way, they   were still around. They came together, fought back and-- (pause) Well... you   already know the rest."
+  [...]It's one of those stories that is either very simple or very complicated, depending on who you ask. For Janice, it was a mix of both: "The Mox came to exist because it had to. We didn't have a soul in our corner, no one to make sure street justice was on our side. So we took matters into our own hands."
+  <br><br>
+  The Mox is composed of the people who, if any of them disappeared from the   streets tomorrow, you might never even notice: sex workers, ennyless artists, aimless rebels, and restless souls who weren't dealt a fair hand. Today, the Mox is thriving, as demonstrated by the booming biz of Lizzie's Bar. Lizzie's is renown for being arguably the best braindance club in Night City. Corporate suits, gangoons, pop stars, and locals alike all gather at Lizzie's to kick back, have a drink, and dip into the most beautifully scrolled and tuned BDs you've ever experienced. Most customers, however, are oblivious to the fact that the club is gang owned and operated, that the Mox are in charge, watching after their own. Just like the Lizzie of legend once did.
+  <br><br>
+  Know the story? "Lizzied used to work here back when it was just a typical dive   with a stripper pole," Janice proudly explained. "She took care of the girls, made sure eddies were falling into the pockets... and their teeth weren't falling to the curb. Like this one time, this fucker (Editor's note: referring to a Tyger Claws gang member) was having too much "fun" with one of the girls, and Lizzie just couldn't stomach it anymore. Story is she deprived the worm of his little Tyger balls so quick and nasty it took them two days to clean up all the blood and puke splatter. 'Course, the Claws found out fast and they flatlined her in a flash. But everyone that she had impacted in some way, they were still around. They came together, fought back and-- (pause) Well... you already know the rest."
   
 </div>
 
