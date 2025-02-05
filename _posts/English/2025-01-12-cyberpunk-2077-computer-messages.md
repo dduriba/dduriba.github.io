@@ -487,7 +487,6 @@ this week:
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<br>
 <span class="cyberpunk-blue pen-bold">Rent Past Due</span>
 <span class="cyberpunk-lightgreen">&nbsp;&nbsp;2막 시작 후 V의 컴퓨터에 전송된 메시지</span>
 <span class="cyberpunk-cyan">
@@ -496,9 +495,7 @@ this week:
 <br><br>
 <span class="pen-bold">To: V</span>
 <hr class="cyberpunk-hr">
-<br>
-Dear Sir/Madam,
-<br><br>
+Dear Sir/Madam,<br>
 Our records show we have not received this month's rent payment for your unit in Megabuilding H10. In accordance with the tenancy agreement VD-233015722/2077, any subsequent payment delay will result in forced eviction from the property.
 </span>
 </div>
@@ -507,7 +504,6 @@ Our records show we have not received this month's rent payment for your unit in
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<br>
 <span class="cyberpunk-blue pen-bold">your fucked</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -515,21 +511,17 @@ Our records show we have not received this month's rent payment for your unit in
 <br><br>
 <span class="pen-bold">To: Viktor</span>
 <hr class="cyberpunk-hr">
-<br>
-we won't forget
-<br><br>
+we won't forget<br>
 you're a dead man walking
 <br><br>
 -----
 <br><br>
-From: Viktor
-<br><br>
-To: Blaze
-<br><br>
+From: Viktor<br>
+To: Blaze<br>
 Re: your fucked
 <br><br>
 if any of your lackeys show up here again, they're in for worse than a split jaw.
-<br><br>
+<br>
 That's not an empty threat. Try me. motherfuckers.
 
 ## BIOTECHNICA - WORK WITH US
