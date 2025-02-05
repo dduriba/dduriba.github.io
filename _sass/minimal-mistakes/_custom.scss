@@ -73,6 +73,24 @@
   text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
 }
 
+.cyberpunk-violet {
+  --text-color: 151, 152, 235 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
+}
+
+.cyberpunk-blue {
+  --text-color: 117, 155, 255 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
+}
+
+.cyberpunk-lightgreen {
+  --text-color: 223, 245, 98 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
+}
+
 .cyberpunk-bg {
   background-color: #343434 !important;
   padding: 16px !important;

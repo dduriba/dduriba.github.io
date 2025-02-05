@@ -480,25 +480,27 @@ this week:
 
 +++Warn Konpeki administration that we need another week to finish up.
 
-# PC - V
-{: .notice--warning}
+# Personal Computer
+{: .notice--cyberpunk-yellow}
 
-## RENT PAST DUE
-{: .notice--success}
+## V
+{: .notice--cyberpunk-red}
 
-2막 시작 후 V의 컴퓨터에 온 메세지
-
-<span class="pen-bold">Rent Past Due</span>
-
-<span class="pen-bold">From: Megabuilding Administration</span>
-
-<span class="pen-bold">To: V</span>
-
----
-
+<div class="cyberpunk-bg">
+<p class="cyberpunk-blue">Rent Past Due</p>
+<p class="cyberpunk-lightgreen">2막 시작 후 V의 컴퓨터에 온 메세지</p>
+<span class="cyberpunk-cyan">
+From: Megabuilding Administration
+<br><br>
+To: V
+<br><br>
+----
+<br><br>
 Dear Sir/Madam,
-
+<br><br>
 Our records show we have not received this month's rent payment for your unit in Megabuilding H10. In accordance with the tenancy agreement VD-233015722/2077, any subsequent payment delay will result in forced eviction from the property.
+</span>
+</div>
 
 # PC - Viktor Vektor
 {: .notice--warning}
