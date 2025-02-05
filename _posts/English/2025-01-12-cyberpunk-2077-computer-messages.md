@@ -487,19 +487,19 @@ this week:
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<p class="cyberpunk-blue">Rent Past Due</p>
-<p class="cyberpunk-lightgreen">2막 시작 후 V의 컴퓨터에 온 메세지</p>
-<span class="cyberpunk-cyan">
-From: Megabuilding Administration
+<p class="cyberpunk-blue pen-bold">Rent Past Due</p>
+<p class="cyberpunk-lightgreen">2막 시작 후 V의 컴퓨터에 전송된 메시지</p>
+<p class="cyberpunk-cyan">
+<span class="pen-bold">From: Megabuilding Administration</span>
 <br><br>
-To: V
+<span class="pen-bold">To: V</span>
 <br><br>
 ----
 <br><br>
 Dear Sir/Madam,
 <br><br>
 Our records show we have not received this month's rent payment for your unit in Megabuilding H10. In accordance with the tenancy agreement VD-233015722/2077, any subsequent payment delay will result in forced eviction from the property.
-</span>
+</p>
 </div>
 
 # PC - Viktor Vektor
