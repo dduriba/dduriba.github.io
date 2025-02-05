@@ -523,6 +523,8 @@ Re: your fucked
 if any of your lackeys show up here again, they're in for worse than a split jaw.
 <br>
 That's not an empty threat. Try me. motherfuckers.
+</span>
+</div>
 
 ## BIOTECHNICA - WORK WITH US
 {: .notice--success}
