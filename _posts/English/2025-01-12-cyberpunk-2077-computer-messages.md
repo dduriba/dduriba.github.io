@@ -503,34 +503,33 @@ Our records show we have not received this month's rent payment for your unit in
 </span>
 </div>
 
-# PC - Viktor Vektor
-{: .notice--warning}
+## Viktor Vektor
+{: .notice--cyberpunk-red}
 
-## YOUR FUCKED
-{: .notice--success}
-
-<span class="pen-bold">your fucked</span>
-
+<div class="cyberpunk-bg">
+<br>
+<span class="cyberpunk-blue pen-bold">your fucked</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 <span class="pen-bold">From: Blaze</span>
-
+<br><br>
 <span class="pen-bold">To: Viktor</span>
-
----
-
+<hr class="cyberpunk-hr">
+<br>
 we won't forget
-
+<br><br>
 you're a dead man walking
-
+<br><br>
 -----
-
+<br><br>
 From: Viktor
-
+<br><br>
 To: Blaze
-
+<br><br>
 Re: your fucked
-
+<br><br>
 if any of your lackeys show up here again, they're in for worse than a split jaw.
-
+<br><br>
 That's not an empty threat. Try me. motherfuckers.
 
 ## BIOTECHNICA - WORK WITH US
