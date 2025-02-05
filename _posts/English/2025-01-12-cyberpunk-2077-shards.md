@@ -62,32 +62,28 @@ Sadly, I haven't been able to personally examine the specifications of this rema
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  It's that time of the year again we present our list of the biggest and best   corps to work for in Night City! Who offers paid vacation? Who pays for   employees' Trauma Team insurance policies? Who provides discounts for daycare   and child bodyguard services? Have a look at our rankings below!
-  <br><br>
-  1. Arasaka – Coming in again this year in our #1 spot the Japanese zaibatsu   juggernaut. Employees can expect to be fit with the latest in cyberware   technology with a loyalty obligation of only 20 years!
-  <br><br>
-  2. Militech – The American arms giant provides its employees with up to 50%   discounts on all Militech weapons. With a deal that good, you'd be able to put   a Mk.31 Heavy Machine Gun under the Christmas tree for everyone in the family!
-  <br><br>
-  3. Biotechnica – Our 2077 bronze medal goes to Biotechnica who offers up to six   (yes, six!) paid vacation days a year!
-  <br><br>
-  4. Kang Tao – China's largest tech and arms manufacturer treats its employees   to a Gold Membership with Trauma Team. Never spend a single minute of your   50-year loyalty pledge worrying about paying for health coverage!
-  <br><br>
-  5. Night Corp – While this hometown product can't compete with the biggest   international players in terms of budget or ambition, they certainly know how   to spoil their staff. Night Corp snuck into our Big 5 after a recent   announcement to reduce the mandatory workweek to just 80 hours! They are a   must-apply for all you family-focused folks out there.
-  
+It's that time of the year again we present our list of the biggest and best corps to work for in Night City! Who offers paid vacation? Who pays for employees' Trauma Team insurance policies? Who provides discounts for daycare and child bodyguard services? Have a look at our rankings below!
+<br><br>
+1. Arasaka – Coming in again this year in our #1 spot the Japanese zaibatsu juggernaut. Employees can expect to be fit with the latest in cyberware technology with a loyalty obligation of only 20 years!
+<br><br>
+2. Militech – The American arms giant provides its employees with up to 50% discounts on all Militech weapons. With a deal that good, you'd be able to put a Mk.31 Heavy Machine Gun under the Christmas tree for everyone in the family!
+<br><br>
+3. Biotechnica – Our 2077 bronze medal goes to Biotechnica who offers up to six (yes, six!) paid vacation days a year!
+<br><br>
+4. Kang Tao – China's largest tech and arms manufacturer treats its employees to a Gold Membership with Trauma Team. Never spend a single minute of your 50-year loyalty pledge worrying about paying for health coverage!
+<br><br>
+5. Night Corp – While this hometown product can't compete with the biggest international players in terms of budget or ambition, they certainly know how to spoil their staff. Night Corp snuck into our Big 5 after a recent announcement to reduce the mandatory workweek to just 80 hours! They are a must-apply for all you family-focused folks out there.
 </div>
 
 ## HEALTHCARE AND TRAFFIC SAFETY – TRAUMA TEAM LEADS THE WAY
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Second-rate equipment, under-trained medical "professionals", and high death   rates – this is the best Night City's public emergency services have to offer.   In addition to poor performance metrics, so too has their public image   suffered. Scandals involving city EMTs colluding with scavengers have gone from   rare to commonplace.
-  <br><br>
-  Recent cuts in municipal healthcare spending have led to the outright collapse   of a medical system that already underperformed by most standards in the   developed world. Ironically, this so-called "reform" resulted in a greater   drain of doctors, nurses, paramedics and dispatchers from the public sector.   Where quality healthcare was spotty before, now too is even calling the   emergency hotline. Should you be among the lucky to reach a dispatcher, expect   more than a half hour for an ambulance to arrive. And should you not bleed out   before reaching the hospital, you're even less likely to find an available bed.   Recent data show a survival rate for traffic accidents in Night City at a   meager 17%.
-  <br><br>
-  For comparison, the average survival rate for traffic accidents across all   Trauma Team policies is 91%. Response time is guaranteed to never exceed 3   minutes. Heaven on Earth? No. The minimum we all deserve. Something to keep in   mind as you plan your personal budget... Purchase Trauma Team's Platinum-level   coverage for the cost of Gold and safeguard your life today. Limited-time offer.
-  
+Second-rate equipment, under-trained medical "professionals", and high death rates – this is the best Night City's public emergency services have to offer. In addition to poor performance metrics, so too has their public image suffered. Scandals involving city EMTs colluding with scavengers have gone from rare to commonplace.
+<br><br>
+Recent cuts in municipal healthcare spending have led to the outright collapse of a medical system that already underperformed by most standards in the developed world. Ironically, this so-called "reform" resulted in a greater drain of doctors, nurses, paramedics and dispatchers from the public sector. Where quality healthcare was spotty before, now too is even calling the emergency hotline. Should you be among the lucky to reach a dispatcher, expect more than a half hour for an ambulance to arrive. And should you not bleed out before reaching the hospital, you're even less likely to find an available bed. Recent data show a survival rate for traffic accidents in Night City at a meager 17%.
+<br><br>
+For comparison, the average survival rate for traffic accidents across all Trauma Team policies is 91%. Response time is guaranteed to never exceed 3 minutes. Heaven on Earth? No. The minimum we all deserve. Something to keep in mind as you plan your personal budget... Purchase Trauma Team's Platinum-level coverage for the cost of Gold and safeguard your life today. Limited-time offer.
 </div>
 
 ## LEFT JAB: BOXER'S MONTHLY
