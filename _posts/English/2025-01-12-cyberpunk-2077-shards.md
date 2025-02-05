@@ -3,10 +3,10 @@ title: "Cyberpunk 2077 Shards"
 categories: English
 ---
 
-# Articles
+# ARTICLES
 {: .notice--cyberpunk-yellow}
 
-## EMERGENCY ON DEMAND
+## Emergency on Demand
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -29,7 +29,7 @@ Surely, you ask, these medical "professionals" are also guided by their Hippocra
 Please...
 </div>
 
-## NEW RELEASE BRAINDANCES
+## New Release Braindances
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -46,7 +46,7 @@ Badlands Raid<br>
 At last, a BD for those looking for something a little lighter. "Badlands Raid" is a remake of the 2023 classic, which was an innovative tour de force of the time. For those of you unfamiliar, the plot revolves around an ordinary, boring guy who accidentally gets tangled up in a nomad ambush on a Zetatech convoy. I won't spoil it because, even though the main plot hasn't changed in 54 years, most people these days probably don't know the ending. What I will say is this: the remake's creators have introduced a few modern twists into the story that should make for a pleasant surprise to classics-lovers and newbies alike.
 </div>
 
-## THE RELIC – WHY ALL THE FUSS?
+## The Relic – why all the fuss?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -58,7 +58,7 @@ What's more, the shard can be slotted into one's neural port, allowing its user 
 Sadly, I haven't been able to personally examine the specifications of this remarkable piece of technology. Access to the Relic is heavily restricted by Arasaka, and only a small, select group of testers are allowed to participate in the program. Unsurprisingly, these testers are among the wealthiest and most influential people in the world - precisely the kinds of people Arasaka would like to have in its pocket. For the ordinary consumers reading this - don't expect the Relic to hit mass markets anytime soon.
 </div>
 
-## BIG 5 EMPLOYERS IN NIGHT CITY – 2077
+## Big 5 Employers in Night City – 2077
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -75,7 +75,7 @@ It's that time of the year again we present our list of the biggest and best cor
 5. Night Corp – While this hometown product can't compete with the biggest international players in terms of budget or ambition, they certainly know how to spoil their staff. Night Corp snuck into our Big 5 after a recent announcement to reduce the mandatory workweek to just 80 hours! They are a must-apply for all you family-focused folks out there.
 </div>
 
-## HEALTHCARE AND TRAFFIC SAFETY – TRAUMA TEAM LEADS THE WAY
+## Healthcare and Traffic Safety – Trauma Team Leads the Way
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -86,7 +86,7 @@ Recent cuts in municipal healthcare spending have led to the outright collapse o
 For comparison, the average survival rate for traffic accidents across all Trauma Team policies is 91%. Response time is guaranteed to never exceed 3 minutes. Heaven on Earth? No. The minimum we all deserve. Something to keep in mind as you plan your personal budget... Purchase Trauma Team's Platinum-level coverage for the cost of Gold and safeguard your life today. Limited-time offer.
 </div>
 
-## LEFT JAB: BOXER'S MONTHLY
+## Left Jab: Boxer's Monthly
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -97,7 +97,7 @@ Some accuse Kano of doping, others say he has connections with the Yakuza. While
 Will Kano become the light heavyweight champion of the world? We'll see after Malone takes his revenge on Hernandez.
 </div>
 
-## THE MOX
+## The Mox
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -108,7 +108,7 @@ The Mox is composed of the people who, if any of them disappeared from the stree
 Know the story? "Lizzied used to work here back when it was just a typical dive with a stripper pole," Janice proudly explained. "She took care of the girls, made sure eddies were falling into the pockets... and their teeth weren't falling to the curb. Like this one time, this fucker (Editor's note: referring to a Tyger Claws gang member) was having too much "fun" with one of the girls, and Lizzie just couldn't stomach it anymore. Story is she deprived the worm of his little Tyger balls so quick and nasty it took them two days to clean up all the blood and puke splatter. 'Course, the Claws found out fast and they flatlined her in a flash. But everyone that she had impacted in some way, they were still around. They came together, fought back and-- (pause) Well... you already know the rest."
 </div>
 
-## NC NIGHT LIFE – DRINKS, DANCING, DEBAUCHERY
+## NC Night Life – Drinks, Dancing, Debauchery
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -119,7 +119,7 @@ Now, THE AFTERLIFE? That's a different story. Sure, you can cut loose and have a
 If you're looking for the city's marquee events, you'll find yourself at RIOT. Chart-topping playlists, live performances from the brightest stars (both local and from around the world), DJ battles, unique music shows, and media-packed album premieres - sound like your scene? Don't miss out on RIOT. (...)
 </div>
 
-## HOW TO KEEP YOUR SHARDS AND DATA SAFE FROM PICKSOCKETS! [TOP 3 WAYS]
+## How to keep your shards and data safe from picksockets! [TOP 3 WAYS]
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -134,7 +134,7 @@ Thefts largely go uninvestigated due to the police's prioritization of violent c
 3. Duct tape. Slap on a square of that and those shards aren't going anywhere. On a budget? Bad with tech? No regard for style? Then this is the option for you!
 </div>
 
-## A FAMILY OF EMPIRE
+## A Family of Empire
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -147,7 +147,7 @@ Our sources report that Yorinobu Arasaka is currently in Night City, but not for
 No family is without its secrets, and the Arasakas are no exception. After all... "What appears first as heaven, appears second as hell." – Japanese proverb.
 </div>
 
-## THE VAMPIRE PRINCE IS BACK!
+## The vampire prince is back!
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -158,14 +158,14 @@ Monster hunters beware!
 A polished real-time combat system and non-linear storyline offer the player deep immersion in singleplayer, while the multiplayer mode allows you to team up with your choombas as they take control of the brooding Varney or blonde fan favorite Herbert. Without spoiling any of the endings (yes, multiple endings!), I'll leave you with just one thing... Lady Carmilla Ruthven-Batory is hands down the most captivating character ever written in the hundred-year history of video games. Period.
 </div>
 
-## NO LIFE 3 - REVIEW
+## No Life 3 - Review
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 After fifty long years, the wait is finally over! The third and final installment of the No Life series will be available for purchase TOMORROW! As has been reported already, gamers should not expect any major shakeups in regard to the protagonist. We still play as strong-silent-type scientist Baron Freimensch. We follow Baron as he ventures to the Arctic Circle to... Well, why spoil it when you'll have your hands on it in less than 24 hours! The gist: with Alice at Baron's side and trusty crowbar in hand, those nasty aliens are in for a rude awakening.
 </div>
 
-## THE STRUGGLE OF O'NEILL STATION.
+## The Struggle of O'Neill Station.
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -180,7 +180,7 @@ The consequences were inevitable - in 2022, after completing construction of the
 The thing is, out here it's not so easy to call for reinforcements. Workers outnumbered guards 40:1, and one stun-gun charge held only fifteen rounds. The ESA's management had effectively shot themselves in the foot. It was over before they could realize - only seven hours passed before O'Neill 1 and O'Neill 2 declared independence and became the first nations established outside of Earth...
 </div>
 
-## LOOKING FOR A CAREER CHANGE? JOIN NETWATCH!
+## Looking for a career change? Join NetWatch!
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -200,7 +200,7 @@ Thanks to NetWatch, thousands of people can freely use approved search engines a
 Do you have what it takes? Apply today.
 </div>
 
-## WHO IS LIZZY WIZZY PRETENDING TO BE?
+## Who is Lizzy Wizzy pretending to be?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -209,7 +209,7 @@ Do you have what it takes? Apply today.
 Lizzy Wizzy is an artist par excellence. Her work includes award-winning albums and concert tours, film appearances as well as (for lack of a better term) conceptual performance art. Her latest artistic obsession features the medium of braindance. In recent interviews, Lizzy has mused about the boundary between our documentation of reality versus our active shaping of it. Could that mean Lizzy Wizzy plans to scroll her own BD? We can only dream! The chance to live just one day in her chrome skin... Fans would go wild!
 </div>
 
-## WHAT REALLY HAPPENED IN ARASAKA TOWER?
+## What Really Happened in Arasaka Tower?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -224,7 +224,7 @@ Nomads, obviously. Remember that mass-market BD called "Badlands Raid" from the 
 Yes, yes, there's a Silverhand cameo in there somewhere, but that's just a marketing ploy - a BD scrolled by a bunch of cactus-huggers wouldn't sell for an enny without a recognizable face. But I'm more intrigued by the main actress - how is it she didn't star in any other production despite "Badlands Raid's" huge sales? Where was she during the attack?
 </div>
 
-## ARASAKA AND ORNITHOLOGY: THREE JAPANESE WORDS TO KNOW
+## Arasaka and Ornithology: Three Japanese Words to Know
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -240,7 +240,7 @@ Taka - hawk. As symbolic as the dove is, so, too, is the hawk. This faction, hea
 * You can learn more about Arasaka family genealogy from the eight-book series "Two Centuries in the Clover's Shadow." Available in stores soon.
 </div>
 
-## STORM ON THE MARE CRISIUM
+## Storm on the Mare Crisium
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -250,7 +250,7 @@ Except this is real life, and what happens up there could have real consequences
 I don't know about all of you, but with each passing day, the saying "What happens in orbit, stays in orbit" is starting to sound like dangerously wishful thinking.
 </div>
 
-# Leaflets
+# LEAFLETS
 {: .notice--cyberpunk-yellow}
   
 ## DELAMAIN - TRANSPORT SERVICES
@@ -283,7 +283,7 @@ DELAMAIN<br>
 LEAVE YOUR PROBLEMS AT THE DOOR
 </div>
 
-## KONPEKI PLAZA
+## Konpeki Plaza
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -296,10 +296,10 @@ At Konpeki Plaza, you'll find 420 exclusive apartments, 20 conference rooms, 14 
 Discover new dimensions of comfort, enjoy the best Night City has to offer.
 </div>
 
-# Literature
+# LITERATURE
 {: .notice--cyberpunk-yellow}
   
-## DR. HAVOC & RADON
+## Dr. Havoc & Radon
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -311,7 +311,7 @@ until the legendary mercenary pair arrive just in the nick of time after years o
 I'll tell you - no one so far. Rose Tenorio and Martoni Eleazar take us into the world of computer games first imagined in the bestseller novel "Kibble and Scop" by Abe Frost. Fasten your seatbelts and get ready for a roller coaster ride of comic-book violence! If you've ever wondered what the action of the BATTERY ARENA may have looked like, "Dr. Havoc & Radon" is a must-buy. Dive in now.
 </div>
 
-## THE SOLO'S MANUAL BY MORGAN BLACKHAND
+## The Solo's Manual by Morgan Blackhand
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -326,7 +326,7 @@ So you still think you got what it takes to carve your name into solo history?
 Good. Then this book's for you.
 </div>
 
-## KIBBLE AND SCOP
+## Kibble and Scop
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -351,7 +351,7 @@ Kibble snorted and spat out the cockroach piss he finally mustered the courage t
 Scop cracked a roguish smile. "Is Bloody Bout IV or these 'million other games' designed to work on a hybrid braindance system? Y'know, the kind I made a breakthrough on just last week?"
 </div>
 
-## "WATSON WHORE" DIARY
+## "Watson Whore" Diary
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -371,7 +371,7 @@ FRIDAY<br>
 Christ I don't know which ways up... I'm fucking wiped. The boys brought over some laced shit or something but it hit me like a fucking firetruck. I dunno what happnd but everything smells like piss, there's a horse mask in the bathroom. if I had to guess it was probably me who wore it and got rode around, my knees do kinda kill thinking bout it now. Idk I jus thope it was that director from tuesday and not that skank from apt 3
 </div>
 
-## 1,000 BEATS A SECOND
+## 1,000 Beats a Second
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
@@ -390,7 +390,7 @@ I sat there stuck with a dumb expression on my face and Jason stared back with o
 My cardio implant began to beat more and more quickly. My face flushed. Had I been wrong? Could this body of bolts, wires, and plastic contain whatever is left of the real Jason Cadalez? If his father was able to design a synthetic heart for me, maybe he could do the same for his son's brain. The question is... why?
 </div>
 
-## SAYONARA STATION, BY LUKE STEELMAN
+## Sayonara Station, by Luke Steelman
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
@@ -407,7 +407,7 @@ So let's come back to the question - how did you end up with this book? Unless y
 Imagine that trains (that's right, the ones that go choo! choo!) have survived into the present-day? Just last year, 15,526 miles of new train tracks were put into use, including the underground tunnel connecting Tokyo with Shanghai. At top-speed, an armored train can complete the distance between the two cities in under five hours! Now that's something I had to experience for myself. Two days later I was in Tokyo, standing on the platform of Sayonara Station...
 </div>
 
-## IN THE SHADE OF AN APPLE TREE, BY VIRGINIA GRANCHESTER
+## In the Shade of an Apple Tree, by Virginia Granchester
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
@@ -419,10 +419,10 @@ Where a normal person, like my granddad, could have more than he needed.
 Sometimes I think back to that orchard and that sweet, drowsy smell. But all I taste is bitterness.
 </div>
 
-# Notes
+# NOTES
 {: .notice--cyberpunk-yellow}
   
-## HOROSCOPES: STORYTELLER GROUP
+## Horoscopes: Storyteller Group
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
@@ -478,7 +478,7 @@ Avoid: getting attached to friendly, talking machines<br>
 Your lucky place: the music scene
 </div>
 
-## ARCHIVED CONVERSATION: PAUL AND WILL
+## Archived Conversation: Paul and Will
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
@@ -506,7 +506,7 @@ Username PAUL changed to: CERTO<br>
 Username WILL changed to: ESQUERDO
 </div>
 
-## BRAINDANCES - CONCEPTS
+## Braindances - concepts
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -542,10 +542,10 @@ Keeshan Roberts, NCBA President<br>
 April 3, 2061
 </div>
 
-# Other
+# OTHER
 {: .notice--cyberpunk-yellow}
   
-## CYBERPUNK 2020 RULEBOOK
+## Cyberpunk 2020 Rulebook
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -559,16 +559,14 @@ Never play it too safe.<br>
 Stay committed to the Edge.<br>
 </div>
 
-## PISS ON HIS GRAVE | PISS ON HER GRAVE
+## PISS ON HIS/HER GRAVE
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and sisters in chrome and HE|SHE WILL SUFFER for it! If anyone catches him|her burnin rubber in Wats again, you drag him|her out by the hair and beat that cocky fuckin face of his|her into a fleshy pulp! Don't leave anything for the rats!!!
-  
+That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and sisters in chrome and HE/SHE WILL SUFFER for it! If anyone catches him/her burnin rubber in Wats again, you drag him/her out by the hair and beat that cocky fuckin face of his/her into a fleshy pulp! Don't leave anything for the rats!!!
 </div>
 
-## DIARY (117-121/77)
+## Diary (117-121/77)
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -591,10 +589,10 @@ I see the coastline. Strange - in my memories the city seemed larger. If I wante
 Until we talk to Y, I will hold off on a firm decision.
 </div>
 
-# People of Night City
+# PEOPLE OF NIGHT CITY
 {: .notice--cyberpunk-yellow}
   
-## TAMED DRAGON: A BIOGRAPHY OF YORINOBU ARASAKA
+## Tamed Dragon: A Biography of Yorinobu Arasaka
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -605,7 +603,7 @@ Yorinobu was born in Tokyo in the early twenty-first century, the first child to
 Over the next few years, various eyewitnesses spotted Yorinobu in the company of a nomad group known as Kotetsu no Ryu, or the "Steel Dragons." As part of this youthful rebellion, he purposefully involved himself in altercations with Arasaka agents and promoted anti-corporate slogans. After his family eventually confirmed Yorinobu's involvement, Saburo renounced his son and Kei, Saburo's eldest son, swore to exact revenge on his younger brother. Ironically, it was later at Kei's funeral that Yorinobu at last reconciled with his father. Stubbornly proud to a fault, many were suprised[sic] by the Arasaka patriarch's conciliatory approach. What caused Saburo to change his mind? What role might have Yorinobu's sister, Hanako, played in their peaceable reunion? That much yet remains to be discovered...
 </div>
 
-## THE FLOWERS OF SILENCE. A BIOGRAPHY OF HANAKO ARASAKA.
+## The Flowers of Silence. A biography of Hanako Arasaka.
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -622,7 +620,7 @@ Hanako Arasaka is the daughter of Saburo Arasaka from his third wife, Michiko. S
 I was ready to give up when in the archives of a local T.V. station I found a recording of the opening of an Arasaka branch in Fukuoka, graced by the presence of none other than Hanako herself. She played the piano. Debussy's "Reverie." Why that piece? Why play a dreamy, introspective song while surrounded by stoic Japanese businessmen? Her golden fingers caressed the keys. I was mesmerized. Tears rolled down my cheeks as I listened. That's when I knew I had to finish this book. I had to meet this enigmatic woman and find out who Hanako Arasaka really was.
 </div>
 
-## CALIFORNIA AFTER DUSK: THE LIFE OF RICHARD NIGHT
+## California After Dusk: The Life of Richard Night
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -637,10 +635,10 @@ Richard Night was doomed to fail. Not because his vision was inherently impossib
 Richard Night was murdered. The city whose foundations he laid was finished after his death – but his utopian dream soon became a dystopian nightmare. Even the original name was lost. In honor of the city's tragically deceased founder, Coronado City was rechristened "Night City." Ironically, the name fits. If anything, the city is a cat; sleepy during the day, it comes frantically alive at night. And it loves to toy with its prey.
 </div>
 
-# Technology
+# TECHNOLOGY
 {: .notice--cyberpunk-yellow}
   
-## CYBERWARE USAGE AND ITS SIDE EFFECTS
+## Cyberware Usage and Its Side Effects
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -655,7 +653,7 @@ Many people believe we live in a time when "impossible" has become an obsolete t
 In the face of these known risks, what should our outlook be as consumers and medical professionals? To deny ourselves cybernetic enhancements on the 0.5 percent chance we could lose our vision forever? Or gamble away our life savings at the casino? The clear answer is "No." Cyberware technology has elevated human biology to the point where these what-if arguments serve against our best interests. The best advice I can offer for minimizing your risk is to read the technomedical profiles for all cyberware you intend to purchase before you install it.
 </div>
 
-## PAIN EDITORS AND MORTALITY RATES
+## Pain Editors and Mortality Rates
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -670,7 +668,7 @@ However, some studies have reported that the pain editor can yield a range of un
 In this report, I address the question of how to better protect Zetatech clients from avoidable death while using our pain editors[...]
 </div>
 
-## RELIVE.IT - BRAINDANCE QUARTERLY
+## Relive.it - Braindance Quarterly
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -687,7 +685,7 @@ For a moment, let's consider why some reports suggest more and more users are se
 Relive.it - The quarterly magazine for braindance editors, amateurs, and enthusiasts, vol. 4/78, December 2076
 </div>
 
-## CAN CYBERPSYCHOSIS BE CURED?
+## Can cyberpsychosis be cured?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -696,7 +694,7 @@ Then electrodes would be attached, inducing the patient into a coma-like brainda
 The overall treatment was intended to sever all the patient's neural connections and tie them back together so that the cyberpsycho could return to society. Once the therapy was concluded, no symptoms of cyberpsychosis were detected, as well as the patient's former personality. But don't worry - nowadays other methods are used. At least, that's what they tell us.
 </div>
 
-## 75 YEARS OF CYBERWARE, BY TSUTOMU TAKAHASHI
+## 75 Years of Cyberware, by Tsutomu Takahashi
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -709,7 +707,7 @@ A century ago, employers could impose specific dress codes, hairstyle regulation
 Much has changed over the past seventy-five years from when cybernetic implants first hit the mass market. Many in the field of history of technology have argued cyberware is a positive force for progress, and many have argued the opposite. This book attempts to describe and contextualize the changes - for better or worse - that it has introduced to our professional and personal lives. How has cyberware led us to where we are today, and where is it taking us next?
 </div>
 
-## KENDACHI - NEW SPRING CATALOGUE
+## Kendachi - New Spring Catalogue
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -1008,6 +1006,3 @@ look and beware in the final hours of night<br>
 for the sun shall rise over the ruins and dawn shall once again melt<br> 
 from the rubble the memory of the City its original source
 </div>
-
-# ENCRYPTED
-{: .notice--cyberpunk-yellow}
