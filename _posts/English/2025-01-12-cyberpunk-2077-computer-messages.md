@@ -487,14 +487,14 @@ this week:
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<p class="cyberpunk-blue pen-bold">Rent Past Due</p>
-<p class="cyberpunk-lightgreen">2막 시작 후 V의 컴퓨터에 전송된 메시지</p>
+<span class="cyberpunk-blue pen-bold">Rent Past Due</span>
+<span class="cyberpunk-lightgreen">2막 시작 후 V의 컴퓨터에 전송된 메시지</span>
 <p class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 <span class="pen-bold">From: Megabuilding Administration</span>
 <br><br>
 <span class="pen-bold">To: V</span>
-<br><br>
-----
+<hr class="cyberpunk-hr">
 <br><br>
 Dear Sir/Madam,
 <br><br>
