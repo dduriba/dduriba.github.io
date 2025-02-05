@@ -33,23 +33,20 @@ Please...
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-
-  What's up, BD-maniacs? Hungry for a new emo-rush? Then check out the latest   word from the freshest BDs on the market.
-  <br><br>
-  Foreign Body
-  <br>
-  The body is everything. There is nothing else. It is you, but it is also just a   tool for your mind to interact with the world. But what would happen if this   tool tried to live its own life? What if it tried... to kill you?
-  <br>
-  Though not a particularly original addition to the thriller genre, this   braindance featuring Luke Poller is still a solid experiential ride. The fear   of disobedient implants has been around since pirates were walking around on   peg legs – well, maybe not that long – as a result, the trope has been   pervasive in film, braindance, and urban legend alike. Still, "Foreign Body"   borrows some of the genre's best elements while still incorporating just enough   new stuff to the mix to keep it interesting. After all, it's not every day you   see the world from the perspective of a sentient arm.
-  <br><br>
-  Maxwell's Rehab
-  <br>
-  This braindance season has been chock full of horror, but this one stands out   from the rest. The always phenomenal Maxwell Ramirez is pushed to the brink of   cyberpsychosis so we can relive his return to normalcy. The title offers a tone   of optimism, but don't let that fool you. You will relive Maxwell's slip into   psychosis, the heartbreak of his wife, and the gradual reintegration into a   world that is now far different from how he left it. This BD is a must-relive   of the season, but it's not for the faint of heart.
-  <br><br>
-  Badlands Raid
-  <br>
-  At last, a BD for those looking for something a little lighter. "Badlands Raid"   is a remake of the 2023 classic, which was an innovative tour de force of the   time. For those of you unfamiliar, the plot revolves around an ordinary, boring   guy who accidentally gets tangled up in a nomad ambush on a Zetatech convoy. I   won't spoil it because, even though the main plot hasn't changed in 54 years,   most people these days probably don't know the ending. What I will say is this:   the remake's creators have introduced a few modern twists into the story that   should make for a pleasant surprise to classics-lovers and newbies alike.
-  
+What's up, BD-maniacs? Hungry for a new emo-rush? Then check out the latest word from the freshest BDs on the market.
+<br><br>
+Foreign Body
+<br>
+The body is everything. There is nothing else. It is you, but it is also just a tool for your mind to interact with the world. But what would happen if this tool tried to live its own life? What if it tried... to kill you?
+Though not a particularly original addition to the thriller genre, this braindance featuring Luke Poller is still a solid experiential ride. The fear of disobedient implants has been around since pirates were walking around on peg legs – well, maybe not that long – as a result, the trope has been pervasive in film, braindance, and urban legend alike. Still, "Foreign Body" borrows some of the genre's best elements while still incorporating just enough new stuff to the mix to keep it interesting. After all, it's not every day you see the world from the perspective of a sentient arm.
+<br><br>
+Maxwell's Rehab
+<br>
+This braindance season has been chock full of horror, but this one stands out from the rest. The always phenomenal Maxwell Ramirez is pushed to the brink of cyberpsychosis so we can relive his return to normalcy. The title offers a tone of optimism, but don't let that fool you. You will relive Maxwell's slip into psychosis, the heartbreak of his wife, and the gradual reintegration into a world that is now far different from how he left it. This BD is a must-relive of the season, but it's not for the faint of heart.
+<br><br>
+Badlands Raid
+<br>
+At last, a BD for those looking for something a little lighter. "Badlands Raid" is a remake of the 2023 classic, which was an innovative tour de force of the time. For those of you unfamiliar, the plot revolves around an ordinary, boring guy who accidentally gets tangled up in a nomad ambush on a Zetatech convoy. I won't spoil it because, even though the main plot hasn't changed in 54 years, most people these days probably don't know the ending. What I will say is this: the remake's creators have introduced a few modern twists into the story that should make for a pleasant surprise to classics-lovers and newbies alike.
 </div>
 
 ## THE RELIC – WHY ALL THE FUSS?
