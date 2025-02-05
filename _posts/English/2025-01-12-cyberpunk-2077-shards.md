@@ -10,25 +10,23 @@ categories: English
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-
-  How did it happen? When and why did we as a society decide that human life is a   commodity? A luxury?
-  <br><br>
-  My mother passed away at 45. She still had decades of life to live until it was   all stolen from her by common pneumonia. If she had held even the cheapest   Trauma Team policy, she could have been cured within an hour. But she couldn't   afford it. My mother died five months before her scheduled appointment with our   family practitioner...
-  <br><br>
-  The idea of privatized healthcare is deeply ingrained in our public psyche.   Already in 2020, there was widespread consensus that 500 eurodollars a month   was a fair price for Trauma Team insurance. Health wasn't something you were   given, it was something you earned. The private system may not be perfect, but   there's no alternative, we thought.
-  <br><br>
-  BULLSHIT.
-  <br><br>
-  Now cross the Pacific Ocean to the USSR where they also have highly trained   medical technicians, high-precision nanosurgical suites, specialized   antibodies, intravenous probes, the list goes on. Emergency airlifts using   modern AVs equipped with cryotonic chambers? They have those, too. The   difference, then? They don't leave their people to die on the streets, at the   store, in their homes. They don't force anyone to purchase their lives from a   corporation as if they're the ones who own it.
-  <br><br>
-  Public healthcare isn't some unachievable utopia. It is a REALITY.
-  <br><br>
-  Trauma Team, on the other hand, treats its policyholders as both potential   patients to be treated and potential products to be bought. They save lives   only because there is profit in it. A saved life is a returning customer.   Client death can also bring in fiscal gains in the form of organ and implant   resale, though of course in regulated, smaller sums. An emergency care provider   can't afford to give its managers reasons to deliberately kill off its   clientele base for short-term windfalls.
-  <br><br>
-  Surely, you ask, these medical "professionals" are also guided by their   Hippocratic Oaths?
-  <br><br>
-  Please...
-  
+How did it happen? When and why did we as a society decide that human life is a commodity? A luxury?
+<br><br>
+My mother passed away at 45. She still had decades of life to live until it was all stolen from her by common pneumonia. If she had held even the cheapest Trauma Team policy, she could have been cured within an hour. But she couldn't afford it. My mother died five months before her scheduled appointment with our family practitioner...
+<br><br>
+The idea of privatized healthcare is deeply ingrained in our public psyche. Already in 2020, there was widespread consensus that 500 eurodollars a month was a fair price for Trauma Team insurance. Health wasn't something you were given, it was something you earned. The private system may not be perfect, but there's no alternative, we thought.
+<br><br>
+BULLSHIT.
+<br><br>
+Now cross the Pacific Ocean to the USSR where they also have highly trained medical technicians, high-precision nanosurgical suites, specialized antibodies, intravenous probes, the list goes on. Emergency airlifts using modern AVs equipped with cryotonic chambers? They have those, too. The difference, then? They don't leave their people to die on the streets, at the store, in their homes. They don't force anyone to purchase their lives from a corporation as if they're the ones who own it.
+<br><br>
+Public healthcare isn't some unachievable utopia. It is a REALITY.
+<br><br>
+Trauma Team, on the other hand, treats its policyholders as both potential patients to be treated and potential products to be bought. They save lives only because there is profit in it. A saved life is a returning customer. Client death can also bring in fiscal gains in the form of organ and implant resale, though of course in regulated, smaller sums. An emergency care provider can't afford to give its managers reasons to deliberately kill off its clientele base for short-term windfalls.
+<br><br>
+Surely, you ask, these medical "professionals" are also guided by their Hippocratic Oaths?
+<br><br>
+Please...
 </div>
 
 ## NEW RELEASE BRAINDANCES
@@ -131,11 +129,11 @@ categories: English
 
 <div class="cyberpunk-bg cyberpunk-cyan">
   
-  (...) If you're a dancehead like us, don't miss out on LIZZIE'S. You'll find no   better braindance club in the city, no matter how deep you dig. Modern boxes,   solid tech, but most important: the catalogue, chock-full of nearly any exp you   can imagine. You'll find everything you need to get you off - fast or slow,   nasty or classy, and everything in-between. Don't let the girls at the front   door scare you off or kill your buzz - they're wary of newcomers, but once you   get in they'll treat you like one of their own. Trust us, give LIZZIE'S a try   and you'll never go anywhere else. 
+  [...] If you're a dancehead like us, don't miss out on LIZZIE'S. You'll find no   better braindance club in the city, no matter how deep you dig. Modern boxes,   solid tech, but most important: the catalogue, chock-full of nearly any exp you   can imagine. You'll find everything you need to get you off - fast or slow,   nasty or classy, and everything in-between. Don't let the girls at the front   door scare you off or kill your buzz - they're wary of newcomers, but once you   get in they'll treat you like one of their own. Trust us, give LIZZIE'S a try   and you'll never go anywhere else. 
   
   Now, THE AFTERLIFE? That's a different story. Sure, you can cut loose and have   a good time here, but THE AFTERLIFE is a place of business above all else. Want   to meet with a fixer about a job that needs doing? Discuss important gig   details with a client over drinks? Or maybe just sit back and people watch, to   see the comings and goings of the NC underworld's biggest merc and fixer names?   THE AFTERLIFE is a great place for all of the above. The only place, really. 
   
-  If you're looking for the city's marquee events, you'll find yourself at RIOT.   Chart-topping playlists, live performances from the brightest stars (both local   and from around the world), DJ battles, unique music shows, and media-packed   album premieres - sound like your scene? Don't miss out on RIOT. (...)
+  If you're looking for the city's marquee events, you'll find yourself at RIOT.   Chart-topping playlists, live performances from the brightest stars (both local   and from around the world), DJ battles, unique music shows, and media-packed   album premieres - sound like your scene? Don't miss out on RIOT. [...]
   
 </div>
 
@@ -248,7 +246,7 @@ categories: English
 
 <div class="cyberpunk-bg cyberpunk-cyan">
   
-  (...) If Militech was behind the assault on Arasaka Tower in 2023, and if   there's actual EVIDENCE to support that, then why didn't Arasaka return the   favor and nuke Militech?
+  [...] If Militech was behind the assault on Arasaka Tower in 2023, and if   there's actual EVIDENCE to support that, then why didn't Arasaka return the   favor and nuke Militech?
   
   By now there's no doubt the bomb was manufactured by Militech, but that doesn't   mean they detonated it. I confess, I'm not a huge fan of the popular theory   that Johnny Silverhand, the controversial rockerboy, was behind the whole   thing. In fact, I'm not really a Silverhand fan, period. Silverhand was a poser   and a blowhard - not someone who would actually follow through on his grandiose   bluffs (full disclosure, I just don't think Silverhand would have the balls to   pull off something like that).
   
@@ -764,7 +762,7 @@ categories: English
   
   However, some studies have reported that the pain editor can yield a range of   undesirable side effects. For example, in the heat of battle, some users are   unaware of the severity of their wounds, which causes them to continue fighting   without realizing they are dying and require immediate medical attention. The   statistics support the theory that a lack of negative reinforcement may cause   users to continue fighting when the rational strategy would be to retreat and   escape death. Since 2020, the mortality rate of pain editor owners is above 60   percent.
   
-  In this report, I address the question of how to better protect Zetatech   clients from avoidable death while using our pain editors(...)
+  In this report, I address the question of how to better protect Zetatech   clients from avoidable death while using our pain editors[...]
   
 </div>
 
@@ -856,7 +854,7 @@ categories: English
 
 <div class="cyberpunk-bg cyberpunk-cyan">
   
-  (...)But, besides all this, death is the great opportunity no longer to be I;  —to him who uses it. During life the will of man is without freedom: his action   takes place with necessity upon the basis of his unalterable character in the   chain of motives. But every one remembers much that he has done, and on account   of which he is by no means satisfied with himself. If now he were to go on   living, he would go on acting in the same way, on account of the unalterable   nature of his character. Accordingly he must cease to be what he is in order to   be able to arise out of the germ of his nature as a new and different being.   Therefore death looses these bonds; the will again becomes free; for freedom   lies in the Esse, not in the Operari(...)
+  [...]But, besides all this, death is the great opportunity no longer to be I;  —to him who uses it. During life the will of man is without freedom: his action   takes place with necessity upon the basis of his unalterable character in the   chain of motives. But every one remembers much that he has done, and on account   of which he is by no means satisfied with himself. If now he were to go on   living, he would go on acting in the same way, on account of the unalterable   nature of his character. Accordingly he must cease to be what he is in order to   be able to arise out of the germ of his nature as a new and different being.   Therefore death looses these bonds; the will again becomes free; for freedom   lies in the Esse, not in the Operari[...]
   
   Arthur Schopenhauer
   
@@ -956,7 +954,7 @@ categories: English
   
   It used to be said, at the turn of the century, that the world belongs to the   "one percent." Today, one thousandth of a percent is closer to the truth. And   your chances of joining this group are even less than that. In this reality, I   mean - where you are you. In a braindance, you can be anyone. A broker who   manages a portfolio worth trillions. An elite soldier who blasts his enemies   out of existence with a tech shotgun. A suave rockerboy whom the whole world   lusts after...
   
-  Now, I ask you again: Of the millions upon millions of people in this world, do   you want to be you? The answer for me was always "no." And so my story begins.   (...)
+  Now, I ask you again: Of the millions upon millions of people in this world, do   you want to be you? The answer for me was always "no." And so my story begins.   [...]
   
   Sergio Morales
   
@@ -1047,9 +1045,9 @@ categories: English
   
   The yōkai first appear in Japanese literature in the year 797. These mysterious   beings, though closely linked to the invisible realm of the dead, have been   alive in the Japanese consciousness from the very birth of animism. It's not   that the Japanese believe in the yōkai. They simply know the yōkai exist.
   
-  (...) In addition to phantoms, ogres and other mysterious phenomena, the yōkai   also include a group of shape-shifting demons called obake or bakemono. The   bakemono are said to sometimes take the form of a faceless person, a one-eyed   scarecrow or an animal.
+  [...] In addition to phantoms, ogres and other mysterious phenomena, the yōkai   also include a group of shape-shifting demons called obake or bakemono. The   bakemono are said to sometimes take the form of a faceless person, a one-eyed   scarecrow or an animal.
   
-  (...)It's said that when a cat reaches a certain age, it becomes a bakeneko.   These yōkai are able to walk on their two hind legs, speak and dance, assume   human form or even devour their owners and take their place. The bakeneko   sometimes visit people in their sleep, or even wake the dead – all they have to   do is hop over a corpse to bring it suddenly back to life.
+  [...]It's said that when a cat reaches a certain age, it becomes a bakeneko.   These yōkai are able to walk on their two hind legs, speak and dance, assume   human form or even devour their owners and take their place. The bakeneko   sometimes visit people in their sleep, or even wake the dead – all they have to   do is hop over a corpse to bring it suddenly back to life.
   
   However, the demons are capable of much, much more. One should exercise extreme   caution around a double tailed cat. This is a nekomata, a yōkai with shamanic   and necromantic capabilities, able to place curses on people and control the   dead. In its human form, a nekomata resembles an old woman, often one addicted   to some substance or other and with an eerie, disturbing air about her.
   
@@ -1062,12 +1060,12 @@ categories: English
 
 <div class="cyberpunk-bg cyberpunk-cyan">
   
-  (...) It is truly remarkable that the large-scale bloodshed of the Fourth   Corporate War began first as a simple rivalry between two ocean exploitation   corporations: CINO and OTEC. Both companies vied for the controlling stake of   the failing IHA corporation. OTEC commissioned Militech to secure its business   interests and perform certain "special operations." CINO, in turn, signed a   cooperation agreement with the Arasaka Corporation with a similar aim. When   circumstances at last called for both colossal and prideful security   corporations to clash in open combat, the Fourth War had officially begun.
+  [...] It is truly remarkable that the large-scale bloodshed of the Fourth   Corporate War began first as a simple rivalry between two ocean exploitation   corporations: CINO and OTEC. Both companies vied for the controlling stake of   the failing IHA corporation. OTEC commissioned Militech to secure its business   interests and perform certain "special operations." CINO, in turn, signed a   cooperation agreement with the Arasaka Corporation with a similar aim. When   circumstances at last called for both colossal and prideful security   corporations to clash in open combat, the Fourth War had officially begun.
   
   Yet, as is usually the case with corporate conflicts, the onset proved subtle:   Arasaka disables a Militech transport, Militech (allegedly) eliminates a   high-ranking official of an Arasaka client, both sides engage in frequent   sabotage and data theft operations, netrunners from both sides infiltrate   dataforts to sow confusion, gather intel and cause chaos in the stock markets.   Though none would have thought it possible in those early months, the   Arasaka-Militech conflict truly jeopardized the stability of the world economy,   making the threat of complete economic collapse all too real. For this reason,   NetWatch introducted(sic) a communications embargo on both corporations. This   did little to slow the conflict's pace, however. While CINO and OTEC had   unilaterally reached a settlement and reach an understanding through "peace   talks," tension between Arasaka and Militech continued to rise. This separation   from the ocean dispute marks the beginning of the Fourth War's second phase:   the so-called Shadow War.
   
   Military clashes between Militech and Arasaka were notoriously bloody, brutal   and without mercy, they waged their most damaging campaigns on the Net. Arasaka   and Militech netrunners launched attacks with the help of viruses that were   often highly experimental. What's more, they created lethal ICE measures and   AI-like programs that could lurk in dark corners of the Net for long periods to   make strikes at the most opportune times. 
-  By the second half of 2022, Arasaka and Militech entered the final phase of the   conflict where both sides used every resource and strategy at their disposal.   The Hot War had begun. Around this time, the Net that the world had known for   years ceased to exist, and mercenaries hired by both corporations were   slaughtered in open warfare fought with the cutting-edge weapons technology.   Then, in the War's most shocking and iconic turning point, the coup de grâce   came when an unknown group of mercenaries denoted a nuclear device at Arasaka's   Night City headquarters. Shortly after the blast, bowing under increased   pressure from the Japanese government, Arasaka laid down its arms and withdrew   from many of its strategic positions, but most notably in Night City. Victory   belonged to Militech, but it came at a heavy cost. (...)
+  By the second half of 2022, Arasaka and Militech entered the final phase of the   conflict where both sides used every resource and strategy at their disposal.   The Hot War had begun. Around this time, the Net that the world had known for   years ceased to exist, and mercenaries hired by both corporations were   slaughtered in open warfare fought with the cutting-edge weapons technology.   Then, in the War's most shocking and iconic turning point, the coup de grâce   came when an unknown group of mercenaries denoted a nuclear device at Arasaka's   Night City headquarters. Shortly after the blast, bowing under increased   pressure from the Japanese government, Arasaka laid down its arms and withdrew   from many of its strategic positions, but most notably in Night City. Victory   belonged to Militech, but it came at a heavy cost. [...]
   
 </div>
 
