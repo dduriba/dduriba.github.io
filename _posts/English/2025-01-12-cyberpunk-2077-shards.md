@@ -375,54 +375,48 @@ Christ I don't know which ways up... I'm fucking wiped. The boys brought over so
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
-  
-  I couldn't believe my eyes. For a moment, I thought Jessica had changed them   out for faulty Kiroshis while I was asleep. But no, that wouldn't have been   like her. I blinked again. No change. There I saw them, clear as day, the open   flaps of Jason's chrome skull. I saw the electronic brain that, up until now,   had been hidden by perfect imitation syn-skin.
-  
-  The son of FutureTech CEO, the boy of my damn dreams, Jason... He was an   android. Shit...
-  
-  I sat there stuck with a dumb expression on my face and Jason stared back with   one of his own. I couldn't help but wonder now... were those beautiful eyes of   his - the same that had pierced my soul - were they merely a mimicry controlled   by some emo-algorithm? Had there never been anything real behind them all those   times? ... Not once?
-  
-  "Alex!...I-it's not what you think!" he pleaded with a strangely authentic note   of panic in his voice. And I wanted to believe him. I really did.
-  
-  "Hmph... Well, clearly it hasn't been," I replied in equal parts anxious and   bitter. "Me and my rotten luck... The first and last guy I fall for and he   turns out to be a goddamn motherboard on legs!"
-  
-  "No, that's not--," Jason suddenly broke off and smiled awkwardly. "Wait, did   you... did you say 'fall for?'"
-  
-  My cardio implant began to beat more and more quickly. My face flushed. Had I   been wrong? Could this body of bolts, wires, and plastic contain whatever is   left of the real Jason Cadalez? If his father was able to design a synthetic   heart for me, maybe he could do the same for his son's brain. The question   is... why?
-  
+I couldn't believe my eyes. For a moment, I thought Jessica had changed them out for faulty Kiroshis while I was asleep. But no, that wouldn't have been like her. I blinked again. No change. There I saw them, clear as day, the open flaps of Jason's chrome skull. I saw the electronic brain that, up until now, had been hidden by perfect imitation syn-skin.
+<br><br>
+The son of FutureTech CEO, the boy of my damn dreams, Jason... He was an android. Shit...
+<br><br>
+I sat there stuck with a dumb expression on my face and Jason stared back with one of his own. I couldn't help but wonder now... were those beautiful eyes of his - the same that had pierced my soul - were they merely a mimicry controlled by some emo-algorithm? Had there never been anything real behind them all those times? ... Not once?
+<br><br>
+"Alex!...I-it's not what you think!" he pleaded with a strangely authentic note of panic in his voice. And I wanted to believe him. I really did.
+<br><br>
+"Hmph... Well, clearly it hasn't been," I replied in equal parts anxious and bitter. "Me and my rotten luck... The first and last guy I fall for and he turns out to be a goddamn motherboard on legs!"
+<br><br>
+"No, that's not--," Jason suddenly broke off and smiled awkwardly. "Wait, did you... did you say 'fall for?'"
+<br><br>
+My cardio implant began to beat more and more quickly. My face flushed. Had I been wrong? Could this body of bolts, wires, and plastic contain whatever is left of the real Jason Cadalez? If his father was able to design a synthetic heart for me, maybe he could do the same for his son's brain. The question is... why?
 </div>
 
 ## SAYONARA STATION, BY LUKE STEELMAN
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
-  
-  Wait a second, before we start - have you wondered how this book ended up in   your hands? Where it came from, who delivered it?
-  
-  Of course you haven't - nobody ever wonders about things like that. It's a   shame, because the answer's quite interesting. I'd go as far as to say it's   fucking fascinating.
-  
-  Not so long ago, most shipments were made via sea on freighters. Cheap, quick   and (relatively) safe. But during the Fourth Corporate War, some genius in   Arasaka had an idea - to release automated, self-replicating mines controlled   by an AI into the ocean. What could possibly go wrong? A lot, it turns out.
-  
-  The AI had a single objective: "Destroy enemy vessels." Simple, right? NUSA/  Militech ships would get blown out of the water, while the Arasaka/Free State   ships would sail by untouched. Except for the AI's iron-clad logic - since   there was a non-zero probability that a vessel waving a friendly flag might   also have enemies on board, in the interest of optimization it would also be   sunk. Of course, when the leadheads back at Arasaka HQ realized what they'd   done, they rushed to update the software - only for the AI to reject it as a   virus. And thus, because of a handful of individuals' complete lack of   imagination and foresight, the history of maritime travel came to an end.
-  
-  So let's come back to the question - how did you end up with this book? Unless   you live in Chicago, where it was published, then surely not via the Net -   since that was destroyed by Bartmoss. Maybe it was shipped by plane? But air   freight is incredibly expensive, so most likely not. By car then? We can't rule   it out. But if I had to bet on it, I'd say it came to your city via train.
-  
-  Imagine that trains (that's right, the ones that go choo! choo!) have survived   into the present-day? Just last year, 15,526 miles of new train tracks were put   into use, including the underground tunnel connecting Tokyo with Shanghai. At   top-speed, an armored train can complete the distance between the two cities in   under five hours! Now that's something I had to experience for myself. Two days   later I was in Tokyo, standing on the platform of Sayonara Station...
-  
+Wait a second, before we start - have you wondered how this book ended up in your hands? Where it came from, who delivered it?
+<br><br>
+Of course you haven't - nobody ever wonders about things like that. It's a shame, because the answer's quite interesting. I'd go as far as to say it's fucking fascinating.
+<br><br>
+Not so long ago, most shipments were made via sea on freighters. Cheap, quick and (relatively) safe. But during the Fourth Corporate War, some genius in Arasaka had an idea - to release automated, self-replicating mines controlled by an AI into the ocean. What could possibly go wrong? A lot, it turns out.
+<br><br>
+The AI had a single objective: "Destroy enemy vessels." Simple, right? NUSA/Militech ships would get blown out of the water, while the Arasaka/Free State ships would sail by untouched. Except for the AI's iron-clad logic - since there was a non-zero probability that a vessel waving a friendly flag might also have enemies on board, in the interest of optimization it would also be sunk. Of course, when the leadheads back at Arasaka HQ realized what they'd done, they rushed to update the software - only for the AI to reject it as a virus. And thus, because of a handful of individuals' complete lack of imagination and foresight, the history of maritime travel came to an end.
+<br><br>
+So let's come back to the question - how did you end up with this book? Unless you live in Chicago, where it was published, then surely not via the Net - since that was destroyed by Bartmoss. Maybe it was shipped by plane? But air freight is incredibly expensive, so most likely not. By car then? We can't rule it out. But if I had to bet on it, I'd say it came to your city via train.
+<br><br>
+Imagine that trains (that's right, the ones that go choo! choo!) have survived into the present-day? Just last year, 15,526 miles of new train tracks were put into use, including the underground tunnel connecting Tokyo with Shanghai. At top-speed, an armored train can complete the distance between the two cities in under five hours! Now that's something I had to experience for myself. Two days later I was in Tokyo, standing on the platform of Sayonara Station...
 </div>
 
 ## IN THE SHADE OF AN APPLE TREE, BY VIRGINIA GRANCHESTER
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
-  
-  My first memory isn't an image or a sound, but a smell. The smell of rotting   apples - intense and dizzyingly sweet. I must've been around four. We were   spending the summer at my grandparents' house. They had a small orchard with   this old, huge apple tree by the fence. That year it grew so many apples that   nobody even bothered to pick them. We just watched them fall to the ground,   where they lay rotting.
-  
-  It's hard to imagine now - a world where things used to grow out of the ground   without our help, without bioengineering. Where an apple was something normal -   a fruit whose shape and taste every child knew by instinct.
-  Where a normal person, like my granddad, could have more than he needed.
-  
-  Sometimes I think back to that orchard and that sweet, drowsy smell. But all I   taste is bitterness.
-  
+My first memory isn't an image or a sound, but a smell. The smell of rotting apples - intense and dizzyingly sweet. I must've been around four. We were spending the summer at my grandparents' house. They had a small orchard with this old, huge apple tree by the fence. That year it grew so many apples that nobody even bothered to pick them. We just watched them fall to the ground, where they lay rotting.
+<br><br>
+It's hard to imagine now - a world where things used to grow out of the ground without our help, without bioengineering. Where an apple was something normal - a fruit whose shape and taste every child knew by instinct.
+Where a normal person, like my granddad, could have more than he needed.
+<br><br>
+Sometimes I think back to that orchard and that sweet, drowsy smell. But all I taste is bitterness.
 </div>
 
 # Notes
@@ -432,147 +426,120 @@ Christ I don't know which ways up... I'm fucking wiped. The boys brought over so
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
-  
-  Clients from group "Storyteller"
-  
-  Client #1/2077, M.B., Scorpio 
-  You did it again: you rolled up your sleeves and cleaned the Augean stables.   Everyone admires you, but you know that your only reward will be the next task   you're given. 
-  There are not many like you in Night City, but without you the city would have   long turned into shadows and dust. 
-  Avoid: flirty AIs that try to impress you with their knowledge of ancient Greek 
-  Your lucky place: the Net
-  
-  Client #2/2077, D.K., Capricorn 
-  You're a born corpo – you plot, you plan, you calculate, and weave webs so   tangled you sometimes lose yourself in them. If only you were the one calling   the shots, you would already have the city at your feet; unfortunately, you're   caught up in a maze of responsibilities. 
-  But whatever you're plotting, make sure you see it through to the end. 
-  Avoid: last-minute changes to plans 
-  Your lucky place: Arasaka Tower
-  
-  Client #3/2077, D.B., Gemini 
-  You know the city like the back of your hand. At night you head out to just   listen to the pulse of the streets – the juicy chatter, muffled screams, and   drunken shouts – just to soak up the atmosphere. You've been everywhere, you've   tried everything. You're a free spirit, and in Night City that makes you a   unicorn. 
-  Avoid: overworking 
-  Your lucky place: newsroom
-  
-  Client #4/2077, J.S., Taurus 
-  You've done your time waiting in the shadows of others, but your patience   finally paid off. The applause and flash photography are all yours. The world   of media has opened its doors to you: television, radio, braindance, Net ...   And this is just the beginning. 
-  Avoid: the waves crashing at your feet 
-  Your lucky place: TV studio
-  
-  Client #5/2077, M.Z., Aries 
-  When everyone was down and out, you came storming back in style. This city   loves people like you – it's how legends are born.
-  Your triumph is bittersweet: you returned, but you've wound up on the street,   among the joytoys, con artists, and panhandlers. You know you've got biz here   to take care of, but it can get tough when it feels like there's no end to it   in sight. 
-  Avoid: sketchy ripperdocs 
-  Your lucky place: Jig-Jig Street
-  
-  Client #6/2077, T.M., Leo 
-  This city likes to devour players like you, but you know their kind too well to   get caught off-guard. You're on the ground, you know that in Night City biz   only gets done when you put your blood, sweat and tears into it – not just   flimsy dreams. You eat dreamers for breakfast. 
-  Avoid: genetically modified nuts 
-  Your lucky place: Heywood
-  
-  Client #7/2077, R.W.O., Aries 
-  You've been in demand. You barely finish one task before someone's lined up to   give you another. It often seems that you're on your own, but always remember   you have a team you can count on. 
-  Avoid: emotional policemen with difficult pasts 
-  Your lucky place: a bar inspired by Babylonian culture
-  
-  Client #8/2077, P.C., Capricorn 
-  Although you've been riding with nomads for years, you're a corpo at heart. You   knew that from the moment you stepped into Konpeki Plaza you felt at home   there. You've had enough of camp life, constantly repairing generators, the   sand gritting between your teeth. You'd have given up ages ago if you weren't   so damn good at it. 
-  Avoid: Raffen Shiv 
-  Your lucky place: Konpeki Plaza 
-  Note: highly susceptible to the Barnum effect
-  
-  Client #9/2077, K.K., Virgo 
-  You've been in the city for only a short time, but you already know the what   and the how. You've already accomplished the toughest part: you have a good   team at your back. You've just been landing small jobs for now, but you know   you're hungry for something bigger. 
-  Avoid: getting attached to friendly, talking machines 
-  Your lucky place: the music scene
-  
+Clients from group "Storyteller"
+<br><br>
+Client #1/2077, M.B., Scorpio<br> 
+You did it again: you rolled up your sleeves and cleaned the Augean stables. Everyone admires you, but you know that your only reward will be the next task you're given. 
+There are not many like you in Night City, but without you the city would have long turned into shadows and dust.<br> 
+Avoid: flirty AIs that try to impress you with their knowledge of ancient Greek<br> 
+Your lucky place: the Net
+<br><br>
+Client #2/2077, D.K., Capricorn<br> 
+You're a born corpo – you plot, you plan, you calculate, and weave webs so tangled you sometimes lose yourself in them. If only you were the one calling the shots, you would already have the city at your feet; unfortunately, you're caught up in a maze of responsibilities.<br> 
+But whatever you're plotting, make sure you see it through to the end.<br> 
+Avoid: last-minute changes to plans<br> 
+Your lucky place: Arasaka Tower
+<br><br>
+Client #3/2077, D.B., Gemini<br> 
+You know the city like the back of your hand. At night you head out to just listen to the pulse of the streets – the juicy chatter, muffled screams, and drunken shouts – just to soak up the atmosphere. You've been everywhere, you've tried everything. You're a free spirit, and in Night City that makes you a unicorn.<br> 
+Avoid: overworking<br> 
+Your lucky place: newsroom
+<br><br>
+Client #4/2077, J.S., Taurus<br> 
+You've done your time waiting in the shadows of others, but your patience finally paid off. The applause and flash photography are all yours. The world of media has opened its doors to you: television, radio, braindance, Net ... And this is just the beginning.<br> 
+Avoid: the waves crashing at your feet<br> 
+Your lucky place: TV studio
+<br><br>
+Client #5/2077, M.Z., Aries<br> 
+When everyone was down and out, you came storming back in style. This city loves people like you – it's how legends are born.<br>
+Your triumph is bittersweet: you returned, but you've wound up on the street, among the joytoys, con artists, and panhandlers. You know you've got biz here to take care of, but it can get tough when it feels like there's no end to it in sight.<br> 
+Avoid: sketchy ripperdocs<br> 
+Your lucky place: Jig-Jig Street
+<br><br>
+Client #6/2077, T.M., Leo<br> 
+This city likes to devour players like you, but you know their kind too well to get caught off-guard. You're on the ground, you know that in Night City biz only gets done when you put your blood, sweat and tears into it – not just flimsy dreams. You eat dreamers for breakfast.<br> 
+Avoid: genetically modified nuts<br> 
+Your lucky place: Heywood
+<br><br>
+Client #7/2077, R.W.O., Aries<br> 
+You've been in demand. You barely finish one task before someone's lined up to give you another. It often seems that you're on your own, but always remember you have a team you can count on.<br> 
+Avoid: emotional policemen with difficult pasts<br> 
+Your lucky place: a bar inspired by Babylonian culture
+<br><br>
+Client #8/2077, P.C., Capricorn<br> 
+Although you've been riding with nomads for years, you're a corpo at heart. You knew that from the moment you stepped into Konpeki Plaza you felt at home there. You've had enough of camp life, constantly repairing generators, the sand gritting between your teeth. You'd have given up ages ago if you weren't so damn good at it.<br> 
+Avoid: Raffen Shiv<br> 
+Your lucky place: Konpeki Plaza<br> 
+Note: highly susceptible to the Barnum effect
+<br><br>
+Client #9/2077, K.K., Virgo<br> 
+You've been in the city for only a short time, but you already know the what and the how. You've already accomplished the toughest part: you have a good team at your back. You've just been landing small jobs for now, but you know you're hungry for something bigger.<br> 
+Avoid: getting attached to friendly, talking machines<br> 
+Your lucky place: the music scene
 </div>
 
 ## ARCHIVED CONVERSATION: PAUL AND WILL
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
-  
-  PAUL: pisses me off almost everyone still thinks I'm 2 people 
-  
-  WILL: tho to be fair not even sure why I'm still using this old message thread 
-  
-  PAUL: force of habit? guess this is my dear diary now 
-  
-  PAUL: anyway I'm thinking I need nicknames for us 
-  
-  PAUL: wait, not "us". I mean both my bodies 
-  
-  WILL: yeah, gonna need those for all the gonkbrains out there who will short   circ if they have to use 1 name for both of me 
-  
-  WILL: maybe something about brain hemispheres? left and right? 
-  
-  PAUL: yeah that's it 
-  
-  PAUL: I'm a genius 
-  
-  WILL: I just need them to sound like real names, so probz something exotic 
-  
-  WILL: otherwise I can already hear their cringy jokes: "Mr. Right? More like   Mr. Wrong!" or "Hey Lefty, your other have is all right!" 
-  
-  WILL: etc. etc. 
-  
-  WILL: -____- 
-  
-  PAUL: we can use a random dictionary, translate left and right - maybe   portuguese? 
-  
-  PAUL: GAHHHH which fucking we? I sound like a schizo! I mean ME. I will use a   random dictionary. 
-  
-  PAUL: Certo and Esquerdo - Right and Left 
-  
-  PAUL: easy, exotic, and only Brazilians and peeps with integrated translators   will ever catch on 
-  
-  WILL: pretty slick 
-  
-  WILL: not like anyone I know blows their eddies on that foofy non-combat junk   anyway 
-  
-  Username PAUL changed to: CERTO 
-  
-  Username WILL changed to: ESQUERDO
-  
+PAUL: pisses me off almost everyone still thinks I'm 2 people <br>
+WILL: tho to be fair not even sure why I'm still using this old message thread<br> 
+PAUL: force of habit? guess this is my dear diary now<br> 
+PAUL: anyway I'm thinking I need nicknames for us<br> 
+PAUL: wait, not "us". I mean both my bodies<br> 
+WILL: yeah, gonna need those for all the gonkbrains out there who will short circ if they have to use 1 name for both of me<br> 
+WILL: maybe something about brain hemispheres? left and right?<br> 
+PAUL: yeah that's it<br> 
+PAUL: I'm a genius<br> 
+WILL: I just need them to sound like real names, so probz something exotic<br> 
+WILL: otherwise I can already hear their cringy jokes: "Mr. Right? More like Mr. Wrong!" or "Hey Lefty, your other have is all right!"<br> 
+WILL: etc. etc.<br> 
+WILL: -____-<br> 
+PAUL: we can use a random dictionary, translate left and right - maybe portuguese?<br> 
+PAUL: GAHHHH which fucking we? I sound like a schizo! I mean ME. I will use a random dictionary.<br> 
+PAUL: Certo and Esquerdo - Right and Left<br> 
+PAUL: easy, exotic, and only Brazilians and peeps with integrated translators will ever catch on<br> 
+WILL: pretty slick<br> 
+WILL: not like anyone I know blows their eddies on that foofy non-combat junk anyway
+<br><br> 
+Username PAUL changed to: CERTO<br> 
+Username WILL changed to: ESQUERDO
 </div>
 
 ## BRAINDANCES - CONCEPTS
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  BD of a woman giving birth:
-  
-  Pro: nobody's done it yet 
-  Con: have to hook up a prenatal Wreath, which is more expensive
-  
-  BD of the most common dreams - compilation:
-  
-  Pro: it's doable 
-  Con: I'll have to consistently scroll the dreams of a dozen/couple dozen people   over at least 1y to catch the repeating themes - flying, swimming, falling,   going to work/school naked
-  
-  2 BDs scrolled by two actors, neural tracks set up so that it looks like one BD:
-  
-  Pro: it'd be nova 
-  Con: tech for it doesn't exist
-  
+BD of a woman giving birth:
+<br><br>
+Pro: nobody's done it yet<br> 
+Con: have to hook up a prenatal Wreath, which is more expensive
+<br><br>
+BD of the most common dreams - compilation:
+<br><br>
+Pro: it's doable<br> 
+Con: I'll have to consistently scroll the dreams of a dozen/couple dozen people over at least 1y to catch the repeating themes - flying, swimming, falling, going to work/school naked
+<br><br>
+2 BDs scrolled by two actors, neural tracks set up so that it looks like one BD:
+<br><br>
+Pro: it'd be nova<br> 
+Con: tech for it doesn't exist
 </div>
 
 ## CERTIFICATE
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  CERTIFICATE OF PARTICIPATION 
-  Presented to: 
-  VIKTOR VEKTOR 
-  Second Place 
-  Heavyweight Class 
-  4th OPEN FINALS 
-  WATSON BOXING GRAND PRIX 
-  Harriet Boehner, Organizer
-  Keeshan Roberts, NCBA President
-  April 3, 2061
-  
+CERTIFICATE OF PARTICIPATION<br> 
+Presented to:<br> 
+VIKTOR VEKTOR<br> 
+Second Place<br> 
+Heavyweight Class<br> 
+4th OPEN FINALS<br> 
+WATSON BOXING GRAND PRIX<br> 
+Harriet Boehner, Organizer<br>
+Keeshan Roberts, NCBA President<br>
+April 3, 2061
 </div>
 
 # Other
@@ -582,16 +549,14 @@ Christ I don't know which ways up... I'm fucking wiped. The boys brought over so
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  It doesn't matter how well you do something, as long as you look good doing it.   If you're going to blow it, make sure you look like you planned it that way.
-  Normally, clothes and looks don't matter in an adventure - in this world,   having a leather armor jacket and mirrorshades is a serious consideration.
-  Think dangerous; be dangerous. Think weak; be weak.
-  Never walk into a room when you can stride in.
-  Never drive slow when you can drive fast.
-  Throw yourself up against danger and take it head on.
-  Never play it too safe.
-  Stay committed to the Edge.
-  
+It doesn't matter how well you do something, as long as you look good doing it. If you're going to blow it, make sure you look like you planned it that way.<br>
+Normally, clothes and looks don't matter in an adventure - in this world, having a leather armor jacket and mirrorshades is a serious consideration.<br>
+Think dangerous; be dangerous. Think weak; be weak.<br>
+Never walk into a room when you can stride in.<br>
+Never drive slow when you can drive fast.<br>
+Throw yourself up against danger and take it head on.<br>
+Never play it too safe.<br>
+Stay committed to the Edge.<br>
 </div>
 
 ## PISS ON HIS GRAVE | PISS ON HER GRAVE
@@ -599,7 +564,7 @@ Christ I don't know which ways up... I'm fucking wiped. The boys brought over so
 
 <div class="cyberpunk-bg cyberpunk-cyan">
   
-  That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers   and sisters in chrome and HE|SHE WILL SUFFER for it! If anyone catches him|her   burnin rubber in Wats again, you drag him|her out by the hair and beat that   cocky fuckin face of his|her into a fleshy pulp! Don't leave anything for the   rats!!!
+That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and sisters in chrome and HE|SHE WILL SUFFER for it! If anyone catches him|her burnin rubber in Wats again, you drag him|her out by the hair and beat that cocky fuckin face of his|her into a fleshy pulp! Don't leave anything for the rats!!!
   
 </div>
 
@@ -607,24 +572,23 @@ Christ I don't know which ways up... I'm fucking wiped. The boys brought over so
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  117/77 
-  We have set sail. Only Hanako knows the true purpose of our visit to Night   City. The question is what to do with A. Hellman. He has proven loyal beyond   even my own expectations and deserves compensation. Perhaps he might be   interested in the position of Director of the Kyoto Institute of Technology,   sweeten the deal by letting him have his own handpicked team. Employees like   him should be kept on a short leash without seeing it as such.
-  
-  118/77 Militech have outdone themselves. This is not just a port, but a   fortress. But the atoll is of no interest to me - it is what lies in the   depths. I know what they hide. We should pay a tribute - five shots for every   one of ours that lies on the seabed. The only thing that restrains me from   giving the order is mercy for the innocents working on the port - I will spare   them the panic and anguish with our missiles. 
-  So rest well, Ye Fallen. Ne'er again will Ye be awoken with a BANG!
-  
-  119/77 
-  The further I am from home, the more my memories become sharpened, more acute. 
-  The faces of old enemies are suddenly thrown into relief. Even J.S. - I almost   completely forgot about him.
-  
-  120/77 
-  Hanako thinks that she should be the one to have a word with Y, or at the very   least accompany me. I declined. She took it in her usual dignified manner.   Still, she asked what I intend to do. As of yet I have no answer to this   question.
-  
-  121/77 
-  I see the coastline. Strange - in my memories the city seemed larger. If I   wanted to, i could wipe it off the map in under ten minutes. I shared this   thought with Hanako - she thinks I shouldn't do that. I usually defer to her   opinion. But if the Relic somehow fell into the wrong hands, maybe it would be   better to bury it among the ashes of NC? 
-  Until we talk to Y, I will hold off on a firm decision.
-  
+117/77<br> 
+We have set sail. Only Hanako knows the true purpose of our visit to Night City. The question is what to do with A. Hellman. He has proven loyal beyond even my own expectations and deserves compensation. Perhaps he might be interested in the position of Director of the Kyoto Institute of Technology, sweeten the deal by letting him have his own handpicked team. Employees like him should be kept on a short leash without seeing it as such.
+<br><br>
+118/77<br>
+Militech have outdone themselves. This is not just a port, but a fortress. But the atoll is of no interest to me - it is what lies in the depths. I know what they hide. We should pay a tribute - five shots for every one of ours that lies on the seabed. The only thing that restrains me from giving the order is mercy for the innocents working on the port - I will spare them the panic and anguish with our missiles.<br> 
+So rest well, Ye Fallen. Ne'er again will Ye be awoken with a BANG!
+<br><br>
+119/77<br> 
+The further I am from home, the more my memories become sharpened, more acute. 
+The faces of old enemies are suddenly thrown into relief. Even J.S. - I almost completely forgot about him.
+<br><br>
+120/77<br> 
+Hanako thinks that she should be the one to have a word with Y, or at the very least accompany me. I declined. She took it in her usual dignified manner. Still, she asked what I intend to do. As of yet I have no answer to this question.
+<br><br>
+121/77<br> 
+I see the coastline. Strange - in my memories the city seemed larger. If I wanted to, i could wipe it off the map in under ten minutes. I shared this thought with Hanako - she thinks I shouldn't do that. I usually defer to her opinion. But if the Relic somehow fell into the wrong hands, maybe it would be better to bury it among the ashes of NC? 
+Until we talk to Y, I will hold off on a firm decision.
 </div>
 
 # People of Night City
@@ -634,49 +598,43 @@ Christ I don't know which ways up... I'm fucking wiped. The boys brought over so
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  In many ways, the story of Yorinobu Arasaka resembles an ancient parable. The   younger son of one of the modern world's most powerful CEOs renounces his   heritage, forfeits his birthright, and instead chooses a rough-and-tumble life   on the streets of Tokyo only to later scamper back home to the warm, sheltered   bosom of his family with his tail tucked. At least, that is the story most have   pieced together from official sources. But why did Yorinobu betray his father   in the first place? Why did he return? For several years, I dug deeper,   followed leads, reached out to his former friends and acquaintances. Slowly, I   began to unearth answers to some of the public's most burning questions.
-  
-  Yorinobu was born in Tokyo in the early twenty-first century, the first child   to Saburo Arasaka's third wife, Michiko. By all accounts, he seemed a happy   child that grew to become a pleasant young man; that is, until his graduation   from the University of Tokyo at the age of 21. Following the ceremony, the   Arasaka family threw a party in his honor. At some point in the evening, Saburo   invited his son to his study for a private conversation. What transpired there   is wholly unknown, but after corroborating varied accounts, it is clear   Yorinobu must have slipped out of from the party and the estate only a few   hours later. Gone. A whisper in the night.
-  
-  Over the next few years, various eyewitnesses spotted Yorinobu in the company   of a nomad group known as Kotetsu no Ryu, or the "Steel Dragons." As part of   this youthful rebellion, he purposefully involved himself in altercations with   Arasaka agents and promoted anti-corporate slogans. After his family eventually   confirmed Yorinobu's involvement, Saburo renounced his son and Kei, Saburo's   eldest son, swore to exact revenge on his younger brother. Ironically, it was   later at Kei's funeral that Yorinobu at last reconciled with his father.   Stubbornly proud to a fault, many were suprised(sic) by the Arasaka patriarch's   conciliatory approach. What caused Saburo to change his mind? What role might   have Yorinobu's sister, Hanako, played in their peaceable reunion? That much   yet remains to be discovered...
-  
+In many ways, the story of Yorinobu Arasaka resembles an ancient parable. The younger son of one of the modern world's most powerful CEOs renounces his heritage, forfeits his birthright, and instead chooses a rough-and-tumble life on the streets of Tokyo only to later scamper back home to the warm, sheltered bosom of his family with his tail tucked. At least, that is the story most have pieced together from official sources. But why did Yorinobu betray his father in the first place? Why did he return? For several years, I dug deeper, followed leads, reached out to his former friends and acquaintances. Slowly, I began to unearth answers to some of the public's most burning questions.
+<br><br>
+Yorinobu was born in Tokyo in the early twenty-first century, the first child to Saburo Arasaka's third wife, Michiko. By all accounts, he seemed a happy child that grew to become a pleasant young man; that is, until his graduation from the University of Tokyo at the age of 21. Following the ceremony, the Arasaka family threw a party in his honor. At some point in the evening, Saburo invited his son to his study for a private conversation. What transpired there is wholly unknown, but after corroborating varied accounts, it is clear Yorinobu must have slipped out of from the party and the estate only a few hours later. Gone. A whisper in the night.
+<br><br>
+Over the next few years, various eyewitnesses spotted Yorinobu in the company of a nomad group known as Kotetsu no Ryu, or the "Steel Dragons." As part of this youthful rebellion, he purposefully involved himself in altercations with Arasaka agents and promoted anti-corporate slogans. After his family eventually confirmed Yorinobu's involvement, Saburo renounced his son and Kei, Saburo's eldest son, swore to exact revenge on his younger brother. Ironically, it was later at Kei's funeral that Yorinobu at last reconciled with his father. Stubbornly proud to a fault, many were suprised[sic] by the Arasaka patriarch's conciliatory approach. What caused Saburo to change his mind? What role might have Yorinobu's sister, Hanako, played in their peaceable reunion? That much yet remains to be discovered...
 </div>
 
 ## THE FLOWERS OF SILENCE. A BIOGRAPHY OF HANAKO ARASAKA.
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  If I had written this biography on the basis of publicly available material,   there would be two sides of this story, not to mention the foreword, afterword,   and the acknowledgments.
-  
-  Everyone knows that Hanako Arasaka is a very private individual. Everyone has   heard about the tragic death of the last reporter who attempted to pen her   life's story. Ten shots to the back. Suicide, according to the police.
-  
-  That's why when my publisher asked me to write this book, I had to politely   decline. Then when I saw the advance they were offering me, I started to   reconsider. And finally, when I discovered that Arasaka's PR department had   given its stamp of approval to interview numerous members of Hanako's   entourage, I was on the next flight to Tokyo.
-  
-  Soon enough, however, I lost my original enthusiasm. The people Arasaka sent me   to be interviewed repeated the same answers to all questions - clearly   memorized by heart. After a month's worth of research all I had was:
-  
-  Hanako Arasaka is the daughter of Saburo Arasaka from his third wife, Michiko.   She was born in 1999 in Tokyo and has only left the city five times in her   life. Living a cloistered lifestyle, she never fulfilled any important role in   the family business. She is very close to Yorinobu Arasaka, the black sheep in   the family.
-  
-  I was ready to give up when in the archives of a local T.V. station I found a   recording of the opening of an Arasaka branch in Fukuoka, graced by the   presence of none other than Hanako herself. She played the piano. Debussy's   "Reverie." Why that piece? Why play a dreamy, introspective song while   surrounded by stoic Japanese businessmen? Her golden fingers caressed the keys.   I was mesmerized. Tears rolled down my cheeks as I listened. That's when I knew   I had to finish this book. I had to meet this enigmatic woman and find out who   Hanako Arasaka really was.
-  
+If I had written this biography on the basis of publicly available material, there would be two sides of this story, not to mention the foreword, afterword, and the acknowledgments.
+<br><br>
+Everyone knows that Hanako Arasaka is a very private individual. Everyone has heard about the tragic death of the last reporter who attempted to pen her life's story. Ten shots to the back. Suicide, according to the police.
+<br><br>
+That's why when my publisher asked me to write this book, I had to politely decline. Then when I saw the advance they were offering me, I started to reconsider. And finally, when I discovered that Arasaka's PR department had given its stamp of approval to interview numerous members of Hanako's entourage, I was on the next flight to Tokyo.
+<br><br>
+Soon enough, however, I lost my original enthusiasm. The people Arasaka sent me to be interviewed repeated the same answers to all questions - clearly memorized by heart. After a month's worth of research all I had was:
+<br><br>
+Hanako Arasaka is the daughter of Saburo Arasaka from his third wife, Michiko. She was born in 1999 in Tokyo and has only left the city five times in her life. Living a cloistered lifestyle, she never fulfilled any important role in the family business. She is very close to Yorinobu Arasaka, the black sheep in the family.
+<br><br>
+I was ready to give up when in the archives of a local T.V. station I found a recording of the opening of an Arasaka branch in Fukuoka, graced by the presence of none other than Hanako herself. She played the piano. Debussy's "Reverie." Why that piece? Why play a dreamy, introspective song while surrounded by stoic Japanese businessmen? Her golden fingers caressed the keys. I was mesmerized. Tears rolled down my cheeks as I listened. That's when I knew I had to finish this book. I had to meet this enigmatic woman and find out who Hanako Arasaka really was.
 </div>
 
 ## CALIFORNIA AFTER DUSK: THE LIFE OF RICHARD NIGHT
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Richard Night was a pessimist. Even in the late Eighties, when the economy   seemed headed for endless growth and the nuclear threat for the ash heap of   history, Night saw the United States as hurtling toward collapse.
-  
-  Richard Night was an optimist. He deeply believed the world could be changed   for the better – and that he was the one to do it.
-  
-  Richard Night was a realist. Aware he couldn't change the face of the world all   at once, he decided to start small (for him, at least) by constructing the   ideal city. His utopian metropolis was to be called Coronado City. It would   stand as a metaphorical city on a hill, a shining example to the rest of the   world.
-  
-  Richard Night was doomed to fail. Not because his vision was inherently   impossible to realize, but because many important, powerful people wished to   make it so.
-  
-  Richard Night was murdered. The city whose foundations he laid was finished   after his death – but his utopian dream soon became a dystopian nightmare. Even   the original name was lost. In honor of the city's tragically deceased founder,   Coronado City was rechristened "Night City." Ironically, the name fits. If   anything, the city is a cat; sleepy during the day, it comes frantically alive   at night. And it loves to toy with its prey.
-  
+Richard Night was a pessimist. Even in the late Eighties, when the economy seemed headed for endless growth and the nuclear threat for the ash heap of history, Night saw the United States as hurtling toward collapse.
+<br><br>
+Richard Night was an optimist. He deeply believed the world could be changed for the better – and that he was the one to do it.
+<br><br>
+Richard Night was a realist. Aware he couldn't change the face of the world all at once, he decided to start small (for him, at least) by constructing the ideal city. His utopian metropolis was to be called Coronado City. It would stand as a metaphorical city on a hill, a shining example to the rest of the world.
+<br><br>
+Richard Night was doomed to fail. Not because his vision was inherently impossible to realize, but because many important, powerful people wished to make it so.
+<br><br>
+Richard Night was murdered. The city whose foundations he laid was finished after his death – but his utopian dream soon became a dystopian nightmare. Even the original name was lost. In honor of the city's tragically deceased founder, Coronado City was rechristened "Night City." Ironically, the name fits. If anything, the city is a cat; sleepy during the day, it comes frantically alive at night. And it loves to toy with its prey.
 </div>
 
 # Technology
@@ -686,418 +644,370 @@ Christ I don't know which ways up... I'm fucking wiped. The boys brought over so
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Many people believe we live in a time when "impossible" has become an obsolete   term. Ripperdocs can replace nearly any part of the human body with artificial   implants, from your big toe to portions of the nervous system. My years in   Trauma Team, however, taught me that the "impossible" is still very much   possible. Even now, as we enter the twilight of the twenty-first century, we as   medical professionals have not been able to eliminate all of the side effects   that come from incorporating cybernetic elements into our bodies. Of course,   everyone is familiar with the mental disorder most commonly referred to as   cyberpsychosis. But it doesn't end there. Although advances in medical science   for the greater part of a century have reduced its incidence to a minimum,   cyberware rejection can still occur in a small subset of the population. These   unlucky few can experience a range of complications, but the following are the   most prevalent:
-  
-  1. Immune Response – The body rejects the implant, causing scar tissue to   continue growing to the point that it causes pain and inflammation of   surrounding tissue as well as possible interference with the tech's electrical   circuits.
-  
-  2. Psychological Effects – Neurological implants have the potential to cause   unpredictable change in the brain. Possible side effects include depression,   apathy, hallucinations and sudden increases in addictive behaviors, such as   gambling.
-  
-  3. Implant Overdependence – Long-term use of certain synthetic body part   replacements can change the brain's chemistry to make it accustomed to a   particular type of implant. There are reported cases of permanent blindness   after patients attempted to replace their Kiroshi optical implants with   different models.
-  
-  In the face of these known risks, what should our outlook be as consumers and   medical professionals? To deny ourselves cybernetic enhancements on the 0.5   percent chance we could lose our vision forever? Or gamble away our life   savings at the casino? The clear answer is "No." Cyberware technology has   elevated human biology to the point where these what-if arguments serve against   our best interests. The best advice I can offer for minimizing your risk is to   read the technomedical profiles for all cyberware you intend to purchase before   you install it.
-  
+Many people believe we live in a time when "impossible" has become an obsolete term. Ripperdocs can replace nearly any part of the human body with artificial implants, from your big toe to portions of the nervous system. My years in Trauma Team, however, taught me that the "impossible" is still very much possible. Even now, as we enter the twilight of the twenty-first century, we as medical professionals have not been able to eliminate all of the side effects that come from incorporating cybernetic elements into our bodies. Of course, everyone is familiar with the mental disorder most commonly referred to as cyberpsychosis. But it doesn't end there. Although advances in medical science for the greater part of a century have reduced its incidence to a minimum, cyberware rejection can still occur in a small subset of the population. These unlucky few can experience a range of complications, but the following are the most prevalent:
+<br><br>
+1. Immune Response – The body rejects the implant, causing scar tissue to continue growing to the point that it causes pain and inflammation of surrounding tissue as well as possible interference with the tech's electrical circuits.
+<br><br>
+2. Psychological Effects – Neurological implants have the potential to cause unpredictable change in the brain. Possible side effects include depression, apathy, hallucinations and sudden increases in addictive behaviors, such as gambling.
+<br><br>
+3. Implant Overdependence – Long-term use of certain synthetic body part replacements can change the brain's chemistry to make it accustomed to a particular type of implant. There are reported cases of permanent blindness after patients attempted to replace their Kiroshi optical implants with different models.
+<br><br>
+In the face of these known risks, what should our outlook be as consumers and medical professionals? To deny ourselves cybernetic enhancements on the 0.5 percent chance we could lose our vision forever? Or gamble away our life savings at the casino? The clear answer is "No." Cyberware technology has elevated human biology to the point where these what-if arguments serve against our best interests. The best advice I can offer for minimizing your risk is to read the technomedical profiles for all cyberware you intend to purchase before you install it.
 </div>
 
 ## PAIN EDITORS AND MORTALITY RATES
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Introduction
-  
-  The implant known widely as the "pain editor" is cyberware that reduces or even   entirely eliminates pain. It has enjoyed unwavering popularity for years among   certain circles in Night City, the most devoted, and arguably most valuable, of   which is mercenaries. It is using this test group that Zetatech conducted the   following research.
-  
-  The pain editor is a neural coprocessor that inhibits the signals sent from   nociceptors to the parietal lobe of the brain, thus preventing feelings of pain   in the user. (Note: Some models also reduce symptoms of fatigue.) The   beneficial effects caused by the pain editor are in some ways similar to the   symptoms of hypoesthesia, including greater resistance to physical forms of   torture and the ability to ignore pain from severe wounds which can allow the   user to continue perform beyond normal human limitations for a brief period.
-  
-  However, some studies have reported that the pain editor can yield a range of   undesirable side effects. For example, in the heat of battle, some users are   unaware of the severity of their wounds, which causes them to continue fighting   without realizing they are dying and require immediate medical attention. The   statistics support the theory that a lack of negative reinforcement may cause   users to continue fighting when the rational strategy would be to retreat and   escape death. Since 2020, the mortality rate of pain editor owners is above 60   percent.
-  
-  In this report, I address the question of how to better protect Zetatech   clients from avoidable death while using our pain editors[...]
-  
+Introduction
+<br><br>
+The implant known widely as the "pain editor" is cyberware that reduces or even entirely eliminates pain. It has enjoyed unwavering popularity for years among certain circles in Night City, the most devoted, and arguably most valuable, of which is mercenaries. It is using this test group that Zetatech conducted the following research.
+<br><br>
+The pain editor is a neural coprocessor that inhibits the signals sent from nociceptors to the parietal lobe of the brain, thus preventing feelings of pain in the user. (Note: Some models also reduce symptoms of fatigue.) The beneficial effects caused by the pain editor are in some ways similar to the symptoms of hypoesthesia, including greater resistance to physical forms of torture and the ability to ignore pain from severe wounds which can allow the user to continue perform beyond normal human limitations for a brief period.
+<br><br>
+However, some studies have reported that the pain editor can yield a range of undesirable side effects. For example, in the heat of battle, some users are unaware of the severity of their wounds, which causes them to continue fighting without realizing they are dying and require immediate medical attention. The statistics support the theory that a lack of negative reinforcement may cause users to continue fighting when the rational strategy would be to retreat and escape death. Since 2020, the mortality rate of pain editor owners is above 60 percent.
+<br><br>
+In this report, I address the question of how to better protect Zetatech clients from avoidable death while using our pain editors[...]
 </div>
 
 ## RELIVE.IT - BRAINDANCE QUARTERLY
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  GUEST EDITORIAL
-  
-  Braindance editors have long strived to strike a balance between real, lived   experience and technological, experiential purity. The more heavily processed   the material, the more abstracted the pathways, the clearer the braindance   recording; these fundamental elements of design have guided editors since the   first wave of brain-to-brain experience sharing technology took hold. In their   pursuit of balance, however, editors have clearly shown a bias for purity over   naturalism over the years, even going so far to use it as a point of pride in   the quality of their production.
-  
-  But in the industry's latest push for greater purity has the purpose of the   technology already been forgotten? Will we not find ourselves processing and   filtering a braindance recording to the point that the emotional experience no   longer extends beyond what we receive from film, television and video games?   After reliving some of the latest titles on my feeder unit, this once-academic   question now feels all too inevitable with the industry's current trajectory.
-  
-  For a moment, let's consider why some reports suggest more and more users are   searching for unlicensed titles on the black market (so-called black   braindances, extreme braindances, or XBDs). Are we so sure it's the illicit   content they are after? Or maybe the real draw is the residual "grit" we   editors try so hard to remove? Distracting thoughts, irrelevant memories, loose   associative threads, emotions stretching beyond the desired spectrum... What if   this "noise" is not so superfluous as we believe it to be? What if these   peripheral experiences hold the potential to elevate a good braindance to an   exquisite one? We do ourselves a disservice by not exploring these questions   before our blind crusade for braindance purity leads this industry straight   into the bin of obsolete, flash-in-the-pan technology.
-  
-  - J.A.
-  
-  Relive.it - The quarterly magazine for braindance editors, amateurs, and   enthusiasts, vol. 4/78, December 2076
-  
+GUEST EDITORIAL
+<br><br>
+Braindance editors have long strived to strike a balance between real, lived experience and technological, experiential purity. The more heavily processed the material, the more abstracted the pathways, the clearer the braindance recording; these fundamental elements of design have guided editors since the first wave of brain-to-brain experience sharing technology took hold. In their pursuit of balance, however, editors have clearly shown a bias for purity over naturalism over the years, even going so far to use it as a point of pride in the quality of their production.
+<br><br>
+But in the industry's latest push for greater purity has the purpose of the technology already been forgotten? Will we not find ourselves processing and filtering a braindance recording to the point that the emotional experience no longer extends beyond what we receive from film, television and video games? After reliving some of the latest titles on my feeder unit, this once-academic question now feels all too inevitable with the industry's current trajectory.
+<br><br>
+For a moment, let's consider why some reports suggest more and more users are searching for unlicensed titles on the black market (so-called black braindances, extreme braindances, or XBDs). Are we so sure it's the illicit content they are after? Or maybe the real draw is the residual "grit" we editors try so hard to remove? Distracting thoughts, irrelevant memories, loose associative threads, emotions stretching beyond the desired spectrum... What if this "noise" is not so superfluous as we believe it to be? What if these peripheral experiences hold the potential to elevate a good braindance to an exquisite one? We do ourselves a disservice by not exploring these questions before our blind crusade for braindance purity leads this industry straight into the bin of obsolete, flash-in-the-pan technology.
+<br><br>
+- J.A.
+<br><br>
+Relive.it - The quarterly magazine for braindance editors, amateurs, and enthusiasts, vol. 4/78, December 2076
 </div>
 
 ## CAN CYBERPSYCHOSIS BE CURED?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Can cyberpsychosis be cured? Opinions on that question are divided. Only a few   years ago so-called braindance therapy was used across the entire country on a   mass scale with the aim of bringing the sick back from the point of no return.   The patient would be placed on a special chair and connected to a device that   would deactivate all implants. 
-  Then electrodes would be attached, inducing the patient into a coma-like   braindance session. This was then followed up by medicine, psychosurgery and   the aversion therapy. 
-  The overall treatment was intended to sever all the patient's neural   connections and tie them back together so that the cyberpsycho could return to   society. Once the therapy was concluded, no symptoms of cyberpsychosis were   detected, as well as the patient's former personality. But don't worry -   nowadays other methods are used. At least, that's what they tell us.
-  
+Can cyberpsychosis be cured? Opinions on that question are divided. Only a few years ago so-called braindance therapy was used across the entire country on a mass scale with the aim of bringing the sick back from the point of no return. The patient would be placed on a special chair and connected to a device that would deactivate all implants. 
+Then electrodes would be attached, inducing the patient into a coma-like braindance session. This was then followed up by medicine, psychosurgery and the aversion therapy. 
+The overall treatment was intended to sever all the patient's neural connections and tie them back together so that the cyberpsycho could return to society. Once the therapy was concluded, no symptoms of cyberpsychosis were detected, as well as the patient's former personality. But don't worry - nowadays other methods are used. At least, that's what they tell us.
 </div>
 
 ## 75 YEARS OF CYBERWARE, BY TSUTOMU TAKAHASHI
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  INTRODUCTION
-  
-  A century ago, losing a limb meant tragedy. It meant living with permanent   disability, with severely reduced physical capability, and often with a chronic   pain. What's more, people with disabilities frequently suffered from widespread   discrimination, both active (e.g. employment bias) and passive or unconscious   (e.g. poor infrastructural inaccessibility). Today, assuming the dismemberment   victim is financially stable, loss of limb amounts to little more than a minor   inconvenience.
-  
-  A century ago, employers could impose specific dress codes, hairstyle   regulations, and piercing and tattoo bans. Many even pressed their employees to   maximize productivity often in violation of the law, such as through   anti-pregnancy policies. At the time, however, deeper involvement with   employees' bodies was simply impossible, legal or otherwise. But, with the   advent of cyberware, employers in the second half of the twenty-first century   have imposed requirements for skin, bone, muscle, organ and eye replacements in   order to improve performance and workplace effectiveness In extreme cases,   security sector employees are commonly urged to undergo so-called full body   conversions, or full cyborgization.
-  
-  Much has changed over the past seventy-five years from when cybernetic implants   first hit the mass market. Many in the field of history of technology have   argued cyberware is a positive force for progress, and many have argued the   opposite. This book attempts to describe and contextualize the changes - for   better or worse - that it has introduced to our professional and personal   lives. How has cyberware led us to where we are today, and where is it taking   us next?
-  
+INTRODUCTION
+<br><br>
+A century ago, losing a limb meant tragedy. It meant living with permanent disability, with severely reduced physical capability, and often with a chronic pain. What's more, people with disabilities frequently suffered from widespread discrimination, both active (e.g. employment bias) and passive or unconscious (e.g. poor infrastructural inaccessibility). Today, assuming the dismemberment victim is financially stable, loss of limb amounts to little more than a minor inconvenience.
+<br><br>
+A century ago, employers could impose specific dress codes, hairstyle regulations, and piercing and tattoo bans. Many even pressed their employees to maximize productivity often in violation of the law, such as through anti-pregnancy policies. At the time, however, deeper involvement with employees' bodies was simply impossible, legal or otherwise. But, with the advent of cyberware, employers in the second half of the twenty-first century have imposed requirements for skin, bone, muscle, organ and eye replacements in order to improve performance and workplace effectiveness In extreme cases, security sector employees are commonly urged to undergo so-called full body conversions, or full cyborgization.
+<br><br>
+Much has changed over the past seventy-five years from when cybernetic implants first hit the mass market. Many in the field of history of technology have argued cyberware is a positive force for progress, and many have argued the opposite. This book attempts to describe and contextualize the changes - for better or worse - that it has introduced to our professional and personal lives. How has cyberware led us to where we are today, and where is it taking us next?
 </div>
 
 ## KENDACHI - NEW SPRING CATALOGUE
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Kenshiri-Adachi Arnaments
-  
-  OUR MISSION
-  
-  At Kendachi, we are creators. We care about our customer's satisfaction and   their budget. By choosing our products, you can be confident no eurodollar   invested goes to waste. Kendachi - The Choice is Obvious
-  
-  OUR PRODUCTS
-  
-  Kendachi M-55 Powersword 
-  For our blade buffs, our iconic Powersword is back and better that ever! Dice   your foes into tiny pieces without breaking a sweat using our latest   micro-serrated crystal blade technology. With highest-quality materials crafted   into a lethal yet elegant design, the Powersword will look as good on your   mantle as it does in your hand.
-  
-  Kendachi Mono-Two CLASSIC 
-  You can't improve upon perfection. This time-honored twin-blade has been in   continuous production since 2019! Lit by a custom-color, handle-embedded laser,   the Mono-Two has never gone out of style. Block every blow and slice through   any defence. We wouldn't keep making them if people weren't buying them - order   yours today!
-  
-  Kendachi Monowire 
-  A weapon as discreet as it is deadly. Made for those who desire power but have   no urge to flaunt it, this molecule-thin blade is manufactured by our teams of   expect engineers in our state-of-art orbital facility. The Monowire can bear   loads of up to 3,000 lbs and slices through armorweaves like butter-flavored   scopspread. Rumor is, many officials at the Zurich Convention wanted this   weapon banned and off the market. Now if that's not high praise, we don't know   what is!
-  
+Kenshiri-Adachi Arnaments
+<br><br>
+OUR MISSION
+<br><br>
+At Kendachi, we are creators. We care about our customer's satisfaction and their budget. By choosing our products, you can be confident no eurodollar invested goes to waste. Kendachi - The Choice is Obvious
+<br><br>
+OUR PRODUCTS
+<br><br>
+Kendachi M-55 Powersword<br> 
+For our blade buffs, our iconic Powersword is back and better that ever! Dice your foes into tiny pieces without breaking a sweat using our latest micro-serrated crystal blade technology. With highest-quality materials crafted into a lethal yet elegant design, the Powersword will look as good on your mantle as it does in your hand.
+<br><br>
+Kendachi Mono-Two CLASSIC<br> 
+You can't improve upon perfection. This time-honored twin-blade has been in continuous production since 2019! Lit by a custom-color, handle-embedded laser, the Mono-Two has never gone out of style. Block every blow and slice through any defence. We wouldn't keep making them if people weren't buying them - order yours today!
+<br><br>
+Kendachi Monowire<br> 
+A weapon as discreet as it is deadly. Made for those who desire power but have no urge to flaunt it, this molecule-thin blade is manufactured by our teams of expect engineers in our state-of-art orbital facility. The Monowire can bear loads of up to 3,000 lbs and slices through armorweaves like butter-flavored scopspread. Rumor is, many officials at the Zurich Convention wanted this weapon banned and off the market. Now if that's not high praise, we don't know what is!
 </div>
 
-## CHEMICALS: THE INVISIBLE KILLER
+## Chemicals: The Invisible Killer
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  We've long known that the AVs criss-crossing our skies are busy dumping harmful   substances in the air, such as aluminum, carbon dioxide, sulphur trioxide and   sulphuric acid. Studies have also revealed the presence of dead red blood cells   and E coli., as well as sodium chloride (table salt).
-  
-  Now, you don't need a degree in science to know the harm these substances can   wreak on the body. We've found that sulphur compounds can lead to cancer, heart   decease and other illnesses arising from a weakened or even damaged immune   system. They can also lead to spontaneous dental hydroplosion and acute   meningitis.
-  
+We've long known that the AVs criss-crossing our skies are busy dumping harmful substances in the air, such as aluminum, carbon dioxide, sulphur trioxide and sulphuric acid. Studies have also revealed the presence of dead red blood cells and E coli., as well as sodium chloride (table salt).
+<br><br>
+Now, you don't need a degree in science to know the harm these substances can wreak on the body. We've found that sulphur compounds can lead to cancer, heart decease and other illnesses arising from a weakened or even damaged immune system. They can also lead to spontaneous dental hydroplosion and acute meningitis.
 </div>
 
-# Religion & Philosophy
+# RELIGION & PHILOSOPHY
 {: .notice--cyberpunk-yellow}
   
-## THE WORLD AS WILL AND IDEA
+## The World as Will and Idea
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  [...]But, besides all this, death is the great opportunity no longer to be I;  —to him who uses it. During life the will of man is without freedom: his action   takes place with necessity upon the basis of his unalterable character in the   chain of motives. But every one remembers much that he has done, and on account   of which he is by no means satisfied with himself. If now he were to go on   living, he would go on acting in the same way, on account of the unalterable   nature of his character. Accordingly he must cease to be what he is in order to   be able to arise out of the germ of his nature as a new and different being.   Therefore death looses these bonds; the will again becomes free; for freedom   lies in the Esse, not in the Operari[...]
-  
-  Arthur Schopenhauer
-  
+[...]But, besides all this, death is the great opportunity no longer to be I;—to him who uses it. During life the will of man is without freedom: his action takes place with necessity upon the basis of his unalterable character in the chain of motives. But every one remembers much that he has done, and on account of which he is by no means satisfied with himself. If now he were to go on living, he would go on acting in the same way, on account of the unalterable nature of his character. Accordingly he must cease to be what he is in order to be able to arise out of the germ of his nature as a new and different being. Therefore death looses these bonds; the will again becomes free; for freedom lies in the Esse, not in the Operari[...]
+<br><br>
+Arthur Schopenhauer
 </div>
 
-## BEELZEBUB'S TALES TO HIS GRANDSON
+## Beelzebub's Tales to His Grandson
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Even before our arrival, many beings in Babylon had lost their minds over this   subject, while many others were inching closer to the same fate. The "burning   question" of the day, the question that wracked the brains of both "pitiful   scientists" and normal beings of Babylon was this:"Do we have a soul or not?"   There were all sorts of the most fantastic theories on this subject, with new   ones appearing all the time, and each and every one of the "tempting   hypotheses" had its supporters. Despite the overwhelming number and diversity   of these beliefs, they were all based on one of two completely opposing   premises. The first was called "atheism," while the other was "idealism" or   "dualism." All duelistic(sic) hypothesis held the soul existed and, of course,   that it was immortal and could suffer many things even after the death of the   being. Meanwhile, the atheistic theories held the complete opposite view. In   short, my boy, when we cam to Babylon, we came upon what could only be called   "constructing the Tower of Babel."
-  
+Even before our arrival, many beings in Babylon had lost their minds over this subject, while many others were inching closer to the same fate. The "burning question" of the day, the question that wracked the brains of both "pitiful scientists" and normal beings of Babylon was this:"Do we have a soul or not?" There were all sorts of the most fantastic theories on this subject, with new ones appearing all the time, and each and every one of the "tempting hypotheses" had its supporters. Despite the overwhelming number and diversity of these beliefs, they were all based on one of two completely opposing premises. The first was called "atheism," while the other was "idealism" or "dualism." All duelistic[sic] hypothesis held the soul existed and, of course, that it was immortal and could suffer many things even after the death of the being. Meanwhile, the atheistic theories held the complete opposite view. In short, my boy, when we cam to Babylon, we came upon what could only be called "constructing the Tower of Babel."
 </div>
 
-## HOMO DEUS: CHRISTIANITY AND CYBERMODIFICATION
+## Homo Deus: Christianity and Cybermodification
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  "So God created man in his own image, in the image of God." So says the Book of   Genesis. Religious components of cybernetic body modification believe the   Christian God intended the same perfection for man as He Himself possesses.   Suffering, disease, death - these exist in contradiction with divinity, but can   be overcome with the aid of science and technology. So called   "cybertheologists" interpret God's command to "subdue the earth" quite   literally. By their account, any and all means that might enable man to reach a   state closer to divinity are "good", both ethically and morally.
-  
-  However, some in their Christian fold have voiced concern that such   cybertheologists guilty of excessive hubris. For an immortal man would this   become his own savior, rendering the existence of the one, true ascendant God   superfluous. Only the soul should be immortal, while the human body - as a   "temple of the Holy Spirit" - should be accepted as it is: mortal and destined   for resurrection on Judgment Day.
-  
-  "Eritis sicut dii," said the serpent to Eve: "You will be as Gods." Religious   purists exhort their sisters and brothers in faith to resist this temptation of   Satan, masked as the will of God. But cybertheologists have stood fast and   supplemented their cause with the phrase "scientes bonum et malum". They call   upon humanity to tap into the divine and cosciously interpret for themselves   what is Good and what is Evil.
-  
+"So God created man in his own image, in the image of God." So says the Book of Genesis. Religious components of cybernetic body modification believe the Christian God intended the same perfection for man as He Himself possesses. Suffering, disease, death - these exist in contradiction with divinity, but can be overcome with the aid of science and technology. So called "cybertheologists" interpret God's command to "subdue the earth" quite literally. By their account, any and all means that might enable man to reach a state closer to divinity are "good", both ethically and morally.
+<br><br>
+However, some in their Christian fold have voiced concern that such cybertheologists guilty of excessive hubris. For an immortal man would this become his own savior, rendering the existence of the one, true ascendant God superfluous. Only the soul should be immortal, while the human body - as a "temple of the Holy Spirit" - should be accepted as it is: mortal and destined for resurrection on Judgment Day.
+<br><br>
+"Eritis sicut dii," said the serpent to Eve: "You will be as Gods." Religious purists exhort their sisters and brothers in faith to resist this temptation of Satan, masked as the will of God. But cybertheologists have stood fast and supplemented their cause with the phrase "scientes bonum et malum". They call upon humanity to tap into the divine and cosciously interpret for themselves what is Good and what is Evil.
 </div>
 
-# World
+# WORLD
 {: .notice--cyberpunk-yellow}
   
-## THE UNIFICATION WAR... FOR GONKS!
+## The Unification War... for Gonks!
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  *The Unification War is the most recent armed conflict to take place in North   America since the Collapse, lasting from January 2069 to June 2070.
-  
-  *Although the Unification War is formally recognized as a war between the New   United States of America (NUSA) and the governments of the Free States, most   scholars also classify the conflict as a corporate war. It is well known that   the NUSA was backed by Militech hardware, personnel and other resources,   whereas the Free States received the significant yet tacit support of the   Arasaka Corporation.
-  
-  *The Unification War is also sometimes referred to as the Metal War or Metal   Wars, in reference to the wide use of armored cavalry units (so-called   "panzers").
-  
-  *The bloodiest battle in the Unification War was the Battle of Ridgecrest. In   just one day, at least 3,078 people were reported killed.
-  
-  *North California and South California were on opposite sides of the war,   allied with the Free States and the NUSA, respectively, while Night City   maintained a position of neutrality.
-  
-  *The Unification War ended when all parties signed the Treaty of Unification in   Arvin, South California. Both sides claimed victory: the Free States   emphasizing that they had preserved their independence, and the NUSA boasting   that they were closer than ever to reunifying a divided American people.
-  
-  *The end of the Unification War, however, was not an end to the conflict at   large. The leading AI analytics software predicts another hot war will likely   break out by 2080 (74% confidence).
-  
+*The Unification War is the most recent armed conflict to take place in North America since the Collapse, lasting from January 2069 to June 2070.
+<br><br>
+*Although the Unification War is formally recognized as a war between the New United States of America (NUSA) and the governments of the Free States, most scholars also classify the conflict as a corporate war. It is well known that the NUSA was backed by Militech hardware, personnel and other resources, whereas the Free States received the significant yet tacit support of the Arasaka Corporation.
+<br><br>
+*The Unification War is also sometimes referred to as the Metal War or Metal Wars, in reference to the wide use of armored cavalry units (so-called "panzers").
+<br><br>
+*The bloodiest battle in the Unification War was the Battle of Ridgecrest. In just one day, at least 3,078 people were reported killed.
+<br><br>
+*North California and South California were on opposite sides of the war, allied with the Free States and the NUSA, respectively, while Night City maintained a position of neutrality.
+<br><br>
+*The Unification War ended when all parties signed the Treaty of Unification in Arvin, South California. Both sides claimed victory: the Free States emphasizing that they had preserved their independence, and the NUSA boasting that they were closer than ever to reunifying a divided American people.
+<br><br>
+*The end of the Unification War, however, was not an end to the conflict at large. The leading AI analytics software predicts another hot war will likely break out by 2080 (74% confidence).
 </div>
 
-## THE DAY THE TOWER FELL
+## The Day the Tower Fell
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  In early August 2023, a single event would change the course of history.   Although it fell against the bloody backdrop of the Fourth Corporate War, the   global media still fed on the story for weeks. And could you blame them? A   group of terrorists detonated a nuclear bomb, blowing Arasaka Tower to pieces.   The terrorists' warning came too late – not all of the Tower's employees could   be evacuated. The blast itself killed and wounded thousands, while countless   others died from radiation sickness. How did the biggest terrorist attack in   the 21st century happen? Who was behind this catastrophe? To find the answers,   we'll need to first understand the context of that era.
-  
-  The early 2020's was a period of unrest for Night City and anti-corporate   sentiment was at an all-time high. In the epicenter of the city's lawlessness   stood the Atlantis club. It was seen as an island of resistance against the   powers that be, primarily megacorporations like Militech or Biotechnica –   though a special place in hell was reserved for Arasaka, the Japanese   arms-manufacturing zaibatsu that held the most influence over Night City. The   kinds of people who frequented the Atlantis felt that corporations had hijacked   the future and turned people into consumer-slaves and ironically, deprived of   the two things capitalism loved most – freedom and choice. These people called   themselves Edgerunners. They positioned themselves against the corporate world   order – they declared their own freedom and opposition to the status quo. But   deprived of any peaceful way to meaningfully change what they called "the   System," they reached for more radical methods of self-expression. And these   people were no strangers to violence.
-  
+In early August 2023, a single event would change the course of history. Although it fell against the bloody backdrop of the Fourth Corporate War, the global media still fed on the story for weeks. And could you blame them? A group of terrorists detonated a nuclear bomb, blowing Arasaka Tower to pieces. The terrorists' warning came too late – not all of the Tower's employees could be evacuated. The blast itself killed and wounded thousands, while countless others died from radiation sickness. How did the biggest terrorist attack in the 21st century happen? Who was behind this catastrophe? To find the answers, we'll need to first understand the context of that era.
+<br><br>
+The early 2020's was a period of unrest for Night City and anti-corporate sentiment was at an all-time high. In the epicenter of the city's lawlessness stood the Atlantis club. It was seen as an island of resistance against the powers that be, primarily megacorporations like Militech or Biotechnica – though a special place in hell was reserved for Arasaka, the Japanese arms-manufacturing zaibatsu that held the most influence over Night City. The kinds of people who frequented the Atlantis felt that corporations had hijacked the future and turned people into consumer-slaves and ironically, deprived of the two things capitalism loved most – freedom and choice. These people called themselves Edgerunners. They positioned themselves against the corporate world order – they declared their own freedom and opposition to the status quo. But deprived of any peaceful way to meaningfully change what they called "the System," they reached for more radical methods of self-expression. And these people were no strangers to violence.
 </div>
 
-## THE UNDOING: FALL OF THE FIRST NET
+## The Undoing: Fall of the First Net
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Chapter I: The Apocalypse
-  
-  His name was Rache Bartmoss. Everyone knows WHO destroyed the first Net. The   real question is WHY. NetWatch branded him a criminal and outlaw. The media   called him a madman. Is either label correct? You be the judge. Below is a   previously unpublished letter which Bartmoss put out just before the release of   R.A.B.I.D.S. Why has this document only now just emerged? Well... Someone out   there did not want you, my dear readers, to ever lay eyes on it. All the more   reason to take a deep dive into the information available to us.
-  ‐‐ Maria Jimenez
-  
-  ‐‐‐‐‐ 
-  
-  The first Net was supposed save(sic) us. It would serve as a platform for those   without a voice. It would offer unlimited knowledge to those who hungered for   it. It would bring a fractured humanity closer together than ever before in our   history. But these hopes were hollow. False.
-  
-  The Net spread its tendrils around the globe faster than anyone could have   predicted. Before anyone could even consider the full range of consequences.   This "information superhighway" turned out to be our path straight to hell. We   were robbed of our privacy, deprived of our free will, stripped of our dignity.
-  
-  It was supposed to save us, but now even the Net itself cannot be saved. It was   molded by the corps, with sharp edges, spikes and traps at every corner. Think   of the Net as a stream of water that flows gently into our minds... before   freezing, swelling, and destroying us from the inside out. But remember this   about ice – as hard as it may be, it's surprisingly brittle. One well-placed   strike and it shatters into a million tiny pieces. Watch out today and you'll   see just what I mean.
-  
-  Rache Bartmoss
-  
+Chapter I: The Apocalypse
+<br><br>
+His name was Rache Bartmoss. Everyone knows WHO destroyed the first Net. The real question is WHY. NetWatch branded him a criminal and outlaw. The media called him a madman. Is either label correct? You be the judge. Below is a previously unpublished letter which Bartmoss put out just before the release of R.A.B.I.D.S. Why has this document only now just emerged? Well... Someone out there did not want you, my dear readers, to ever lay eyes on it. All the more reason to take a deep dive into the information available to us.<br>
+‐‐ Maria Jimenez
+<br><br>
+‐‐‐‐‐ 
+<br><br>
+The first Net was supposed save[sic] us. It would serve as a platform for those without a voice. It would offer unlimited knowledge to those who hungered for it. It would bring a fractured humanity closer together than ever before in our history. But these hopes were hollow. False.
+<br><br>
+The Net spread its tendrils around the globe faster than anyone could have predicted. Before anyone could even consider the full range of consequences. This "information superhighway" turned out to be our path straight to hell. We were robbed of our privacy, deprived of our free will, stripped of our dignity.
+<br><br>
+It was supposed to save us, but now even the Net itself cannot be saved. It was molded by the corps, with sharp edges, spikes and traps at every corner. Think of the Net as a stream of water that flows gently into our minds... before freezing, swelling, and destroying us from the inside out. But remember this about ice – as hard as it may be, it's surprisingly brittle. One well-placed strike and it shatters into a million tiny pieces. Watch out today and you'll see just what I mean.
+<br><br>
+Rache Bartmoss
 </div>
 
-## WHY BE ME?: CONFESSIONS OF A BRAINDANCE ADDICT
+## Why Be Me?: Confessions of a Braindance Addict
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  PREFACE
-  
-  Do you want to be you?
-  
-  Seriously. Take a moment to let that question sink in. Do you feel at home in   your skin? Do you like your job? Your friends, your family? When you look in   the mirror, do you say to yourself "I'm the luckiest person alive," then hop in   the leather-upholstered backseat of your chauffeured Rayfield?
-  
-  If you answered "yes" to any of those questions, put down this book and stop   wasting your valuable time. If you answered "no" to the above, I understand how   you feel.
-  
-  It used to be said, at the turn of the century, that the world belongs to the   "one percent." Today, one thousandth of a percent is closer to the truth. And   your chances of joining this group are even less than that. In this reality, I   mean - where you are you. In a braindance, you can be anyone. A broker who   manages a portfolio worth trillions. An elite soldier who blasts his enemies   out of existence with a tech shotgun. A suave rockerboy whom the whole world   lusts after...
-  
-  Now, I ask you again: Of the millions upon millions of people in this world, do   you want to be you? The answer for me was always "no." And so my story begins.   [...]
-  
-  Sergio Morales
-  
+PREFACE
+<br><br>
+Do you want to be you?
+<br><br>
+Seriously. Take a moment to let that question sink in. Do you feel at home in your skin? Do you like your job? Your friends, your family? When you look in the mirror, do you say to yourself "I'm the luckiest person alive," then hop in the leather-upholstered backseat of your chauffeured Rayfield?
+<br><br>
+If you answered "yes" to any of those questions, put down this book and stop wasting your valuable time. If you answered "no" to the above, I understand how you feel.
+<br><br>
+It used to be said, at the turn of the century, that the world belongs to the "one percent." Today, one thousandth of a percent is closer to the truth. And your chances of joining this group are even less than that. In this reality, I mean - where you are you. In a braindance, you can be anyone. A broker who manages a portfolio worth trillions. An elite soldier who blasts his enemies out of existence with a tech shotgun. A suave rockerboy whom the whole world lusts after...
+<br><br>
+Now, I ask you again: Of the millions upon millions of people in this world, do you want to be you? The answer for me was always "no." And so my story begins. [...]
+<br><br>
+Sergio Morales
 </div>
 
-## ALL FOODS – THE FUTURE OF MEAT
+## All Foods – The Future of Meat
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Not only are All Foods products healthy and nutritious, they will feed our   future. 
-  Soon, All Foods will launch a pilot line of new products to complement the   EEZYBEEF brand. This series of meat products will be based on flatworm   cultures, which have been found to significantly help increase metabolism, slow   weight gain, and cleanse the intestinal tract. We hope the flatworm initiative   will usher in All Foods' latest successful generation of meat products.
-  
+Not only are All Foods products healthy and nutritious, they will feed our future. 
+Soon, All Foods will launch a pilot line of new products to complement the EEZYBEEF brand. This series of meat products will be based on flatworm cultures, which have been found to significantly help increase metabolism, slow weight gain, and cleanse the intestinal tract. We hope the flatworm initiative will usher in All Foods' latest successful generation of meat products.
 </div>
 
-## THE MAXTAC WAY, BY MATHIAS MADDOX
+## The MaxTac Way, by Mathias Maddox
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  FOREWORD TO THE SECOND EDITION
-  
-  I was fortunate, after publishing the first edition of this book, to meet many   people with fascinating stories. I spoke with people who lost loved ones at the   hands of cyberpsyshos. I met the relatives of people whom I shot. Needless to   say, not every conversation ended on good terms.
-  
-  After some time, I learned what questions to expect from my readers. Have you   ever been shot? (Yes, and I've lost count.) Who was the most difficult person   to kill/arrest? (The 2063 Golden Springs Mall Killer - more titanium bone and   synth-skin than man.) What causes cyberpsychosis? (I'll let you know when I   find out!)
-  
-  Then, at a book-signing in Heywood, I was asked a question I had never heard   before: Is there anything that keeps me awake at night? After a moment's   reflection, I realized the answer was yes. Perhaps most surprisingly, however,   it was not nightmares of eviscerated cyberpsycho victims, nor the shrieks and   cries of my squad mates as they burned alive. Cruel as it may sound, I grew   used to that. It was just part of the job. No - what caused my heart to pound   as I lie in bed late at night is the thought that one day I, too, could succumb   to cyberpsychosis. The amount of cyberware I have incorporated into my body is   substantial. Far more than most. I tried to drown the human parts of me that   fear, that doubt. I am aware just how fragile my humanity is - that piece of   myself deep within that makes me who I am. One poorly clipped neuron, one   hormonal overdose, and that piece may disappear forever, leaving behind an   automoton with only one desire: to kill. In truth, I forced my mind to race so   I would not have to confront these thoughts. Today, I still struggle with these   demons, but I have asked my wife to keep a loaded pistol in her bedside table.   If I begin to scream or rant incoherently in the middle of the night, I   instructed her to empty the entire clip between my eyes. At first she objected,   but our love is strong.
-  
-  It is thanks for my loving wife's promise that I have never slept as soundly as   I do now.
-  
+FOREWORD TO THE SECOND EDITION
+<br><br>
+I was fortunate, after publishing the first edition of this book, to meet many people with fascinating stories. I spoke with people who lost loved ones at the hands of cyberpsyshos. I met the relatives of people whom I shot. Needless to say, not every conversation ended on good terms.
+<br><br>
+After some time, I learned what questions to expect from my readers. Have you ever been shot? (Yes, and I've lost count.) Who was the most difficult person to kill/arrest? (The 2063 Golden Springs Mall Killer - more titanium bone and synth-skin than man.) What causes cyberpsychosis? (I'll let you know when I find out!)
+<br><br>
+Then, at a book-signing in Heywood, I was asked a question I had never heard before: Is there anything that keeps me awake at night? After a moment's reflection, I realized the answer was yes. Perhaps most surprisingly, however, it was not nightmares of eviscerated cyberpsycho victims, nor the shrieks and cries of my squad mates as they burned alive. Cruel as it may sound, I grew used to that. It was just part of the job. No - what caused my heart to pound as I lie in bed late at night is the thought that one day I, too, could succumb to cyberpsychosis. The amount of cyberware I have incorporated into my body is substantial. Far more than most. I tried to drown the human parts of me that fear, that doubt. I am aware just how fragile my humanity is - that piece of myself deep within that makes me who I am. One poorly clipped neuron, one hormonal overdose, and that piece may disappear forever, leaving behind an automoton with only one desire: to kill. In truth, I forced my mind to race so I would not have to confront these thoughts. Today, I still struggle with these demons, but I have asked my wife to keep a loaded pistol in her bedside table. If I begin to scream or rant incoherently in the middle of the night, I instructed her to empty the entire clip between my eyes. At first she objected, but our love is strong.
+<br><br>
+It is thanks for my loving wife's promise that I have never slept as soundly as I do now.
 </div>
 
-## IN THE SHADOWS OF MEGABUILDINGS
+## In the Shadows of Megabuildings
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  One could say we're living in stable times. The 4th Corporate War is ancient   history, the Unification War is over and done with, and Night City is a free   city - a jewel embedded between two Californias. Living here, you might have   the impression that everything is OK in the world. But look around.
-  
-  The world is not OK. Despite technological recession between 2020 and 2040   reducing global pollution levels, humanity is still facing monumental   existential threats. Climate change has turned into climate disaster - its   effects are irreversible and dangerously unpredictable. Hurricanes, tornadoes,   droughts, floods - natural catastrophes are growing in strength and frequency   across the continent, leveling entire regions. Access to clean water is   becoming increasingly more scarce, as well as fertile land. Hunger and   starvation still reaps a bloody, human harvest in Asia and Africa, where   corporations had no interest in building vertical, hydroponic farms.
-  
-  Meanwhile, advances in cybermodification have given rise to a new problem:   cyberpsychosis. And though we've been aware of cyberpsychosis for over half a   century, and know that incidents of cyberpsychosis are inextricably linked to a   person's level of implantation, we still do not know why some are more prone to   carrying out violent attacks than others. Let's not also forget the more   serious issue of mass inequality, record high crime rates (including in places   like Night City) and social unrest linked to immigration in almost every corner   of the world...
-  
-  So I ask you again - look around. You see all of these problems in Night City   already. Maybe you're standing in the shadow of a megabuilding and you think,   "Night City is Night City - the rest of the world's problems don't affect me,   right?"
-  
-  Right?
-  
+One could say we're living in stable times. The 4th Corporate War is ancient history, the Unification War is over and done with, and Night City is a free city - a jewel embedded between two Californias. Living here, you might have the impression that everything is OK in the world. But look around.
+<br><br>
+The world is not OK. Despite technological recession between 2020 and 2040 reducing global pollution levels, humanity is still facing monumental existential threats. Climate change has turned into climate disaster - its effects are irreversible and dangerously unpredictable. Hurricanes, tornadoes, droughts, floods - natural catastrophes are growing in strength and frequency across the continent, leveling entire regions. Access to clean water is becoming increasingly more scarce, as well as fertile land. Hunger and starvation still reaps a bloody, human harvest in Asia and Africa, where corporations had no interest in building vertical, hydroponic farms.
+<br><br>
+Meanwhile, advances in cybermodification have given rise to a new problem:<br> cyberpsychosis. And though we've been aware of cyberpsychosis for over half a century, and know that incidents of cyberpsychosis are inextricably linked to a person's level of implantation, we still do not know why some are more prone to carrying out violent attacks than others. Let's not also forget the more serious issue of mass inequality, record high crime rates (including in places like Night City) and social unrest linked to immigration in almost every corner of the world...
+<br><br>
+So I ask you again - look around. You see all of these problems in Night City already. Maybe you're standing in the shadow of a megabuilding and you think, "Night City is Night City - the rest of the world's problems don't affect me, right?"
+<br><br>
+Right?
 </div>
 
-## ARASAKA ACADEMY: BEST OF THE BEST, OR BEST FOR THE BEST?
+## Arasaka Academy: Best of the Best, or Best for the Best?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Arasaka Academy emerged as the #1 ranked institute of secondary education in   Night City for the fourth consecutive time according to the Night City   Perspective's annual review. The periodical earns the lion's share of its   advertising revenue from the academy's namesake corporation, though their   editorial staff claim this financial cooperation does not influence their   rankings.
-  
-  The magazine's education experts claim Arasaka Academy's infrastructure has no   equal in Night City. Bias or otherwise, we cannot argue them on this point.   Lessons are primarily conducted via virtual reality or AI-generated lesson   plans suited to a student group's specific needs. Public schools, meanwhile,   can only dream... It comes as no surprise, then, that parents who are not   gainfully employed at a megacorp are increasingly willing to incur a lifetime   of debt for a chance to give their child a chance at the city's most   prestigious education.
-  
-  But there are many uncomfortable truths the Academy is struggling to keep   silent. Academy administrators promote a culture of constructive competition   among its pupils as a way to forge the world's next great corporate executives.   A rat race by another name with a diploma at the finish line...
-  
-  Night City Perspective factors placement in corporate leadership roles into   their calculations, and with this criterion I take no issue. What they don't   include, however, is the drop-out rate. The enormous pressures these students   face inevitably translate to anxiety, depression and, for some, even suicide.   These rates are especially high for students outside the Arasaka corporate   family. Such is the dark side of Arasaka Academy's glowing reputation.
-  
-  Thank you for reading and supporting independent journalism! Find more   inconvenient truths, visit my blog. Your donations keep the lights on and my   coffee mug full.
-  
+Arasaka Academy emerged as the #1 ranked institute of secondary education in Night City for the fourth consecutive time according to the Night City Perspective's annual review. The periodical earns the lion's share of its advertising revenue from the academy's namesake corporation, though their editorial staff claim this financial cooperation does not influence their rankings.
+<br><br>
+The magazine's education experts claim Arasaka Academy's infrastructure has no equal in Night City. Bias or otherwise, we cannot argue them on this point. Lessons are primarily conducted via virtual reality or AI-generated lesson plans suited to a student group's specific needs. Public schools, meanwhile, can only dream... It comes as no surprise, then, that parents who are not gainfully employed at a megacorp are increasingly willing to incur a lifetime of debt for a chance to give their child a chance at the city's most prestigious education.
+<br><br>
+But there are many uncomfortable truths the Academy is struggling to keep silent. Academy administrators promote a culture of constructive competition among its pupils as a way to forge the world's next great corporate executives. A rat race by another name with a diploma at the finish line...
+<br><br>
+Night City Perspective factors placement in corporate leadership roles into their calculations, and with this criterion I take no issue. What they don't include, however, is the drop-out rate. The enormous pressures these students face inevitably translate to anxiety, depression and, for some, even suicide. These rates are especially high for students outside the Arasaka corporate family. Such is the dark side of Arasaka Academy's glowing reputation.
+<br><br>
+Thank you for reading and supporting independent journalism! Find more inconvenient truths, visit my blog. Your donations keep the lights on and my coffee mug full.
 </div>
 
-## PATHFINDER: HALF A CENTURY OF SILENCE
+## Pathfinder: Half a Century of Silence
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  When, in the summer of 2020, NASA's Pathfinder mission set off for Jupiter, it   was the buzz of every radio station, TV media outlet, and screamsheet. Stills   of the crew were plastered on every type of commemorative merchandise   imaginable: mugs, shirts, plates, bobbleheads, bumper stickers, the list goes   on.
-  
-  But, just a week later, the steady stream of information dried to a tickle. A   month later, the world had all but forgotten about them. Three years later, and   two years before their planned entry into Jupiter's orbit, a conflict now known   as the Fourth Corporate War broke out.
-  
-  Cape Canaveral was one of the first strategic sites razed to the ground -   NASA's mission control center along with it. Pathfinder, in the vast reaches of   space, had been cut off. When the opposing sides finally signed a truce three   years later, Militech set its sights on reestablishing contact with the   Pathfinder crew, but to no avail. Pathfinder's signal, it seemed, had been   swallowed by the void of the Big Black.
-  
-  To this day, it remains unknown whether the Pathfinder mission was a success.   If the crew ever did reach Jupiter and its moons, we have received no word, no   data, not a single lead to follow. Maybe they never stood a chance. Maybe,   after a half-century of silence, they simply have nothing to say to us.
-  
+When, in the summer of 2020, NASA's Pathfinder mission set off for Jupiter, it was the buzz of every radio station, TV media outlet, and screamsheet. Stills of the crew were plastered on every type of commemorative merchandise imaginable: mugs, shirts, plates, bobbleheads, bumper stickers, the list goes on.
+<br><br>
+But, just a week later, the steady stream of information dried to a tickle. A month later, the world had all but forgotten about them. Three years later, and two years before their planned entry into Jupiter's orbit, a conflict now known as the Fourth Corporate War broke out.
+<br><br>
+Cape Canaveral was one of the first strategic sites razed to the ground - NASA's mission control center along with it. Pathfinder, in the vast reaches of space, had been cut off. When the opposing sides finally signed a truce three years later, Militech set its sights on reestablishing contact with the Pathfinder crew, but to no avail. Pathfinder's signal, it seemed, had been swallowed by the void of the Big Black.
+<br><br>
+To this day, it remains unknown whether the Pathfinder mission was a success. If the crew ever did reach Jupiter and its moons, we have received no word, no data, not a single lead to follow. Maybe they never stood a chance. Maybe, after a half-century of silence, they simply have nothing to say to us.
 </div>
 
-## YŌKAI: JAPANESE DEMONS OF YESTERDAY AND TODAY
+## Yōkai: Japanese Demons of Yesterday and Today
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  They make their homes on mountaintops, in rivers and oceans, on city streets   and on every megabuilding floor with the number 4 in it, even in your washing   machine or infovisor. Some appear in concrete places, while others simply haunt   a specific person. They're there when you hear a strange noise in the middle of   the desert. They're there when you feel like someone's watching you, although   there's not a soul in sight. They're there when you glimpse something out of   the corner of your eye, something nobody else seems to notice, but you were   just at the ripperdoc's for your checkup!
-  
-  The yōkai first appear in Japanese literature in the year 797. These mysterious   beings, though closely linked to the invisible realm of the dead, have been   alive in the Japanese consciousness from the very birth of animism. It's not   that the Japanese believe in the yōkai. They simply know the yōkai exist.
-  
-  [...] In addition to phantoms, ogres and other mysterious phenomena, the yōkai   also include a group of shape-shifting demons called obake or bakemono. The   bakemono are said to sometimes take the form of a faceless person, a one-eyed   scarecrow or an animal.
-  
-  [...]It's said that when a cat reaches a certain age, it becomes a bakeneko.   These yōkai are able to walk on their two hind legs, speak and dance, assume   human form or even devour their owners and take their place. The bakeneko   sometimes visit people in their sleep, or even wake the dead – all they have to   do is hop over a corpse to bring it suddenly back to life.
-  
-  However, the demons are capable of much, much more. One should exercise extreme   caution around a double tailed cat. This is a nekomata, a yōkai with shamanic   and necromantic capabilities, able to place curses on people and control the   dead. In its human form, a nekomata resembles an old woman, often one addicted   to some substance or other and with an eerie, disturbing air about her.
-  
-  However, let me assure American readers of this book; today, the most likely   place you'll find a bakeneko is in the form of lucky Maneki-neko figurines.   After all, real cats are an even rarer sight these days than your average yōkai.
-  
+They make their homes on mountaintops, in rivers and oceans, on city streets and on every megabuilding floor with the number 4 in it, even in your washing machine or infovisor. Some appear in concrete places, while others simply haunt a specific person. They're there when you hear a strange noise in the middle of the desert. They're there when you feel like someone's watching you, although there's not a soul in sight. They're there when you glimpse something out of the corner of your eye, something nobody else seems to notice, but you were just at the ripperdoc's for your checkup!
+<br><br>
+The yōkai first appear in Japanese literature in the year 797. These mysterious beings, though closely linked to the invisible realm of the dead, have been alive in the Japanese consciousness from the very birth of animism. It's not that the Japanese believe in the yōkai. They simply know the yōkai exist.
+<br><br>
+[...] In addition to phantoms, ogres and other mysterious phenomena, the yōkai also include a group of shape-shifting demons called obake or bakemono. The bakemono are said to sometimes take the form of a faceless person, a one-eyed scarecrow or an animal.
+<br><br>
+[...]It's said that when a cat reaches a certain age, it becomes a bakeneko. These yōkai are able to walk on their two hind legs, speak and dance, assume human form or even devour their owners and take their place. The bakeneko sometimes visit people in their sleep, or even wake the dead – all they have to do is hop over a corpse to bring it suddenly back to life.
+<br><br>
+However, the demons are capable of much, much more. One should exercise extreme caution around a double tailed cat. This is a nekomata, a yōkai with shamanic and necromantic capabilities, able to place curses on people and control the dead. In its human form, a nekomata resembles an old woman, often one addicted to some substance or other and with an eerie, disturbing air about her.
+<br><br>
+However, let me assure American readers of this book; today, the most likely place you'll find a bakeneko is in the form of lucky Maneki-neko figurines. After all, real cats are an even rarer sight these days than your average yōkai.
 </div>
 
-## WATER, CHROME AND BLOOD - THE FOURTH CORPORATE WAR
+## Water, Chrome and Blood - THE FOURTH CORPORATE WAR
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  [...] It is truly remarkable that the large-scale bloodshed of the Fourth   Corporate War began first as a simple rivalry between two ocean exploitation   corporations: CINO and OTEC. Both companies vied for the controlling stake of   the failing IHA corporation. OTEC commissioned Militech to secure its business   interests and perform certain "special operations." CINO, in turn, signed a   cooperation agreement with the Arasaka Corporation with a similar aim. When   circumstances at last called for both colossal and prideful security   corporations to clash in open combat, the Fourth War had officially begun.
-  
-  Yet, as is usually the case with corporate conflicts, the onset proved subtle:   Arasaka disables a Militech transport, Militech (allegedly) eliminates a   high-ranking official of an Arasaka client, both sides engage in frequent   sabotage and data theft operations, netrunners from both sides infiltrate   dataforts to sow confusion, gather intel and cause chaos in the stock markets.   Though none would have thought it possible in those early months, the   Arasaka-Militech conflict truly jeopardized the stability of the world economy,   making the threat of complete economic collapse all too real. For this reason,   NetWatch introducted(sic) a communications embargo on both corporations. This   did little to slow the conflict's pace, however. While CINO and OTEC had   unilaterally reached a settlement and reach an understanding through "peace   talks," tension between Arasaka and Militech continued to rise. This separation   from the ocean dispute marks the beginning of the Fourth War's second phase:   the so-called Shadow War.
-  
-  Military clashes between Militech and Arasaka were notoriously bloody, brutal   and without mercy, they waged their most damaging campaigns on the Net. Arasaka   and Militech netrunners launched attacks with the help of viruses that were   often highly experimental. What's more, they created lethal ICE measures and   AI-like programs that could lurk in dark corners of the Net for long periods to   make strikes at the most opportune times. 
-  By the second half of 2022, Arasaka and Militech entered the final phase of the   conflict where both sides used every resource and strategy at their disposal.   The Hot War had begun. Around this time, the Net that the world had known for   years ceased to exist, and mercenaries hired by both corporations were   slaughtered in open warfare fought with the cutting-edge weapons technology.   Then, in the War's most shocking and iconic turning point, the coup de grâce   came when an unknown group of mercenaries denoted a nuclear device at Arasaka's   Night City headquarters. Shortly after the blast, bowing under increased   pressure from the Japanese government, Arasaka laid down its arms and withdrew   from many of its strategic positions, but most notably in Night City. Victory   belonged to Militech, but it came at a heavy cost. [...]
-  
+(...) It is truly remarkable that the large-scale bloodshed of the Fourth Corporate War began first as a simple rivalry between two ocean exploitation corporations: CINO and OTEC. Both companies vied for the controlling stake of the failing IHA corporation. OTEC commissioned Militech to secure its business interests and perform certain "special operations." CINO, in turn, signed a cooperation agreement with the Arasaka Corporation with a similar aim. When circumstances at last called for both colossal and prideful security corporations to clash in open combat, the Fourth War had officially begun.
+<br><br>
+Yet, as is usually the case with corporate conflicts, the onset proved subtle: Arasaka disables a Militech transport, Militech (allegedly) eliminates a high-ranking official of an Arasaka client, both sides engage in frequent sabotage and data theft operations, netrunners from both sides infiltrate dataforts to sow confusion, gather intel and cause chaos in the stock markets. Though none would have thought it possible in those early months, the Arasaka-Militech conflict truly jeopardized the stability of the world economy, making the threat of complete economic collapse all too real. For this reason, NetWatch introducted[sic] a communications embargo on both corporations. This did little to slow the conflict's pace, however. While CINO and OTEC had unilaterally reached a settlement and reach an understanding through "peace talks," tension between Arasaka and Militech continued to rise. This separation from the ocean dispute marks the beginning of the Fourth War's second phase: the so-called Shadow War.
+<br><br>
+Military clashes between Militech and Arasaka were notoriously bloody, brutal and without mercy, they waged their most damaging campaigns on the Net. Arasaka and Militech netrunners launched attacks with the help of viruses that were often highly experimental. What's more, they created lethal ICE measures and AI-like programs that could lurk in dark corners of the Net for long periods to make strikes at the most opportune times. 
+<br><br>
+By the second half of 2022, Arasaka and Militech entered the final phase of the conflict where both sides used every resource and strategy at their disposal. The Hot War had begun. Around this time, the Net that the world had known for years ceased to exist, and mercenaries hired by both corporations were slaughtered in open warfare fought with the cutting-edge weapons technology. Then, in the War's most shocking and iconic turning point, the coup de grâce came when an unknown group of mercenaries denoted a nuclear device at Arasaka's Night City headquarters. Shortly after the blast, bowing under increased pressure from the Japanese government, Arasaka laid down its arms and withdrew from many of its strategic positions, but most notably in Night City. Victory belonged to Militech, but it came at a heavy cost. (...)
 </div>
 
-## LAT-AM WARS
+## Lat-Am Wars
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  As a direct result of the armed conflicts on U.S. soil from the early 1990s   until the early 2000s, Latin America (comprising South and Central America)   remodeled itself into a strong federation of independent nations, bound through   mutual aid and cooperation.
-  The U.S.'s military presence was forced from Latin American territories with   the exception of Panama, where it stood its ground despite fierce pressure from   guerilla forces.
-  
-  Many researchers and contemporary historians maintain that, in fact, the Lat-Am   Wars were responsible for the U.S.'s eventual collapse, breaking up the Gang of   Four (CIA, FBI, DEA and NSA) and decimating the U.S. Army. However, it's   important to bear in mind that no external conflict could have toppled the   colossus of American imperialism were it not already built on clay foundations.
-  
+As a direct result of the armed conflicts on U.S. soil from the early 1990s until the early 2000s, Latin America (comprising South and Central America) remodeled itself into a strong federation of independent nations, bound through mutual aid and cooperation.
+The U.S.'s military presence was forced from Latin American territories with the exception of Panama, where it stood its ground despite fierce pressure from guerilla forces.
+<br><br>
+Many researchers and contemporary historians maintain that, in fact, the Lat-Am Wars were responsible for the U.S.'s eventual collapse, breaking up the Gang of Four (CIA, FBI, DEA and NSA) and decimating the U.S. Army. However, it's important to bear in mind that no external conflict could have toppled the colossus of American imperialism were it not already built on clay foundations.
 </div>
 
-## PROTEIN FARMS: A REPORT
+## Protein Farms: A Report
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Protein farms are currently the source of most meat and meat-substitute   products in Night City. Biotechnica is the clear industry leader, providing for   over half of the city's demand for alternative protein. Currently, the most   popular, albeit cost-intensive form of production is based on protein-rich   crickets, which allow producers to achieve the highest-quality protein.   Earthworms are available as a cheaper alternative, achieving a higher yield of   product per square meter. However, worms pose a more difficult marketing   challenge - while crickets have become acceptable, most consumers still bristle   at being told to "go eat worms."
-  
+Protein farms are currently the source of most meat and meat-substitute products in Night City. Biotechnica is the clear industry leader, providing for over half of the city's demand for alternative protein. Currently, the most popular, albeit cost-intensive form of production is based on protein-rich crickets, which allow producers to achieve the highest-quality protein. Earthworms are available as a cheaper alternative, achieving a higher yield of product per square meter. However, worms pose a more difficult marketing challenge - while crickets have become acceptable, most consumers still bristle at being told to "go eat worms."
 </div>
 
-## AVIAN EXTERMINATION ACT
+## Avian Extermination Act
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  The AEA was adopted by the Night City Council on May 04, 2063.
-  
-  Purpose: In the face of increasingly frequent and deadly zoonotic disease   outbreaks, the City Council has decided that the most effective method for   reducing the risk of infection among residents is via the extermination of all   avian life within 18 miles of city limits (See Fig.1)
-  
-  The extermination process will begin on May 07, 2063 once the call and   selection of tenders for the contract have been completed (See Annex 2).
-  
+The AEA was adopted by the Night City Council on May 04, 2063.
+<br><br>
+Purpose: In the face of increasingly frequent and deadly zoonotic disease outbreaks, the City Council has decided that the most effective method for reducing the risk of infection among residents is via the extermination of all avian life within 18 miles of city limits (See Fig.1)
+<br><br>
+The extermination process will begin on May 07, 2063 once the call and selection of tenders for the contract have been completed (See Annex 2).
 </div>
 
-# Cyberpsycho
+# CYBERPSYCHO
 {: .notice--cyberpunk-yellow}
   
-# Poetry
+# POETRY
 {: .notice--cyberpunk-yellow}
   
-## THE FALL OF ETEMENANKI
+## The Fall of Etemenanki
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  The Fall of Etemenanki 
-  (manuscript found behind the Totentanz)
-  
-  All ye mighty 
-  look and despair 
-  for here lived the City
-  
-  in the far-off land of Shinear 
-  where once was clay tamed and wrought
-  
-  to build a temple among the narrow streets 
-  where the howl of crazed prophets rose 
-  from their skiff and the shadow of the ziggurat fell across the sands
-  
-  Look and despair for here rose the Tower 
-  strong as a tongue glazed in spit 
-  held fast on the scaffolding of throats on the vocal cords
-  
-  up which were pulled buckets of mortar 
-  prayers fragments of code late cuneiform 
-  on tablets plated with copper encrusted with tin
-  
-  look and remember for here She fell and Her name was Babel [o Babel of dreams!]   lest we be scattered over the face of the earth 
-  ask the archeologists beyond the Totentanz
-  
-  how she crumbled to dust the soft down of dialect 
-  how the desert tore her how the sands of time ground her 
-  until the word was ground fine and scattered among us
-  
-  look and beware in the final hours of night 
-  for the sun shall rise over the ruins and dawn shall once again melt 
-  from the rubble the memory of the City its original source
-  
+The Fall of Etemenanki<br> 
+(manuscript found behind the Totentanz)
+<br><br>
+All ye mighty<br> 
+look and despair<br> 
+for here lived the City
+<br><br>
+in the far-off land of Shinear<br> 
+where once was clay tamed and wrought
+<br><br>
+to build a temple among the narrow streets<br> 
+where the howl of crazed prophets rose<br> 
+from their skiff and the shadow of the ziggurat fell across the sands
+<br><br>
+Look and despair for here rose the Tower<br> 
+strong as a tongue glazed in spit<br> 
+held fast on the scaffolding of throats on the vocal cords
+<br><br>
+up which were pulled buckets of mortar<br> 
+prayers fragments of code late cuneiform<br> 
+on tablets plated with copper encrusted with tin
+<br><br>
+look and remember for here She fell and Her name was Babel<br>
+[o Babel of dreams!] lest we be scattered over the face of the earth<br> 
+ask the archeologists beyond the Totentanz
+<br><br>
+how she crumbled to dust the soft down of dialect<br> 
+how the desert tore her how the sands of time ground her<br> 
+until the word was ground fine and scattered among us
+<br><br>
+look and beware in the final hours of night<br> 
+for the sun shall rise over the ruins and dawn shall once again melt<br> 
+from the rubble the memory of the City its original source
 </div>
 
-# Encrypted
+# ENCRYPTED
 {: .notice--cyberpunk-yellow}
