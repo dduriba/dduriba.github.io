@@ -492,7 +492,7 @@ this week:
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Megabuilding Administration</span>
-<br><br>
+<br>
 <span class="pen-bold">To: V</span>
 <hr class="cyberpunk-hr">
 Dear Sir/Madam,<br>
@@ -508,7 +508,7 @@ Our records show we have not received this month's rent payment for your unit in
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Blaze</span>
-<br><br>
+<br>
 <span class="pen-bold">To: Viktor</span>
 <hr class="cyberpunk-hr">
 we won't forget<br>
