@@ -303,80 +303,72 @@ Discover new dimensions of comfort, enjoy the best Night City has to offer.
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Introduction
-  
-  The Battery Sphere is in dire straits. The Irinians have occupied almost half   the city. Them and their technorat scourge have transformed almost everyone in   hordes of mindless zombies. Battery Arena is now the final point of resistance   against the invaders from Planet X. It seems the end if inevitable. That is...
-  until the legendary mercenary pair arrive just in the nick of time after years   of mysterious absence! Amidst the cigar smoke and glint of chrome armor, Dr.   Havoc and Radon slaughter scores of enemies without mercy. After all, who could   possibly slow the mighty force of a laser-armed mountain of muscle and his   spitfire of a sidekick who can transform into a sentient cloud of radioactive   gas?
-  
-  I'll tell you - no one so far. Rose Tenorio and Martoni Eleazar take us into   the world of computer games first imagined in the bestseller novel "Kibble and   Scop" by Abe Frost. Fasten your seatbelts and get ready for a roller coaster   ride of comic-book violence! If you've ever wondered what the action of the   BATTERY ARENA may have looked like, "Dr. Havoc & Radon" is a must-buy. Dive in   now.
-  
+Introduction
+<br><br>
+The Battery Sphere is in dire straits. The Irinians have occupied almost half the city. Them and their technorat scourge have transformed almost everyone in hordes of mindless zombies. Battery Arena is now the final point of resistance against the invaders from Planet X. It seems the end if inevitable. That is...
+until the legendary mercenary pair arrive just in the nick of time after years of mysterious absence! Amidst the cigar smoke and glint of chrome armor, Dr. Havoc and Radon slaughter scores of enemies without mercy. After all, who could possibly slow the mighty force of a laser-armed mountain of muscle and his spitfire of a sidekick who can transform into a sentient cloud of radioactive gas?
+<br><br>
+I'll tell you - no one so far. Rose Tenorio and Martoni Eleazar take us into the world of computer games first imagined in the bestseller novel "Kibble and Scop" by Abe Frost. Fasten your seatbelts and get ready for a roller coaster ride of comic-book violence! If you've ever wondered what the action of the BATTERY ARENA may have looked like, "Dr. Havoc & Radon" is a must-buy. Dive in now.
 </div>
 
 ## THE SOLO'S MANUAL BY MORGAN BLACKHAND
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  INTRO
-  
-  Think you've got what it takes to be a legendary solo, huh? Sure you do.   Otherwise, why pick up this book? You're looking for respect. For fear. For a   way to be on top. Maybe you heard someone quote me about winning battles with   only a glance, before a single shot's been fired. Well fine, I'll let you in on   a secret: it is possible, and you can do it too, but only if you got the guts   to survive going to hell and back more times than you can count. Thousands of   fights, millions of bullets, hundreds of gallons of blood (yours included) -   that's what you have to look forward to. And you'll need a solid ripper - one   you can trust, one you make a lifelong choombatta out of, one who tells you   every week, "It's a miracle you ain't dead by now." At least, that's what he'll   say if you're lucky.
-  
-  Nowadays, every kid with big iron, a syn-leather coat and a micro-missile   launcher thinks they're a hotshot solo. But you know what? Just because you   killed a few goons with a smile on your lips don't make you one. Anyone can   kill. I knew this rockerboy once who blew up a whole fucking platoon of   corpotrash. Did that make him a solo? No, it made him dead.
-  
-  So you still think you got what it takes to carve your name into solo history?
-  
-  Good. Then this book's for you.
-  
+INTRO
+<br><br>
+Think you've got what it takes to be a legendary solo, huh? Sure you do. Otherwise, why pick up this book? You're looking for respect. For fear. For a way to be on top. Maybe you heard someone quote me about winning battles with only a glance, before a single shot's been fired. Well fine, I'll let you in on a secret: it is possible, and you can do it too, but only if you got the guts to survive going to hell and back more times than you can count. Thousands of fights, millions of bullets, hundreds of gallons of blood (yours included) - that's what you have to look forward to. And you'll need a solid ripper - one you can trust, one you make a lifelong choombatta out of, one who tells you every week, "It's a miracle you ain't dead by now." At least, that's what he'll say if you're lucky.
+<br><br>
+Nowadays, every kid with big iron, a syn-leather coat and a micro-missile launcher thinks they're a hotshot solo. But you know what? Just because you killed a few goons with a smile on your lips don't make you one. Anyone can kill. I knew this rockerboy once who blew up a whole fucking platoon of corpotrash. Did that make him a solo? No, it made him dead.
+<br><br>
+So you still think you got what it takes to carve your name into solo history?
+<br><br>
+Good. Then this book's for you.
 </div>
 
 ## KIBBLE AND SCOP
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  Kibble stared glumly at his glass of a seaweed-colored drink. A part of him   hoped the bartender had poured a pint of rat poison by mistake. "I don't get   it, choom...", he murmured gloomily. "At school, they said I had talent, a real   knack for acting. Was it all a fucking lie, or what?"
-  
-  "Dude, there are billions of people on this rock," Scop shrugged. "Can't work   out for everyone."
-  
-  Kibble flicked on his olfactory booster and gave his beverage a whiff. Smelled   just like the wet mop in the bathroom - maybe worse. Then, not knowing why, he   suddenly recalled the merc he talked to a week ago in a popular punk dive he   liked to frequent. Well, okay, maybe "talked" is generous, but grievances were   certainly aired. The merc swept the floor with him that night and threatened to   put a bullet between his tonsils if he ever spilled her tequila again.
-  
-  This is it, he thought. Rotgut and tequila. Unemployed losers and hotshit   mercs. The latter with the world at their feet. It's people like Kibble who are   just a theater set piece, who make up the backdrop against which the   Sandevistan-boosted mercs of the world can shine bright as stars. Kibble   decided then and there that he didn't want to be just a splotch in the   background anymore.
-  
-  "Why? Why doesn't it ever shake out for us?", he asked with sour grimace. "Why   does this city only reward bloodthirsty, bulletcrazy punks while the rest of us   normal saps without murderous tendencies have to huddle over our cheap glasses   of green cockroach piss?"
-  
-  Scop shrugged again. "I dunno, find a gun, buy an edgy jacket," he suggested   indifferently with a note of sarcasm. "Shoot up some gang haunts. Have the   punkiest time of your life for four and a half seconds."
-  
-  "What the hell happened here?" Kibble continued his rant. "The world's all   upside-down! There are billions just like you and me. Billions of do-nothings,   cowards... No, not cowards - people who just want things to be normal! Safety.   Life... Life, Scop!"
-  
-  Scop had already opened his mouth, ready to list off another round of cynical   retorts, but then stopped himself short and started a tangent of his own. ife...  " he repeated slowly and ponderously. "What if I could sell the world... an   alternate life? The same all those edgerunners feel, except where you won't   ever die like they do."
-  
-  Kibble snorted and spat out the cockroach piss he finally mustered the courage   to taste. "Sorry to burst your bubble, choom, but somebody's way ahead of ya   there. Ever heard of Bloody Bout IV? Or, like... a million other computer games?  "
-  
-  Scop cracked a roguish smile. "Is Bloody Bout IV or these 'million other games'   designed to work on a hybrid braindance system? Y'know, the kind I made a   breakthrough on just last week?"
-  
+Kibble stared glumly at his glass of a seaweed-colored drink. A part of him hoped the bartender had poured a pint of rat poison by mistake. "I don't get it, choom...", he murmured gloomily. "At school, they said I had talent, a real knack for acting. Was it all a fucking lie, or what?"
+<br><br>
+"Dude, there are billions of people on this rock," Scop shrugged. "Can't work out for everyone."
+<br><br>
+Kibble flicked on his olfactory booster and gave his beverage a whiff. Smelled just like the wet mop in the bathroom - maybe worse. Then, not knowing why, he suddenly recalled the merc he talked to a week ago in a popular punk dive he liked to frequent. Well, okay, maybe "talked" is generous, but grievances were certainly aired. The merc swept the floor with him that night and threatened to put a bullet between his tonsils if he ever spilled her tequila again.
+<br><br>
+This is it, he thought. Rotgut and tequila. Unemployed losers and hotshit mercs. The latter with the world at their feet. It's people like Kibble who are just a theater set piece, who make up the backdrop against which the Sandevistan-boosted mercs of the world can shine bright as stars. Kibble decided then and there that he didn't want to be just a splotch in the background anymore.
+<br><br>
+"Why? Why doesn't it ever shake out for us?", he asked with sour grimace. "Why does this city only reward bloodthirsty, bulletcrazy punks while the rest of us normal saps without murderous tendencies have to huddle over our cheap glasses of green cockroach piss?"
+<br><br>
+Scop shrugged again. "I dunno, find a gun, buy an edgy jacket," he suggested indifferently with a note of sarcasm. "Shoot up some gang haunts. Have the punkiest time of your life for four and a half seconds."
+<br><br>
+"What the hell happened here?" Kibble continued his rant. "The world's all upside-down! There are billions just like you and me. Billions of do-nothings, cowards... No, not cowards - people who just want things to be normal! Safety. Life... Life, Scop!"
+<br><br>
+Scop had already opened his mouth, ready to list off another round of cynical retorts, but then stopped himself short and started a tangent of his own. ife..." he repeated slowly and ponderously. "What if I could sell the world... an alternate life? The same all those edgerunners feel, except where you won't ever die like they do."
+<br><br>
+Kibble snorted and spat out the cockroach piss he finally mustered the courage to taste. "Sorry to burst your bubble, choom, but somebody's way ahead of ya there. Ever heard of Bloody Bout IV? Or, like... a million other computer games?"
+<br><br>
+Scop cracked a roguish smile. "Is Bloody Bout IV or these 'million other games' designed to work on a hybrid braindance system? Y'know, the kind I made a breakthrough on just last week?"
 </div>
 
 ## "WATSON WHORE" DIARY
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  MONDAY 
-  What a fucking world! Finally I get my ass on Ziggy's show and right bfore I   walk on stage a fucking hospital somewhere gets shot up. This dick cancels the   show last minute for a special ep about the fucking victims!!! Who the fuck   cares?!? is anyone gonna them in a week? Did they spend HALF THEYRE FUCKING   CAREER TO GET ON THAT SHOW??? No they just fucking died! I got my ass on stage   anyway - let him know you dont cockblock a goddamn tv messiah but security   fucked me up so bad what was scrolled got corrupted or sme shit
-  
-  TUESDAY 
-  felt fed up today, made a move on town hall to protest the fucking disgraceful   neglect of war vets. Got my hands on a dress made of syn fetueses chanted my   fucking throat raw half the way ddown there until the DIRECTOR of Wet Dream   recognized me and said I was lookin sexy <3 so I leaned up against a scsm, fake   choked on an air dick :0 and slapped mh ass cuz I could tell he loves pretty   boys. He took my back to his place, chained me to his king bed and fucked me   raw till I snapped each n every bedpost, he showered me in eddies and already   got plans to see him same time next. Maybe I can screw my way into his next   BD? ;P
-  
-  WEDNESDAY 
-  I got into an argument with Ruth Dzeng, we talked about the normies who died   savin some kids after a nuke popped during some corp war or other. Call her a   toughass bitch on tv if you want, but she got all like blubbery baby on me, so   whatever I figured I;d say something nice. I said they were pretty nova and   maybe they'd wanna like be my fans. Hell, lookin at old photos I was like it's   a legit fuckin shame cuz half of em got buldges halfway to Denver, real waste   of good dick. She just gave me stupid smile and told me to fuck off... cunt
-  
-  THURSDAY 
-  HAa-hHaAAaA!!!11!1
-  
-  FRIDAY 
-  Christ I don't know which ways up... I'm fucking wiped. The boys brought over   some laced shit or something but it hit me like a fucking firetruck. I dunno   what happnd but everything smells like piss, there's a horse mask in the   bathroom. if I had to guess it was probably me who wore it and got rode around,   my knees do kinda kill thinking bout it now. Idk I jus thope it was that   director from tuesday and not that skank from apt 3
-  
+MONDAY<br> 
+What a fucking world! Finally I get my ass on Ziggy's show and right bfore I walk on stage a fucking hospital somewhere gets shot up. This dick cancels the show last minute for a special ep about the fucking victims!!! Who the fuck cares?!? is anyone gonna them in a week? Did they spend HALF THEYRE FUCKING CAREER TO GET ON THAT SHOW??? No they just fucking died! I got my ass on stage anyway - let him know you dont cockblock a goddamn tv messiah but security fucked me up so bad what was scrolled got corrupted or sme shit
+<br><br>
+TUESDAY<br> 
+felt fed up today, made a move on town hall to protest the fucking disgraceful neglect of war vets. Got my hands on a dress made of syn fetueses chanted my fucking throat raw half the way ddown there until the DIRECTOR of Wet Dream recognized me and said I was lookin sexy <3 so I leaned up against a scsm, fake choked on an air dick :0 and slapped mh ass cuz I could tell he loves pretty boys. He took my back to his place, chained me to his king bed and fucked me raw till I snapped each n every bedpost, he showered me in eddies and already got plans to see him same time next. Maybe I can screw my way into his next BD? ;P
+<br><br>
+WEDNESDAY<br> 
+I got into an argument with Ruth Dzeng, we talked about the normies who died savin some kids after a nuke popped during some corp war or other. Call her a toughass bitch on tv if you want, but she got all like blubbery baby on me, so whatever I figured I;d say something nice. I said they were pretty nova and maybe they'd wanna like be my fans. Hell, lookin at old photos I was like it's a legit fuckin shame cuz half of em got buldges halfway to Denver, real waste of good dick. She just gave me stupid smile and told me to fuck off... cunt
+<br><br>
+THURSDAY<br> 
+HAa-hHaAAaA!!!11!1
+<br><br>
+FRIDAY<br> 
+Christ I don't know which ways up... I'm fucking wiped. The boys brought over some laced shit or something but it hit me like a fucking firetruck. I dunno what happnd but everything smells like piss, there's a horse mask in the bathroom. if I had to guess it was probably me who wore it and got rode around, my knees do kinda kill thinking bout it now. Idk I jus thope it was that director from tuesday and not that skank from apt 3
 </div>
 
 ## 1,000 BEATS A SECOND
