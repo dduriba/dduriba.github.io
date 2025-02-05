@@ -35,17 +35,14 @@ Please...
 <div class="cyberpunk-bg cyberpunk-cyan">
 What's up, BD-maniacs? Hungry for a new emo-rush? Then check out the latest word from the freshest BDs on the market.
 <br><br>
-Foreign Body
-<br>
+Foreign Body<br>
 The body is everything. There is nothing else. It is you, but it is also just a tool for your mind to interact with the world. But what would happen if this tool tried to live its own life? What if it tried... to kill you?
 Though not a particularly original addition to the thriller genre, this braindance featuring Luke Poller is still a solid experiential ride. The fear of disobedient implants has been around since pirates were walking around on peg legs – well, maybe not that long – as a result, the trope has been pervasive in film, braindance, and urban legend alike. Still, "Foreign Body" borrows some of the genre's best elements while still incorporating just enough new stuff to the mix to keep it interesting. After all, it's not every day you see the world from the perspective of a sentient arm.
 <br><br>
-Maxwell's Rehab
-<br>
+Maxwell's Rehab<br>
 This braindance season has been chock full of horror, but this one stands out from the rest. The always phenomenal Maxwell Ramirez is pushed to the brink of cyberpsychosis so we can relive his return to normalcy. The title offers a tone of optimism, but don't let that fool you. You will relive Maxwell's slip into psychosis, the heartbreak of his wife, and the gradual reintegration into a world that is now far different from how he left it. This BD is a must-relive of the season, but it's not for the faint of heart.
 <br><br>
-Badlands Raid
-<br>
+Badlands Raid<br>
 At last, a BD for those looking for something a little lighter. "Badlands Raid" is a remake of the 2023 classic, which was an innovative tour de force of the time. For those of you unfamiliar, the plot revolves around an ordinary, boring guy who accidentally gets tangled up in a nomad ambush on a Zetatech convoy. I won't spoil it because, even though the main plot hasn't changed in 54 years, most people these days probably don't know the ending. What I will say is this: the remake's creators have introduced a few modern twists into the story that should make for a pleasant surprise to classics-lovers and newbies alike.
 </div>
 
@@ -53,14 +50,12 @@ At last, a BD for those looking for something a little lighter. "Badlands Raid" 
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-  
-  For years, experts in the field of cybernetics, neurology and psychology have   been desperately trying to merge human consciousness with silicon. Until now,   their efforts have been unsuccessful - though scientists have managed to create   artificial intelligences that can compare, or indeed, surpass human intellect,   copying the human "I" has remained beyond our capabilities. Attempts to do so   have merely resulted in sophisticated chatbots - digital beings capable of   mimicking human speech and mannerisms, but devoid of self-awareness.
-  <br><br>
-  Today, experts from Arasaka announced a breakthrough. Their newest project,   dubbed the "Relic," allows human minds to be copied onto shards no larger than   a credchip.
-  What's more, the shard can be slotted into one's neural port, allowing its user   to "hear" and "see" digitized personality constructs.
-  <br><br>
-  Sadly, I haven't been able to personally examine the specifications of this   remarkable piece of technology. Access to the Relic is heavily restricted by   Arasaka, and only a small, select group of testers are allowed to participate   in the program. Unsurprisingly, these testers are among the wealthiest and most   influential people in the world - precisely the kinds of people Arasaka would   like to have in its pocket. For the ordinary consumers reading this - don't   expect the Relic to hit mass markets anytime soon.
-  
+For years, experts in the field of cybernetics, neurology and psychology have been desperately trying to merge human consciousness with silicon. Until now, their efforts have been unsuccessful - though scientists have managed to create artificial intelligences that can compare, or indeed, surpass human intellect, copying the human "I" has remained beyond our capabilities. Attempts to do so have merely resulted in sophisticated chatbots - digital beings capable of mimicking human speech and mannerisms, but devoid of self-awareness.
+<br><br>
+Today, experts from Arasaka announced a breakthrough. Their newest project, dubbed the "Relic," allows human minds to be copied onto shards no larger than a credchip.
+What's more, the shard can be slotted into one's neural port, allowing its user to "hear" and "see" digitized personality constructs.
+<br><br>
+Sadly, I haven't been able to personally examine the specifications of this remarkable piece of technology. Access to the Relic is heavily restricted by Arasaka, and only a small, select group of testers are allowed to participate in the program. Unsurprisingly, these testers are among the wealthiest and most influential people in the world - precisely the kinds of people Arasaka would like to have in its pocket. For the ordinary consumers reading this - don't expect the Relic to hit mass markets anytime soon.
 </div>
 
 ## BIG 5 EMPLOYERS IN NIGHT CITY – 2077
