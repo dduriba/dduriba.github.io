@@ -597,10 +597,8 @@ Barry, what the hell are you babbling about? Pull yourself together, choom! A gu
 <br><br>
 <span class="pen-bold">To: Barry Lewis</span>
 <hr class="cyberpunk-hr">
-Hey Barry,
-<br><br>
-Just wanted to check in - see if everything's OK. The way you just quit all of a sudden... was that because of Andrew? I'm sure he was a great guy and all, but... life goes on. There are lots of good people out there. Who's gonna protect them if hardworking blues like you go quitting the force?
-<br><br>
+Hey Barry,<br>
+Just wanted to check in - see if everything's OK. The way you just quit all of a sudden... was that because of Andrew? I'm sure he was a great guy and all, but... life goes on. There are lots of good people out there. Who's gonna protect them if hardworking blues like you go quitting the force?<br>
 Nadia
 </span>
 </div>
@@ -613,10 +611,8 @@ Nadia
 <br><br>
 <span class="pen-bold">To: Barry Lewis</span>
 <hr class="cyberpunk-hr">
-Barry,
-<br><br>
-How come you're not answering? You don't talk to anyone, you don't go out... you can't blame a person for thinking the worst. You still worried about all that... y'know, stuff? Don't you think you're overreacting just a teeny bit?
-<br><br>
+Barry,<br>
+How come you're not answering? You don't talk to anyone, you don't go out... you can't blame a person for thinking the worst. You still worried about all that... y'know, stuff? Don't you think you're overreacting just a teeny bit?<br>
 Nadia
 </span>
 </div>
