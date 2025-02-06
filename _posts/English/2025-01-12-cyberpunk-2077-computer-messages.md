@@ -520,70 +520,58 @@ From: Viktor<br>
 To: Blaze<br>
 Re: your fucked
 <br><br>
-if any of your lackeys show up here again, they're in for worse than a split jaw.
-<br>
+if any of your lackeys show up here again, they're in for worse than a split jaw.<br>
 That's not an empty threat. Try me. motherfuckers.
 </span>
 </div>
 
-## BIOTECHNICA - WORK WITH US
-{: .notice--success}
-
-<span class="pen-bold">Biotechnica - work with us</span>
-
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">Biotechnica - work with us</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 <span class="pen-bold">From: Abigail Eden</span>
-
+<br><br>
 <span class="pen-bold">To: Viktor</span>
-
----
-
-Dear Viktor,
-
-My name is Abigail Eden and I'm a headhunter for Biotechnica. I was wondering if maybe you'd consider joining the world's most socially conscious, environmentally-friendly corporate family?
-
-We offer full access to our state-of-the-art technology, security(you won't have to relocate from Watson) and an attractive career path.
-
-Let me know. It's worth it.
-
+<hr class="cyberpunk-hr">
+Dear Viktor,<br>
+My name is Abigail Eden and I'm a headhunter for Biotechnica. I was wondering if maybe you'd consider joining the world's most socially conscious, environmentally-friendly corporate family?<br>
+We offer full access to our state-of-the-art technology, security(you won't have to relocate from Watson) and an attractive career path.<br>
+Let me know. It's worth it.<br>
 AE
+</span>
+</div>
 
-# PC - Misty Olszewski
-{: .notice--warning}
+## Misty Olszewski
+{: .notice--cyberpunk-red}
 
-## (ALLEGED) ZEN MASTER
-{: .notice--success}
-
-<span class="pen-bold">(alleged) Zen Master</span>
-
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">(alleged) Zen Master</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 <span class="pen-bold">From: Tinker</span>
-
+<br><br>
 <span class="pen-bold">To: Misty</span>
-
----
-
+<hr class="cyberpunk-hr">
 hey, saw that Zen master again (if he really even is a Zen master). he was sitting in front of the subway entrance. I waited to see what would happen - to see if he'd really disappear or if Sweet Peggy was just seeing things, but of course nobody came up to him, like he wasn't even there. seriously, though - you see a guy wearing Zen master's clothes and you don't even bat an eye? super weird. so anyway, I just stared at him. nothing happened, so I gave up. but the next time I'll nail the bastard. it's some kinda scam - gotta be.
-
+<br><br>
 -----
-
-From: Misty 
-
-To: Tinker 
-
+<br><br>
+From: Misty<br>
+To: Tinker<br>
 RE: (alleged) Zen master
-
+<br><br>
 maybe he was waiting for you and you gave up your one chance to find the meaning of life :)
-
+<br><br>
 -----
-
-From: Tinker 
-
-To: Misty 
-
+<br><br>
+From: Tinker<br>
+To: Misty<br>
 RE: (alleged) Zen master
-
-ha ha, very funny.
-
+<br><br>
+ha ha, very funny.<br>
 anyway, lemme know if hear about him again.
+</span>
+</div>
 
 # PC - Barry Lewis (happy together mission)
 {: .notice--warning}
