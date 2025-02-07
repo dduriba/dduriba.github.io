@@ -632,8 +632,8 @@ I don't want to talk to any of you. Tell Mendez to stop trying to call me.
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Report #17345</span>
-<br><br>
 <span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 On 12/03/2076 the remains of one Rudolph Franz were found in a dumpster on Santa Maria St. The victim had been conducting an independent media investigation into the black market for Trauma Team patients' data. The body was found with multiple stab wounds in the back.
 <br><br>
 STATUS: investigation discontinued by order of NCPD Chief of Police
@@ -644,8 +644,8 @@ Notes: (blank)
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Report #17350</span>
-<br><br>
 <span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 Between the days of 01/15/2077 and 01/20/2077 more than a dozen individuals from the ages of 5 and 13 were killed in Arroyo district. All victims showed signs of severe radiation sickness, most likely due to playing with unmarked radiactive(sic) waste from the nearby power plant. An inquest has been opened into corporate negligence on the part of Petrochem.
 <br><br>
 STATUS: inquest discontinued by order of NCPD Chief of Police
@@ -656,8 +656,8 @@ Notes: (blank)
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Report #17355</span>
-<br><br>
 <span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 From the night of 02/21/2077 until the morning of 02/22/2077 three Valentinos gang members suspected of murdering the journalist Rudolph Franz (see case from 12/03/2076) escaped from cell D-14. For unspecified reasons, all prison guards due to be present at the scene had been requested to report to NCPD Chief of Police.
 <br><br>
 STATUS: investigation discontinued by NCPD Chief of Police
