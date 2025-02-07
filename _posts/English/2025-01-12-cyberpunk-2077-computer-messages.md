@@ -814,14 +814,10 @@ I'm very sorry to send this on to you, but someone sent it to me first. It sound
 <br><br>
 <span class="pen-bold">To: [ENCRYPTED]</span>
 <hr class="cyberpunk-hr">
-Dear Sir or Madam,
-<br><br>
-My name is Sanne Douwes, and I work for Wet en Rechtvaardigheid. I found your address on the client list for Zetatech's Dutch office. Your name happens to be identical to that of my former client, who died tragically in the recent floods ravaging the north of Europe.
-<br><br>
-Please excuse the rather informal nature of this email, but the matter is truly urgent. My client has left behind 10.7 billion eurodollars in cash. In accordance with local law, the government will assume the entire sum if an heir is not found within a week. I also have it from unofficial sources that the funds will be earmarked for the local branch of Euro Business Machines, which plans to take over Amsterdam.
-<br><br>
-But we can stop them. I know you are not related to my client by blood, but by taking advantage of a few legal loopholes, we could inherit his fortune and split it three ways - 40% for you, 40% for me, and the remaining 20% for the flood victims, of course.
-<br><br>
+Dear Sir or Madam,<br>
+My name is Sanne Douwes, and I work for Wet en Rechtvaardigheid. I found your address on the client list for Zetatech's Dutch office. Your name happens to be identical to that of my former client, who died tragically in the recent floods ravaging the north of Europe.<br>
+Please excuse the rather informal nature of this email, but the matter is truly urgent. My client has left behind 10.7 billion eurodollars in cash. In accordance with local law, the government will assume the entire sum if an heir is not found within a week. I also have it from unofficial sources that the funds will be earmarked for the local branch of Euro Business Machines, which plans to take over Amsterdam.<br>
+But we can stop them. I know you are not related to my client by blood, but by taking advantage of a few legal loopholes, we could inherit his fortune and split it three ways - 40% for you, 40% for me, and the remaining 20% for the flood victims, of course.<br>
 Please respond to this message within 3 days. Otherwise, I will have to look elsewhere for help.
 <br><br>
 Sincerely,<br>
