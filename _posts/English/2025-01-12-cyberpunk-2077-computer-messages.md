@@ -666,37 +666,33 @@ Notes: @barry.lewis Stop digging through old cases. It's for your own good.
 </span>
 </div>
 
-# from - WWhfsil87
-{: .notice--warning}
+# Scam & Spam
+{: .notice--cyberpunk-yellow}
 
-## @@@ MEGA MEDICINE LOTTERY @@@
-{: .notice--success}
+## WWhfsil87
+{: .notice--cyberpunk-red}
 
-처음부터 V의 컴퓨터에 있던 메시지
-
-<span class="pen-bold">@@@ MEGA MEDICINE LOTTERY @@@</span>
-
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">### MEGA MEDICINE LOTTERY ###</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 <span class="pen-bold">From: WWhfsil87</span>
-
-<span class="pen-bold">To: (ENCRYPTED)</span>
-
----
-
-!!!!! ATTENTION !!!!!
-
-@@@ MEGA MEDICINE LOTTERY @@@
-
+<br><br>
+<span class="pen-bold">To: [ENCRYPTED]</span>
+<hr class="cyberpunk-hr">
+!!!!! ATTENTION !!!!!<br>
+### MEGA MEDICINE LOTTERY ###<br>
 ( ^____^)
-
-Buy TWO tickets, get the THIRD for FREE!!!<3 <3 <3
-
+<br><br>
+Buy TWO tickets, get the THIRD for FREE!!!<3 <3 <3<br>
 THOUSANDS of prizes are still available! DRUGS, REANIMATORS, PRIMARY CARE APPOINTMENTS, SURGERY VOUCHERS, BLOOD SCREENS, CYBERPSYCHOSIS VACCINES, RIPPERDOC REFERRALS, and our grand prize... a one-year TRAUMA TEAM PREMIUM PACKAGE!!!
-
+<br><br>
 Hurry while supplies last!!! Your neighbors already have their tickets!!!
-
-BUY YOURS NOW!!!
-
+<br><br>
+BUY YOURS NOW!!!<br>
 <3 <3 <3
+</span>
+</div>
 
 # from - N1gh7M4r3
 {: .notice--warning}
