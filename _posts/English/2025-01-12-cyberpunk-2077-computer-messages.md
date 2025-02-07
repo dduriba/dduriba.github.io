@@ -3,41 +3,35 @@ title: "Cyberpunk 2077 Computer Messages & Files"
 categories: English
 ---
 
-# THE RESCUE
-{: .notice--warning}
+# Act 1
+{: .notice--cyberpunk-yellow}
 
-<span class="highlight-pencel-mint">FIXER</span> <span class="pen-blue">Wakako Okada</span>
+## THE RESCUE
+{: .notice--cyberpunk-red}
 
-<span class="highlight-pencel-mint">CLIENT</span> <span class="pen-red">Sandra Dorsett</span>
-
-산드라 도셋 구출 미션 중 스캐빈저 소굴의 컴퓨터 메시지
-
-## FRESH MEAT
-{: .notice--success}
-
-<span class="pen-bold">Fresh Meat</span>
-
+<div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen">산드라 도셋 구출 미션 중 스캐빈저 소굴의 컴퓨터 메시지</span>
+<br>
+<span class="cyberpunk-blue pen-bold">Fresh Meat</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 <span class="pen-bold">From: your favorite supplier</span>
-
+<br><br>
 <span class="pen-bold">To: Gomp</span>
-
----
-
-we won't forget
-
+<hr class="cyberpunk-hr">
+we won't forget<br>
 you're a dead man walking
-
+<br><br>
 -----
-
-From: Viktor
-
-To: Blaze
-
+<br><br>
+From: Viktor<br>
+To: Blaze<br>
 Re: your fucked
-
-if any of your lackeys show up here again, they're in for worse than a split jaw.
-
+<br><br>
+if any of your lackeys show up here again, they're in for worse than a split jaw.<br>
 That's not an empty threat. Try me. motherfuckers.
+</span>
+</div>
 
 ## TOYS
 {: .notice--success}
