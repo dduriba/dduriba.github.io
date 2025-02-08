@@ -569,6 +569,15 @@ Keeshan Roberts, NCBA President<br>
 April 3, 2061
 </div>
 
+## First Aid Kit
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-lightgreen">Can be found inside Susanna Quinn's office in Lizzie's Bar.</span>
+<hr class="cyberpunk-hr">
+Hey, make sure we've got eveything we need in the first aid kit, OK? Yesterday I had to explain to a client that "no" really means "no" and when I wanted to dress up my hand, it turned out we were out of bandages. So yeah, I'd be super grateful. Mwah :*
+</div>
+
 # OTHER
 {: .notice--cyberpunk-yellow}
   
