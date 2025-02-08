@@ -250,6 +250,15 @@ Except this is real life, and what happens up there could have real consequences
 I don't know about all of you, but with each passing day, the saying "What happens in orbit, stays in orbit" is starting to sound like dangerously wishful thinking.
 </div>
 
+## The Last Rockerboy: The Solo Career of Kerry Eurodyne
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+The friendship between Johnny Silverhand and Kerry Eurodyne as well as the trauma behind Johnny's mysterious disappearance have contributed to the cloak of misinformation that has obscured the true story of Samurai for years. The stubbornly loyal Eurodyne always kept silent about the foundational leadership role he held in the cult band. To the detriment of his own career, he paid full tribute to Silverhand, granting him full authorship over the band's songs.
+<br><br>
+Following Samurai's disintegration and a personal retreat to the Philippines where Kerry rediscovered his creative roots, Eurodyne cut ties from the past and began the next chapter of his legacy. Today, it has become clear beyond doubt that his own successes not only match those of Samurai's, but have repeatedly surpassed them. Kerry's effortless, natural charisma and strong stage presence electrify crowds without fail. By comparison, Silverhand's fiery shouts and political grandstanding appear now as nothing more than ordinary attention grabbing designed to mask the otherwise pedestrian quality of his musical talent.
+</div>
+
 # LEAFLETS
 {: .notice--cyberpunk-yellow}
   
@@ -417,6 +426,24 @@ It's hard to imagine now - a world where things used to grow out of the ground w
 Where a normal person, like my granddad, could have more than he needed.
 <br><br>
 Sometimes I think back to that orchard and that sweet, drowsy smell. But all I taste is bitterness.
+</div>
+
+## The Chronicles of Titania: Book 1
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan"> 
+"You haven't an idea what you're talking about," the green-haired woman snorted and mockingly smiled. "I've visited many worlds, each built on a lie. All. Although... this might be the first time I've seen its people so stubbornly close their eyes to it."
+<br><br>
+Visan felt a rage swell inside of him. "How dare this woman, an outsider to the utopia of Titania, so harshly criticize a system that has guaranteed the happiness of millions?" he thought to himself. "If anyone is blind here, it's you!," Visan finally erupted. "Titania knows no inequity, no scarcity! For the first time in human history, everyone belongs to the privileged class!"
+The woman smiled softly with a mischievous twinkle in her amber eyes. "Is that so?" she asked. "And your work at this... cannery? Why are you unhappy there?"
+<br><br>
+Visan forced himself to remain calm and, in truth, he wasn't sure why the stranger's comments had made him so upset. Perhaps it wasn't the foreigner's fault she could not comprehend that humankind finally achieved the ideal society. Her home, as she described it, resembled a primitive world, one long tainted by the stain of feudalism. In a sense, she was like a child. Intelligent, yes, but ignorant and self-righteous to a fault.
+<br><br>
+"There must be a group within society responsible for this type of work," Visan explained. "Thankfully, due to the advancement of robotics, the means of production have become fully automized[sic] and shifted away from our hands. We now serve only in supervisory roles. So to answer your question, no, I'm not unhappy. The robots do my work for me. Wait... you do know what robots are, right?"
+<br><br>
+"Of course, I do. We have something similar, only made from clay and stone," the lime-haired woman replied, still with a smug tone in her voice. "Very well, your world has done away with work done by hand. But if that is the case... does that not mean workers such as yourself have lost their former value? Are you suggesting there are none who govern your progress from above your standing, who determine your responsibilities?"
+<br><br>
+No response. The woman's golden eyes flashed as she laughed at Visan's confused, flustered silence. "My apologies," the stranger's lips curled into an embarrassed smile. "Maybe you are an 'equal' member of this corpo...corporation...? But, of what I've seen here... nothing about it matches what you have described."
 </div>
 
 # NOTES
@@ -589,6 +616,32 @@ I see the coastline. Strange - in my memories the city seemed larger. If I wante
 Until we talk to Y, I will hold off on a firm decision.
 </div>
 
+## Archived Conversation: [Unknown] and Fredrik Persson
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-lightgreen">Can be found on a body inside the Dime a Duzz pawnshop on the walkway above the crossing of Duzois Street and Watson Bridge. in Little China, Watson.</span><br>
+[UNKNOWN]: got this number from a mutual friend <br>
+[UNKNOWN]: got some preem material <br>
+[UNKNOWN]: raw unedited <br>
+FREDRIK PERSSON: tell me more <br>
+[UNKNOWN]: rape, murder, torture <br>
+FREDRIK PERSSON: which one? <br>
+[UNKNOWN]: all at the same time <br>
+[UNKNOWN]: and a celebrity to boot <br>
+[UNKNOWN]: son of that televangelist <br>
+FREDRIK PERSSON: holy fuck <br>
+[UNKNOWN]: exactly <br>
+[UNKNOWN]: it's too hot for me <br>
+[UNKNOWN]: but you have maelstrom backing you <br>
+FREDRIK PERSSON: how much you want for it <br>
+[UNKNOWN]: 5% of the profit <br>
+FREDRIK PERSSON: we'll give you 10 <br>
+FREDRIK PERSSON: but i want the original hard-copy <br>
+FREDRIK PERSSON: leave it at one of our dead drops <br>
+FREDRIK PERSSON: we'll take it from there
+</div>
+
 # PEOPLE OF NIGHT CITY
 {: .notice--cyberpunk-yellow}
   
@@ -633,6 +686,28 @@ Richard Night was a realist. Aware he couldn't change the face of the world all 
 Richard Night was doomed to fail. Not because his vision was inherently impossible to realize, but because many important, powerful people wished to make it so.
 <br><br>
 Richard Night was murdered. The city whose foundations he laid was finished after his death – but his utopian dream soon became a dystopian nightmare. Even the original name was lost. In honor of the city's tragically deceased founder, Coronado City was rechristened "Night City." Ironically, the name fits. If anything, the city is a cat; sleepy during the day, it comes frantically alive at night. And it loves to toy with its prey.
+</div>
+
+## Who is Dr. Paradox?
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+Who is Doc Paradox? Who's hiding behind the distorted mask?
+<br><br>
+Unsurprisingly, Doc Paradox won't say. After all, he's breaking the law - he has to protect his identity. If he revealed even the tiniest sliver about himself, NetWatch agents would be at his door in less than a minute.
+<br><br>
+But think about it. THINK. What kind of person could successfully hide from the world's most powerful corporations for years? Who could hack into encrypted T.V. channels? Who would disclose highly classified corporate secrets?
+<br><br>
+The answer's obvious. Doc Paradox is one of them. He's a puppet controlled by the establishment. To what end? Maybe this is how corporations funnel our anger and frustration in a safe and controlled manner, through a rebel who will never go so far as to issue a call to arms. Maybe he's being used to reveal "facts" that hurt the competition. Or maybe he's just a branding opportunity? In a month or two, Avante could put out a new, "Doc Paradox" line for us to wear our disapproval?
+<br><br>
+Only time will tell. But for christ's sake, don't listen to a word out of this phoney's mouth.
+</div>
+
+## Stop complaining - Get rich today! by Josh Kavorkin
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+The first and most important lesson: you, and only you, are responsible for your situation in life. Don't wait for the government to take pity on you, don't wait for your loved ones to lend a helping hand - just pull yourself up by your bootstraps and get to work! I know what you're going to say - unemployment is at 34%. But so what? What's stopping you from starting your own business? It's that damn simple! What's that? You say you need an education? So educate yourself, for chrissakes! From now on, I don't want to hear any excuses. What matters is that you can be rich too - but you have to WANT it! And for that, you have to WORK for it!
 </div>
 
 # TECHNOLOGY
@@ -960,6 +1035,21 @@ The AEA was adopted by the Night City Council on May 04, 2063.
 Purpose: In the face of increasingly frequent and deadly zoonotic disease outbreaks, the City Council has decided that the most effective method for reducing the risk of infection among residents is via the extermination of all avian life within 18 miles of city limits (See Fig.1)
 <br><br>
 The extermination process will begin on May 07, 2063 once the call and selection of tenders for the contract have been completed (See Annex 2).
+</div>
+
+## Outer Space! My Life in Orbit
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+What's life in space like? Comfortable.
+<br><br>
+Of course, not everything's a bed of roses. Gravity below 1g isn't great for your bones or muscles. Synthesized food isn't to die for, and stuff from Earth is as rare as it is expensive. If you live in a private orbital station (congrats, you're richer than me!), you always see the same faces. But if you live in a hybrid station like Crystal Palace, you'll have to live with corporat[sic] bachelor parties every weekend. But don't let that put you off! There are more upsides than downsides to living in orbit.
+<br><br>
+First of all: safety. To get into orbit you need a lot of zeroes in your bank account, which means you won't see legions of homeless people, skezzed out gangsters or aggressive joytoys (the exception to that being the Lunar colonies, but no self-respecting Orbital-dweller would ever set foot there). In other words - you can walk outside at night unarmed, without security, and come back home in one piece, wallet undisturbed. Amazing, right?
+<br><br>
+Secondly: quality of service. Anyone in the customer service sector had to rack up an enormous debt to come up here. Their only hope to pay it off within their lifetimes is to rake in a lot (and I mean A LOT) of tips, which means they'll bend over backwards to satisfy every whim. if you're an employer, you don't have to worry that an employee you just hired and trained at your expense will suddenly quit and go work for the competition for a few extra eddies a week. Many stations, especially the private ones, simply don't have competition, and if they do it's basically negligible - agreements can be made so situations like that don't occur.
+<br><br>
+Thirdly, and most importantly: no government can tell you what to do, where and how. Orbital stations are autonomous and governed by their own laws... and there aren't that many of them. If you can afford your own station, you're the undisputed lord and master of your little corner of space. You want to tie the help up to a whipping post when they make a mistake? Go right ahead. Want five wives or four husbands? I'm sure you'll have a line of willing volunteers.
 </div>
 
 # CYBERPSYCHO
