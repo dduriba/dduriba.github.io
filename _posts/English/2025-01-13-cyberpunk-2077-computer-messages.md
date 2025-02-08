@@ -523,7 +523,6 @@ Goods are taken care of. Round up 5 or 6 girls and 2 guys, but make sure they're
 </div>
 
 <div class="cyberpunk-bg">
-<br><br>
 <span class="cyberpunk-blue pen-bold">Broken doll</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -662,6 +661,76 @@ So far we've put up with your crude behavior toward employees and turned a blind
 Hey boss, solved the Parker problem. Sent her to a ripper on Jig-Jig Street. The guy's name is Fingers, though he should be called Face.<br>
 Anyway, he should take care of her from here.
 </span>
+</div>
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-grey">[Shard] Archived Conversation: Harry Flynt and Jeremy White</span>
+<br>
+<span class="cyberpunk-lightgreen">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span>
+<hr class="cyberpunk-hr">
+HARRY FLYNT: sup choom lets swap shifts for sat <br>
+JEREMY WHITE: bro we aint swapping shit <br>
+HARRY FLYNT: cmon im begging u <br>
+JEREMY WHITE: forget it man sat is always a fuckin trainwreck <br>
+HARRY FLYNT: ffs choom <br>
+HARRY FLYNT: my kid ran away from home <br>
+JEREMY WHITE: so go look for him maybe u'll find him before sat <br>
+HARRY FLYNT: i kno where he is <br>
+HARRY FLYNT: gotta go to my parents on sat to borrow €$ to pay off the scavs <br>
+HARRY FLYNT: those psychos'll grind him up into scop if i dont pay <br>
+HARRY FLYNT: im on my fucking knees dude <br>
+JEREMY WHITE: fine
+</div>
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-grey">[Shard] Schedule changes/incident report</span>
+<br>
+<span class="cyberpunk-lightgreen">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
+<hr class="cyberpunk-hr">
+Flynt and Yu - shift change
+<br><br>
+Tue: <br>
+11:26PM - Commotion in VIP area, client's VIP card expired
+<br><br>
+Wed: <br>
+2:06AM - All currently employed security called in for emergency. <br>
+02:15AM - Tyger Claws reinforcements called
+<br><br>
+Thur: <br>
+12:24AM - Fight between two clients, both escorted off premises
+<br><br>
+Fri: <br>
+9:03PM - Doll called security, client was threatening her. Client escorted off premises. <br>
+1:42AM - Problem with payment. Friend paid for client. <br>
+7:54AM - Client refused to leave club. Escorted off premises.
+<br><br>
+Sat: <br>
+Flynt and White - shift change <br>
+10:32PM: Client lost consciousness at the bar. Recovered by Trauma Team. <br>
+12:12AM: Fight broke out at the entrance. Payment was rejected, client was making a scene. <br>
+2:34AM - Doll beat up. <br>
+4:06AM - Client fainted in a booth. Resuscitated by doll. <br>
+8:32AM - Group of three clients refused to leave club. Escorted off premises.
+</div>
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-grey">[Shard] Evelyn's Schedule</span>
+<br>
+<span class="cyberpunk-lightgreen">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span>
+<hr class="cyberpunk-hr">
+Mon: 12:30PM - Wendy D. <br>
+8PM - 2AM Clouds shift
+<br><br>
+Tue: 1:15PM nails <br>
+3PM Thomas B. lunch
+<br><br>
+Wed: 10PM mustachioed turd dinner
+<br><br>
+Thur: 8PM Jeri O'Connel meeting
+<br><br>
+Fri: 8PM - 6AM Clouds shift
+<br><br>
+Sat: 10AM Judy breakfast [CANCELLED]
 </div>
 
 # Personal Computer

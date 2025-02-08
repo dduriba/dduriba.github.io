@@ -91,6 +91,12 @@
   text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
 }
 
+.cyberpunk-grey {
+  --text-color: 212, 212, 214 !important;
+  color: rgb(var(--text-color)) !important;
+  text-shadow: 2px 1px 0px rgba(var(--text-color), 0.3), 4px 2px 0px rgba(var(--text-color), 0.3) !important;
+}
+
 .cyberpunk-bg {
   background-color: #343434 !important;
   padding: 16px !important;
