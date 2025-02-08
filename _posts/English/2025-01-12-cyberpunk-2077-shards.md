@@ -305,6 +305,25 @@ At Konpeki Plaza, you'll find 420 exclusive apartments, 20 conference rooms, 14 
 Discover new dimensions of comfort, enjoy the best Night City has to offer.
 </div>
 
+## The Foodie Guide to Night City
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+The world traveler in Night City is faced with a dilemma: Enjoy the local cuisine? Or save their gut the trouble? If you don't own a Trauma Team policy, you're probably better off sticking to the tried-and-tested chains and exclusive restaurants. But if you do, Night City is full of risk that packs a lot of reward. Here's our risk-reward breakdown of Night City's good eats.
+<br><br>
+For the cautious consumer:
+<br><br>
+Bleu - A gourmet dining experience with some of the highest accolades and richest portfolios in the city. If you're after high-quality, locally sourced ingredients, Bleu is the place for you. Among its marquee dishes are authentic caviar, oysters, and imported Prosecco. The alabaster white interior adorned with minimalist décor is perfect for a relaxing night out following a day of hustle and bustle.
+<br><br>
+Pepper & Spice - A unique locale on the culinary map of Night City. This eatery was founded by renowned travel icon Tony Haleek. It stands apart from the competition thanks to its diverse menu of transcontinental fusion dishes, most of which are offered at surprisingly reasonable prices. Caribbean, Polish, Kenyan - it's all here. Just not in the combination you've ever seen before... The crowd favorite? Haleek's own vanilla dumplings.
+<br><br>
+For the gutsy gourmand:
+<br><br>
+Buck-A-Slice - According to urban legend, the NCPD has en entire file on the mysterious deaths of homeless people whose last meal was pizza from Buck-A-Slice. True or not, bargain-seekers living on a eurodollar-a-lunch budget should still be prepared for gastrointestinal distress. Worth the risk? Only if you want a greasy slice of authentic Night City flavor. Plus, their secret recipe chilispurt scopperoni is unlike anything you've ever tasted, but only available on special request.
+<br><br>
+Ru Lai - At Ru Lai you'll find all of the three P's - potent, punchy and pungent. Every visit to this local favorite is like playing a game of Chinese roulette. Regulars at Ru Lai claim you're just as likely to get "bearable" egg rolls and "halfway decent" rangoons as you are tainted tofu or Sichuan salmonella. You've been warned.
+</div>
+
 # LITERATURE
 {: .notice--cyberpunk-yellow}
   
@@ -446,6 +465,14 @@ Visan forced himself to remain calm and, in truth, he wasn't sure why the strang
 No response. The woman's golden eyes flashed as she laughed at Visan's confused, flustered silence. "My apologies," the stranger's lips curled into an embarrassed smile. "Maybe you are an 'equal' member of this corpo...corporation...? But, of what I've seen here... nothing about it matches what you have described."
 </div>
 
+## Sex and Chrome
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+Waves of pleasure cascade over my body, filling every pore of my being like ocean water through hot sand. More... I want more! How long I waited to feel his breath on my neck, his hands wrapped around my waist, his fingers caressing my lips. Our bodies are entwined in a primal dance, moving faster and faster to the rhythm of the creaking bed-springs, our skin bathed in flickers of neon. I can't hear myself moaning, but I must be since my throat is dry. I can't feel what my hands are doing, but the blood under my fingernails means I'm digging into his back. He's no longer kissing me, but nibbling, biting, pulling himself toward me harder, his control over me untamed, animalistic. It's so hot in the room that even his chrome is overheating, the bedsheets clinging to our sweat-soaked bodies...
+</div>
+
 # NOTES
 {: .notice--cyberpunk-yellow}
   
@@ -576,6 +603,79 @@ April 3, 2061
 <span class="cyberpunk-lightgreen">Can be found inside Susanna Quinn's office in Lizzie's Bar.</span>
 <hr class="cyberpunk-hr">
 Hey, make sure we've got eveything we need in the first aid kit, OK? Yesterday I had to explain to a client that "no" really means "no" and when I wanted to dress up my hand, it turned out we were out of bandages. So yeah, I'd be super grateful. Mwah :*
+</div>
+
+## Archived Conversation: Harry Flynt and Jeremy White
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-lightgreen">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span>
+<hr class="cyberpunk-hr">
+HARRY FLYNT: sup choom lets swap shifts for sat <br>
+JEREMY WHITE: bro we aint swapping shit <br>
+HARRY FLYNT: cmon im begging u <br>
+JEREMY WHITE: forget it man sat is always a fuckin trainwreck <br>
+HARRY FLYNT: ffs choom <br>
+HARRY FLYNT: my kid ran away from home <br>
+JEREMY WHITE: so go look for him maybe u'll find him before sat <br>
+HARRY FLYNT: i kno where he is <br>
+HARRY FLYNT: gotta go to my parents on sat to borrow €$ to pay off the scavs <br>
+HARRY FLYNT: those psychos'll grind him up into scop if i dont pay <br>
+HARRY FLYNT: im on my fucking knees dude <br>
+JEREMY WHITE: fine
+</div>
+
+## Schedule changes/incident report
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-lightgreen">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
+<hr class="cyberpunk-hr">
+Flynt and Yu - shift change
+<br><br>
+Tue: <br>
+11:26PM - Commotion in VIP area, client's VIP card expired
+<br><br>
+Wed: <br>
+2:06AM - All currently employed security called in for emergency. <br>
+02:15AM - Tyger Claws reinforcements called
+<br><br>
+Thur: <br>
+12:24AM - Fight between two clients, both escorted off premises
+<br><br>
+Fri: <br>
+9:03PM - Doll called security, client was threatening her. Client escorted off premises. <br>
+1:42AM - Problem with payment. Friend paid for client. <br>
+7:54AM - Client refused to leave club. Escorted off premises.
+<br><br>
+Sat: <br>
+Flynt and White - shift change <br>
+10:32PM: Client lost consciousness at the bar. Recovered by Trauma Team. <br>
+12:12AM: Fight broke out at the entrance. Payment was rejected, client was making a scene. <br>
+2:34AM - Doll beat up. <br>
+4:06AM - Client fainted in a booth. Resuscitated by doll. <br>
+8:32AM - Group of three clients refused to leave club. Escorted off premises.
+</div>
+
+## Evelyn's Schedule
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-lightgreen">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span>
+<hr class="cyberpunk-hr">
+Mon: 12:30PM - Wendy D. <br>
+8PM - 2AM Clouds shift
+<br><br>
+Tue: 1:15PM nails <br>
+3PM Thomas B. lunch
+<br><br>
+Wed: 10PM mustachioed turd dinner
+<br><br>
+Thur: 8PM Jeri O'Connel meeting
+<br><br>
+Fri: 8PM - 6AM Clouds shift
+<br><br>
+Sat: 10AM Judy breakfast [CANCELLED]
 </div>
 
 # OTHER

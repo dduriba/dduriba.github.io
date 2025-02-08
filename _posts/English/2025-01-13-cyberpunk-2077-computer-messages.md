@@ -417,6 +417,253 @@ this week:<br>
 </span>
 </div>
 
+# Act 2 - Evelyn
+{: .notice--cyberpunk-yellow}
+
+## AUTOMATIC LOVE
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
+<br><br>
+<span class="cyberpunk-blue pen-bold">Booth 11</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: Ginger Lane, Investigation Services</span>
+<br><br>
+<span class="pen-bold">To: Clouds security</span>
+<hr class="cyberpunk-hr">
+I'll be needing access to booth 11 and all recordings from inside going back a month.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">Det. Lane</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: The Woodman</span>
+<br><br>
+<span class="pen-bold">To: Clouds security</span>
+<hr class="cyberpunk-hr">
+Please do not prevent detective LAME from doing her fucking job.<br>
+If she wants all the recordings, cough them up. And nobody goes in 11 until I give the all clear.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-violet pen-bold">Allende, Jose</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+Visits: 23<br>
+Joined club: 2077<br>
+VIP: Yes<br>
+Average time spent in club - 21 mins.<br>
+Tips and money spent at bar, etc - negligible<br>
+Dolls: F, Chicana<br>
+Fetishes: Food<br>
+Other: Owner and sole employee of a scopdog stand. Single.
+Pays for protection to the Valentinos. Not directly involved in the gang. Witnessed a cyberpsycho attack as a teenager, ever since then afraid of becoming one himself.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-violet pen-bold">Bates, Jennifer</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+Visits: 82<br>
+Joined club: 2071<br>
+VIP: No<br>
+Average time spent in club - 28 mins.<br>
+Tips and money spent at bar, etc - negligible<br>
+Dolls: M, no preference<br>
+Fetishes: S/M, likes to dominate<br>
+Other: Most likely connected to Militech. Manages a second hand electronics shack. Married, two children.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-violet pen-bold">Briggs, Thomas</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+Visits: 6<br>
+Joined club: 2074<br>
+VIP: No<br>
+Average time spent in club - 92 mins.<br>
+Tips and money spent at bar, etc - average<br>
+Dolls: F, Caucasians<br>
+Fetishes: Large breasts<br>
+Other: Truck driver. Has nomad roots. Family settled during infancy. Twice divorced. Painfully shy. IMPORTANT: Attacked by a doll in unknown circumstances, suffered severe injuries.
+According to a private investigator hired by Maiko Maeda, the likelihood that he was the target was slim to none. Monitoring required and compensation due if we want him to give up on the idea of suing the club.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-violet pen-bold">Club attacked</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+On Wednesday at approx. 1:50 AM a netrunner attack took place in booth 11. The witness was Thomas Briggs, who was in a session with a doll jacked into the system. As a result of the attack, he went into shock and presented psychosomatic symptoms.<br>
+It was found that the netrunner attack induced a psychotic episode in the doll. In anticipation of a possible all-out assault on Clouds, at 2:06 AM all of Cloud's security were requested on the premises, and 10 minutes later Tyger Claws reinforcements were called.<br>
+Luckily, booth 11 was the netrunner's sole target.<br>
+Mr. Briggs received first aid and was transferred to a psychiatric clinic. As of today (Friday) the doll is not suitable for use.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen">Woodman(Oswald Forrest)'s computer is located in his office. This computer can be accessed only if V incapacitates him during Automatic Love.</span>
+<br><br>
+<span class="cyberpunk-blue pen-bold">We doing this?</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: Bad Dragon</span>
+<br><br>
+<span class="pen-bold">To: The Woodman</span>
+<hr class="cyberpunk-hr">
+Goods are taken care of. Round up 5 or 6 girls and 2 guys, but make sure they're ACTUALLY young. Not like last time.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<br><br>
+<span class="cyberpunk-blue pen-bold">Broken doll</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: The Woodman</span>
+<br><br>
+<span class="pen-bold">To: Golden Fingers</span>
+<hr class="cyberpunk-hr">
+Heard you specialize in joytoys. Got one here that's busted up pretty bad. Mind taking a look? Ask for me at Clouds.
+<br><br>
+-----
+<br><br>
+From: Golden Fingers<br>
+To: The Woodman<br>
+RE: Busted doll
+<br><br>
+What's wrong with her?
+<br><br>
+-----
+<br><br>
+From: The Woodman<br>
+To: Golden Fingers<br>
+RE: Broken doll
+<br><br>
+Think I'd be asking you if I knew? Just come over and look.
+<br><br>
+-----
+<br><br>
+From: Golden Fingers<br>
+To: The Woodman<br>
+RE: Broken doll
+<br><br>
+All right, bring her here. Got a clinic on Jig-Jig, side alley off of Poplar.
+<br><br>
+-----
+<br><br>
+From: The Woodman<br>
+To: Golden Fingers<br>
+RE: Broken doll
+<br><br>
+How much you charge?
+<br><br>
+From: Golden Fingers<br>
+To: The Woodman<br>
+RE: Broken Doll
+<br><br>
+Depends. We'll work something out. Worst case, you leave her here for a small fee.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">you know what...</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: Jerri O'Connell</span>
+<br><br>
+<span class="pen-bold">To: The Woodman</span>
+<hr class="cyberpunk-hr">
+message me back about that job at Clouds. got another offer - gotta give them an answer. not like their gonna wait forever.
+<br><br>
+-----
+<br><br>
+From: The Woodman<br>
+To: Jerri O'Connell<br>
+RE: you know what...
+<br><br>
+That's not how it works. I'm not in charge of hiring. Send a portfolio.
+<br><br>
+-----
+<br><br>
+From: Jerri O'Connell<br>
+To: The Woodman<br>
+RE: you know what...
+<br><br>
+oh so now your telling me to send a portfolio? cuz thats not what you said last time when you wanted to fuck me. asshole.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">You owe me</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: The Woodman</span>
+<br><br>
+<span class="pen-bold">To: Ginger Lane, Investigation Services</span>
+<hr class="cyberpunk-hr">
+Hey Ginger, how's things? Hope you're in top-top shape as usual and that you haven't literally sucked all your badge contacts bone-dry yet.<br>
+I need a holoview stat. I know the pigs have one that's preem. Wrangle one for me.<br>
+I also need you to do some sniffing around here.
+<br><br>
+-----
+<br><br>
+From: Ginger Lane<br>
+To: The Woodman<br>
+RE: You owe me
+<br><br>
+"Wrangle?!" Go wrangle yourself.
+<br><br>
+-----
+<br><br>
+From: The Woodman<br>
+To: Ginger Lane<br>
+RE: You owe me one
+<br><br>
+Let's start over. The little orgy you had? With my dolls? Well, they scroll everything. So if you don't want your dear husband to get an email from me, I'm gonna need that holoview tomorrow. Morning.
+<br><br>
+-----
+<br><br>
+From: Ginger Lane<br>
+To: The Woodman<br>
+RE: You owe me<br>
+Fine.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">Get your shit together</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: Maiko Maeda</span>
+<br><br>
+<span class="pen-bold">To: The Woodman</span>
+<hr class="cyberpunk-hr">
+One more shitshow like with Evelyn Parker and you can kiss your job goodbye. Hiromi's words.<br>
+So far we've put up with your crude behavior toward employees and turned a blind eye when you beat up a client. But this? This was beyond the pale.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">Problem solved</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: The Woodman</span>
+<br><br>
+<span class="pen-bold">To: Hiromi Sato</span>
+<hr class="cyberpunk-hr">
+Hey boss, solved the Parker problem. Sent her to a ripper on Jig-Jig Street. The guy's name is Fingers, though he should be called Face.<br>
+Anyway, he should take care of her from here.
+</span>
+</div>
+
 # Personal Computer
 {: .notice--cyberpunk-yellow}
 
