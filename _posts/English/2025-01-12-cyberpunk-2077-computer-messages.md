@@ -53,7 +53,7 @@ and some other little curiosities - optics actuator and cosmetic RealSkinn
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen">플랫헤드를 구하는 미션 중 멜스트롬 소굴인 푸드 공장</span>
+<span class="cyberpunk-lightgreen">플랫헤드를 얻는 미션 중 멜스트롬 소굴인 푸드 공장</span>
 <br><br>
 <span class="cyberpunk-blue pen-bold">Wise Offer</span>
 <span class="cyberpunk-lightgreen">멜스트롬 로이스의 방 컴퓨터</span>
@@ -207,7 +207,7 @@ We're in deep shit.
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">(Urgent) Marketing Issue</span>
-<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방에서 발견됨과 동시에 플랫 헤드를 구한 뒤 사다리 쪽 탈출 루트 시작 부분 관리실에서 발견</span>
+<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방에서 발견됨과 동시에 플랫 헤드를 얻은 뒤 사다리 쪽 탈출 루트 시작 부분 관리실에서 발견</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Lindsay Barry</span>
@@ -224,7 +224,7 @@ L.
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">(Urgent) Marketing Issue</span>
-<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방에서 발견됨과 동시에 플랫 헤드를 구한 뒤 사다리 쪽 탈출 루트 시작 부분 관리실에서 발견</span>
+<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방에서 발견됨과 동시에 플랫 헤드를 얻은 뒤 사다리 쪽 탈출 루트 시작 부분 관리실에서 발견</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Mark Robinson</span>
