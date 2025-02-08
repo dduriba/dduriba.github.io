@@ -664,7 +664,9 @@ Anyway, he should take care of her from here.
 </div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-<span class="cyberpunk-grey">[Shard] Archived Conversation: Harry Flynt and Jeremy White</span>
+<span class="cyberpunk-grey pen-bold">Shard</span>
+<br><br>
+<span class="cyberpunk-grey">Archived Conversation: Harry Flynt and Jeremy White</span>
 <br>
 <span class="cyberpunk-lightgreen">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
@@ -683,7 +685,7 @@ JEREMY WHITE: fine
 </div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-<span class="cyberpunk-grey">[Shard] Schedule changes/incident report</span>
+<span class="cyberpunk-grey">Schedule changes/incident report</span>
 <br>
 <span class="cyberpunk-lightgreen">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
@@ -714,7 +716,7 @@ Flynt and White - shift change <br>
 </div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
-<span class="cyberpunk-grey"><span class="pen-bold">Shard</span> Evelyn's Schedule</span>
+<span class="cyberpunk-grey">Evelyn's Schedule</span>
 <br>
 <span class="cyberpunk-lightgreen">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
