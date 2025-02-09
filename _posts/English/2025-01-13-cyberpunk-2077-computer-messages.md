@@ -717,7 +717,7 @@ Flynt and White - shift change <br>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Evelyn's Schedule</span>
-<span class="cyberpunk-grey"> (Shard, Category : NOTES)</span>
+<span class="cyberpunk-grey" style="font-size: small;"> (Shard, Category : NOTES)</span>
 <br>
 <span class="cyberpunk-lightgreen">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
