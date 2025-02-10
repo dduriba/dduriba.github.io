@@ -1,6 +1,6 @@
 ---
 title: "Cyberpunk 2077 Computer Messages & Files"
-categories: English
+categories: Cyberpunk-2077
 ---
 
 # Act 1

@@ -1,6 +1,6 @@
 ---
 title: "Cyberpunk 2077 Shards"
-categories: English
+categories: Cyberpunk-2077
 ---
 
 # ARTICLES
@@ -471,6 +471,67 @@ No response. The woman's golden eyes flashed as she laughed at Visan's confused,
 <div class="cyberpunk-bg cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 Waves of pleasure cascade over my body, filling every pore of my being like ocean water through hot sand. More... I want more! How long I waited to feel his breath on my neck, his hands wrapped around my waist, his fingers caressing my lips. Our bodies are entwined in a primal dance, moving faster and faster to the rhythm of the creaking bed-springs, our skin bathed in flickers of neon. I can't hear myself moaning, but I must be since my throat is dry. I can't feel what my hands are doing, but the blood under my fingernails means I'm digging into his back. He's no longer kissing me, but nibbling, biting, pulling himself toward me harder, his control over me untamed, animalistic. It's so hot in the room that even his chrome is overheating, the bedsheets clinging to our sweat-soaked bodies...
+</div>
+
+## Crimeblock
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan"> 
+McCrane scanned the room with a deft Kiroshi sweep. This corpse was no different than the dozens he'd seen over the years. The dead man's eyes frozen in fear, his ligaments, wires and intestines strewn about the floor - none of it made any impact on McCrane anymore.
+
+"I've lived too long," he thought. "And cops who don't die quick usually find themselves playing for the other side eventually."
+
+"This case is as clear as a used napkin at Deputy Zhao's," he murmured to Junior Inspector Malinowski. "Cyberpsycho. Came in through the window. Victim let him inside, must've known each other. Prints are all over the glass."
+
+"Holy shit..." Malinowski shook his head in disbelief. "How'd the fucker get all the way up to the eleventh floor?"
+
+"See those grooves on the windowsill? Climbing spikes, implants kids these days are gettin' installed to pull stupid rooftop stunts, get cheap thrills..."
+
+Malinowski made his way over to the window to examine the evidence his superior had so effortlessly pieced together. The veteran detective lit a cigarette and stared back into the corpse's lifeless eyes. Although McCrane had never seen this man before, he felt as if he had known him a long time. And still... he felt nothing for him. No pity, no compassion. This was only a body now, no longer a person.
+
+Suddenly, Malinowski's unsteady voice woke McCrane from his thoughts. "Uh... boss? These prints on the outside of the window...? They... they belong to you."
+
+McCrane let out a quick, punctuating chuckle. "Never much took you for a jokester, Malinowski," the detective said with an amused smirk as he rolled up his sleeves to expose his wrists. "And I wonder... just how would I get there without any climber's claws, hm?"
+
+But before the junior inspector could respond, McCrane felt an uneasiness shoot up his spine. This room, this man, the smell of his blood... He felt compelled to walk over to the savaged victim and reach inside his pocket. A photo. His own face staring back at him.
+
+Malinowski slowly drew his pistol. "I believed in you," the shaken proté
+gé uttered with a pain in his voice. "All this time... I idolized a-a murderer.""I... I don't understand," muttered McCrane, scarcely loud enough to hear his own voice. Something else began to drown out his words, even his thoughts - a strange, primal force. "For the first time in my life... I don't understand."
+
+And then-CRACK-a gunshot.
+</div>
+
+## Chrome Night Love
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan"> 
+Chroman's mask glinted in the light of the setting sun, like a beacon in the dark of this rotten city. Lucille's heartbeat began to quicken. Her legs trembled beneath her, hot blood pumped through her veins in a way she didn't know it could.
+
+He looked at her, his strong, masculine figure towering over the bloodied corporate corpse, which just a moment ago had violently tried to defile Lucille's virtue.
+
+"What's the matter with me?" her mind raced. "Why him? Why me?" Hundreds of questions burned inside her brain. But, when she finally parted her lips to speak, only one question emerged: "Who are you really?"
+
+Chroman took Lucille into his cold, metal hands. She flinched at the touch. "You know I can't tell you that. They'll find you, they'll rip my secret out you any way they can... and then kill you.
+
+"I--I don't care about any of that! I love you... I love you!"
+
+She couldn't feel his face, his real one, concealed under that veil of chrome, but she could have sworn she could hear a note of emotion in his deep voice.
+
+"You love a dream. You don't know who hides under this mask."
+
+"I don't care what you look like."
+
+"What if I'm disfigured?"
+
+"I'll pay for the operation."
+
+"And if I'm an android?"
+
+"It doesn't matter!"
+
+"And if..." Then, suddenly, in one swift motion, Chroman removed the mask to reveal... the face of Damita de la Veli! "... if I'm a woman?"
+
+Lucille stood there, dumbstruck. A tempest of emotion swirled in a frenzy throughout her being. But after a moment passed, the storm calmed and she smiled warmly, taking her savior's face into her hands. The proverbial clouds of her tumultuous mind began to part. Lucille was beginning to see clearly at last. "How many times does a woman need to say she loves you," Lucille smirked and whispered softly, "before you believe her?"
 </div>
 
 # NOTES
@@ -1204,4 +1265,27 @@ until the word was ground fine and scattered among us
 look and beware in the final hours of night<br> 
 for the sun shall rise over the ruins and dawn shall once again melt<br> 
 from the rubble the memory of the City its original source
+</div>
+
+## America: A Prophecy
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg cyberpunk-cyan">
+The Terror answerd: I am Orc, wreath'd round the accursed tree: 
+The times are ended; shadows pass, the morning gins to break; 
+the fiery joy, that Urizen perverted to ten commands, 
+What night he led the starry hosts thro' the wide wilderness, 
+That stony law I stamp to dust; and scatter religion abroad 
+To the four winds as a torn book, and none shall gather the leaves; 
+But they shall rot on desert sands, and consume in bottomless deeps, 
+To make the deserts blossom, and the deeps shrink to their fountains, 
+And to renew the fiery joy, and burst the stony roof; 
+That pale religious lechery, seeking Virginity, 
+May find it in a harlot, and in coarse-clad honesty 
+The undefil'd, tho' ravish'd in her cradle night and morn; 
+For everything that lives is holy, life delights in life; 
+Because the soul of sweet delight can never be defil'd. 
+Fires enwrap the earthly globe, yet Man is not consum'd; 
+Amidst the lustful fires he walks; his feet become like brass, 
+His knees and thighs like silver, and his breast and head like gold.
 </div>

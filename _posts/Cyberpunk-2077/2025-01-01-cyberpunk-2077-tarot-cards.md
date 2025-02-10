@@ -1,6 +1,6 @@
 ---
 title: "Cyberpunk 2077 Tarot Cards"
-categories: English
+categories: Cyberpunk-2077
 ---
 
 # Major Arcana
