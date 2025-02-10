@@ -38,3 +38,14 @@ The Sun symbolizes success. It is a card of freedom, renewal and a bright future
 The Magician is the card of self-confidence and adapting to situations through intellect and sheer will. The Magician is a schemer who always has one last trick up his sleeve, who despite everything manages to stay afloat and remain in control of his own destiny.
 </span>
 </div>
+
+## The Justice
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen">Located near the Electric Corporation power plant where V and Judy Álvarez rescue Evelyn Parker during Disasterpiece.</span>
+<br><br>
+<span class="cyberpunk-cyan">
+Justice is the card of conflict resolution. It proclaims the need for order, to see through lies and deceit, and a return to the natural state of affairs. Justice implies a just sentence, but also due process.
+</span>
+</div>
