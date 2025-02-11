@@ -157,26 +157,27 @@ Waves of pleasure cascade over my body, filling every pore of my being like ocea
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
 McCrane scanned the room with a deft Kiroshi sweep. This corpse was no different than the dozens he'd seen over the years. The dead man's eyes frozen in fear, his ligaments, wires and intestines strewn about the floor - none of it made any impact on McCrane anymore.
-
+<br><br>
 "I've lived too long," he thought. "And cops who don't die quick usually find themselves playing for the other side eventually."
-
+<br><br>
 "This case is as clear as a used napkin at Deputy Zhao's," he murmured to Junior Inspector Malinowski. "Cyberpsycho. Came in through the window. Victim let him inside, must've known each other. Prints are all over the glass."
-
+<br><br>
 "Holy shit..." Malinowski shook his head in disbelief. "How'd the fucker get all the way up to the eleventh floor?"
-
+<br><br>
 "See those grooves on the windowsill? Climbing spikes, implants kids these days are gettin' installed to pull stupid rooftop stunts, get cheap thrills..."
-
+<br><br>
 Malinowski made his way over to the window to examine the evidence his superior had so effortlessly pieced together. The veteran detective lit a cigarette and stared back into the corpse's lifeless eyes. Although McCrane had never seen this man before, he felt as if he had known him a long time. And still... he felt nothing for him. No pity, no compassion. This was only a body now, no longer a person.
-
+<br><br>
 Suddenly, Malinowski's unsteady voice woke McCrane from his thoughts. "Uh... boss? These prints on the outside of the window...? They... they belong to you."
-
+<br><br>
 McCrane let out a quick, punctuating chuckle. "Never much took you for a jokester, Malinowski," the detective said with an amused smirk as he rolled up his sleeves to expose his wrists. "And I wonder... just how would I get there without any climber's claws, hm?"
-
+<br><br>
 But before the junior inspector could respond, McCrane felt an uneasiness shoot up his spine. This room, this man, the smell of his blood... He felt compelled to walk over to the savaged victim and reach inside his pocket. A photo. His own face staring back at him.
-
-Malinowski slowly drew his pistol. "I believed in you," the shaken proté
-gé uttered with a pain in his voice. "All this time... I idolized a-a murderer.""I... I don't understand," muttered McCrane, scarcely loud enough to hear his own voice. Something else began to drown out his words, even his thoughts - a strange, primal force. "For the first time in my life... I don't understand."
-
+<br><br>
+Malinowski slowly drew his pistol. "I believed in you," the shaken protégé uttered with a pain in his voice. "All this time... I idolized a-a murderer."
+<br><br>
+"I... I don't understand," muttered McCrane, scarcely loud enough to hear his own voice. Something else began to drown out his words, even his thoughts - a strange, primal force. "For the first time in my life... I don't understand."
+<br><br>
 And then-CRACK-a gunshot.
 </div>
 
@@ -185,30 +186,30 @@ And then-CRACK-a gunshot.
 
 <div class="cyberpunk-bg cyberpunk-cyan"> 
 Chroman's mask glinted in the light of the setting sun, like a beacon in the dark of this rotten city. Lucille's heartbeat began to quicken. Her legs trembled beneath her, hot blood pumped through her veins in a way she didn't know it could.
-
+<br><br>
 He looked at her, his strong, masculine figure towering over the bloodied corporate corpse, which just a moment ago had violently tried to defile Lucille's virtue.
-
+<br><br>
 "What's the matter with me?" her mind raced. "Why him? Why me?" Hundreds of questions burned inside her brain. But, when she finally parted her lips to speak, only one question emerged: "Who are you really?"
-
+<br><br>
 Chroman took Lucille into his cold, metal hands. She flinched at the touch. "You know I can't tell you that. They'll find you, they'll rip my secret out you any way they can... and then kill you.
-
+<br><br>
 "I--I don't care about any of that! I love you... I love you!"
-
+<br><br>
 She couldn't feel his face, his real one, concealed under that veil of chrome, but she could have sworn she could hear a note of emotion in his deep voice.
-
+<br><br>
 "You love a dream. You don't know who hides under this mask."
-
+<br><br>
 "I don't care what you look like."
-
+<br><br>
 "What if I'm disfigured?"
-
+<br><br>
 "I'll pay for the operation."
-
+<br><br>
 "And if I'm an android?"
-
+<br><br>
 "It doesn't matter!"
-
+<br><br>
 "And if..." Then, suddenly, in one swift motion, Chroman removed the mask to reveal... the face of Damita de la Veli! "... if I'm a woman?"
-
+<br><br>
 Lucille stood there, dumbstruck. A tempest of emotion swirled in a frenzy throughout her being. But after a moment passed, the storm calmed and she smiled warmly, taking her savior's face into her hands. The proverbial clouds of her tumultuous mind began to part. Lucille was beginning to see clearly at last. "How many times does a woman need to say she loves you," Lucille smirked and whispered softly, "before you believe her?"
 </div>
