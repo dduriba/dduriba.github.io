@@ -6,7 +6,7 @@ categories: Cyberpunk-2077
 <h1>POETRY</h1>
 {: .notice--cyberpunk-yellow}
   
-# The Fall of Etemenanki
+## The Fall of Etemenanki
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
@@ -45,7 +45,7 @@ for the sun shall rise over the ruins and dawn shall once again melt<br>
 from the rubble the memory of the City its original source
 </div>
 
-# America: A Prophecy
+## America: A Prophecy
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
