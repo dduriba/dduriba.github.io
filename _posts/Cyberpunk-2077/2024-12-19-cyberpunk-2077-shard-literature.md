@@ -3,7 +3,7 @@ title: "Cyberpunk 2077 Shard-Literature"
 categories: Cyberpunk-2077
 ---
 
-# LITERATURE
+<h1>LITERATURE</h1>
 {: .notice--cyberpunk-yellow}
   
 ## Dr. Havoc & Radon

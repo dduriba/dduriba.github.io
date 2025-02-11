@@ -3,7 +3,7 @@ title: "Cyberpunk 2077 Shard-Technology"
 categories: Cyberpunk-2077
 ---
 
-# TECHNOLOGY
+<h1>TECHNOLOGY</h1>
 {: .notice--cyberpunk-yellow}
   
 ## Cyberware Usage and Its Side Effects

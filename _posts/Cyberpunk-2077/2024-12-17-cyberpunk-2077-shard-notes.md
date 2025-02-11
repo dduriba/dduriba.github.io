@@ -3,7 +3,7 @@ title: "Cyberpunk 2077 Shard-Notes"
 categories: Cyberpunk-2077
 ---
 
-# NOTES
+<h1>NOTES</h1>
 {: .notice--cyberpunk-yellow}
   
 ## Horoscopes: Storyteller Group

@@ -3,7 +3,7 @@ title: "Cyberpunk 2077 Shard-Other"
 categories: Cyberpunk-2077
 ---
 
-# OTHER
+<h1>OTHER</h1>
 {: .notice--cyberpunk-yellow}
   
 ## Cyberpunk 2020 Rulebook

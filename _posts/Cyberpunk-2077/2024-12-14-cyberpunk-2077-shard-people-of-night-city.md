@@ -3,7 +3,7 @@ title: "Cyberpunk 2077 Shard-People of Night City"
 categories: Cyberpunk-2077
 ---
 
-# PEOPLE OF NIGHT CITY
+<h1>PEOPLE OF NIGHT CITY</h1>
 {: .notice--cyberpunk-yellow}
   
 ## Tamed Dragon: A Biography of Yorinobu Arasaka

@@ -3,7 +3,7 @@ title: "Cyberpunk 2077 Shard-Religion & Philosophy"
 categories: Cyberpunk-2077
 ---
 
-# RELIGION & PHILOSOPHY
+<h1>RELIGION & PHILOSOPHY</h1>
 {: .notice--cyberpunk-yellow}
   
 ## The World as Will and Idea
