@@ -1,5 +1,5 @@
 ---
-title: "Cyberpunk 2077 Computer Messages & Files"
+title: "Cyberpunk 2077 Computer Messages & Files The Rest"
 categories: Cyberpunk-2077
 ---
 

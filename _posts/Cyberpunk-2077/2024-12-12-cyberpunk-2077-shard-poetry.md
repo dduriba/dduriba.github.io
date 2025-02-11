@@ -2,6 +2,9 @@
 title: "Cyberpunk 2077 Shard-Poetry"
 categories: Cyberpunk-2077
 ---
+
+Poetry
+{: .notice--cyberpunk-yellow}
   
 # The Fall of Etemenanki
 {: .notice--cyberpunk-red}
