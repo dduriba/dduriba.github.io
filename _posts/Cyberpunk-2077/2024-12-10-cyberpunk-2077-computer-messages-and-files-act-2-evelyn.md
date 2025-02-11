@@ -321,3 +321,138 @@ Fri: 8PM - 6AM Clouds shift
 <br><br>
 Sat: 10AM Judy breakfast [CANCELLED]
 </div>
+
+## THE SPACE IN BETWEEN
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen">Fingers(Finn Gerstatt)'s computer is located in his clinic, during The Space in Between.</span>
+<br><br>
+<span class="cyberpunk-blue pen-bold">Hey beautiful</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: Golden Fingers</span>
+<br><br>
+<span class="pen-bold">To: Candice Sweet</span>
+<hr class="cyberpunk-hr">
+I saw your profile and just had to ask - do you have a bandaid? I got so weak in the knees at the sight of you that I fell.
+<br><br>
+-----
+<br><br>
+From: Candice Sweet <br>
+To: Golden Fingers <br>
+RE: Hey beautiful
+<br><br>
+Hi! Nice to meet ya <br>
+I'm glad you liked my still. <br>
+What do you do for a living?
+<br><br>
+-----
+<br><br>
+From: Golden Fingers <br>
+To: Candice Sweet <br>
+RE: Hey beautiful
+<br><br>
+I take care of beautiful girls like you. I'd love to have you on my operating table sometime ;) You'll see why they call me Fingers. You live in Westbrook, right? When can we meet up?
+<br><br>
+-----
+<br><br>
+From: Golden Fingers <br>
+To: Candice Sweet <br>
+RE: Hey beautiful
+<br><br>
+Why aren't you answering?
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">Broken doll</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: The Woodsman</span>
+<br><br>
+<span class="pen-bold">To: Golden Fingers</span>
+<hr class="cyberpunk-hr">
+Heard you specialize in joytoys. Got one here that's busted up pretty bad. Mind taking a look? Ask for me at Clouds.
+<br><br>
+-----
+<br><br>
+From: Golden Fingers <br>
+To: The Woodman <br>
+RE: Busted doll
+<br><br>
+What's wrong with her?
+<br><br>
+-----
+<br><br>
+From: The Woodman <br>
+To: Golden Fingers <br>
+RE: Broken doll
+<br><br>
+Think I'd be asking you if I knew? Just come over and look.
+<br><br>
+-----
+<br><br>
+From: Golden Fingers <br>
+To: The Woodman <br>
+RE: Broken doll
+<br><br>
+All right, bring here here. Got a clinic on Jig-Jig, side alley off of Poplar.
+<br><br>
+-----
+<br><br>
+From: The Woodman <br>
+To: Golden Fingers <br>
+RE: Broken doll
+<br><br>
+How much you charge?
+<br><br>
+---
+<br><br>
+From: Golden Fingers <br>
+To: The Woodman <br>
+RE: Broken Doll
+<br><br>
+Depends. We'll work something out. Worst case, you leave her here for a small fee.
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-violet pen-bold">Today's schedule</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+10 AM - right leg, repair no. 4 <br>
+10:30 AM - optical adjustment <br>
+11 AM - full breast exchange <br>
+11:30 AM - motor function adjustment <br>
+1:30 PM - right hand, repair no. 16 <br>
+2 PM - spinal cord fluid exchange <br>
+5 PM - vaginoplasty, operation no. 2 <br>
+6:30 PM - knee joint fitting <br>
+7 PM - penis enlargement
+</span>
+</div>
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-violet pen-bold">Contacts</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+Babyface (Eberto Morena) - frequent no-show. Never pays on time. Debts: 4 procedures + medication
+<br><br>
+Hard Driver (John Alolo) - pays in kind. Debts: 0.
+<br><br>
+Kandy (Kennedy Sims) - rude, loud-moutched bitch. Debts: 1 procedure
+<br><br>
+Kari (Karima Kabbah) - not bad-looking, albeit taken. Can't turn her around. Debts: 0.
+<br><br>
+Kiki (Keira Clark) - boring, usually has nothing to say. Flat ass. Debts: 4 procedures
+<br><br>
+Mavico (Maria Vitória Costa) - pays in kind. Debts: 2 procedures + medication
+<br><br>
+Muffin (Gabriella Ramos) - incredible piece of ass 10/10. Rarely says no. Debts: 0
+<br><br>
+The Dude (Brody Woods) - pays in kind, but he's a psycho. Debts: 5 procedures.
+<br><br>
+Velvet (Erika Grant) - not bad, 7/10. Usually pays. Debts: 1 procedure.
+</span>
+</div>
