@@ -30,6 +30,7 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-lightgreen">The Rescue - Can be found in the Scavenger Den.</span>
 <hr class="cyberpunk-hr">
 In early August 2023, a single event would change the course of history. Although it fell against the bloody backdrop of the Fourth Corporate War, the global media still fed on the story for weeks. And could you blame them? A group of terrorists detonated a nuclear bomb, blowing Arasaka Tower to pieces. The terrorists' warning came too late – not all of the Tower's employees could be evacuated. The blast itself killed and wounded thousands, while countless others died from radiation sickness. How did the biggest terrorist attack in the 21st century happen? Who was behind this catastrophe? To find the answers, we'll need to first understand the context of that era.
 <br><br>
@@ -139,6 +140,8 @@ Thank you for reading and supporting independent journalism! Find more inconveni
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-lightgreen">Can be found in the 42th floor of Konpeki Plaza during The Heist.<br>
+Can be found in the old WNS broadcast station during Gig: Freedom of the Press in the Northside Industrial District.</span>
 <hr class="cyberpunk-hr">
 When, in the summer of 2020, NASA's Pathfinder mission set off for Jupiter, it was the buzz of every radio station, TV media outlet, and screamsheet. Stills of the crew were plastered on every type of commemorative merchandise imaginable: mugs, shirts, plates, bobbleheads, bumper stickers, the list goes on.
 <br><br>
@@ -153,6 +156,8 @@ To this day, it remains unknown whether the Pathfinder mission was a success. If
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg cyberpunk-cyan">
+<span class="cyberpunk-lightgreen">Can be found in Konpeki Plaza, after taking out the first two Arasaka Guards.<br>
+Can be found inside Hiromi Sato's apartment in Megabuilding H8, on a table near the door to his office.</span>
 <hr class="cyberpunk-hr">
 They make their homes on mountaintops, in rivers and oceans, on city streets and on every megabuilding floor with the number 4 in it, even in your washing machine or infovisor. Some appear in concrete places, while others simply haunt a specific person. They're there when you hear a strange noise in the middle of the desert. They're there when you feel like someone's watching you, although there's not a soul in sight. They're there when you glimpse something out of the corner of your eye, something nobody else seems to notice, but you were just at the ripperdoc's for your checkup!
 <br><br>
