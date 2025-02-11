@@ -24,7 +24,7 @@ The Chariot is always charging ahead despite being pulled by its steeds in oppos
 <span class="cyberpunk-lightgreen">Located below V's Penthouse, which is featured in Path of Glory during The Sun ending.</span>
 <br><br>
 <span class="cyberpunk-cyan">
-The Sun symbolizes success. It is a card of freedom, renewal and a bright future that lies ahead. The Sun also represents truth, for its light will always pull back the curtain of shadow that hides the world's secrets. It is[sic] also represents greatness and splendor.
+The Sun symbolizes success. It is a card of freedom, renewal and a bright future that lies ahead. The Sun also represents truth, for its light will always pull back the curtain of shadow that hides the world's secrets. It is also represents greatness and splendor.
 </span>
 </div>
 

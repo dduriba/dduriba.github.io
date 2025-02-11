@@ -137,7 +137,7 @@ The woman smiled softly with a mischievous twinkle in her amber eyes. "Is that s
 <br><br>
 Visan forced himself to remain calm and, in truth, he wasn't sure why the stranger's comments had made him so upset. Perhaps it wasn't the foreigner's fault she could not comprehend that humankind finally achieved the ideal society. Her home, as she described it, resembled a primitive world, one long tainted by the stain of feudalism. In a sense, she was like a child. Intelligent, yes, but ignorant and self-righteous to a fault.
 <br><br>
-"There must be a group within society responsible for this type of work," Visan explained. "Thankfully, due to the advancement of robotics, the means of production have become fully automized[sic] and shifted away from our hands. We now serve only in supervisory roles. So to answer your question, no, I'm not unhappy. The robots do my work for me. Wait... you do know what robots are, right?"
+"There must be a group within society responsible for this type of work," Visan explained. "Thankfully, due to the advancement of robotics, the means of production have become fully automized and shifted away from our hands. We now serve only in supervisory roles. So to answer your question, no, I'm not unhappy. The robots do my work for me. Wait... you do know what robots are, right?"
 <br><br>
 "Of course, I do. We have something similar, only made from clay and stone," the lime-haired woman replied, still with a smug tone in her voice. "Very well, your world has done away with work done by hand. But if that is the case... does that not mean workers such as yourself have lost their former value? Are you suggesting there are none who govern your progress from above your standing, who determine your responsibilities?"
 <br><br>
