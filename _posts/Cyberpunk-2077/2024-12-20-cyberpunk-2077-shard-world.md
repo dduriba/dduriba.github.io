@@ -9,7 +9,7 @@ categories: Cyberpunk-2077
 ## The Unification War... for Gonks!
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 *The Unification War is the most recent armed conflict to take place in North America since the Collapse, lasting from January 2069 to June 2070.
 <br><br>
@@ -29,7 +29,7 @@ categories: Cyberpunk-2077
 ## The Day the Tower Fell
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <span class="cyberpunk-lightgreen">The Rescue - Can be found in the Scavenger Den.</span>
 <hr class="cyberpunk-hr">
 In early August 2023, a single event would change the course of history. Although it fell against the bloody backdrop of the Fourth Corporate War, the global media still fed on the story for weeks. And could you blame them? A group of terrorists detonated a nuclear bomb, blowing Arasaka Tower to pieces. The terrorists' warning came too late – not all of the Tower's employees could be evacuated. The blast itself killed and wounded thousands, while countless others died from radiation sickness. How did the biggest terrorist attack in the 21st century happen? Who was behind this catastrophe? To find the answers, we'll need to first understand the context of that era.
@@ -40,7 +40,7 @@ The early 2020's was a period of unrest for Night City and anti-corporate sentim
 ## The Undoing: Fall of the First Net
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 Chapter I: The Apocalypse
 <br><br>
@@ -61,7 +61,7 @@ Rache Bartmoss
 ## Why Be Me?: Confessions of a Braindance Addict
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 PREFACE
 <br><br>
@@ -81,7 +81,7 @@ Sergio Morales
 ## All Foods – The Future of Meat
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <span class="cyberpunk-lightgreen">can be found inside the All Foods Plant during The Pickup.</span>
 <hr class="cyberpunk-hr">
 Not only are All Foods products healthy and nutritious, they will feed our future. 
@@ -91,7 +91,7 @@ Soon, All Foods will launch a pilot line of new products to complement the EEZYB
 ## The MaxTac Way, by Mathias Maddox
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 FOREWORD TO THE SECOND EDITION
 <br><br>
@@ -107,7 +107,7 @@ It is thanks for my loving wife's promise that I have never slept as soundly as 
 ## In the Shadows of Megabuildings
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 One could say we're living in stable times. The 4th Corporate War is ancient history, the Unification War is over and done with, and Night City is a free city - a jewel embedded between two Californias. Living here, you might have the impression that everything is OK in the world. But look around.
 <br><br>
@@ -123,7 +123,7 @@ Right?
 ## Arasaka Academy: Best of the Best, or Best for the Best?
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 Arasaka Academy emerged as the #1 ranked institute of secondary education in Night City for the fourth consecutive time according to the Night City Perspective's annual review. The periodical earns the lion's share of its advertising revenue from the academy's namesake corporation, though their editorial staff claim this financial cooperation does not influence their rankings.
 <br><br>
@@ -139,7 +139,7 @@ Thank you for reading and supporting independent journalism! Find more inconveni
 ## Pathfinder: Half a Century of Silence
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <span class="cyberpunk-lightgreen">Can be found in the 42th floor of Konpeki Plaza during The Heist.<br>
 Can be found in the old WNS broadcast station during Gig: Freedom of the Press in the Northside Industrial District.</span>
 <hr class="cyberpunk-hr">
@@ -155,7 +155,7 @@ To this day, it remains unknown whether the Pathfinder mission was a success. If
 ## Yōkai: Japanese Demons of Yesterday and Today
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <span class="cyberpunk-lightgreen">Can be found in Konpeki Plaza, after taking out the first two Arasaka Guards.<br>
 Can be found inside Hiromi Sato's apartment in Megabuilding H8, on a table near the door to his office.</span>
 <hr class="cyberpunk-hr">
@@ -175,7 +175,7 @@ However, let me assure American readers of this book; today, the most likely pla
 ## Water, Chrome and Blood - THE FOURTH CORPORATE WAR
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 (...) It is truly remarkable that the large-scale bloodshed of the Fourth Corporate War began first as a simple rivalry between two ocean exploitation corporations: CINO and OTEC. Both companies vied for the controlling stake of the failing IHA corporation. OTEC commissioned Militech to secure its business interests and perform certain "special operations." CINO, in turn, signed a cooperation agreement with the Arasaka Corporation with a similar aim. When circumstances at last called for both colossal and prideful security corporations to clash in open combat, the Fourth War had officially begun.
 <br><br>
@@ -189,7 +189,7 @@ By the second half of 2022, Arasaka and Militech entered the final phase of the 
 ## Lat-Am Wars
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 As a direct result of the armed conflicts on U.S. soil from the early 1990s until the early 2000s, Latin America (comprising South and Central America) remodeled itself into a strong federation of independent nations, bound through mutual aid and cooperation.
 The U.S.'s military presence was forced from Latin American territories with the exception of Panama, where it stood its ground despite fierce pressure from guerilla forces.
@@ -200,7 +200,7 @@ Many researchers and contemporary historians maintain that, in fact, the Lat-Am 
 ## Protein Farms: A Report
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 Protein farms are currently the source of most meat and meat-substitute products in Night City. Biotechnica is the clear industry leader, providing for over half of the city's demand for alternative protein. Currently, the most popular, albeit cost-intensive form of production is based on protein-rich crickets, which allow producers to achieve the highest-quality protein. Earthworms are available as a cheaper alternative, achieving a higher yield of product per square meter. However, worms pose a more difficult marketing challenge - while crickets have become acceptable, most consumers still bristle at being told to "go eat worms."
 </div>
@@ -208,7 +208,7 @@ Protein farms are currently the source of most meat and meat-substitute products
 ## Avian Extermination Act
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 The AEA was adopted by the Night City Council on May 04, 2063.
 <br><br>
@@ -220,7 +220,7 @@ The extermination process will begin on May 07, 2063 once the call and selection
 ## Outer Space! My Life in Orbit
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
 What's life in space like? Comfortable.
 <br><br>

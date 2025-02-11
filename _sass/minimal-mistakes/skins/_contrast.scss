@@ -49,8 +49,9 @@ $base0f: #b18a3d !default;
   .notice--warning,
   .notice--success,
   .notice--danger,
+  .notice--cyberpunk-yellow,
   .notice--cyberpunk-red,
-  .notice--cyberpunk-yellow {
+  .notice--cyberpunk-cyan {
     color: $text-color;
   }
 }
