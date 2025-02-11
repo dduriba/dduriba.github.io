@@ -3,11 +3,11 @@ title: "Cyberpunk 2077 Computer Messages & Files Side Jobs"
 categories: Cyberpunk-2077
 ---
 
-## Barry Lewis
+## Happy Together
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen">"Happy Together" 미션의 메인 NPC로 V의 아래층 이웃</span>
+<span class="cyberpunk-lightgreen">"Barry Lewis : V의 아래층 이웃</span>
 <br><br>
 <span class="cyberpunk-blue pen-bold">Beer?</span>
 <span class="cyberpunk-cyan">

@@ -3,8 +3,6 @@ title: "Cyberpunk 2077 Computer Messages & Files The Rest"
 categories: Cyberpunk-2077
 ---
 
-
-
 # Personal Computer
 {: .notice--cyberpunk-yellow}
 

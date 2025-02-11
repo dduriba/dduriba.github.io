@@ -3,7 +3,7 @@ title: "Cyberpunk 2077 Computer Messages & Files Act 1"
 categories: Cyberpunk-2077
 ---
 
-# Act 1
+<h1>Act 1</h1>
 {: .notice--cyberpunk-yellow}
 
 ## THE RESCUE
