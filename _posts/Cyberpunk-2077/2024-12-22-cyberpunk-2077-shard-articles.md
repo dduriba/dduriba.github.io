@@ -182,15 +182,15 @@ After fifty long years, the wait is finally over! The third and final installmen
 
 <div class="cyberpunk-bg cyberpunk-grey">
 <hr class="cyberpunk-hr">
-The European Space Agency (ESA) started out with seemingly noble intentions: "We'll open the door to the universe." "The Solar System - a home to all." And so on an so forth.
+The European Space Council (ESC) started out with seemingly noble intentions: "We'll open the door to the universe." "The Solar System - a home to all." And so on an so forth.
 <br><br>
-It didn't take long for these catchphrases to reveal themselves for what they truly were - colonial ambitions wrapped up in lofty ideals. We, the builders and first inhabitants of O'Neill 1 have witnessed this first-hand. The ESA sent us into space with promises of a new life and a better tomorrow. Instead, what lay in wait for us was a complete lack of freedom and back-breaking work in extremely dangerous conditions.
+It didn't take long for these catchphrases to reveal themselves for what they truly were - colonial ambitions wrapped up in lofty ideals. We, the builders and first inhabitants of O'Neill 1 have witnessed this first-hand. The ESC sent us into space with promises of a new life and a better tomorrow. Instead, what lay in wait for us was a complete lack of freedom and back-breaking work in extremely dangerous conditions.
 <br><br>
-We would've pulled through, we would've toughed it out for the greater good - if only they treated us as human beings, informed us of their decisions, listened to our concerns and requests... But the ESA ignored us.
+We would've pulled through, we would've toughed it out for the greater good - if only they treated us as human beings, informed us of their decisions, listened to our concerns and requests... But the ESC ignored us.
 <br><br>
-The consequences were inevitable - in 2022, after completing construction of the station, our situation was critical. Station management demanded eighteen hours of work every day, seven days a week from everyone - regardless of age or health condition. Our peaceful protest was met with a disproportionate use of force, which included stun-guns. They thought it would break us, just like the countless protests they broke back on Earth.
+The consequences were inevitable - in 2022, after completing construction of the station, our situation was critical. Station management demanded eighteen hours of work every day, seven days a week, from everyone - regardless of age or health condition. Our peaceful protest was met with a disproportionate use of force, which included stun-guns. They thought it would break us, just like the countless protests they broke back on Earth.
 <br><br>
-The thing is, out here it's not so easy to call for reinforcements. Workers outnumbered guards 40:1, and one stun-gun charge held only fifteen rounds. The ESA's management had effectively shot themselves in the foot. It was over before they could realize - only seven hours passed before O'Neill 1 and O'Neill 2 declared independence and became the first nations established outside of Earth...
+The thing is, out here it's not so easy to call for reinforcements. Workers outnumbered guards 40:1, and one stun-gun charge held only fifteen rounds. The ESC's management had effectively shot themselves in the foot. It was over before they could realize - only seven hours passed before O'Neill 1 and O'Neill 2 declared independence and became the first nations established outside of Earth...
 </div>
 
 ## Looking for a career change? Join NetWatch!
