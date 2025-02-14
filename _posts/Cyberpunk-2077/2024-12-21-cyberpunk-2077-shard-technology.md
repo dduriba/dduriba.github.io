@@ -81,10 +81,9 @@ Much has changed over the past seventy-five years from when cybernetic implants 
 </div>
 
 ## Kendachi - New Spring Catalogue
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Kenshiri-Adachi Arnaments
 <br><br>
 OUR MISSION
