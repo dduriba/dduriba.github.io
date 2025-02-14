@@ -101,7 +101,7 @@ A weapon as discreet as it is deadly. Made for those who desire power but have n
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-We've long known that the AVs criss-crossing our skies are busy dumping harmful substances in the air, such as aluminum, carbon dioxide, sulphur trioxide and sulphuric acid. Studies have also revealed the presence of dead red blood cells and E coli., as well as sodium chloride (table salt).
+We've long known that the AVs criss-crossing our skies are busy dumping harmful substances in the air, such as aluminum, carbon dioxide, sulphur trioxide and sulphuric acid. Studies have also revealed the presence of dead red blood cells and E coli, as well as sodium chloride (table salt).
 <br><br>
 Now, you don't need a degree in science to know the harm these substances can wreak on the body. We've found that sulphur compounds can lead to cancer, heart decease and other illnesses arising from a weakened or even damaged immune system. They can also lead to spontaneous dental hydroplosion and acute meningitis.
 </div>
