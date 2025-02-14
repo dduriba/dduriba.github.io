@@ -12,7 +12,7 @@ categories: Cyberpunk-2077
 <div class="cyberpunk-bg cyberpunk-grey">
 Introduction
 <br><br>
-The Battery Sphere is in dire straits. The Irinians have occupied almost half the city. Them and their technorat scourge have transformed almost everyone in hordes of mindless zombies. Battery Arena is now the final point of resistance against the invaders from Planet X. It seems the end if inevitable. That is...
+The Battery Sphere is in dire straits. The Irinians have occupied almost half the city. Them and their technorat scourge have transformed almost everyone into hordes of mindless zombies. Battery Arena is now the final point of resistance against the invaders from Planet X. It seems the end if inevitable. That is...
 until the legendary mercenary pair arrive just in the nick of time after years of mysterious absence! Amidst the cigar smoke and glint of chrome armor, Dr. Havoc and Radon slaughter scores of enemies without mercy. After all, who could possibly slow the mighty force of a laser-armed mountain of muscle and his spitfire of a sidekick who can transform into a sentient cloud of radioactive gas?
 <br><br>
 I'll tell you - no one so far. Rose Tenorio and Martoni Eleazar take us into the world of computer games first imagined in the bestseller novel "Kibble and Scop" by Abe Frost. Fasten your seatbelts and get ready for a roller coaster ride of comic-book violence! If you've ever wondered what the action of the BATTERY ARENA may have looked like, "Dr. Havoc & Radon" is a must-buy. Dive in now.
@@ -24,11 +24,11 @@ I'll tell you - no one so far. Rose Tenorio and Martoni Eleazar take us into the
 <div class="cyberpunk-bg cyberpunk-grey">
 INTRO
 <br><br>
-Think you've got what it takes to be a legendary solo, huh? Sure you do. Otherwise, why pick up this book? You're looking for respect. For fear. For a way to be on top. Maybe you heard someone quote me about winning battles with only a glance, before a single shot's been fired. Well fine, I'll let you in on a secret: it is possible, and you can do it too, but only if you got the guts to survive going to hell and back more times than you can count. Thousands of fights, millions of bullets, hundreds of gallons of blood (yours included) - that's what you have to look forward to. And you'll need a solid ripper - one you can trust, one you make a lifelong choombatta out of, one who tells you every week, "It's a miracle you ain't dead by now." At least, that's what he'll say if you're lucky.
+Think you've got what it takes to be a legendary solo, huh? Sure you do. Otherwise, why pick up this book? You're looking for respect. For fear. For a way to be on top. Maybe you heard someone quote me about winning battles with only a glance, before a single shot's been fired. Well fine, I'll let you in on a secret: it is possible, and you can do it too, but only if you got the guts to survive going to hell and back more times than you can count. Thousands of fights, millions of bullets, hundreds of gallons of blood (yours included) - that's what you have to look forward to. And you'll need a solid ripper - one you can trust, one you make a lifelong choombattas out of, one who tells you every week, "It's a miracle you ain't dead by now." At least, that's what he'll say if you're lucky.
 <br><br>
 Nowadays, every kid with big iron, a syn-leather coat and a micro-missile launcher thinks they're a hotshot solo. But you know what? Just because you killed a few goons with a smile on your lips don't make you one. Anyone can kill. I knew this rockerboy once who blew up a whole fucking platoon of corpotrash. Did that make him a solo? No, it made him dead.
 <br><br>
-So you still think you got what it takes to carve your name into solo history?
+So, still think you got what it takes to carve your name into solo history?
 <br><br>
 Good. Then this book's for you.
 </div>
@@ -51,7 +51,7 @@ Scop shrugged again. "I dunno, find a gun, buy an edgy jacket," he suggested ind
 <br><br>
 "What the hell happened here?" Kibble continued his rant. "The world's all upside-down! There are billions just like you and me. Billions of do-nothings, cowards... No, not cowards - people who just want things to be normal! Safety. Life... Life, Scop!"
 <br><br>
-Scop had already opened his mouth, ready to list off another round of cynical retorts, but then stopped himself short and started a tangent of his own. ife..." he repeated slowly and ponderously. "What if I could sell the world... an alternate life? The same all those edgerunners feel, except where you won't ever die like they do."
+Scop had already opened his mouth, ready to list off another round of cynical retorts, but then stopped himself short and started a tangent of his own. "Life..." he repeated slowly and ponderously. "What if I could sell the world... an alternate life? The same all those edgerunners feel, except where you won't ever die like they do."
 <br><br>
 Kibble snorted and spat out the cockroach piss he finally mustered the courage to taste. "Sorry to burst your bubble, choom, but somebody's way ahead of ya there. Ever heard of Bloody Bout IV? Or, like... a million other computer games?"
 <br><br>
@@ -63,13 +63,13 @@ Scop cracked a roguish smile. "Is Bloody Bout IV or these 'million other games' 
 
 <div class="cyberpunk-bg cyberpunk-grey">
 MONDAY<br> 
-What a fucking world! Finally I get my ass on Ziggy's show and right bfore I walk on stage a fucking hospital somewhere gets shot up. This dick cancels the show last minute for a special ep about the fucking victims!!! Who the fuck cares?!? is anyone gonna them in a week? Did they spend HALF THEYRE FUCKING CAREER TO GET ON THAT SHOW??? No they just fucking died! I got my ass on stage anyway - let him know you dont cockblock a goddamn tv messiah but security fucked me up so bad what was scrolled got corrupted or sme shit
+What a fucking world! Finally I get my ass on Ziggy's show and right bfore I walk on stage a fucking hospital somewhere gets shot up. This dick cancels the show last minute for a special ep about the fucking victims!!! Who the fuck cares?!? is anyone gonna remember them in a week? Did they spend HALF THEYRE FUCKING CAREER TO GET ON THAT SHOW??? No they just fucking died! I got my ass on stage anyway - let him know you dont cockblock a goddamn tv messiah but security fucked me up so bad what was scrolled got corrupted or sme shit
 <br><br>
 TUESDAY<br> 
-felt fed up today, made a move on town hall to protest the fucking disgraceful neglect of war vets. Got my hands on a dress made of syn fetueses chanted my fucking throat raw half the way ddown there until the DIRECTOR of Wet Dream recognized me and said I was lookin sexy <3 so I leaned up against a scsm, fake choked on an air dick :0 and slapped mh ass cuz I could tell he loves pretty boys. He took my back to his place, chained me to his king bed and fucked me raw till I snapped each n every bedpost, he showered me in eddies and already got plans to see him same time next. Maybe I can screw my way into his next BD? ;P
+felt fed up today, made a move on town hall to protest the fucking disgraceful neglect of war vets. Got my hands on a dress made of syn fetuses chanted my fuckin throat raw half the way ddown there until the DIRECTOR of Wet Dream recognized me and said I was lookin sexy <3 so I leaned up against a scsm, fake choked on an air dick :0 and slapped mh ass cuz I could tell he loves pretty boys. He took my back to his place, chained me to his king bed and fucked me raw  till I snapped each n every bedpost, he showered me in eddies and already got plans to see him same time next. Maybe I can screw my way into his next BD? ;P
 <br><br>
 WEDNESDAY<br> 
-I got into an argument with Ruth Dzeng, we talked about the normies who died savin some kids after a nuke popped during some corp war or other. Call her a toughass bitch on tv if you want, but she got all like blubbery baby on me, so whatever I figured I;d say something nice. I said they were pretty nova and maybe they'd wanna like be my fans. Hell, lookin at old photos I was like it's a legit fuckin shame cuz half of em got buldges halfway to Denver, real waste of good dick. She just gave me stupid smile and told me to fuck off... cunt
+I got into an argument with Ruth Dzeng, we talked about the normies who died savin some kids after a nuke popped during some corp war or other. Call her a toughass bitch on tv if you want, but she got all like blubbery baby on me, so whatever I figured I;d say something nice. I said they were pretty nova and maybe they'd wanna like be my fans. Hell, lookin at old photos I was like it's a legit fuckin shame cuz half of em got bulges halfway to Denver, real waste of good dick. She just gave me stupid smile and told me to fuck off... cunt
 <br><br>
 THURSDAY<br> 
 HAa-hHaAAaA!!!11!1
@@ -86,7 +86,7 @@ I couldn't believe my eyes. For a moment, I thought Jessica had changed them out
 <br><br>
 The son of FutureTech CEO, the boy of my damn dreams, Jason... He was an android. Shit...
 <br><br>
-I sat there stuck with a dumb expression on my face and Jason stared back with one of his own. I couldn't help but wonder now... were those beautiful eyes of his - the same that had pierced my soul - were they merely a mimicry controlled by some emo-algorithm? Had there never been anything real behind them all those times? ... Not once?
+I sat there stuck with a dumb expression on my face and Jason stared back with one of his own. I couldn't help but wonder now... were those beautiful blue eyes of his - the same that had pierced my soul - were they merely a mimicry controlled by some emo-algorithm? Had there never been anything real behind them all those times? ... Not once?
 <br><br>
 "Alex!...I-it's not what you think!" he pleaded with a strangely authentic note of panic in his voice. And I wanted to believe him. I really did.
 <br><br>
@@ -94,7 +94,7 @@ I sat there stuck with a dumb expression on my face and Jason stared back with o
 <br><br>
 "No, that's not--," Jason suddenly broke off and smiled awkwardly. "Wait, did you... did you say 'fall for?'"
 <br><br>
-My cardio implant began to beat more and more quickly. My face flushed. Had I been wrong? Could this body of bolts, wires, and plastic contain whatever is left of the real Jason Cadalez? If his father was able to design a synthetic heart for me, maybe he could do the same for his son's brain. The question is... why?
+My cardio implant began to beat more and more quickly. My face flushed. Had I been wrong? Could this body of bolts, wires, and plastic really contain whatever is left of the real Jason Cadalez? If his father was able to design a synthetic heart for me, maybe he could do the same for his son's brain. The question is... why?
 </div>
 
 ## Sayonara Station, by Luke Steelman
@@ -103,7 +103,7 @@ My cardio implant began to beat more and more quickly. My face flushed. Had I be
 <div class="cyberpunk-bg cyberpunk-grey"> 
 Wait a second, before we start - have you wondered how this book ended up in your hands? Where it came from, who delivered it?
 <br><br>
-Of course you haven't - nobody ever wonders about things like that. It's a shame, because the answer's quite interesting. I'd go as far as to say it's fucking fascinating.
+Of course you haven't - nobody ever wonders about things like that. It's a shame, because the answer's quite interesting. I'd go as far to say it's fucking fascinating.
 <br><br>
 Not so long ago, most shipments were made via sea on freighters. Cheap, quick and (relatively) safe. But during the Fourth Corporate War, some genius in Arasaka had an idea - to release automated, self-replicating mines controlled by an AI into the ocean. What could possibly go wrong? A lot, it turns out.
 <br><br>
@@ -132,7 +132,7 @@ Sometimes I think back to that orchard and that sweet, drowsy smell. But all I t
 <div class="cyberpunk-bg cyberpunk-grey"> 
 "You haven't an idea what you're talking about," the green-haired woman snorted and mockingly smiled. "I've visited many worlds, each built on a lie. All. Although... this might be the first time I've seen its people so stubbornly close their eyes to it."
 <br><br>
-Visan felt a rage swell inside of him. "How dare this woman, an outsider to the utopia of Titania, so harshly criticize a system that has guaranteed the happiness of millions?" he thought to himself. "If anyone is blind here, it's you!," Visan finally erupted. "Titania knows no inequity, no scarcity! For the first time in human history, everyone belongs to the privileged class!"
+Visan felt a rage swell inside of him. "How dare this woman, an outsider to the utopia of Titania, so harshly criticize a system that has guaranteed the happiness of millions?" he thought to himself. "If anyone is blind here, it's you!," Visan finally erupted. "Titania knows no inequity, no scarcity! For the first time in human history, everyone belongs to the privileged class!"<br>
 The woman smiled softly with a mischievous twinkle in her amber eyes. "Is that so?" she asked. "And your work at this... cannery? Why are you unhappy there?"
 <br><br>
 Visan forced himself to remain calm and, in truth, he wasn't sure why the stranger's comments had made him so upset. Perhaps it wasn't the foreigner's fault she could not comprehend that humankind finally achieved the ideal society. Her home, as she described it, resembled a primitive world, one long tainted by the stain of feudalism. In a sense, she was like a child. Intelligent, yes, but ignorant and self-righteous to a fault.
