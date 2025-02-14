@@ -190,7 +190,7 @@ He looked at her, his strong, masculine figure towering over the bloodied corpor
 <br><br>
 "What's the matter with me?" her mind raced. "Why him? Why me?" Hundreds of questions burned inside her brain. But, when she finally parted her lips to speak, only one question emerged: "Who are you really?"
 <br><br>
-Chroman took Lucille into his cold, metal hands. She flinched at the touch. "You know I can't tell you that. They'll find you, they'll rip my secret out you any way they can... and then kill you.
+Chroman took Lucille into his cold, metal hands. She flinched at the touch. "You know I can't tell you that. They'll find you, they'll rip my secret out of you any way they can... and then kill you.
 <br><br>
 "I--I don't care about any of that! I love you... I love you!"
 <br><br>
