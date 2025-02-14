@@ -9,7 +9,8 @@ categories: Cyberpunk-2077
 ## The Fall of Etemenanki
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 The Fall of Etemenanki<br> 
 (manuscript found behind the Totentanz)
 <br><br>
@@ -48,7 +49,8 @@ from the rubble the memory of the City its original source
 ## America: A Prophecy
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 The Terror answerd: I am Orc, wreath'd round the accursed tree: <br>
 The times are ended; shadows pass, the morning gins to break; <br>
 the fiery joy, that Urizen perverted to ten commands, <br>

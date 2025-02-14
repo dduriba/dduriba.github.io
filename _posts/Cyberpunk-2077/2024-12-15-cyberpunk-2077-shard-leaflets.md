@@ -9,7 +9,8 @@ categories: Cyberpunk-2077
 ## DELAMAIN - TRANSPORT SERVICES
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 DELAMAIN
 <br><br>
 Need to be on time for an important meeting? Don't want your valuable tech to fall into the wrong hands? Or maybe you just don't like crowds?<br>
@@ -39,7 +40,8 @@ LEAVE YOUR PROBLEMS AT THE DOOR
 ## Konpeki Plaza
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 KONPEKI PLAZA<br>
 Luxury. Beauty. Discretion. 
 <br><br>
@@ -52,7 +54,8 @@ Discover new dimensions of comfort, enjoy the best Night City has to offer.
 ## The Foodie Guide to Night City
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 The world traveler in Night City is faced with a dilemma: Enjoy the local cuisine? Or save their gut the trouble? If you don't own a Trauma Team policy, you're probably better off sticking to the tried-and-tested chains and exclusive restaurants. But if you do, Night City is full of risk that packs a lot of reward. Here's our risk-reward breakdown of Night City's good eats.
 <br><br>
 For the cautious consumer:

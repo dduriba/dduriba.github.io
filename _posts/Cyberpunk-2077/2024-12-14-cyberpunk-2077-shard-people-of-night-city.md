@@ -9,7 +9,8 @@ categories: Cyberpunk-2077
 ## Tamed Dragon: A Biography of Yorinobu Arasaka
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 In many ways, the story of Yorinobu Arasaka resembles an ancient parable. The younger son of one of the modern world's most powerful CEOs renounces his heritage, forfeits his birthright, and instead chooses a rough-and-tumble life on the streets of Tokyo only to later scamper back home to the warm, sheltered bosom of his family with his tail tucked. At least, that is the story most have pieced together from official sources. But why did Yorinobu betray his father in the first place? Why did he return? For several years, I dug deeper, followed leads, reached out to his former friends and acquaintances. Slowly, I began to unearth answers to some of the public's most burning questions.
 <br><br>
 Yorinobu was born in Tokyo in the early twenty-first century, the first child to Saburo Arasaka's third wife, Michiko. By all accounts, he seemed a happy child that grew to become a pleasant young man; that is, until his graduation from the University of Tokyo at the age of 21. Following the ceremony, the Arasaka family threw a party in his honor. At some point in the evening, Saburo invited his son to his study for a private conversation. What transpired there is wholly unknown, but after corroborating varied accounts, it is clear Yorinobu must have slipped out of from the party and the estate only a few hours later. Gone. A whisper in the night.
@@ -20,7 +21,8 @@ Over the next few years, various eyewitnesses spotted Yorinobu in the company of
 ## The Flowers of Silence. A biography of Hanako Arasaka.
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 If I had written this biography on the basis of publicly available material, there would be two sides of this story, not to mention the foreword, afterword, and the acknowledgments.
 <br><br>
 Everyone knows that Hanako Arasaka is a very private individual. Everyone has heard about the tragic death of the last reporter who attempted to pen her life's story. Ten shots to the back. Suicide, according to the police.
@@ -37,7 +39,8 @@ I was ready to give up when in the archives of a local T.V. station I found a re
 ## California After Dusk: The Life of Richard Night
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 Richard Night was a pessimist. Even in the late Eighties, when the economy seemed headed for endless growth and the nuclear threat for the ash heap of history, Night saw the United States as hurtling toward collapse.
 <br><br>
 Richard Night was an optimist. He deeply believed the world could be changed for the better – and that he was the one to do it.
@@ -52,7 +55,8 @@ Richard Night was murdered. The city whose foundations he laid was finished afte
 ## Who is Dr. Paradox?
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 Who is Doc Paradox? Who's hiding behind the distorted mask?
 <br><br>
 Unsurprisingly, Doc Paradox won't say. After all, he's breaking the law - he has to protect his identity. If he revealed even the tiniest sliver about himself, NetWatch agents would be at his door in less than a minute.
@@ -67,6 +71,7 @@ Only time will tell. But for christ's sake, don't listen to a word out of this p
 ## Stop complaining - Get rich today! by Josh Kavorkin
 {: .notice--cyberpunk-red}
 
-<div class="cyberpunk-bg cyberpunk-cyan">
+<div class="cyberpunk-bg cyberpunk-grey">
+<hr class="cyberpunk-hr">
 The first and most important lesson: you, and only you, are responsible for your situation in life. Don't wait for the government to take pity on you, don't wait for your loved ones to lend a helping hand - just pull yourself up by your bootstraps and get to work! I know what you're going to say - unemployment is at 34%. But so what? What's stopping you from starting your own business? It's that damn simple! What's that? You say you need an education? So educate yourself, for chrissakes! From now on, I don't want to hear any excuses. What matters is that you can be rich too - but you have to WANT it! And for that, you have to WORK for it!
 </div>
