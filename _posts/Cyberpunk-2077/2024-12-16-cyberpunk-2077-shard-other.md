@@ -7,10 +7,9 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-yellow}
   
 ## Cyberpunk 2020 Rulebook
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 It doesn't matter how well you do something, as long as you look good doing it. If you're going to blow it, make sure you look like you planned it that way.<br>
 Normally, clothes and looks don't matter in an adventure - in this world, having a leather armor jacket and mirrorshades is a serious consideration.<br>
 Think dangerous; be dangerous. Think weak; be weak.<br>
@@ -22,18 +21,16 @@ Stay committed to the Edge.<br>
 </div>
 
 ## PISS ON HIS/HER GRAVE
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and sisters in chrome and HE/SHE WILL SUFFER for it! If anyone catches him/her burnin rubber in Wats again, you drag him/her out by the hair and beat that cocky fuckin face of his/her into a fleshy pulp! Don't leave anything for the rats!!!
 </div>
 
 ## Diary (117-121/77)
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 117/77<br> 
 We have set sail. Only Hanako knows the true purpose of our visit to Night City. The question is what to do with A. Hellman. He has proven loyal beyond even my own expectations and deserves compensation. Perhaps he might be interested in the position of Director of the Kyoto Institute of Technology, sweeten the deal by letting him have his own handpicked team. Employees like him should be kept on a short leash without seeing it as such.
 <br><br>
@@ -54,10 +51,9 @@ Until we talk to Y, I will hold off on a firm decision.
 </div>
 
 ## Archived Conversation: [Unknown] and Fredrik Persson
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 <span class="cyberpunk-lightgreen">Can be found on a body inside the Dime a Duzz pawnshop on the walkway above the crossing of Duzois Street and Watson Bridge. in Little China, Watson.</span><br><br>
 [UNKNOWN]: got this number from a mutual friend <br>
 [UNKNOWN]: got some preem material <br>

@@ -7,10 +7,9 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-yellow}
   
 ## The Unification War... for Gonks!
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 *The Unification War is the most recent armed conflict to take place in North America since the Collapse, lasting from January 2069 to June 2070.
 <br><br>
 *Although the Unification War is formally recognized as a war between the New United States of America (NUSA) and the governments of the Free States, most scholars also classify the conflict as a corporate war. It is well known that the NUSA was backed by Militech hardware, personnel and other resources, whereas the Free States received the significant yet tacit support of the Arasaka Corporation.
@@ -27,21 +26,19 @@ categories: Cyberpunk-2077
 </div>
 
 ## The Day the Tower Fell
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">The Rescue - Can be found in the Scavenger Den.</span>
-<hr class="cyberpunk-hr">
+<span class="cyberpunk-lightgreen">The Rescue - Can be found in the Scavenger Den.</span><br>
 In early August 2023, a single event would change the course of history. Although it fell against the bloody backdrop of the Fourth Corporate War, the global media still fed on the story for weeks. And could you blame them? A group of terrorists detonated a nuclear bomb, blowing Arasaka Tower to pieces. The terrorists' warning came too late – not all of the Tower's employees could be evacuated. The blast itself killed and wounded thousands, while countless others died from radiation sickness. How did the biggest terrorist attack in the 21st century happen? Who was behind this catastrophe? To find the answers, we'll need to first understand the context of that era.
 <br><br>
 The early 2020's was a period of unrest for Night City and anti-corporate sentiment was at an all-time high. In the epicenter of the city's lawlessness stood the Atlantis club. It was seen as an island of resistance against the powers that be, primarily megacorporations like Militech or Biotechnica – though a special place in hell was reserved for Arasaka, the Japanese arms-manufacturing zaibatsu that held the most influence over Night City. The kinds of people who frequented the Atlantis felt that corporations had hijacked the future and turned people into consumer-slaves and ironically, deprived of the two things capitalism loved most – freedom and choice. These people called themselves Edgerunners. They positioned themselves against the corporate world order – they declared their own freedom and opposition to the status quo. But deprived of any peaceful way to meaningfully change what they called "the System," they reached for more radical methods of self-expression. And these people were no strangers to violence.
 </div>
 
 ## The Undoing: Fall of the First Net
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Chapter I: The Apocalypse
 <br><br>
 His name was Rache Bartmoss. Everyone knows WHO destroyed the first Net. The real question is WHY. NetWatch branded him a criminal and outlaw. The media called him a madman. Is either label correct? You be the judge. Below is a previously unpublished letter which Bartmoss put out just before the release of R.A.B.I.D.S. Why has this document only now just emerged? Well... Someone out there did not want you, my dear readers, to ever lay eyes on it. All the more reason to take a deep dive into the information available to us.<br>
@@ -59,10 +56,9 @@ Rache Bartmoss
 </div>
 
 ## Why Be Me?: Confessions of a Braindance Addict
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 PREFACE
 <br><br>
 Do you want to be you?
@@ -79,20 +75,18 @@ Sergio Morales
 </div>
 
 ## All Foods – The Future of Meat
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">can be found inside the All Foods Plant during The Pickup.</span>
-<hr class="cyberpunk-hr">
+<span class="cyberpunk-lightgreen">can be found inside the All Foods Plant during The Pickup.</span><br>
 Not only are All Foods products healthy and nutritious, they will feed our future. 
 Soon, All Foods will launch a pilot line of new products to complement the EEZYBEEF brand. This series of meat products will be based on flatworm cultures, which have been found to significantly help increase metabolism, slow weight gain, and cleanse the intestinal tract. We hope the flatworm initiative will usher in All Foods' latest successful generation of meat products.
 </div>
 
 ## The MaxTac Way, by Mathias Maddox
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 FOREWORD TO THE SECOND EDITION
 <br><br>
 I was fortunate, after publishing the first edition of this book, to meet many people with fascinating stories. I spoke with people who lost loved ones at the hands of cyberpsychos. I met the relatives of people whom I shot. Needless to say, not every conversation ended on good terms.
@@ -105,10 +99,9 @@ Today, I still struggle with these demons, but I have asked my wife to keep a lo
 </div>
 
 ## In the Shadows of Megabuildings
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 One could say we're living in stable times. The 4th Corporate War is ancient history, the Unification War is over and done with, and Night City is a free city - a jewel embedded between two Californias. Living here, you might have the impression that everything is OK in the world. But look around.
 <br><br>
 The world is not OK. Despite technological recession between 2020 and 2040 reducing global pollution levels, humanity is still facing monumental existential threats. Climate change has turned into climate disaster - its effects are irreversible and dangerously unpredictable. Hurricanes, tornadoes, droughts, floods - natural catastrophes are growing in strength and frequency across the continent, leveling entire regions. Access to clean water is becoming increasingly more scarce, as well as fertile land. Hunger and starvation still reaps a bloody, human harvest in Asia and Africa, where corporations had no interest in building vertical, hydroponic farms.
@@ -121,10 +114,9 @@ Right?
 </div>
 
 ## Arasaka Academy: Best of the Best, or Best for the Best?
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Arasaka Academy emerged as the #1 ranked institute of secondary education in Night City for the fourth consecutive time according to the Night City Perspective's annual review. The periodical earns the lion's share of its advertising revenue from the academy's namesake corporation, though their editorial staff claim this financial cooperation does not influence their rankings.
 <br><br>
 The magazine's education experts claim Arasaka Academy's infrastructure has no equal in Night City. Bias or otherwise, we cannot argue them on this point. Lessons are primarily conducted via virtual reality or AI-generated lesson plans suited to a student group's specific needs. Public schools, meanwhile, can only dream... It comes as no surprise, then, that parents who are not gainfully employed at a megacorp are increasingly willing to incur a lifetime of debt for a chance to give their child a chance at the city's most prestigious education.
@@ -137,12 +129,11 @@ Thank you for reading and supporting independent journalism! Find more inconveni
 </div>
 
 ## Pathfinder: Half a Century of Silence
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
 <span class="cyberpunk-lightgreen">Can be found in the 42th floor of Konpeki Plaza during The Heist.<br>
-Can be found in the old WNS broadcast station during Gig: Freedom of the Press in the Northside Industrial District.</span>
-<hr class="cyberpunk-hr">
+Can be found in the old WNS broadcast station during Gig: Freedom of the Press in the Northside Industrial District.</span><br>
 When, in the summer of 2020, NASA's Pathfinder mission set off for Jupiter, it was the buzz of every radio station, TV media outlet, and screamsheet. Stills of the crew were plastered on every type of commemorative merchandise imaginable: mugs, shirts, plates, bobbleheads, bumper stickers, the list goes on.
 <br><br>
 But, just a week later, the steady stream of information dried to a tickle. A month later, the world had all but forgotten about them. Three years later, and two years before their planned entry into Jupiter's orbit, a conflict now known as the Fourth Corporate War broke out.
@@ -153,12 +144,11 @@ To this day, it remains unknown whether the Pathfinder mission was a success. If
 </div>
 
 ## Yōkai: Japanese Demons of Yesterday and Today
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
 <span class="cyberpunk-lightgreen">Can be found in Konpeki Plaza, after taking out the first two Arasaka Guards.<br>
-Can be found inside Hiromi Sato's apartment in Megabuilding H8, on a table near the door to his office.</span>
-<hr class="cyberpunk-hr">
+Can be found inside Hiromi Sato's apartment in Megabuilding H8, on a table near the door to his office.</span><br>
 They make their homes on mountaintops, in rivers and oceans, on city streets and on every megabuilding floor with the number 4 in it, even in your washing machine or infovisor. Some appear in concrete places, while others simply haunt a specific person. They're there when you hear a strange noise in the middle of the desert. They're there when you feel like someone's watching you, although there's not a soul in sight. They're there when you glimpse something out of the corner of your eye, something nobody else seems to notice, but you were just at the ripperdoc's for your checkup!
 <br><br>
 The yōkai first appear in Japanese literature in the year 797. These mysterious beings, though closely linked to the invisible realm of the dead, have been alive in the Japanese consciousness from the very birth of animism. It's not that the Japanese believe in the yōkai. They simply know the yōkai exist.
@@ -173,10 +163,9 @@ However, let me assure American readers of this book; today, the most likely pla
 </div>
 
 ## Water, Chrome and Blood - THE FOURTH CORPORATE WAR
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 (...) It is truly remarkable that the large-scale bloodshed of the Fourth Corporate War began first as a simple rivalry between two ocean exploitation corporations: CINO and OTEC. Both companies vied for the controlling stake of the failing IHA corporation. OTEC commissioned Militech to secure its business interests and perform certain "special operations." CINO, in turn, signed a cooperation agreement with the Arasaka Corporation with a similar aim. When circumstances at last called for both colossal and prideful security corporations to clash in open combat, the Fourth Corporate War had officially begun.
 <br><br>
 Yet, as is usually the case with corporate conflicts, the onset proved subtle: Arasaka disables a Militech transport, Militech (allegedly) eliminates a high-ranking official of an Arasaka client, both sides engage in frequent sabotage and data theft operations, netrunners from both sides infiltrate dataforts to sow confusion, gather intel and cause chaos in the stock markets. Though none would have thought it possible in those early months, the Arasaka-Militech conflict truly jeopardized the stability of the world economy, making the threat of complete economic collapse all too real. For this reason, NetWatch introducted a communications embargo on both corporations. This did little to slow the conflict's pace, however.
@@ -187,10 +176,9 @@ By the second half of 2022, Arasaka and Militech entered the final phase of the 
 </div>
 
 ## Lat-Am Wars
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 As a direct result of the armed conflicts on U.S. soil from the early 1990s until the early 2000s, Latin America (comprising South and Central America) remodeled itself into a strong federation of independent nations, bound through mutual aid and cooperation.
 The U.S.'s military presence was forced from Latin American terrorities with the exception of Panama, where it stood its ground despite fierce pressure from guerilla forces.
 <br><br>
@@ -198,18 +186,16 @@ Many researchers and contemporary historians maintain that, in fact, the Lat-Am 
 </div>
 
 ## Protein Farms: A Report
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Protein farms are currently the source of most meat and meat-substitute products in Night City. Biotechnica is the clear industry leader, providing for over half of the city's demand for alternative protein. Currently, the most popular, albeit cost-intensive form of production is based on protein-rich crickets, which allow producers to achieve the highest-quality protein. Earthworms are available as a cheaper alternative, achieving a higher yield of product per square meter. However, worms pose a more difficult marketing challenge - while crickets have become acceptable, most consumers still bristle at being told to "go eat worms."
 </div>
 
 ## Avian Extermination Act
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 The AEA was adopted by the Night City Council on May 04, 2063.
 <br><br>
 Purpose: In the face of increasingly frequent and deadly zoonotic disease outbreaks, the City Council has decided that the most effective method for reducing the risk of infection among residents is via the extermination of all avian life within 18 miles of city limits (See Fig.1)
@@ -218,10 +204,9 @@ The extermination process will begin on May 07, 2063 once the call and selection
 </div>
 
 ## Outer Space! My Life in Orbit
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 What's life in space like? Comfortable.
 <br><br>
 Of course, not everything's a bed of roses. Gravity below 1g isn't great for your bones or muscles. Synthesized food isn't to die for, and stuff from Earth is as rare as it is expensive. If you live in a private orbital station (congrats, you're richer than me!), you always see the same faces. But if you live in a hybrid station like Crystal Palace, you'll have to live with corporat bachelor parties every weekend. But don't let that put you off! There are more upsides than downsides to living in orbit.

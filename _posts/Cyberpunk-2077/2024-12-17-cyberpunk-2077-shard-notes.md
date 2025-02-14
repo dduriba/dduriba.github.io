@@ -7,10 +7,9 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-yellow}
   
 ## Horoscopes: Storyteller Group
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
-<div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr"> 
+<div class="cyberpunk-bg cyberpunk-grey"> 
 Clients from group "Storyteller"
 <br><br>
 Client #1/2077, M.B., Scorpio<br> 
@@ -64,10 +63,9 @@ Your lucky place: the music scene
 </div>
 
 ## Archived Conversation: Paul and Will
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
-<div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr"> 
+<div class="cyberpunk-bg cyberpunk-grey"> 
 PAUL: pisses me off almost everyone still thinks I'm 2 people <br>
 WILL: tho to be fair not even sure why I'm still using this old message thread<br> 
 PAUL: force of habit? guess this is my dear diary now<br> 
@@ -93,10 +91,9 @@ Username WILL changed to: ESQUERDO
 </div>
 
 ## Braindances - concepts
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 BD of a woman giving birth:
 <br><br>
 Pro: nobody's done it yet<br> 
@@ -114,10 +111,9 @@ Con: tech for it doesn't exist
 </div>
 
 ## CERTIFICATE
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 CERTIFICATE OF PARTICIPATION<br> 
 Presented to:<br> 
 VIKTOR VEKTOR<br> 
@@ -131,20 +127,18 @@ April 3, 2061
 </div>
 
 ## First Aid Kit
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 <span class="cyberpunk-lightgreen">Can be found inside Susanna Quinn's office in Lizzie's Bar.</span>
 <hr class="cyberpunk-hr">
 Hey, make sure we've got eveything we need in the first aid kit, OK? Yesterday I had to explain to a client that "no" really means "no" and when I wanted to dress up my hand, it turned out we were out of bandages. So yeah, I'd be super grateful. Mwah :*
 </div>
 
 ## Archived Conversation: Harry Flynt and Jeremy White
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 <span class="cyberpunk-lightgreen">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
 HARRY FLYNT: sup choom lets swap shifts for sat <br>
@@ -162,10 +156,9 @@ JEREMY WHITE: fine
 </div>
 
 ## Schedule changes/incident report
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 <span class="cyberpunk-lightgreen">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
 Flynt and Yu - shift change
@@ -195,10 +188,9 @@ Flynt and White - shift change <br>
 </div>
 
 ## Evelyn's Schedule
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 <span class="cyberpunk-lightgreen">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
 Mon: 12:30PM - Wendy D. <br>

@@ -7,10 +7,9 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-yellow}
 
 ## Emergency on Demand
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 How did it happen? When and why did we as a society decide that human life is a commodity? A luxury?
 <br><br>
 My mother passed away at 45. She still had decades of life to live until it was all stolen from her by common pneumonia. If she had held even the cheapest Trauma Team policy, she could have been cured within an hour. But she couldn't afford it. My mother died five months before her scheduled appointment with our family practitioner...
@@ -31,10 +30,9 @@ Please...
 </div>
 
 ## New Release Braindances
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 What's up, BD-maniacs? Hungry for a new emo-rush? Then check out the latest word from the freshest BDs on the market.
 <br><br>
 Foreign Body<br>
@@ -49,10 +47,9 @@ At last, a BD for those looking for something a little lighter. "Badlands Raid" 
 </div>
 
 ## The Relic – why all the fuss?
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 For years, experts in the field of cybernetics, neurology and psychology have been desperately trying to merge human consciousness with silicon. Until now, their efforts have been unsuccessful - though scientists have managed to create artificial intelligences that can compare, or indeed, surpass human intellect, copying the human "I" has remained beyond our capabilities. Attempts to do so have merely resulted in sophisticated chatbots - digital beings capable of mimicking human speech and mannerisms, but devoid of self-awareness.
 <br><br>
 Today, experts from Arasaka announced a breakthrough. Their newest project, dubbed the "Relic," allows human minds to be copied onto shards no larger than a credchip.
@@ -62,10 +59,9 @@ Sadly, I haven't been able to personally examine the specifications of this rema
 </div>
 
 ## Big 5 Employers in Night City – 2077
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 It's that time of the year again we present our list of the biggest and best corps to work for in Night City! Who offers paid vacation? Who pays for employees' Trauma Team insurance policies? Who provides discounts for daycare and child bodyguard services? Have a look at our rankings below!
 <br><br>
 1. Arasaka – Coming in again this year in our #1 spot the Japanese zaibatsu juggernaut. Employees can expect to be fit with the latest in cyberware technology with a loyalty obligation of only 20 years!
@@ -80,10 +76,9 @@ It's that time of the year again we present our list of the biggest and best cor
 </div>
 
 ## Healthcare and Traffic Safety – Trauma Team Leads the Way
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Second-rate equipment, under-trained medical "professionals", and high death rates – this is the best Night City's public emergency services have to offer. In addition to poor performance metrics, so too has their public image suffered. Scandals involving city EMTs colluding with scavengers have gone from rare to commonplace.
 <br><br>
 Recent cuts in municipal healthcare spending have led to the outright collapse of a medical system that already underperformed by most standards in the developed world. Ironically, this so-called "reform" resulted in a greater drain of doctors, nurses, paramedics and dispatchers from the public sector. Where quality healthcare was spotty before, now too is even calling the emergency hotline. Should you be among the lucky to reach a dispatcher, expect more than a half hour for an ambulance to arrive. And should you not bleed out before reaching the hospital, you're even less likely to find an available bed. Recent data show a survival rate for traffic accidents in Night City at a meager 17%.
@@ -92,10 +87,9 @@ For comparison, the average survival rate for traffic accidents across all Traum
 </div>
 
 ## Left Jab: Boxer's Monthly
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Kazuo Kano – ronin from Osaka
 <br><br>
 Kazuo Kano's name is on the lips of everyone in the boxing world. The up-and-coming light heavyweight remains undefeated after twenty professional fights, seventeen of which were won by technical knockout.<br>
@@ -104,10 +98,9 @@ Will Kano become the light heavyweight champion of the world? We'll see after Ma
 </div>
 
 ## The Mox
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 (...)It's one of those stories that is either very simple or very complicated, depending on who you ask. For Janice, it was a mix of both: "The Mox came to exist because it had to. We didn't have a soul in our corner, no one to make sure street justice was on our side. So we took matters into our own hands."
 <br><br>
 The Mox is composed of the people who, if any of them disappeared from the streets tomorrow, you might never even notice: sex workers, ennyless artists, aimless rebels, and restless souls who weren't dealt a fair hand in life. Today, the Mox is thriving, as demonstrated by the booming biz of Lizzie's Bar. Lizzie's is renown for being arguably the best braindance club in Night City. Corporate suits, gangoons, pop stars, and locals alike all gather at Lizzie's to kick back, have a drink, and dip into the most beautifully scrolled and tuned BDs you've ever experienced. Most customers, however, are oblivious to the fact that the club is gang owned and operated, that the Mox are in charge, watching after their own. Just like the Lizzie of legend once did.
@@ -116,10 +109,9 @@ Know the story? "Lizzied used to work here back when it was just a typical dive 
 </div>
 
 ## NC Night Life – Drinks, Dancing, Debauchery
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 (...) If you're a dancehead like us, don't miss out on LIZZIE'S. You'll find no better braindance club in the city, no matter how deep you dig. Modern boxes, solid tech, but most important: the catalogue, chock-full of nearly any exp you can imagine. You'll find everything you need to get you off - fast or slow, nasty or classy, and everything in-between. Don't let the girls at the front door scare you off or kill your buzz - they're wary of newcomers, but once you get in they'll treat you like one of their own. Trust us, give LIZZIE'S a try and you'll never go anywhere else. 
 <br><br>
 Now, THE AFTERLIFE? That's a different story. Sure, you can cut loose and have a good time here, but THE AFTERLIFE is a place of business above all else. Want to meet with a fixer about a job that needs doing? Discuss important gig details with a client over drinks? Or maybe just sit back and people watch, to see the comings and goings of the NC underworld's biggest merc and fixer names? THE AFTERLIFE is a great place for all of the above. The only place, really. 
@@ -128,10 +120,9 @@ If you're looking for the city's marquee events, you'll find yourself at RIOT. C
 </div>
 
 ## How to keep your shards and data safe from picksockets! [TOP 3 WAYS]
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Are you reading this on the street? In a store? In the metro? When was the last time you checked your neural sockets?
 <br><br>
 The picksocket plague is worse than it's ever been. The NCPD received hundreds of complaints in their last cycle from residents who reported having shards stolen from their neural sockets. How can you protect yourself? We've got you covered!
@@ -144,10 +135,9 @@ Thefts largely go uninvestigated due to the police's prioritization of violent c
 </div>
 
 ## A Family of Empire
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 The legacy of Arasaka needs no introduction. The Arasaka Corporation is one of the world's most powerful, with offices located in every major metropolis across the globe. For years, it has been behind the proverbial wheel of our planet's economy and society. The history of Arasaka in Night City is deserving of its own article, but suffice to say, the media industry in our city follows the family behind the megacorp as closely as they do share prices.
 <br><br>
 The story of the Arasaka family is one of empire – a true dynasty under the rule of patriarch Saburo Arasaka. Rumors of the great Saburo's retirement and cession of company control (as well as of its closely guarded secrets) to his daughter, Hanako, and son, Yorinobu, have come and passed in recent years. But has the time come where such rumors may finally contain a grain of truth?
@@ -158,10 +148,9 @@ No family is without its secrets, and the Arasakas are no exception. After all..
 </div>
 
 ## The vampire prince is back!
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Monster hunters beware!
 <br><br>
 "Turbo Dracula" is a dark, gritty, visceral action game experience where you play as the plasma-thirsty prince of puncture wounds himself – Dracula! He has risen again, this time as a digi-clone in a body of chrome... but his appetite for blood hasn't waned one bit. Assisted by the descendants of an ancient bloodline, he wages war against the sinister HelsingCorp headed by the demon brothers Manchester. They aim to take over the world with the help of genetically spliced werewolf-zombies. Dracula must face difficult choices such as whether to resurrect his old friend Viago or to transmutate into his nemeses!
@@ -170,18 +159,16 @@ A polished real-time combat system and non-linear storyline offer the player dee
 </div>
 
 ## No Life 3 - Review
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 After fifty long years, the wait is finally over! The third and final installment of the No Life series will be available for purchase TOMORROW! As has been reported already, gamers should not expect any major shakeups in regard to the protagonist. We still play as strong-silent-type scientist Baron Freimensch. We follow Baron as he ventures to the Arctic Circle to... Well, why spoil it when you'll have your hands on it in less than 24 hours! The gist: with Alice at Baron's side and trusty crowbar in hand, those nasty aliens are in for a rude awakening.
 </div>
 
 ## The Struggle of O'Neill Station.
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 The European Space Council (ESC) started out with seemingly noble intentions: "We'll open the door to the universe." "The Solar System - a home to all." And so on an so forth.
 <br><br>
 It didn't take long for these catchphrases to reveal themselves for what they truly were - colonial ambitions wrapped up in lofty ideals. We, the builders and first inhabitants of O'Neill 1 have witnessed this first-hand. The ESC sent us into space with promises of a new life and a better tomorrow. Instead, what lay in wait for us was a complete lack of freedom and back-breaking work in extremely dangerous conditions.
@@ -194,10 +181,9 @@ The thing is, out here it's not so easy to call for reinforcements. Workers outn
 </div>
 
 ## Looking for a career change? Join NetWatch!
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Tracking down netrunner renegades, combating daemons, rebuilding the American Net – these are just some of the daily tasks entrusted to the special agents at NetWatch. If you'd rather lose your eyes than your deck, if an encounter with Mephistopheles is just another walk in the park for you, then maybe it's time you joined out team.
 <br><br>
 Here's what you can expect to contribute as a NetWatch agent:
@@ -215,20 +201,18 @@ Do you have what it takes? Apply today.
 </div>
 
 ## Who is Lizzy Wizzy pretending to be?
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 "We are who we pretend to be. I've pretended to be everything - that's why I've found the truth."
 <br><br>
 Lizzy Wizzy is an artist par excellence. Her work includes award-winning albums and concert tours, film appearances as well as (for lack of a better term) conceptual performance art. Her latest artistic obsession features the medium of braindance. In recent interviews, Lizzy has mused about the boundary between our documentation of reality versus our active shaping of it. Could that mean Lizzy Wizzy plans to scroll her own BD? We can only dream! The chance to live just one day in her chrome skin... Fans would go wild!
 </div>
 
 ## What Really Happened in Arasaka Tower?
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 [...] If Militech was behind the assault on Arasaka Tower in 2023, and if there's actual EVIDENCE to support that, then why didn't Arasaka return the favor and nuke Militech?
 <br><br>
 By now there's no doubt the bomb was manufactured by Militech, but that doesn't mean they detonated it. I confess, I'm not a huge fan of the popular theory that Johnny Silverhand, the controversial rockerboy, was behind the whole thing. In fact, I'm not really a Silverhand fan, period. Silverhand was a poser and a blowhard - not someone who would actually follow through on his grandiose bluffs (full disclosure, I just don't think Silverhand would have the balls to pull off something like that).
@@ -241,10 +225,9 @@ Yes, yes, there's a Silverhand cameo in there somewhere, but that's just a marke
 </div>
 
 ## Arasaka and Ornithology: Three Japanese Words to Know
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 As conversations over factionalism within Arasaka heat up, many industry insiders wonder about the company's future trajectory. If you struggle to understand the complicated inner machinations of the world's largest arms manufacturer, look no further than the obscure science of ornithology. Yes, that's right; the study of birds can help. At least, in a sense. There are three Japanese words every corporate player ought to be familiar with: kiji, hato, and taka.
 <br><br>
 Kiji - green pheasant. This bird has long held cultural and symbolic significance in Japan. One can admire the world's last living specimens at Hanako Arasaka's private preserve on the island of Shikoku. But the word "kiji" also bears meaning among the factional identities within Arasaka. This group, with Hanako at its center, consists primarily of conservative technocrats who wish to follow the course set by Saburo Arasaka himself.
@@ -258,10 +241,9 @@ Taka - hawk. As symbolic as the dove is, so, too, is the hawk. This faction, hea
 </div>
 
 ## Storm on the Mare Crisium
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 By now we're all avid viewers of the reality TV show that is orbital politics. 
 Except this is real life, and what happens up there could have real consequences for all of us down here. Recently everyone's been talking about the attack on Ursula Correira, resulting in the complete loss of control in the lower half of her body. The media has been endlessly replaying remarks made by Correira's younger brother, Vagner, while also discussing the latest outfit worn by Yara Ayoade to the official press conference where she denied rumors that Correira's family had any hand in her "accident."
 <br><br>
@@ -269,10 +251,9 @@ I don't know about all of you, but with each passing day, the saying "What happe
 </div>
 
 ## The Last Rockerboy: The Solo Career of Kerry Eurodyne
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 The friendship between Johnny Silverhand and Kerry Eurodyne as well as the trauma behind Johnny's mysterious disappearance have contributed to the cloak of misinformation that has obscured the true story of Samurai for years. The stubbornly loyal Eurodyne always kept silent about the foundational leadership role he held in the cult band. To the detriment of his own career, he paid full tribute to Silverhand, granting him full authorship over the band's songs.
 <br><br>
 Following Samurai's disintegration and a personal retreat to the Philippines where Kerry rediscovered his creative roots, Eurodyne cut ties from the past and began the next chapter of his legacy. Today, it has become clear beyond doubt that his own successes not only match those of Samurai's, but have repeatedly surpassed them. Kerry's effortless, natural charisma and strong stage presence electrify crowds without fail. By comparison, Silverhand's fiery shouts and political grandstanding appear now as nothing more than ordinary attention grabbing designed to mask the otherwise pedestrian quality of his musical talent.

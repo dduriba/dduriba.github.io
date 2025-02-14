@@ -7,4 +7,4 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-yellow}
   
 ## 
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}

@@ -7,10 +7,9 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-yellow}
   
 ## Dr. Havoc & Radon
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Introduction
 <br><br>
 The Battery Sphere is in dire straits. The Irinians have occupied almost half the city. Them and their technorat scourge have transformed almost everyone in hordes of mindless zombies. Battery Arena is now the final point of resistance against the invaders from Planet X. It seems the end if inevitable. That is...
@@ -20,10 +19,9 @@ I'll tell you - no one so far. Rose Tenorio and Martoni Eleazar take us into the
 </div>
 
 ## The Solo's Manual by Morgan Blackhand
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 INTRO
 <br><br>
 Think you've got what it takes to be a legendary solo, huh? Sure you do. Otherwise, why pick up this book? You're looking for respect. For fear. For a way to be on top. Maybe you heard someone quote me about winning battles with only a glance, before a single shot's been fired. Well fine, I'll let you in on a secret: it is possible, and you can do it too, but only if you got the guts to survive going to hell and back more times than you can count. Thousands of fights, millions of bullets, hundreds of gallons of blood (yours included) - that's what you have to look forward to. And you'll need a solid ripper - one you can trust, one you make a lifelong choombatta out of, one who tells you every week, "It's a miracle you ain't dead by now." At least, that's what he'll say if you're lucky.
@@ -36,10 +34,9 @@ Good. Then this book's for you.
 </div>
 
 ## Kibble and Scop
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Kibble stared glumly at his glass of a seaweed-colored drink. A part of him hoped the bartender had poured a pint of rat poison by mistake. "I don't get it, choom...", he murmured gloomily. "At school, they said I had talent, a real knack for acting. Was it all a fucking lie, or what?"
 <br><br>
 "Dude, there are billions of people on this rock," Scop shrugged. "Can't work out for everyone."
@@ -62,10 +59,9 @@ Scop cracked a roguish smile. "Is Bloody Bout IV or these 'million other games' 
 </div>
 
 ## "Watson Whore" Diary
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 MONDAY<br> 
 What a fucking world! Finally I get my ass on Ziggy's show and right bfore I walk on stage a fucking hospital somewhere gets shot up. This dick cancels the show last minute for a special ep about the fucking victims!!! Who the fuck cares?!? is anyone gonna them in a week? Did they spend HALF THEYRE FUCKING CAREER TO GET ON THAT SHOW??? No they just fucking died! I got my ass on stage anyway - let him know you dont cockblock a goddamn tv messiah but security fucked me up so bad what was scrolled got corrupted or sme shit
 <br><br>
@@ -83,10 +79,9 @@ Christ I don't know which ways up... I'm fucking wiped. The boys brought over so
 </div>
 
 ## 1,000 Beats a Second
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
-<div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr"> 
+<div class="cyberpunk-bg cyberpunk-grey"> 
 I couldn't believe my eyes. For a moment, I thought Jessica had changed them out for faulty Kiroshis while I was asleep. But no, that wouldn't have been like her. I blinked again. No change. There I saw them, clear as day, the open flaps of Jason's chrome skull. I saw the electronic brain that, up until now, had been hidden by perfect imitation syn-skin.
 <br><br>
 The son of FutureTech CEO, the boy of my damn dreams, Jason... He was an android. Shit...
@@ -103,10 +98,9 @@ My cardio implant began to beat more and more quickly. My face flushed. Had I be
 </div>
 
 ## Sayonara Station, by Luke Steelman
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
-<div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr"> 
+<div class="cyberpunk-bg cyberpunk-grey"> 
 Wait a second, before we start - have you wondered how this book ended up in your hands? Where it came from, who delivered it?
 <br><br>
 Of course you haven't - nobody ever wonders about things like that. It's a shame, because the answer's quite interesting. I'd go as far as to say it's fucking fascinating.
@@ -121,10 +115,9 @@ Imagine that trains (that's right, the ones that go choo! choo!) have survived i
 </div>
 
 ## In the Shade of an Apple Tree, by Virginia Granchester
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
-<div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr"> 
+<div class="cyberpunk-bg cyberpunk-grey"> 
 My first memory isn't an image or a sound, but a smell. The smell of rotting apples - intense and dizzyingly sweet. I must've been around four. We were spending the summer at my grandparents' house. They had a small orchard with this old, huge apple tree by the fence. That year it grew so many apples that nobody even bothered to pick them. We just watched them fall to the ground, where they lay rotting.
 <br><br>
 It's hard to imagine now - a world where things used to grow out of the ground without our help, without bioengineering. Where an apple was something normal - a fruit whose shape and taste every child knew by instinct.
@@ -134,10 +127,9 @@ Sometimes I think back to that orchard and that sweet, drowsy smell. But all I t
 </div>
 
 ## The Chronicles of Titania: Book 1
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
-<div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr"> 
+<div class="cyberpunk-bg cyberpunk-grey"> 
 "You haven't an idea what you're talking about," the green-haired woman snorted and mockingly smiled. "I've visited many worlds, each built on a lie. All. Although... this might be the first time I've seen its people so stubbornly close their eyes to it."
 <br><br>
 Visan felt a rage swell inside of him. "How dare this woman, an outsider to the utopia of Titania, so harshly criticize a system that has guaranteed the happiness of millions?" he thought to himself. "If anyone is blind here, it's you!," Visan finally erupted. "Titania knows no inequity, no scarcity! For the first time in human history, everyone belongs to the privileged class!"
@@ -153,19 +145,16 @@ No response. The woman's golden eyes flashed as she laughed at Visan's confused,
 </div>
 
 ## Sex and Chrome
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
-<hr class="cyberpunk-hr">
 Waves of pleasure cascade over my body, filling every pore of my being like ocean water through hot sand. More... I want more! How long I waited to feel his breath on my neck, his hands wrapped around my waist, his fingers caressing my lips. Our bodies are entwined in a primal dance, moving faster and faster to the rhythm of the creaking bed-springs, our skin bathed in flickers of neon. I can't hear myself moaning, but I must be since my throat is dry. I can't feel what my hands are doing, but the blood under my fingernails means I'm digging into his back. He's no longer kissing me, but nibbling, biting, pulling himself toward me harder, his control over me untamed, animalistic. It's so hot in the room that even his chrome is overheating, the bedsheets clinging to our sweat-soaked bodies...
 </div>
 
 ## Crimeblock
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
-<div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr"> 
+<div class="cyberpunk-bg cyberpunk-grey"> 
 McCrane scanned the room with a deft Kiroshi sweep. This corpse was no different than the dozens he'd seen over the years. The dead man's eyes frozen in fear, his ligaments, wires and intestines strewn about the floor - none of it made any impact on McCrane anymore.
 <br><br>
 "I've lived too long," he thought. "And cops who don't die quick usually find themselves playing for the other side eventually."
@@ -192,10 +181,9 @@ And then-CRACK-a gunshot.
 </div>
 
 ## Chrome Night Love
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
-<div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr"> 
+<div class="cyberpunk-bg cyberpunk-grey"> 
 Chroman's mask glinted in the light of the setting sun, like a beacon in the dark of this rotten city. Lucille's heartbeat began to quicken. Her legs trembled beneath her, hot blood pumped through her veins in a way she didn't know it could.
 <br><br>
 He looked at her, his strong, masculine figure towering over the bloodied corporate corpse, which just a moment ago had violently tried to defile Lucille's virtue.
