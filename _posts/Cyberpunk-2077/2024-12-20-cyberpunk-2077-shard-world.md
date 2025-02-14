@@ -29,7 +29,8 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">The Rescue - Can be found in the Scavenger Den.</span><br>
+<span class="cyberpunk-lightgreen">The Rescue - Can be found in the Scavenger Den.</span>
+<br><br>
 In early August 2023, a single event would change the course of history. Although it fell against the bloody backdrop of the Fourth Corporate War, the global media still fed on the story for weeks. And could you blame them? A group of terrorists detonated a nuclear bomb, blowing Arasaka Tower to pieces. The terrorists' warning came too late – not all of the Tower's employees could be evacuated. The blast itself killed and wounded thousands, while countless others died from radiation sickness. How did the biggest terrorist attack in the 21st century happen? Who was behind this catastrophe? To find the answers, we'll need to first understand the context of that era.
 <br><br>
 The early 2020's was a period of unrest for Night City and anti-corporate sentiment was at an all-time high. In the epicenter of the city's lawlessness stood the Atlantis club. It was seen as an island of resistance against the powers that be, primarily megacorporations like Militech or Biotechnica – though a special place in hell was reserved for Arasaka, the Japanese arms-manufacturing zaibatsu that held the most influence over Night City. The kinds of people who frequented the Atlantis felt that corporations had hijacked the future and turned people into consumer-slaves and ironically, deprived of the two things capitalism loved most – freedom and choice. These people called themselves Edgerunners. They positioned themselves against the corporate world order – they declared their own freedom and opposition to the status quo. But deprived of any peaceful way to meaningfully change what they called "the System," they reached for more radical methods of self-expression. And these people were no strangers to violence.
@@ -78,7 +79,8 @@ Sergio Morales
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">can be found inside the All Foods Plant during The Pickup.</span><br>
+<span class="cyberpunk-lightgreen">can be found inside the All Foods Plant during The Pickup.</span>
+<br><br>
 Not only are All Foods products healthy and nutritious, they will feed our future. 
 Soon, All Foods will launch a pilot line of new products to complement the EEZYBEEF brand. This series of meat products will be based on flatworm cultures, which have been found to significantly help increase metabolism, slow weight gain, and cleanse the intestinal tract. We hope the flatworm initiative will usher in All Foods' latest successful generation of meat products.
 </div>
@@ -132,7 +134,8 @@ Thank you for reading and supporting independent journalism! Find more inconveni
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">Can be found in the 42th floor of Konpeki Plaza during The Heist.<br>
+<span class="cyberpunk-lightgreen">Can be found in the 42th floor of Konpeki Plaza during The Heist.
+<br><br>
 Can be found in the old WNS broadcast station during Gig: Freedom of the Press in the Northside Industrial District.</span><br>
 When, in the summer of 2020, NASA's Pathfinder mission set off for Jupiter, it was the buzz of every radio station, TV media outlet, and screamsheet. Stills of the crew were plastered on every type of commemorative merchandise imaginable: mugs, shirts, plates, bobbleheads, bumper stickers, the list goes on.
 <br><br>
@@ -147,7 +150,8 @@ To this day, it remains unknown whether the Pathfinder mission was a success. If
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">Can be found in Konpeki Plaza, after taking out the first two Arasaka Guards.<br>
+<span class="cyberpunk-lightgreen">Can be found in Konpeki Plaza, after taking out the first two Arasaka Guards.
+<br><br>
 Can be found inside Hiromi Sato's apartment in Megabuilding H8, on a table near the door to his office.</span><br>
 They make their homes on mountaintops, in rivers and oceans, on city streets and on every megabuilding floor with the number 4 in it, even in your washing machine or infovisor. Some appear in concrete places, while others simply haunt a specific person. They're there when you hear a strange noise in the middle of the desert. They're there when you feel like someone's watching you, although there's not a soul in sight. They're there when you glimpse something out of the corner of your eye, something nobody else seems to notice, but you were just at the ripperdoc's for your checkup!
 <br><br>
