@@ -7,10 +7,9 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-yellow}
   
 ## Cyberware Usage and Its Side Effects
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Many people believe we live in a time when "impossible" has become an obsolete term. Ripperdocs can replace nearly any part of the human body with artificial implants, from your big toe to portions of the nervous system. My years in Trauma Team, however, taught me that the "impossible" is still very much possible. Even now, as we enter the twilight of the twenty-first century, we as medical professionals have not been able to eliminate all of the side effects that come from incorporating cybernetic elements into our bodies. Of course, everyone is familiar with the mental disorder most commonly referred to as cyberpsychosis. But it doesn't end there. Although advances in medical science for the greater part of a century have reduced its incidence to a minimum, cyberware rejection can still occur in a small subset of the population. These unlucky few can experience a range of complications, but the following are the most prevalent:
 <br><br>
 1. Immune Response – The body rejects the implant, causing scar tissue to continue growing to the point that it causes pain and inflammation of surrounding tissue as well as possible interference with the tech's electrical circuits.
@@ -23,10 +22,9 @@ In the face of these known risks, what should our outlook be as consumers and me
 </div>
 
 ## Pain Editors and Mortality Rates
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Introduction
 <br><br>
 The implant known widely as the "pain editor" is cyberware that reduces or even entirely eliminates pain. It has enjoyed unwavering popularity for years among certain circles in Night City, the most devoted, and arguably most valuable, of which is mercenaries. It is using this test group that Zetatech conducted the following research.
@@ -39,10 +37,9 @@ In this report, I address the question of how to better protect Zetatech clients
 </div>
 
 ## Relive.it - Braindance Quarterly
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 GUEST EDITORIAL
 <br><br>
 Braindance editors have long strived to strike a balance between real, lived experience and technological, experiential purity. The more heavily processed the material, the more abstracted the pathways, the clearer the braindance recording; these fundamental elements of design have guided editors since the first wave of brain-to-brain experience sharing technology took hold. In their pursuit of balance, however, editors have clearly shown a bias for purity over naturalism over the years, even going so far to use it as a point of pride in the quality of their production.
@@ -57,20 +54,18 @@ Relive.it - The quarterly magazine for braindance editors, amateurs, and enthusi
 </div>
 
 ## Can cyberpsychosis be cured?
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 Can cyberpsychosis be cured? Opinions on that question are divided. Only a few years ago so-called braindance therapy was used across the entire country on a mass scale with the aim of bringing the sick back from the point of no return. The patient would be placed on a special chair and connected to a device that would deactivate all implants. 
 Then electrodes would be attached, inducing the patient into a coma-like braindance session. This was then followed up by medicine, psychosurgery and the aversion therapy. 
 The overall treatment was intended to sever all the patient's neural connections and tie them back together so that the cyberpsycho could return to society. Once the therapy was concluded, no symptoms of cyberpsychosis were detected, as well as the patient's former personality. But don't worry - nowadays other methods are used. At least, that's what they tell us.
 </div>
 
 ## 75 Years of Cyberware, by Tsutomu Takahashi
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 INTRODUCTION
 <br><br>
 A century ago, losing a limb meant tragedy. It meant living with permanent disability, with severely reduced physical capability, and often with a chronic pain. What's more, people with disabilities frequently suffered from widespread discrimination, both active (e.g. employment bias) and passive or unconscious (e.g. poor infrastructural inaccessibility). Today, assuming the dismemberment victim is financially stable, loss of limb amounts to little more than a minor inconvenience.
@@ -84,7 +79,7 @@ Much has changed over the past seventy-five years from when cybernetic implants 
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-Kenshiri-Adachi Arnaments
+Kenshiri-Adachi Armaments
 <br><br>
 OUR MISSION
 <br><br>
@@ -103,10 +98,9 @@ A weapon as discreet as it is deadly. Made for those who desire power but have n
 </div>
 
 ## Chemicals: The Invisible Killer
-{: .notice--cyberpunk-red}
+{: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<hr class="cyberpunk-hr">
 We've long known that the AVs criss-crossing our skies are busy dumping harmful substances in the air, such as aluminum, carbon dioxide, sulphur trioxide and sulphuric acid. Studies have also revealed the presence of dead red blood cells and E coli., as well as sodium chloride (table salt).
 <br><br>
 Now, you don't need a degree in science to know the harm these substances can wreak on the body. We've found that sulphur compounds can lead to cancer, heart decease and other illnesses arising from a weakened or even damaged immune system. They can also lead to spontaneous dental hydroplosion and acute meningitis.
