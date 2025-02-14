@@ -94,7 +94,7 @@ Kendachi Mono-Two CLASSIC<br>
 You can't improve upon perfection. This time-honored twin-blade has been in continuous production since 2019! Lit by a custom-color, handle-embedded laser, the Mono-Two has never gone out of style. Block every blow and slice through any defence. We wouldn't keep making them if people weren't buying them - order yours today!
 <br><br>
 Kendachi Monowire<br> 
-A weapon as discreet as it is deadly. Made for those who desire power but have no urge to flaunt it, this molecule-thin blade is manufactured by our teams of expect engineers in our state-of-art orbital facility. The Monowire can bear loads of up to 3,000 lbs and slices through armorweaves like butter-flavored scopspread. Rumor is, many officials at the Zurich Convention wanted this weapon banned and off the market. Now if that's not high praise, we don't know what is!
+A weapon as discreet as it is deadly. Made for those who desire power but have no urge to flaunt it, this molecule-thin blade is manufactured by our teams of expect engineers in our state-of-the-art orbital facility. The Monowire can bear loads of up to 3,000 lbs, and slices through armorweaves like butter-flavored scopspread. Rumor is, many officials at the Zurich Convention wanted this weapon banned and off the market. Now if that's not high praise, we don't know what is!
 </div>
 
 ## Chemicals: The Invisible Killer
