@@ -10,6 +10,8 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">The Pickup - Can be found in the room next to Royce office.<br>
+The Heisenberg Principle - Can be found on a table in the basement of the building on Rovinj street in Little China, Watson.</span><br>
 It doesn't matter how well you do something, as long as you look good doing it. If you're going to blow it, make sure you look like you planned it that way.<br>
 Normally, clothes and looks don't matter in an adventure - in this world, having a leather armor jacket and mirrorshades is a serious consideration.<br>
 Think dangerous; be dangerous. Think weak; be weak.<br>
@@ -24,6 +26,8 @@ Stay committed to the Edge.<br>
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">It is acquired from an optional meeting with Meredith Stout during The Pickup.<br>
+Decrypted:</span><br>
 Property of Militech. Unauthorized access is strictly prohibited.
 </div>
 
@@ -31,6 +35,7 @@ Property of Militech. Unauthorized access is strictly prohibited.
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be acquired from Maelstromer during a random encounter while driving in Watson. This event may occur after completing The Pickup.</span><br>
 That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and sisters in chrome and HE/SHE WILL SUFFER for it! If anyone catches him/her burnin rubber in Wats again, you drag him/her out by the hair and beat that cocky fuckin face of his/her into a fleshy pulp! Don't leave anything for the rats!!!
 </div>
 
@@ -38,6 +43,8 @@ That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can only be found inside the AV atop Konpeki Plaza, in which Saburo Arasaka arrives during The Heist.<br>
+Decrypted:</span><br>
 117/77<br> 
 We have set sail. Only Hanako knows the true purpose of our visit to Night City. The question is what to do with A. Hellman. He has proven loyal beyond even my own expectations and deserves compensation. Perhaps he might be interested in the position of Director of the Kyoto Institute of Technology, sweeten the deal by letting him have his own handpicked team. Employees like him should be kept on a short leash without seeing it as such.
 <br><br>
