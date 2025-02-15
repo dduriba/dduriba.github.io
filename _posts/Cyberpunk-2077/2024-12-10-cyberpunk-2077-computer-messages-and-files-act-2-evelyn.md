@@ -10,7 +10,7 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
 <br><br>
 <span class="cyberpunk-blue pen-bold">Booth 11</span>
 <span class="cyberpunk-cyan">
@@ -95,7 +95,7 @@ Mr. Briggs received first aid and was transferred to a psychiatric clinic. As of
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen">Woodman(Oswald Forrest)'s computer is located in his office. This computer can be accessed only if V incapacitates him during Automatic Love.</span>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Woodman(Oswald Forrest)'s computer is located in his office. This computer can be accessed only if V incapacitates him during Automatic Love.</span>
 <br><br>
 <span class="cyberpunk-blue pen-bold">We doing this?</span>
 <span class="cyberpunk-cyan">
@@ -253,7 +253,7 @@ Anyway, he should take care of her from here.
 <span class="cyberpunk-grey pen-bold">Archived Conversation: Harry Flynt and Jeremy White</span>
 <span class="cyberpunk-grey pen-small"> (Shard, category : NOTES)</span>
 <br>
-<span class="cyberpunk-lightgreen">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
 HARRY FLYNT: sup choom lets swap shifts for sat <br>
 JEREMY WHITE: bro we aint swapping shit <br>
@@ -273,7 +273,7 @@ JEREMY WHITE: fine
 <span class="cyberpunk-grey pen-bold">Schedule changes/incident report</span>
 <span class="cyberpunk-grey pen-small"> (Shard, category : NOTES)</span>
 <br>
-<span class="cyberpunk-lightgreen">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
 Flynt and Yu - shift change
 <br><br>
@@ -305,7 +305,7 @@ Flynt and White - shift change <br>
 <span class="cyberpunk-grey pen-bold">Evelyn's Schedule</span>
 <span class="cyberpunk-grey pen-small"> (Shard, category : NOTES)</span>
 <br>
-<span class="cyberpunk-lightgreen">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span>
 <hr class="cyberpunk-hr">
 Mon: 12:30PM - Wendy D. <br>
 8PM - 2AM Clouds shift
@@ -326,7 +326,7 @@ Sat: 10AM Judy breakfast [CANCELLED]
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen">Fingers(Finn Gerstatt)'s computer is located in his clinic, during The Space in Between.</span>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Fingers(Finn Gerstatt)'s computer is located in his clinic, during The Space in Between.</span>
 <br><br>
 <span class="cyberpunk-blue pen-bold">Hey beautiful</span>
 <span class="cyberpunk-cyan">
