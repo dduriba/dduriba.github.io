@@ -196,7 +196,7 @@ We're in deep shit.
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">These messages can be found in production section and security room both</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">These messages can be found in production section's computer and security room's computer both</span><br>
 <span class="cyberpunk-blue pen-bold">(Urgent) Marketing Issue</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
