@@ -52,7 +52,7 @@ and some other little curiosities - optics actuator and cosmetic RealSkinn
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">멜스트롬 로이스의 방 컴퓨터</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;"><span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Brick(Declan Griffin)'s computer</span><br></span><br>
 <span class="cyberpunk-blue pen-bold">Wise Offer</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -95,7 +95,7 @@ brick
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">서버실 컴퓨터</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Server room computer</span><br>
 <span class="cyberpunk-blue pen-bold">Transports - LOA</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -196,7 +196,7 @@ We're in deep shit.
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">생산층 구역 브릭 시점 기준 왼쪽 방에서 발견됨과 동시에 플랫 헤드를 얻은 뒤 사다리 쪽 탈출 루트 시작 부분 관리실에서 발견</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">These messages can be found in production section and security room both</span><br>
 <span class="cyberpunk-blue pen-bold">(Urgent) Marketing Issue</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -228,7 +228,7 @@ I'm not fully prepared to drop the milk project just yet - despite your first im
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">생산층 구역 브릭 시점 기준 왼쪽 방</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">This computer can be found in production section</span><br>
 <span class="cyberpunk-blue pen-bold">only you guys know</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
