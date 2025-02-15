@@ -10,7 +10,7 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">산드라 도셋 구출 미션 중 스캐빈저 아지트</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Scavenger's computer</span><br>
 <span class="cyberpunk-blue pen-bold">Fresh Meat</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -52,7 +52,6 @@ and some other little curiosities - optics actuator and cosmetic RealSkinn
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">플랫헤드를 얻는 미션 중 멜스트롬 소굴인 푸드 공장</span><br>
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">멜스트롬 로이스의 방 컴퓨터</span><br>
 <span class="cyberpunk-blue pen-bold">Wise Offer</span>
 <span class="cyberpunk-cyan">
@@ -132,7 +131,7 @@ Militech's patented cDNA security system for Business and Premium class clients:
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">생산층 구역 컴퓨터</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Royce(Simon Randall) has one computer belonging to him that is located in his quarters at the All Foods Plant.</span><br>
 <span class="cyberpunk-blue pen-bold">warning</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -277,7 +276,7 @@ Try out our savory nutrient pastes and vitamin boosters from the Orgiatic line N
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">콘페키 플라자 호텔의 요리노부 방</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Yorinobu Arasaka has one computer linked to him. It can be found in his penthouse on the 100th floor of Konpeki Plaza during The Heist.</span><br>
 <span class="cyberpunk-blue pen-bold">Relic - urgent!</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -356,7 +355,7 @@ CLOUDS – YOUR SEVEN MINUTES IN HEAVEN – THANK YOU
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">콘페키 플라자 호텔의 1층 내부 데스크 컴퓨터</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Konpeki Plaza has one accessible computer. It can be jacked-in to and unlocked while the lid is closed.</span><br>
 <span class="cyberpunk-blue pen-bold">[IMPORTANT 2.0] Please read</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">

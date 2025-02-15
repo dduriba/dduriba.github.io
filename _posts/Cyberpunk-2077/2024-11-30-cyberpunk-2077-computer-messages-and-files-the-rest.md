@@ -10,7 +10,7 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-blue pen-bold">Rent Past Due</span>
+<span class="cyberpunk-blue pen-bold">Rent Past Due</span><br>
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">received after the act 2 starts</span><br>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
