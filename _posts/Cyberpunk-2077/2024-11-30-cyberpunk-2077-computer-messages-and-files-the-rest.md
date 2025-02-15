@@ -100,7 +100,7 @@ anyway, lemme know if hear about him again.
 # Scam & Spam
 {: .notice--cyberpunk-yellow}
 
-## ### MEGA MEDICINE LOTTERY ###
+## ###ㅤMEGA MEDICINE LOTTERYㅤ###
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
