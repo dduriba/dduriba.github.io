@@ -10,8 +10,7 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen">산드라 도셋 구출 미션 중 스캐빈저 아지트</span>
-<br><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">산드라 도셋 구출 미션 중 스캐빈저 아지트</span><br>
 <span class="cyberpunk-blue pen-bold">Fresh Meat</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -53,10 +52,9 @@ and some other little curiosities - optics actuator and cosmetic RealSkinn
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen">플랫헤드를 얻는 미션 중 멜스트롬 소굴인 푸드 공장</span>
-<br><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">플랫헤드를 얻는 미션 중 멜스트롬 소굴인 푸드 공장</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">멜스트롬 로이스의 방 컴퓨터</span><br>
 <span class="cyberpunk-blue pen-bold">Wise Offer</span>
-<span class="cyberpunk-lightgreen">멜스트롬 로이스의 방 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Hiram Goldenbaum</span>
@@ -71,7 +69,6 @@ HG
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Royce</span>
-<span class="cyberpunk-lightgreen">멜스트롬 로이스의 방 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Patricia</span>
@@ -99,8 +96,8 @@ brick
 </div>
 
 <div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">서버실 컴퓨터</span><br>
 <span class="cyberpunk-blue pen-bold">Transports - LOA</span>
-<span class="cyberpunk-lightgreen">서버실 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Anthony Gilchrist</span>
@@ -116,7 +113,6 @@ A.
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Transport Security</span>
-<span class="cyberpunk-lightgreen">서버실 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 Information for clients about Militech transport security
@@ -129,7 +125,6 @@ Non-standard, Supplementary Package: (REDACTED)
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Information on cDNA</span>
-<span class="cyberpunk-lightgreen">서버실 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 Militech's patented cDNA security system for Business and Premium class clients: cDNA encryption technology involves creating a unique client key based on user DNA and cyberware configuration (both hardware and software). Taking advantage of this method first requires installation of the Militech cDNA chip. The user's code is created at the time of chip authorization and is stored in a quantum state, making theft or interception nearly impossible. Should authorization fail, the code is immediately disintegrated. Militech ensures that it will not store clients' DNA and cyberware configuration data.
@@ -137,8 +132,8 @@ Militech's patented cDNA security system for Business and Premium class clients:
 </div>
 
 <div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">생산층 구역 컴퓨터</span><br>
 <span class="cyberpunk-blue pen-bold">warning</span>
-<span class="cyberpunk-lightgreen">생산층 구역 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Royce</span>
@@ -152,7 +147,6 @@ we need to meet
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">production floor</span>
-<span class="cyberpunk-lightgreen">생산층 구역 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Brick</span>
@@ -168,7 +162,6 @@ brick
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">big deal</span>
-<span class="cyberpunk-lightgreen">생산층 구역 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Royce</span>
@@ -183,7 +176,6 @@ production floor ... wating on you
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">possible buyers - militech gear</span>
-<span class="cyberpunk-lightgreen">생산층 구역 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 bitch from the afterlife<br>
@@ -195,7 +187,6 @@ voodoo boys?
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Militech - IMPORTANT</span>
-<span class="cyberpunk-lightgreen">생산층 구역 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 To all:
@@ -206,8 +197,8 @@ We're in deep shit.
 </div>
 
 <div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">생산층 구역 브릭 시점 기준 왼쪽 방에서 발견됨과 동시에 플랫 헤드를 얻은 뒤 사다리 쪽 탈출 루트 시작 부분 관리실에서 발견</span><br>
 <span class="cyberpunk-blue pen-bold">(Urgent) Marketing Issue</span>
-<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방에서 발견됨과 동시에 플랫 헤드를 얻은 뒤 사다리 쪽 탈출 루트 시작 부분 관리실에서 발견</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Lindsay Barry</span>
@@ -224,7 +215,6 @@ L.
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">(Urgent) Marketing Issue</span>
-<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방에서 발견됨과 동시에 플랫 헤드를 얻은 뒤 사다리 쪽 탈출 루트 시작 부분 관리실에서 발견</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Mark Robinson</span>
@@ -239,8 +229,8 @@ I'm not fully prepared to drop the milk project just yet - despite your first im
 </div>
 
 <div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">생산층 구역 브릭 시점 기준 왼쪽 방</span><br>
 <span class="cyberpunk-blue pen-bold">only you guys know</span>
-<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Royce</span>
@@ -255,7 +245,6 @@ keep it to your fucking selves
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Orgiatic - Product Vision Meeting Notes</span>
-<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 Notes after presentation:<br>
@@ -266,7 +255,6 @@ Notes after presentation:<br>
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Orgiatic - Nutrition and Sales Approach Summary</span>
-<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 Orgiatic will be All Foods' flagship, "wholesome" vitamin booster with accelerated absorption moving foward.
@@ -277,7 +265,6 @@ Unfortunately, we had to forgo using mealworm-derived powder as the paste base b
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Orgiatic - Promotional Brochure Draft</span>
-<span class="cyberpunk-lightgreen">생산층 구역 브릭 시점 기준 왼쪽 방</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 Orgiatic by All Foods is your gateway to better living!
@@ -290,8 +277,8 @@ Try out our savory nutrient pastes and vitamin boosters from the Orgiatic line N
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">콘페키 플라자 호텔의 요리노부 방</span><br>
 <span class="cyberpunk-blue pen-bold">Relic - urgent!</span>
-<span class="cyberpunk-lightgreen">콘페키 플라자 호텔의 요리노부 방</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Anders Hellman</span>
@@ -307,7 +294,6 @@ Anders Hellman
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Your Time in the Clouds</span>
-<span class="cyberpunk-lightgreen">콘페키 플라자 호텔의 요리노부 방</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Anjelica Milioti - Clouds</span>
@@ -327,7 +313,6 @@ Clouds<br>
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Relic</span>
-<span class="cyberpunk-lightgreen">콘페키 플라자 호텔의 요리노부 방</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Ronald Cheever</span>
@@ -356,7 +341,6 @@ Y. Arasaka
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Your Time in the Clouds: Invoice</span>
-<span class="cyberpunk-lightgreen">콘페키 플라자 호텔의 요리노부 방</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 CLOUDS – INVOICE NO. 2077/PLA/791701
@@ -372,8 +356,8 @@ CLOUDS – YOUR SEVEN MINUTES IN HEAVEN – THANK YOU
 </div>
 
 <div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">콘페키 플라자 호텔의 1층 내부 데스크 컴퓨터</span><br>
 <span class="cyberpunk-blue pen-bold">[IMPORTANT 2.0] Please read</span>
-<span class="cyberpunk-lightgreen">콘페키 플라자 호텔의 1층 내부 데스크 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Administration</span>
@@ -388,7 +372,6 @@ Olivia Alcott
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">[IMPORTANT] Please read</span>
-<span class="cyberpunk-lightgreen">콘페키 플라자 호텔의 1층 내부 데스크 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Administration</span>
@@ -404,7 +387,6 @@ Olivia Alcott
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">TO DO//Restaurant//</span>
-<span class="cyberpunk-lightgreen">콘페키 플라자 호텔의 1층 내부 데스크 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 this week:<br>

@@ -3,12 +3,14 @@ title: "Cyberpunk 2077 Computer Messages & Files Side Jobs"
 categories: Cyberpunk-2077
 ---
 
+<h1>Side Jobs</h1>
+{: .notice--cyberpunk-yellow}
+
 ## Happy Together
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen">"Barry Lewis : V의 아래층 이웃</span>
-<br><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Barry Lewis : V의 아래층 이웃</span><br>
 <span class="cyberpunk-blue pen-bold">Beer?</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
