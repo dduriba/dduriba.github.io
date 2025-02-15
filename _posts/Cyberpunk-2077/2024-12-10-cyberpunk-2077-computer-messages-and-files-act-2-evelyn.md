@@ -249,7 +249,7 @@ Anyway, he should take care of her from here.
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Archived Conversation: Harry Flynt and Jeremy White</span>
-<span class="cyberpunk-grey pen-small"> (Shard, category : NOTES)</span>
+<span class="cyberpunk-grey pen-small"> Shard, Category ? Notes</span>
 <br>
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span><br>
 HARRY FLYNT: sup choom lets swap shifts for sat <br>
@@ -268,7 +268,7 @@ JEREMY WHITE: fine
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Schedule changes/incident report</span>
-<span class="cyberpunk-grey pen-small"> (Shard, category : NOTES)</span>
+<span class="cyberpunk-grey pen-small"> Shard, Category ? Notes</span>
 <br>
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span><br>
 Flynt and Yu - shift change
@@ -299,7 +299,7 @@ Flynt and White - shift change <br>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Evelyn's Schedule</span>
-<span class="cyberpunk-grey pen-small"> (Shard, category : NOTES)</span>
+<span class="cyberpunk-grey pen-small"> Shard, Category ? Notes</span>
 <br>
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span><br>
 Mon: 12:30PM - Wendy D. <br>
