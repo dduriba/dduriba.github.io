@@ -27,7 +27,7 @@ Stay committed to the Edge.<br>
 
 <div class="cyberpunk-bg cyberpunk-grey">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">It is acquired from an optional meeting with Meredith Stout during The Pickup.<br>
-Decrypted:</span><br>
+Decrypted Shard.</span><br>
 Property of Militech. Unauthorized access is strictly prohibited.
 </div>
 
@@ -44,7 +44,7 @@ That bloodbag V is rotten fucking meat!! That fuckhead murdered our brothers and
 
 <div class="cyberpunk-bg cyberpunk-grey">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can only be found inside the AV atop Konpeki Plaza, in which Saburo Arasaka arrives during The Heist.<br>
-Decrypted:</span><br>
+Decrypted Shard.</span><br>
 117/77<br> 
 We have set sail. Only Hanako knows the true purpose of our visit to Night City. The question is what to do with A. Hellman. He has proven loyal beyond even my own expectations and deserves compensation. Perhaps he might be interested in the position of Director of the Kyoto Institute of Technology, sweeten the deal by letting him have his own handpicked team. Employees like him should be kept on a short leash without seeing it as such.
 <br><br>
@@ -68,7 +68,7 @@ Until we talk to Y, I will hold off on a firm decision.
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">Can be found on a body inside the Dime a Duzz pawnshop on the walkway above the crossing of Duzois Street and Watson Bridge. in Little China, Watson.</span><br><br>
+<span class="cyberpunk-lightgreen">Can be found on a body inside the Dime a Duzz pawnshop on the walkway above the crossing of Duzois Street and Watson Bridge. in Little China, Watson.</span><br>
 [UNKNOWN]: got this number from a mutual friend <br>
 [UNKNOWN]: got some preem material <br>
 [UNKNOWN]: raw unedited <br>
