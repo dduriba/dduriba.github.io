@@ -18,7 +18,7 @@ With Delamain, you leave your problems at the door. Our corporate transport serv
 We guarantee:<br>
 > secure transport for individuals and packages in the Night City area;<br> 
 > quality that goes hand in hand with speed;<br> 
-> professional customer servers;<br> 
+> professional customer service;<br> 
 > specifications to suit even the most demanding clients;<br> 
 > discounts for loyal customers.
 <br><br>
@@ -44,6 +44,7 @@ KONPEKI PLAZA<br>
 Luxury. Beauty. Discretion. 
 <br><br>
 What holds more power than a place? An idea. Konpeki Plaza is more than a hotel - it is a space in which reality is curated to even the most refined tastes and sensibilities. 
+<br><br>
 At Konpeki Plaza, you'll find 420 exclusive apartments, 20 conference rooms, 14 fully equipped pools, and the finest bars, restaurants and that which cannot be measured by numbers alone - luxury, beauty and discretion. Our world-class customer care will fulfill even the deepest needs and desires of our guests, turning your stay in Konpeki Plaza into an unforgettable experience. When it comes to the comfort of our clients, there is no such thing as the impossible. 
 <br><br>
 Discover new dimensions of comfort, enjoy the best Night City has to offer.
