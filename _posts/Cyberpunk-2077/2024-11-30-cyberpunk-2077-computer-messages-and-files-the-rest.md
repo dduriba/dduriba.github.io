@@ -11,7 +11,7 @@ categories: Cyberpunk-2077
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Rent Past Due</span>
-<span class="cyberpunk-lightgreen">&nbsp;&nbsp;2막 시작 후 V의 컴퓨터에 전송된 메시지</span>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">received after the act 2 starts</span><br>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Megabuilding Administration</span>
@@ -100,7 +100,7 @@ anyway, lemme know if hear about him again.
 # Scam & Spam
 {: .notice--cyberpunk-yellow}
 
-## WWhfsil87
+## ### MEGA MEDICINE LOTTERY ###
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
@@ -125,7 +125,7 @@ BUY YOURS NOW!!!<br>
 </span>
 </div>
 
-## N1gh7M4r3
+## pay or ur head will explode
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
@@ -145,7 +145,7 @@ This is not a negotiation, choom, so do not reply. Just pay and u will live.
 </span>
 </div>
 
-## ©yberw@re
+## Implants for cheap, cheap, cheap!
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
@@ -172,7 +172,7 @@ Items go fast so buy now! Continue following us for the latest and best deals!
 </span>
 </div>
 
-## ANIMALS R ALPHA
+## NEED SOMEONE TO WATCH YOUR BACK?
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
@@ -196,7 +196,7 @@ Got a stalker on your tail? Hired iron out for your blood? Some freak giving you
 </span>
 </div>
 
-## L0v$$ K***knhk
+## I NEED YOUR HELP
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
@@ -215,7 +215,7 @@ Loviisa Kaukonen
 </span>
 </div>
 
-## Amanda Nelson
+## READ CAREFULLY!!!
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
@@ -233,12 +233,11 @@ I'm very sorry to send this on to you, but someone sent it to me first. It sound
 </span>
 </div>
 
-## Sanne Douwes
+## Your Inheritance - Urgent reply needed
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Your Inheritance - Urgent reply needed</span>
-<span class="cyberpunk-lightgreen">&nbsp;&nbsp;1막 THE PICKUP 미션 중 마지막 로이스가 등장하는 구간에서 로이스 처치 후 2층 방의 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Sanne Douwes</span>
