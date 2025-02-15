@@ -68,7 +68,7 @@ Until we talk to Y, I will hold off on a firm decision.
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">Can be found on a body inside the Dime a Duzz pawnshop on the walkway above the crossing of Duzois Street and Watson Bridge. in Little China, Watson.</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found on a body inside the Dime a Duzz pawnshop on the walkway above the crossing of Duzois Street and Watson Bridge. in Little China, Watson.</span><br>
 [UNKNOWN]: got this number from a mutual friend <br>
 [UNKNOWN]: got some preem material <br>
 [UNKNOWN]: raw unedited <br>
