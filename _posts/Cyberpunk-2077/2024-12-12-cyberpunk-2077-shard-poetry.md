@@ -10,6 +10,7 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found on a table in the restaurant inside Konpeki Plaza at the Arasaka Waterfront, Watson. This place is visited during The Heist.</span><br>
 The Fall of Etemenanki<br> 
 (manuscript found behind the Totentanz)
 <br><br>

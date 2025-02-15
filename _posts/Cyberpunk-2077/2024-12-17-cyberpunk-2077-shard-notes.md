@@ -10,6 +10,7 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey"> 
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">This shard can only be found inside Misty's Esoterica, in front of the altar.</span><br>
 Clients from group "Storyteller"
 <br><br>
 Client #1/2077, M.B., Scorpio<br> 
@@ -66,6 +67,7 @@ Your lucky place: the music scene
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey"> 
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found on a table during Beat on the Brat: Kabuki in Kabuki.</span><br>
 PAUL: pisses me off almost everyone still thinks I'm 2 people <br>
 WILL: tho to be fair not even sure why I'm still using this old message thread<br> 
 PAUL: force of habit? guess this is my dear diary now<br> 
@@ -94,6 +96,8 @@ Username WILL changed to: ESQUERDO
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">One can be found inside Judy's den in Lizzie's Bar during The Information.<br>
+One can be found inside Judy's Apartment.</span><br>
 BD of a woman giving birth:
 <br><br>
 Pro: nobody's done it yet<br> 
@@ -114,6 +118,7 @@ Con: tech for it doesn't exist
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">This shard can only be found inside Viktor's clinic.</span><br>
 CERTIFICATE OF PARTICIPATION<br> 
 Presented to:<br> 
 VIKTOR VEKTOR<br> 
@@ -130,8 +135,7 @@ April 3, 2061
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">Can be found inside Susanna Quinn's office in Lizzie's Bar.</span>
-<hr class="cyberpunk-hr">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Susanna Quinn's office in Lizzie's Bar.</span><br>
 Hey, make sure we've got eveything we need in the first aid kit, OK? Yesterday I had to explain to a client that "no" really means "no" and when I wanted to dress up my hand, it turned out we were out of bandages. So yeah, I'd be super grateful. Mwah :*
 </div>
 
@@ -139,8 +143,7 @@ Hey, make sure we've got eveything we need in the first aid kit, OK? Yesterday I
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span>
-<hr class="cyberpunk-hr">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds in Megabuilding H8, during Automatic Love.</span><br>
 HARRY FLYNT: sup choom lets swap shifts for sat <br>
 JEREMY WHITE: bro we aint swapping shit <br>
 HARRY FLYNT: cmon im begging u <br>
@@ -159,8 +162,7 @@ JEREMY WHITE: fine
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span>
-<hr class="cyberpunk-hr">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span><br>
 Flynt and Yu - shift change
 <br><br>
 Tue: <br>
@@ -191,8 +193,7 @@ Flynt and White - shift change <br>
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
-<span class="cyberpunk-lightgreen">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span>
-<hr class="cyberpunk-hr">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds' Locker Room in Megabuilding H8, during Automatic Love.</span><br>
 Mon: 12:30PM - Wendy D. <br>
 8PM - 2AM Clouds shift
 <br><br>

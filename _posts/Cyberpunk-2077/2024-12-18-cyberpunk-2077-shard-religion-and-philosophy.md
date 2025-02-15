@@ -26,6 +26,7 @@ Even before our arrival, many beings in Babylon had lost their minds over this s
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside the All Foods Factory in Northside, Watson.</span><br>
 "So God created man in his own image, in the image of God." So says the Book of Genesis. Religious proponents of cybernetic body modification believe the Christian God intended the same perfection for man as He Himself possesses. Suffering, disease, death - these exist in contradiction with divinity, but can be overcome with the aid of science and technology. So called "cybertheologists" interpret God's command to "subdue the earth" quite literally. By their account, any and all means that might enable man to reach a state closer to divinity are "good", both ethically and morally.
 <br><br>
 However, some in their Christian fold have voiced concern that such cybertheologists guilty of excessive hubris. For an immortal man would thus become his own savior, rendering the existence of the one, true transcendent God superfluous. Only the soul should be immortal, while the human body - as a "temple of the Holy Spirit" - should be accepted as it is: mortal and destined for resurrection on Judgment Day.

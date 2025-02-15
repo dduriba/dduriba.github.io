@@ -10,6 +10,7 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">One can be found on a storage shelf in the second room of the scavenger hideout during The Rescue.</span><br>
 How did it happen? When and why did we as a society decide that human life is a commodity? A luxury?
 <br><br>
 My mother passed away at 45. She still had decades of life to live until it was all stolen from her by common pneumonia. If she had held even the cheapest Trauma Team policy, she could have been cured within an hour. But she couldn't afford it. My mother died five months before her scheduled appointment with our family practitioner...
@@ -90,6 +91,8 @@ For comparison, the average survival rate for traffic accidents across all Traum
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Viktor's Clinic, on the desk in front of Viktor's computer.<br>
+Can be found on Ebunike docks.</span><br>
 Kazuo Kano – ronin from Osaka
 <br><br>
 Kazuo Kano's name is on the lips of everyone in the boxing world. The up-and-coming light heavyweight remains undefeated after twenty professional fights, seventeen of which were won by technical knockout.<br>
@@ -101,6 +104,7 @@ Will Kano become the light heavyweight champion of the world? We'll see after Ma
 {: .notice--cyberpunk-cyan}
 
 <div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">This shard can be found inside Lizzie's Bar on top of the first bar you see when you walk through the front doors. It can only be found after the Prologue.</span><br>
 (...)It's one of those stories that is either very simple or very complicated, depending on who you ask. For Janice, it was a mix of both: "The Mox came to exist because it had to. We didn't have a soul in our corner, no one to make sure street justice was on our side. So we took matters into our own hands."
 <br><br>
 The Mox is composed of the people who, if any of them disappeared from the streets tomorrow, you might never even notice: sex workers, ennyless artists, aimless rebels, and restless souls who weren't dealt a fair hand in life. Today, the Mox is thriving, as demonstrated by the booming biz of Lizzie's Bar. Lizzie's is renown for being arguably the best braindance club in Night City. Corporate suits, gangoons, pop stars, and locals alike all gather at Lizzie's to kick back, have a drink, and dip into the most beautifully scrolled and tuned BDs you've ever experienced. Most customers, however, are oblivious to the fact that the club is gang owned and operated, that the Mox are in charge, watching after their own. Just like the Lizzie of legend once did.
