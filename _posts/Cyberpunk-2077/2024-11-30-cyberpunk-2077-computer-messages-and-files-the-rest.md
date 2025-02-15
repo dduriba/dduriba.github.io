@@ -10,8 +10,8 @@ categories: Cyberpunk-2077
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">2막 시작 후 V의 컴퓨터에 전송된 메시지</span><br>
 <span class="cyberpunk-blue pen-bold">Rent Past Due</span>
+<span class="cyberpunk-lightgreen">&nbsp;&nbsp;2막 시작 후 V의 컴퓨터에 전송된 메시지</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Megabuilding Administration</span>
@@ -237,8 +237,8 @@ I'm very sorry to send this on to you, but someone sent it to me first. It sound
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">1막 THE PICKUP 미션 중 마지막 로이스가 등장하는 구간에서 로이스 처치 후 2층 방의 컴퓨터</span><br>
 <span class="cyberpunk-blue pen-bold">Your Inheritance - Urgent reply needed</span>
+<span class="cyberpunk-lightgreen">&nbsp;&nbsp;1막 THE PICKUP 미션 중 마지막 로이스가 등장하는 구간에서 로이스 처치 후 2층 방의 컴퓨터</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
 <span class="pen-bold">From: Sanne Douwes</span>
