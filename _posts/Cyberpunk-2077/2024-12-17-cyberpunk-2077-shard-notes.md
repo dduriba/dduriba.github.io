@@ -76,7 +76,7 @@ WILL: maybe something about brain hemispheres? left and right?<br>
 PAUL: yeah that's it<br> 
 PAUL: I'm a genius<br> 
 WILL: I just need them to sound like real names, so probz something exotic<br> 
-WILL: otherwise I can already hear their cringy jokes: "Mr. Right? More like Mr. Wrong!" or "Hey Lefty, your other have is all right!"<br> 
+WILL: otherwise I can already hear their cringy jokes: "Mr. Right? More like Mr. Wrong!" or "Hey Lefty, your other half is all right!"<br> 
 WILL: etc. etc.<br> 
 WILL: -____-<br> 
 PAUL: we can use a random dictionary, translate left and right - maybe portuguese?<br> 
@@ -205,5 +205,5 @@ Thur: 8PM Jeri O'Connel meeting
 <br><br>
 Fri: 8PM - 6AM Clouds shift
 <br><br>
-Sat: 10AM Judy breakfast [CANCELLED]
+Sat: 10AM Judy breakfast [CANCELED]
 </div>

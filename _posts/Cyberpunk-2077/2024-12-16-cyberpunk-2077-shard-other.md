@@ -20,6 +20,13 @@ Never play it too safe.<br>
 Stay committed to the Edge.<br>
 </div>
 
+## Militech Datashard
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+Property of Militech. Unauthorized access is strictly prohibited.
+</div>
+
 ## PISS ON HIS/HER GRAVE
 {: .notice--cyberpunk-cyan}
 
