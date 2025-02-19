@@ -89,3 +89,12 @@ FREDRIK PERSSON: but i want the original hard-copy <br>
 FREDRIK PERSSON: leave it at one of our dead drops <br>
 FREDRIK PERSSON: we'll take it from there
 </div>
+
+## Greetings from Des Moines
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Found next to the computer in V's Apartment, starting from Act 2.<br>
+Found on a table in the Black Sapphire's casino area, during You Know My Name.</span><br>
+Jump in the urinal and stand on your head. I'm the one that's alive. You're all dead.
+</div>

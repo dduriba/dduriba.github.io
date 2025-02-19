@@ -450,3 +450,38 @@ The Dude (Brody Woods) - pays in kind, but he's a psycho. Debts: 5 procedures.
 Velvet (Erika Grant) - not bad, 7/10. Usually pays. Debts: 1 procedure.
 </span>
 </div>
+
+## DISASTERPIECE
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Ground Floor-Broken Building</span><br>
+<span class="cyberpunk-blue pen-bold">Tipoff</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
+<span class="pen-bold">From: Ivan Medvedev</span>
+<br><br>
+<span class="pen-bold">To: Slav4Life</span>
+<hr class="cyberpunk-hr">
+Someone on Jig-Jig asked about our studio, so either we're about to get nominated for an award or get robbed.
+<br><br>
+-----
+<br><br>
+From: Slav4Life<br>
+To: Ivan Medvedev<br>
+RE: Tipoff
+<br><br>
+Peeps are askin cuz we got good shit. Word's out and it's spreadin - it was just a matter of time. And if they wanna rob us, they can go ahead - I'd like to see them fuckin try.
+<br><br>
+-----
+<br><br>
+From: Ivan Medvedev<br>
+To: Slav4Life<br>
+RE: Tipoff
+<br><br>
+We should at least double the guards outside so we don't get people coming for autographs.
+</span>
+</div>
+
+## DOUBLE LIFE
+{: .notice--cyberpunk-red}

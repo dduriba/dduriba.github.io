@@ -45,3 +45,13 @@ The Magician is the card of self-confidence and adapting to situations through i
 Justice is the card of conflict resolution. It proclaims the need for order, to see through lies and deceit, and a return to the natural state of affairs. Justice implies a just sentence, but also due process.
 </span>
 </div>
+
+## The Fool
+{: .notice--cyberpunk-red}
+
+<div class="cyberpunk-bg">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located outside V's Apartment.</span><br>
+<span class="cyberpunk-cyan">
+The Fool is everyone - including you and me. Each step he takes on his journey feels like stepping into a brave new world. Ultimately, the journey will change him. But as the card shows, he's a trustworthy lad whose tireless hope drives him toward his goal.
+</span>
+</div>
