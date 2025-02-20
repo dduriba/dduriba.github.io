@@ -98,3 +98,14 @@ FREDRIK PERSSON: we'll take it from there
 Found on a table in the Black Sapphire's casino area, during You Know My Name.</span><br>
 Jump in the urinal and stand on your head. I'm the one that's alive. You're all dead.
 </div>
+
+## Get High at Home
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+These days, when the police have so much more to worry about than whether the kids are smoking "special" cigarettes, when designer drugs can be bought on any corner, we say - back to the basics!
+<br><br>
+Why line producers' and dealers' pockets when you can make your own concoctions in the comfort of your own garage?
+<br><br>
+In the following chapters, we'll give you quick, easy-to-follow recipes for your favorite boosters. It's fun!
+</div>

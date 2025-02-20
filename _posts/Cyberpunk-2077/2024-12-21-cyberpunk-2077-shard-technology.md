@@ -106,3 +106,25 @@ We've long known that the AVs criss-crossing our skies are busy dumping harmful 
 <br><br>
 Now, you don't need a degree in science to know the harm these substances can wreak on the body. We've found that sulphur compounds can lead to cancer, heart decease and other illnesses arising from a weakened or even damaged immune system. They can also lead to spontaneous dental hydroplosion and acute meningitis.
 </div>
+
+## Beyond the Border of Empathy
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found on sublevel 1, inside the 2nd office room of the Electric Corporation power plant, during Disasterpiece,</span><br>
+Last night on TV, I saw the following scene - a Militech squad in some debris-ridden corner of the Middle East, fighting the "enemy" - terrorists, political opponents... Shit, maybe they were just actors? It doesn't matter - it never really mattered in the first place. One of them was wearing recording equipment, scrolling a braindance. I can count on finding that fresh BD in any shop within days. Turn it on and bam! You're in a warzone. You feel what they feel. You taste the blood in your mouth and the reassuring grip of the scroller's rifle. But that's not the worst of it. The worst is how the editor will be sure to try to show off the rifle, get a good shot of the manufacturer's name. Another split-second and you'll be ready to buy the same exact one - even order it with the same dents and scratches. Free home delivery. <br>
+Only twenty or thirty years ago we were asking ourselves - when will we cross the border at which empathy becomes irrelevant? Now, standing in the shelled-out ruins of a home with a rifle in our hands, it's hard to believe that border ever existed.
+</div>
+
+## Rewiring Synaptic Pathways
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found in Judy's Apartment in Kabuki, Watson. This location is visited during Double Life.<br>
+Can be found in the hidden room of Peralezes' Apartment in Charter Hill, Westbrook. This location is visited during Dream On.</span><br>
+Chapter 1: The Future of Neurotechnology
+<br><br>
+The twenty-first century heralded a worldwide revolution in neurotechnology. We, as a society, can no longer image an existence without technologically heightened senses, enhanced memory capacity, and pain modulators. By linking our neural systems with computer chips, we are capable of learning complex skill sets in seconds - then subsequently forgetting them again the instant they are removed. Today, after nearly eighty years of increasingly incorporating these technologies into our daily lives, we must now ask ourselves: What comes next?
+<br><br>
+In recent years, the academic community has reignited discussions on possible new methods to influence brain plasticity. Is it possible to create permanent neural pathways using coprocessors? Can we expect a breakthrough regarding dopaminergic data manipulation in our lifetimes? If so, what will be the consequences? The probable emergence of commercially viable artificial neurotransmitters would undoubtedly reshape the health science field, yet would simultaneously introduce a potentially destructive tool to most governments and corporations. The field of plasticity maniuplation[sic] remains in its infancy, but most experts agree we should prepare for a future in which such neurological rewiring will become as commonplace as the cybernetic implants used so pervasively today. Studies should begin exploring now how science can adapt our bodies to optimize the effects of this technology while minimizing its abuse and potential unwanted side effects.
+</div>

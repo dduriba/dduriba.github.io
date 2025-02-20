@@ -262,3 +262,53 @@ The friendship between Johnny Silverhand and Kerry Eurodyne as well as the traum
 <br><br>
 Following Samurai's disintegration and a personal retreat to the Philippines where Kerry rediscovered his creative roots, Eurodyne cut ties from the past and began the next chapter of his legacy. Today, it has become clear beyond doubt that his own successes not only match those of Samurai's, but have repeatedly surpassed them. Kerry's effortless, natural charisma and strong stage presence electrify crowds without fail. By comparison, Silverhand's fiery shouts and political grandstanding appear now as nothing more than ordinary attention grabbing designed to mask the otherwise pedestrian quality of his musical talent.
 </div>
+
+## A wicked acid trip, but not the kind you think!
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+Ever wondered what it feels like to fall in a pool of acid? Well, wonder no more! (sort of)
+<br><br>
+Before I ever even got my copy of "Kings of Acid" my curiosity took a nosedive once I found out it wasn't about THAT type of acid... In any case, body horror has such a rich tradition it's a damn near herculean task to find a fresh angle to take on acid baths. But holy shit did the devs do it!
+<br><br>
+You play as Artur Kerr, a klutzy and somewhat awkward rockerboy, who gets himself tangled up in a shitstrom with Maelstrom. The borg goons entrust Kerr with handling a mysterious shipment containing a protozoa capable of instantaneous regeneration. But in an unlucky twist (a painfully common occurrence for our hero), a rival gang ambushes the exchange at a corp science lab and Kerr is pushed into a vat of mutagenic acid. That's when the "trip" kicks in, if you will. The rockerboy begins undergoing constant mutations - eyeballs on stalks, shifting skin, throat tentacles, and that's not even the real freaky stuff!
+<br><br>
+After every victory in combat, Artur absorbs the genetic code from the blood splatter of his foes, making the already delightful hack 'n' slash combat even more gratifying. The constantly growing spiral of possible mutations makes for a rewarding way to spend experience points and builds in strong replayability.
+<br><br>
+All in all, Kerr's ultimate motivation is seeking bloody revenge against his music producer who cost him a lucrative album deal and brutally murdered the rockerboy's boyfriend. Story and gameplay are geniously intertwined, and the pseudo-braindance implant shipped with each game copy really helps immerse players in the utterly fucked mutations, where searing pain turns to power-jacked ecstasy. Trust me, you don't want to miss out on this one!
+</div>
+
+## SAFE AND SOUND: Night City Gangs
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+Hi there! It's your friendly neighborhood canine, Sergeant Dobs! This useful little guide you're holding contains essential information on the Night City's largest gangs where you'll learn:<br>
+*Which districts to avoid<br>
+*How to recognize gang members<br>
+*How to avoid dangerous situations
+<br><br>
+Animals: The Animals aren't real animals - they're freaks of nature! Pumped to the gills with strength-enhancing hormones, they look more like piles of meat than people. They generally avoid cyberware with the exception of cosmetic modifications that supposedly make them look more like, well, animals. They're extremely aggressive and don't need an excuse to start a brawl. But despite their name, the Animals are not a territorial gang - you can find fierce, hostile packs of them throughout the city.
+<br><br>
+6th Street Gang: From a distance they could be easily mistaken for soldiers on leave - military uniforms, combat boots, buzz cuts, shouting "Oorah!" every chance they get. But don't let appearances fool you! These are violent, dangerous thugs, ready to slit your throat without the slightest hesitation. You'll want to watch out for them especially in Vista Del Rey.
+<br><br>
+The Mox: Handsome girls, beautiful guys... but wait, it's a trap! They'll reel you in with their charm, and when you're least expecting it... BAM! Your eddies're gone. Or worse. The hole-in-a-wall that passes for their headquarters is called "Lizzie's Bar" - best seen from far away and never entered.
+<br><br>
+Maelstrom: If you ever find yourselves in Watson's industrial area (and it's better that you don't), watch out for the sinister faceplates - that's Maelstrom. To be a part of the gang, you have to get your eyes and nose cut off and replaced with demonic, fiery-red optics. Ouch! If they do that to themselves, who knows what they'll do to strangers?! Better to leave that mystery unsolved.
+<br><br>
+Tyger Claws: Effervescent neon tattoos with Asian motifs? Katanas and shurikens? Racing bikes? These are some of the trademarks of the Tyger Claws gang, with a noticeable presence in Japantown. Ignore them and they shouldn't bother you... but do something to provoke them and it's sayonara, baby!
+<br><br>
+Valentinos: Golden grills, golden implants, golden crosses and golden machetes? Say ¡Hola! to the Valentinos. Despite the Catholic symbolism, they're not exactly "Love thy neighbor" types. Those who get in their way usually end up copped into pieces and tossed into the Del Coronado.
+<br><br>
+Voodoo Boys: These predominantly Haitian gangers are based in Pacifica, but they hunt their victims elsewhere - the Net. The Voodoo Boys are the most skilled netrunners in the Night City underworld. But beware! That doesn't mean they're not dangerous in realspace too! Be sure to give them a wide berth, or you might just end up like on of their black roosters - without a head.
+</div>
+
+## "Bushidō" and Neopostmodernism
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+The "Bushidō" franchise is a litmus test of our time. This groundbreaking film series puts on full display the entire spectrum of American society, masterfully pointing out the greatest problems of the neomodern era. "Live Fast, Die Never" was, in its own way, a generational manifesto on the affirmation of live. The use of vivid colors, shaky cinematography, ubiquitous blood effects and pervasive brain splatter testifies to the extraordinary self-awareness of the director, who once revealed in an interview how he "fucking loves it when hot chicks dissect the shit out of the bad guys." Perhaps no other concept more aptly describes the underlying societal ethos when "Bushidō 3" was released.
+<br><br>
+Especially worthy of note is the repetition in subsequent installments of the implant-bomb motif, through the prism of which the protagonist reinterprets reality. One example of this convention's flawless implementation appears in the latest film in the series, "Bushidō X: Fade to Black." The scene in which the powerful Gorira disembodies the arm of Jake - as played by the transcendent Tim Kelly - demonstrates in brilliant form the duality of the human condition. On the one hand, Jake loses his cybernetic arm - a symbol of both his tragic past and the ongoing techno-ontological conflict within his psyche. On the other hand, it is precisely due to this dismemberment that Gorira is blown to bloody bits by a sensational explosion sequence. And the final disintegration of the antagonist's body into a bloodspray of gore, how should this be interpreted? It is a metaphorical cry of deeply rooted despair, a manifestation of the personal transgression. This fragmentation of body could likewise be interpreted as a fragmentation of the individual mind, thus provoking the question: Whose mind? Indeed, had everything the viewer seen of Jake's struggle been, in fact, a personified, embodied fear? Had he not been been embroiled in epic battle with a vile monster but rather only with himself? Could the entirety of Jake's narrative been only a manifestation of some cyberpsychotic dream-state?
+<br><br>
+Among all the depth and nuance that has defined this franchise since its inception, only one thing is truly certain - "Bushidō" has forever changed the world of cinema.
+</div>

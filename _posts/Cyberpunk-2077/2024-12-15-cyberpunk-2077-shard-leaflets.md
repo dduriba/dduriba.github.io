@@ -68,3 +68,24 @@ Buck-A-Slice - According to urban legend, the NCPD has en entire file on the mys
 <br><br>
 Ru Lai - At Ru Lai you'll find all of the three P's - potent, punchy and pungent. Every visit to this local favorite is like playing a game of Chinese roulette. Regulars at Ru Lai claim you're just as likely to get "bearable" egg rolls and "halfway decent" rangoons as you are tainted tofu or Sichuan salmonella. You've been warned.
 </div>
+
+## Thorton: Owner's Manual
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+Congratulations! You are now the proud owner of a Thorton! We are proud to offer our Thorton guarantee for reliability and convenience at an affordable price.
+<br><br>
+Before you embark on a new adventure behind the wheel of your new Thorton, please take the time to read this owner's manual.
+<br><br>
+TABLE OF CONTENTS <br>
+1. Instruments and indicators <br>
+2. Anti-theft system <br>
+3. Seats, seatbelts, and rearview mirrors <br>
+4. Lights and warning lights <br>
+5. Starter, transmission, and brakes <br>
+6. Ventilation, heating, and A/C <br>
+7. Engine and driving tips <br>
+8. What to do in an emergency <br>
+9. Maintenance and care <br>
+10. Service and warranty information <br>
+</div>

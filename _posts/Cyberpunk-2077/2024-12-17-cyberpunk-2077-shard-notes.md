@@ -208,3 +208,33 @@ Fri: 8PM - 6AM Clouds shift
 <br><br>
 Sat: 10AM Judy breakfast [CANCELED]
 </div>
+
+## Archived Conversation: Rich and Aurelie
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found in sector 3 of the Electric Corporation power plant, near the fire exit, during Disasterpiece.</span><br>
+RICH: how'd you find me? <br>
+AURELIE: how do you think? I cut through your firewall like a hot knife through butter. outdated code-gates, prehistoric system architecture, your firmware's got more holes than a gangbang joytoy. <br>
+RICH: get to the point <br>
+AURELIE: i think netwatch found my BBS <br>
+RICH: what? <br>
+AURELI: BBS. a place where netrunners can exchange info without fear of being watched. like a hacker club. get it? <br>
+RICH: ok, but what do i have to do with it? <br>
+AURELI: your agency has access to one of them. if you could sniff them out, check if... i'll give you the coords. <br>
+RICH: no i can't... <br>
+AURELIE: please. if they find us, they won't bother with arresting and interrogating. do you understand? <br>
+RICH: i'm sorry. i already told you - we're through. if you want help, ask max. maybe apart from his supposedly huge dick, he's got some useful contacts
+</div>
+
+## Tech thingy - notes
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found in Judy's apartment after completing Double Life.</span><br>
+I forgot to change the notifications in the pressure gauge - add an automatic reset when starting it up
+<br><br>
+Tracking module froze underwater again - probably the waterproof case is blocking the signal. Fix - make an opening for an antenna.
+<br><br>
+Connection loss with the barometer when set at bathymetric mode. Fix - add an automatic signal to switch back to last position before connection loss
+</div>

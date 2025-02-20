@@ -217,3 +217,20 @@ Secondly: quality of service. Anyone in the customer service sector had to rack 
 <br><br>
 Thirdly, and most importantly: no government can tell you what to do, where and how. Orbital stations are autonomous and governed by their own laws... and there aren't that many of them. If you can afford your own station, you're the undisputed lord and master of your little corner of space. You want to tie the help up to a whipping post when they make a mistake? Go right ahead. Want five wives or four husbands? I'm sure you'll have a line of willing volunteers.
 </div>
+
+## The Truth about Cyberpsychosis
+{: .notice--cyberpunk-cyan}
+
+<div class="cyberpunk-bg cyberpunk-grey">
+I've had enough of the senseless shootings that claim hundreds of innocents every day. I'm sick of the satire on empty, deadend implant-restriction dialogue. I'm tired of ignoring the cyberpsychosis problem. 
+<br><br>
+In American society today, there are still a lot of common myths and misconceptions about the so-called technology-related personality disorders. People think they can become "infected" in sketchy ripperdoc clinics. Scientists allegedly disagree about the causes of the disease, or even about whether it exists at all. Maybe their tune would change if a cyberpsycho turned their lab into a slaughterhouse. But even then, I doubt it. They're not getting fat paychecks from the cyberware lobby just to openly declare to the public all the nasty possible side effects that come packaged with their products.
+<br><br>
+I've conducted my own research on cyberpsychosis. With supreme confidence, I can confirm this illness is, indeed, a by-product of the modern lifestyle and the obsessive emphasis placed on incorporating modern tech into our lives. Although cybernetic implants can directly affect our brain chemistry, they still serve only as a catalyst for the onset of the disease.
+<br><br>
+Our world is subject to extensive dehumanization. We surround ourselves with increasingly more automated machines and artificial intelligences. Our loved ones replace their nature-given eyes, lips and faces with masks of metal. Some of us begin to lose sight of what is human; we slip into feelings of total alienation and deep-rooted panic. We lose the ability to distinguish between what is real and what is "only" artificial, digital, synthetic... Such people begin to isolate themselves, lose their empathy for others, and undergo dramatic mood swings that exhibit sadistic tendencies. The most frightening component to all of this, however, is that most will never be diagnosed.
+<br><br>
+Not all cyberpsychos are known war veterans or former mercenaries equipped with Sandevistan reflex tech. Not all will go out in a blaze of gunfire with MaxTac. Many cyberpsychos in our world possess only a single implant; a knee, a liver. They are unseen, unnoticed. They lock themselves up and shut out their friends, colleagues, and loved ones. The world outside of the Net and their delusions has disappeared from conscious thought. They are sick and alone - and no is doing a thing about it.
+<br><br>
+There is no eloquent summary to be made here. Let the value of this manifesto be measured by the fact that I was expelled from the Zetatech cybernetics research team for having written it.
+</div>
