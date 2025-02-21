@@ -510,7 +510,7 @@ To: The Original Gopnik<br>
 RE: Explain yourself
 <br><br>
 If you think you fool me with this "I'm actually working" bullshit when really you just surf porn sites and hang out with lowlifes instead of making SALES - then you're only fooling yourself.<br>
-Next week you're making DOUBLE the target, and I make up whatever is missing with implants I rip out of your myself. Clear?
+Next week you're making DOUBLE the target, and I make up whatever is missing with implants I rip out of you myself. Clear?
 <br><br>
 -----
 <br><br>
@@ -717,7 +717,7 @@ From: Nadya Papayanova<br>
 To: Kolya Suhanov<br>
 RE: New girl
 <br><br>
-What omen are you talking about? Next thing I'll find you staring into crystal balls. What are you - my reincarnated babushka? I don't believe you're shitting your pants just because of some comatose girl. What are you on, hm? You know what - don't answer that. Whatever it is, just stop taking it before your brain damage gets even worse.
+What omen are you talking about? Next thing I'll find you staring into crystal balls. What are you - my reincarnated babushka? I don't believe you're shitting your pants just because of some comatose girl. What are you on, hm? You know what - don't answer that. Whatever it is, just stop taking it before your brain damage get even worse.
 <br><br>
 -----
 <br><br>
@@ -725,7 +725,7 @@ From: Kolya Suhanov<br>
 To: Nadya Papayanova<br>
 RE: New girl
 <br><br>
-Cuz like, you can tell she's not from Jig-Jig! More like Clouds or even the Mox. And for the record, I don't touch our supply and you know that. But there's this corpo - I sold him some of our shit. Apparently it made him aggressive - smacked some joytoy across the face. He told me when it happened he noticed the shadow of Lizzie on the wall, the girl who started the Mox, and guess what happened? A week later he was dead. They found him in some backalley, tied to a gutter, suffocated with a stocking. It's not like I was choom with the guy, but still... that's no way to go!
+Cuz like, you can tell she's not from Jig-Jig! More like Clouds or even the Mox. And for the record, I don't touch our supply and you know that. But there's this corpo - I sold him some of our shit. Apparently it made him aggressive - smacked some joytoy across the face. He told me when it happened he noticed the shadow of Lizzie on the wall, the girl who started the Mox, and guess what happened? A week later he was dead. They found him in some backalley, tied to a gutter, suffocated with a stocking. It's not like I was chooms with the guy, but still... that's no way to go!
 <br><br>
 -----
 <br><br>
@@ -743,7 +743,7 @@ From: Kolya Suhanov<br>
 To: Nadya Papayanova<br>
 RE: New girl
 <br><br>
-So you don't care how you're remembered? What if you don the toilet, huh?
+So you don't care how you're remembered? What if you die on the toilet, huh?
 <br><br>
 -----
 <br><br>
@@ -751,7 +751,7 @@ From: Nadya Papayanova<br>
 To: Kolya Suhanov<br>
 RE: New girl
 <br><br>
-You fucking gonk get back to work. Don't you understand nobody care about you? Whose fucking memory will you be in? You would barelly fill up any space on my deck. You and your fucking omens.
+You fucking gonk get back to work. Don't you understand nobody care about you? Whose fucking memory will you be in? You would barely fill up any space on my deck. You and your fucking omens.
 </span>
 </div>
 
@@ -850,8 +850,8 @@ RICH: i'm sorry. i already told you - we're through. if you want help, ask max. 
 <br><br>
 <span class="pen-bold">To: Judy Alvarez</span>
 <hr class="cyberpunk-hr">
-Heeeey, it's been like a thousand years since we aaw each other! What's up with you, girl? You still cooped up in Susie's basement? Still with Maiko? Hoping at least one of those things isn't true anymore.<br>
-Soooo I've got a tiny favor to ask... OK, it's more like a humongous favor. Super important to me, but should be a breeze for ageek like you. Holler back at me!
+Heeeey, it's been like a thousand years since we saw each other! What's up with you, gurl? You still cooped up in Susie's basement? Still with Maiko? Hoping at least one of those things isn't true anymore.<br>
+Soooo I've got a tiny favor to ask... OK, it's more like a humongous favor. Super important to me, but should be a breeze for a geek like you. Holler back at me!
 <br><br>
 -----
 <br><br>
@@ -931,7 +931,7 @@ Of course, I understand. Let us know if you change your mind.
 <span class="pen-bold">To: Judy Alvarez</span>
 <hr class="cyberpunk-hr">
 Hey!<br>
-I had a really weird sich with a client. I met him at the bar when I was offline. He said he'd been coming to me exclusively for a few months and that he wanted to get to know me. We talked a lot. He's a corpo. He said his job isn't that different to mine because he also has to put on an act all day. Like, he has to play golf with his boss, who he hatesor whatever. He seemed kinds nice. Now he wants to meet up outside of Clouds. What do I do???
+I had a really weird sich with a client. I met him at the bar when I was offline. He said he'd been coming to me exclusively for a few months and that he wanted to get to know me. We talked a lot. He's a corpo. He said his job isn't that different to mine because he also has to put on an act all day. Like, he has to play golf with his boss, who he hates or whatever. He seemed kinda nice. Now he wants to meet up outside of Clouds. What do I do???
 <br><br>
 -----
 <br><br>
