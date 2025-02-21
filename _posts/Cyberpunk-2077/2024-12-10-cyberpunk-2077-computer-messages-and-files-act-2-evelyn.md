@@ -455,7 +455,7 @@ Velvet (Erika Grant) - not bad, 7/10. Usually pays. Debts: 1 procedure.
 {: .notice--cyberpunk-red}
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant - Ground Floor - Broken Building</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Broken building on the ground floor</span><br>
 <span class="cyberpunk-blue pen-bold">Tipoff</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -484,7 +484,7 @@ We should at least double the guards outside so we don't get people coming for a
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant - Sector 1 - Slaughter room</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Slaughter room at Sector 1</span><br>
 <span class="cyberpunk-blue pen-bold">Explain yourself</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -544,7 +544,7 @@ OK. I'll go meet him this afternoon.
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant - Sector 1 - Office</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Office at Sector 1</span><br>
 <span class="cyberpunk-blue pen-bold">Stock question</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -693,7 +693,7 @@ Parker, Evelyn
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant - Sector 2 - Surgical room</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Surgical room at Sector 2</span><br>
 <span class="cyberpunk-blue pen-bold">New girl</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -756,7 +756,7 @@ You fucking gonk get back to work. Don't you understand nobody care about you? W
 </div>
 
 <div class="cyberpunk-bg">
-<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant - Sector 3 - Server room</span><br>
+<span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Server room at Sector 3</span><br>
 <span class="cyberpunk-blue pen-bold">Power's up</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
