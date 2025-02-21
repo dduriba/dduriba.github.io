@@ -219,7 +219,7 @@ Lucille stood there, dumbstruck. A tempest of emotion swirled in a frenzy throug
 <div class="cyberpunk-bg cyberpunk-grey"> 
 The weathered man peered into the eyes of the young nomad as if trying to divine his thoughts. "Don't misunderstand," he said. "I don't mind unexpected guests. But you must recognize, when a man lives alone in the middle of the desert, he has a right to ask uncomfortable questions."
 <br><br>
-The boy wouldn't make eye contact, instead glancing nervously through the window, as if expecting to spot an armada of battle drones coursing straight for him across the night ski. "I... I'm running away," he muttered after a moment of hesitation. "From Green Phantom. He's been followin' me since Yellow Creek."
+The boy wouldn't make eye contact, instead glancing nervously through the window, as if expecting to spot an armada of battle drones coursing straight for him across the night sky. "I... I'm running away," he muttered after a moment of hesitation. "From Green Phantom. He's been followin' me since Yellow Creek."
 <br><br>
 The old man didn't move a muscle save for a twitch at the corner of his mouth, revealing he knew more than he cared to admit. "You have nothing to fear, " he said softly. "The Green Phantom only comes for the worst criminals. If you hold regret in your heart, he'll forgive you. He'll offer a second chance."
 <br><br>
@@ -229,7 +229,7 @@ The boy's anxious demeanor suddenly turned to a rebellious grin. "I regret nothi
 <br><br>
 The tenderfoot nomad's eyes widened in surprise for a brief moment. It seemed as if there was a question at the tip of his lips, but he refused to ask it.
 <br><br>
-"It's late," the old-timer said, "You should sleep. You're exhausted and need to gather strength before you continue running, if that's what you choose to do. My home is open to you for the night."
+"It's late," the old-timer said, "You should sleep. You're exhausted and need to gather your strength before you continue running, if that's what you choose to do. My home is open to you for the night."
 <br><br>
 The boy uttered no thanks. Without a word, he stood and entered the small, dark bedroom where his host had prepared a bed. To find his way, he switched on his infrared, then immediately froze in place... There was a body lying in the bed. He edged closer until he could discern its shapes. A pool of cooling blood, withered hands contorted into unnatural angles... the vacant, dead eyes of the old man he had only just been talking to in the other room.
 <br><br>
