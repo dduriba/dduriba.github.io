@@ -7,7 +7,7 @@ excerpt: "Lighting Environment"
 
 <span style="color:gray">unity version 2022.3.7f1</span>
 
-# Lighting Environment를 이용해 어두운 환경 구현
+# Lighting Environment 탭의 프로퍼티로 어두운 환경 구현
 {: .notice--warning}
 
 Lighting Environment 속성 알아보기
@@ -31,7 +31,7 @@ Lighting Environment 창(<span class="highlight-black">Window</span>→<span cla
 
   + [ ] Color : 모든 주변광에 플랫 컬러를 사용합니다.
 
-- [X] <span class="highlight-black">Intensity Multiplier</span> : 씬의 주변광 밝기를 설정하는 데 사용합니다.(이 프로퍼티는 Source 가 Skybox 으로 설정된 경우에만 표시됩니다.)
+- [X] <span class="highlight-black">Intensity Multiplier</span> : 씬의 주변광 밝기를 설정하는 데 사용합니다.(이 프로퍼티는 Source 가 Skybox 으로 설정된 경우에만 표시됩니다. Gradient나 Color로 설정한 경우 컬러를 지정하는 프로퍼티가 표시됩니다.)
 
 ↓ Environment Reflections(이 섹션에는 반사 프로브 베이킹용 전역 설정과 전역 반사에 영향을 주는 설정이 나와 있습니다.) 
 
