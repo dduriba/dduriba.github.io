@@ -21,7 +21,7 @@ Lighting Environment 창(<span class="highlight-black">Window</span>→<span cla
 
 - [X] <span class="highlight-black">Realtime Shadow Color</span> : 서브트랙티브 광원 모드에서 실시간 그림자를 렌더링할 때 Unity가 사용하는 컬러를 정의합니다.
 
-↓ <span class="highlight-pencel-black">Environment Lighting</span>(이 섹션에는 현재 씬의 주변광에 영향을 미치는 설정이 들어 있습니다.)
+↓ Environment Lighting(이 섹션에는 현재 씬의 주변광에 영향을 미치는 설정이 들어 있습니다.)
 
 - [X] <span class="highlight-black">Source</span> : 씬의 주변광에 대한 소스 컬러를 정의할 때 사용합니다. 
 
@@ -33,7 +33,7 @@ Lighting Environment 창(<span class="highlight-black">Window</span>→<span cla
 
 - [X] <span class="highlight-black">Intensity Multiplier</span> : 씬의 주변광 밝기를 설정하는 데 사용합니다.(이 프로퍼티는 Source 가 Skybox 으로 설정된 경우에만 표시됩니다.)
 
-↓ <span class="highlight-pencel-black">Environment Reflections</span>(이 섹션에는 반사 프로브 베이킹용 전역 설정과 전역 반사에 영향을 주는 설정이 나와 있습니다.) 
+↓ Environment Reflections(이 섹션에는 반사 프로브 베이킹용 전역 설정과 전역 반사에 영향을 주는 설정이 나와 있습니다.) 
 
 - [X] <span class="highlight-black">Source</span> : 반사 효과에 스카이박스를 사용할지, 아니면 원하는 큐브맵을 사용할지 지정합니다.
 
@@ -73,4 +73,4 @@ Lighting Environment 창(<span class="highlight-black">Window</span>→<span cla
 구현 방식 (3)
 {: .notice}
 
-어둡지 않은 스카이 박스를 사용하며 어둡게 만들고 싶은 경우 <span class="highlight-black">Environment Lighting</span>→<span class="highlight-black">Intensity Multiplier</span>, <span class="highlight-black">Environment Reflections</span>→<span class="highlight-black">Intensity Multiplier</span>의 값을 조절합니다.(매우 어둡게 만들 경우 두 값 모두 0)
+어둡지 않은 스카이 박스를 사용하며 어둡게 만들고 싶은 경우 Environment Lighting→<span class="highlight-black">Intensity Multiplier</span>, Environment Reflections→<span class="highlight-black">Intensity Multiplier</span>의 값을 조절합니다.(매우 어둡게 만들 경우 두 값 모두 0으로 설정합니다.)
