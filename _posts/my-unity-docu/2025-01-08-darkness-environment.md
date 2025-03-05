@@ -78,4 +78,4 @@ Lighting Environment 창(<span class="highlight-black">Window</span>→<span cla
 프로젝트에 적용한 방법
 {: .notice}
 
-어두운 환경으로 설정된 스카이박스를 사용, Environment Lighting→<span class="highlight-black">Intensity Multiplier</span>의 값을 0으로 설정, 자연스러움을 위해 Environment Reflections→<span class="highlight-black">Intensity Multiplier</span>의 값은 1로 설정
+어두운 환경으로 설정된 스카이박스를 사용, 완전하게 어둡게 만들기 위해 Environment Lighting→<span class="highlight-black">Intensity Multiplier</span>의 값을 0으로 설정, 자연스러움을 위해 Environment Reflections→<span class="highlight-black">Intensity Multiplier</span>의 값은 1로 설정
