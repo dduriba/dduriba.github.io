@@ -60,17 +60,22 @@ Lighting Environment 창(<span class="highlight-black">Window</span>→<span cla
 어두운 환경 구현하기
 {: .notice--primary}
 
-구현 방식 (1)
+구현 방법 (1)
 {: .notice}
 
 어두운 환경(밤)으로 미리 설정된 스카이박스를 사용합니다.
 
-구현 방식 (2)
+구현 방법 (2)
 {: .notice}
 
 스카이 박스를 사용하지 않아도 될 경우 <span class="highlight-black">Skybox Material</span>을 None으로 지정합니다.
 
-구현 방식 (3)
+구현 방법 (3)
 {: .notice}
 
 어둡지 않은 스카이 박스를 사용하며 어둡게 만들고 싶은 경우 Environment Lighting→<span class="highlight-black">Intensity Multiplier</span>, Environment Reflections→<span class="highlight-black">Intensity Multiplier</span>의 값을 조절합니다.(매우 어둡게 만들 경우 두 값 모두 0으로 설정합니다.)
+
+프로젝트에 적용한 방법
+{: .notice}
+
+어두운 환경으로 설정된 스카이박스를 사용, Environment Lighting→<span class="highlight-black">Intensity Multiplier</span>의 값을 0으로 설정, 자연스러움을 위해 Environment Reflections→<span class="highlight-black">Intensity Multiplier</span>의 값은 1로 설정

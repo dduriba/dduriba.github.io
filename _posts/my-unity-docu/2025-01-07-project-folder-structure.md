@@ -1,7 +1,7 @@
 ---
 title: "프로젝트 폴더 구조"
 categories: my-unity-docu
-tag: [세팅]
+tag: [개발일지]
 excerpt: "최적한 프로젝트 환경을 위한 폴더 구조"
 ---
 
