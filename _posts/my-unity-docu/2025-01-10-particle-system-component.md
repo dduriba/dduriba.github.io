@@ -349,7 +349,15 @@ excerpt: "Particle System Modules"
 # Rotation by Speed
 {: .notice--warning}
 
-- [X] 
+파티클의 회전이 초당 이동 거리로 나타내는 속도에 따라 변경되도록 설정할 수 있습니다.
+
+이 프로퍼티는 파티클이 <span class="highlight-pencel-mint">산사태로 인한 암석과 같이 땅 위로 움직이는 솔리드 오브젝트</span>를 나타내는 경우에 사용할 수 있습니다. 파티클의 회전은 속도에 비례하여 설정되어 표면에서 확실하게 굴러갈 수 있습니다.
+
+- [X] Separate Axes : 각 회전축에 대해 독립적으로 회전을 제어합니다.
+
+- [X] Angular Velocity : 초 단위로 표시한 회전 속도입니다.
+
+- [X] Speed Range : 크기 커브가 매핑되는 속도 범위의 상한 및 하한 값(범위를 벗어나는 속도는 커브의 끝점에 매핑됨)입니다. 속도 범위는 속도가 커브 모드 중 하나에 있을 때만 적용됩니다. 빠른 파티클은 커브의 오른쪽 끝에 있는 값을 사용하여 회전하지만 느린 파티클은 커브의 왼쪽에 있는 값을 사용합니다.
 
 # External Forces
 {: .notice--warning}
