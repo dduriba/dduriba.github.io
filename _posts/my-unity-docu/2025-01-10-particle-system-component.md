@@ -338,7 +338,13 @@ excerpt: "Particle System Modules"
 # Rotation over Lifetime
 {: .notice--warning}
 
-- [X] 
+이 모듈을 통해 파티클이 움직이면서 회전하도록 설정할 수 있습니다.
+
+이 설정은 파티클이 폭발로 인한 파편과 같은 작은 솔리드 오브젝트를 나타내는 경우에 유용합니다. 임의의 회전 값을 지정하면 파티클이 날아갈 때 파티클이 수직으로 유지되는 것보다 더 사실적인 효과가 만들어집니다. 무작위 회전은 또한 비슷한 모양의 파티클의 규칙성을 깨뜨리는 데 도움이 됩니다(동일한 질감이 여러 번 반복됨)(<span class="highlight-pencel-mint">나무에서 떨어지는 나뭇잎들</span>).
+
+- [X] Separate Axes : 축마다 회전을 지정할 수 있습니다. 이 옵션을 활성화하면 X, Y, Z 각각에 회전을 설정하는 옵션이 표시됩니다.
+
+- [X] Angular Velocity : 초 단위로 표시한 회전 속도입니다.
 
 # Rotation by Speed
 {: .notice--warning}
