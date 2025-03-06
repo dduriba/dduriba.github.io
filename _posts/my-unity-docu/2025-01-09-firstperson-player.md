@@ -8,6 +8,7 @@ excerpt: "플레이어 움직임, 카메라 회전, 1인칭 팔, 애니메이션
 <span style="color:gray">unity version 2022.3.7f1</span>
 
 # 플레이어 움직임 구현
+{: .notice--warning}
 
 - [X] 이동(걷기, 달리기)
 
@@ -228,6 +229,7 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 플레이어 카메라(눈) 구현 추가
+{: .notice--warning}
 
 - [X] 마우스로 플레이어 카메라 시야 회전
 
@@ -300,6 +302,7 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 플레이어 팔, 장착 가능한 카메라 구현 추가
+{: .notice--warning}
 
 - [X] 플레이어 팔 추가
 
@@ -383,6 +386,7 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 사운드 추가
+{: .notice--warning}
 
 - [X] 걷기(서서 걷기, 앉아서 걷기), 뛰기, 점프, 착지 사운드 추가
 
@@ -501,6 +505,7 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 카메라 효과 추가
+{: .notice--warning}
 
 - [X] 카메라에 플래시 기능 추가(한 순간 밝아졌다가 점점 사라지는 빛, 플래시가 터질 때 빛이 해당 포지션에 고정)
 
@@ -685,6 +690,7 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 전체 코드
+{: .notice--warning}
 
 ```c#
 using System.Collections;
@@ -1174,5 +1180,6 @@ public class CameraEquip : MonoBehaviour
 ```
 
 # 기록 영상
+{: .notice--warning}
 
 {% include video id="gNm2mz5XsAE" provider="youtube" %}
