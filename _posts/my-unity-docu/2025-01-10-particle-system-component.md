@@ -7,7 +7,7 @@ excerpt: "Particle System Modules"
 
 <span style="color:gray">unity version 2022.3.7f1</span>
 
-# Main
+# Main Module
 {: .notice--warning}
 
 - [X] Duration : 파티클 시스템이 실행되는 총 시간(초)입니다.
