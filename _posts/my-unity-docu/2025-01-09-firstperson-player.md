@@ -323,19 +323,19 @@ public class FirstPersonController : MonoBehaviour
 - [ ] 플레이어 카메라 하위에 PointLight를 두고 위치 조정, 팔 오브젝트와 장착 가능한 오브젝트에 레이어"Arms"를 적용하고 PointLight의 Culling Mask = "Arms"를 적용해 어두운 곳에서도 팔 오브젝트와 장착 가능한 오브젝트는 보이도록 설정(Intensity와 Range 조절 필요)
 
 - [ ] 카메라의 카메라 컴포넌트 설정
-      → Near = 0.1
-      → Depth를 플레이어 카메라보다 높은 수로 설정
-      → Physical Camera = true, Sensor Type = 65mm ALEXA 로 설정 해 카메라 느낌 살리기
-      → Render Target(Target Texture)의 Size = 1024 * 1024, Anti-aliasing = 8 samples
+<br>→ Near = 0.1
+<br>→ Depth를 플레이어 카메라보다 높은 수로 설정
+<br>→ Physical Camera = true, Sensor Type = 65mm ALEXA 로 설정 해 카메라 느낌 살리기
+<br>→ Render Target(Target Texture)의 Size = 1024 * 1024, Anti-aliasing = 8 samples
 
 - [ ] 애니메이션 추가(각 애니메이션은 1초로 만들고 Speed 값으로 조절, Idle 타입은 Loop Time = true)
 
 - [ ] 애니메이터 설정
-      → bool 타입으로 파라미터 값 추가
-      → 각 애니메이션 간 필요한 전이 추가
-      →→ Idle 상태에서 다른 애니메이션으로 전이할 땐 Has Exit Time = false, Fixed Duration = false, Transition Duration = 0, 파라미터 값을 통해 전이
-      →→ Idle 상태로 전환될 땐 Has Exit Time = true, Exit Time = 1, Transition Duration = 0으로 둬 애니메이션이 끝나면 자동으로 Idle 상태로 전이
-      →→ Zoom In/Out간 전이를 만들어 애니메이션 진행 도중 즉각적으로 자연스러운 전이가 되도록 설정(Transition Duration, Transition Offset, Transition Graph를 이용)
+<br>→ bool 타입으로 파라미터 값 추가
+<br>→ 각 애니메이션 간 필요한 전이 추가
+<br>→→ Idle 상태에서 다른 애니메이션으로 전이할 땐 Has Exit Time = false, Fixed Duration = false, Transition Duration = 0, 파라미터 값을 통해 전이
+<br>→→ Idle 상태로 전환될 땐 Has Exit Time = true, Exit Time = 1, Transition Duration = 0으로 둬 애니메이션이 끝나면 자동으로 Idle 상태로 전이
+<br>→→ Zoom In/Out간 전이를 만들어 애니메이션 진행 도중 즉각적으로 자연스러운 전이가 되도록 설정(Transition Duration, Transition Offset, Transition Graph를 이용)
 
 <img src="/img/my-unity-docu/firstperson-player-animator.png"/>
 
