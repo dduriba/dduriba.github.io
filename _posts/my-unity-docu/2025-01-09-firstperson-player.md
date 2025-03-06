@@ -2,7 +2,7 @@
 title: "1인칭 플레이어"
 categories: my-unity-docu
 tag: [개발일지]
-excerpt: "Lighting Environment"
+excerpt: "플레이어 움직임, 카메라 회전, 1인칭 팔, 애니메이션"
 ---
 
 <span style="color:gray">unity version 2022.3.7f1</span>
