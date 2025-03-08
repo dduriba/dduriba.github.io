@@ -132,9 +132,13 @@ excerpt: "Particle System Modules"
 
 - [X] Shape : 파티클이 방출되는 모양을 지정합니다.(모양에 따라 파티클이 방출되는 Direction, Position이 달라집니다.)
 
-  + [ ] Sphere(구), Hemisphere(반구), Cone(원뿔), Donut(도넛), Box(박스), Mesh, Mesh Renderer, Skinned Mesh Renderer, Sprite, Sprite Renderer, Circle, Edge, Rectangle
+  + [ ] Sphere(구), Hemisphere(반구), Cone(원뿔), Donut(도넛), Box(박스)
 
-  + [ ] 
+  + [ ] Mesh, Mesh Renderer, Skinned Mesh Renderer
+
+  + [ ] Sprite, Sprite Renderer
+
+  + [ ] Circle, Edge, Rectangle
 
 - [X] Texture : 지정한 텍스처를 기반으로 파티클을 특정한 패턴으로 방출되게 할 수 있습니다. 적절한 텍스처 이미지를 사용하면 메시 기반의 방출보다 더 가벼우면서 복잡한 방출 패턴을 만들 수 있습니다.
 
