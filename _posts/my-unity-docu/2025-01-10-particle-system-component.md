@@ -7,7 +7,7 @@ excerpt: "Particle System Modules"
 
 <span style="color:gray">unity version 2022.3.7f1</span>
 
-# Main Module
+# 📌 Main
 {: .notice--warning}
 
 - [X] Duration : 파티클 시스템 생성이 지속되는 시간
@@ -104,16 +104,16 @@ excerpt: "Particle System Modules"
 
   + [ ] Loop Until Replaced : 수명을 다한 파티클이 특정한 수명 비율 지점으로 다시 돌아가며, Max Particle 한계에 도달하면 시스템에서 재활용하여 새 파티클로 다시 표시되게 합니다.
 
-# Emission
+# ⭐ Emission
 {: .notice--warning}
 
-이 모듈은 <span class="highlight-pencel-black">파티클의 생성 속도를 조절</span>하고, <span class="highlight-pencel-black">특정 타이밍에 파티클이 생성</span>되게 할 수 있습니다.
+이 모듈은 <span class="highlight-pencel-black">파티클의 생성 속도를 조절</span>하고, <span class="highlight-pencel-black">특정 타이밍에 파티클이 생성</span>되게 할 수 있습니다. 세 옵션은 각자 별개로 동시에 사용할 수 있습니다.
 
 - [X] Rate over Time : 초당 생성되는 파티클의 개수를 설정합니다.
 
 - [X] Rate over Distance : 파티클 시스템의 게임 오브젝트가 이동한 거리에 비례하여 파티클을 생성합니다.
 
-- [X] Bursts : 초당 생성되는 파티클의 개수와 별개로 한 순간에 다량의 파티클을 생성할 수 있습니다.
+- [X] Bursts : 한 순간에 다량의 파티클을 생성할 수 있습니다.
 
   + [ ] Time : Duration 동안에 버스트의 초당 Stary Delay를 설정합니다.
 
