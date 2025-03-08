@@ -10,13 +10,13 @@ excerpt: "Particle System Modules"
 # Main Module
 {: .notice--warning}
 
-- [X] Duration : 파티클 시스템이 실행되는 총 시간(초)입니다.
+- [X] Duration : 파티클 시스템 생성이 지속되는 시간
 
-- [X] Looping : Duration이 끝나도 자동으로 재실행합니다.
+- [X] Looping : Duration이 끝나는 시점을 기준으로 자동으로 Duration을 반복
 
-- [X] Prewarm : 처음 실행될 때 한 번 초기 상태를 준비하여 시작하자마자 파티클이 이미 퍼져 있는 것처럼 보이게 합니다. Looping 이 활성화되었을 때에만 작동합니다.
+  + [ ] Prewarm : 처음 실행될 때 한 번 초기 상태를 준비하여 시작하자마자 파티클이 이미 퍼져 있는 것처럼 보이게 합니다. Looping 이 활성화되었을 때에만 작동합니다.
 
-- [X] Start Delay : 파티클이 생성되기 전에 대기하는 시간(초)입니다.
+- [X] Start Delay : 파티클이 생성되기 전에 대기하는 시간
 
 - [X] Start Lifetime : 개별 파티클이 살아 있는 시간(초)입니다.
 
@@ -107,23 +107,23 @@ excerpt: "Particle System Modules"
 # Emission
 {: .notice--warning}
 
-이 모듈은 파티클의 생성 속도를 조절하고, 특정 이벤트 또는 타이밍에 따라 파티클을 생성합니다.
+이 모듈은 <span class="highlight-pencel-black">파티클의 생성 속도를 조절</span>하고, <span class="highlight-pencel-black">특정 타이밍에 파티클이 생성</span>되게 할 수 있습니다.
 
-- [X] Rate over Time : 초당 생성되는 파티클의 개수를 설정하는 값, 기본값: 10(초당 10개의 파티클 생성).
+- [X] Rate over Time : 초당 생성되는 파티클의 개수를 설정합니다.
 
-- [X] Rate over Distance : 파티클 시스템이 이동할 때, 이동한 거리만큼 비례하여 파티클을 생성(플레이어가 달릴 때 먼지가 날리는 효과 등).
+- [X] Rate over Distance : 파티클 시스템의 게임 오브젝트가 이동한 거리에 비례하여 파티클을 생성합니다.
 
-- [X] Bursts : 특정한 순간에 한 번에 여러 개의 파티클을 생성하는 기능.(Time = 0, Count = 100 → 시작하자마자 100개의 파티클을 생성)
+- [X] Bursts : 초당 생성되는 파티클의 개수와 별개로 한 순간에 다량의 파티클을 생성할 수 있습니다.
 
-  + [ ] Time : 언제(몇 초 후)에 버스트를 실행할지 설정
+  + [ ] Time : Duration 동안에 버스트의 초당 Stary Delay를 설정합니다.
 
-  + [ ] Count : 방출되는 파티클 수를 설정합니다.
+  + [ ] Count : 한순간에 버스트될 파티클의 개수를 설정합니다.
 
-  + [ ] Cycles : 버스트를 반복할 횟수를 설정합니다.
+  + [ ] Cycles : Duration 동안에 버스트를 반복할 횟수를 설정합니다.
   
-  + [ ] Interval : 반복되는 경우, 반복 주기 설정
+  + [ ] Interval : Cycles가 1이 아닌 2 이상이거나 Infinite인 경우 반복 주기를 초 단위로 설정합니다.
   
-  + [ ] Probability : 확률적으로 버스트가 발생하도록 설정합니다. 값을 ’1’로 설정하면 시스템이 100% 파티클을 생성합니다.
+  + [ ] Probability : 버스트가 확률에 따라 발생하도록 설정합니다.(값 "1" = 100% 확률)
 
 # Shape
 {: .notice--warning}
