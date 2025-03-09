@@ -14,7 +14,7 @@ excerpt: "Particle System Modules"
 
 - [X] Looping : Duration이 끝나는 시점을 기준으로 자동으로 Duration을 반복
 
-  + [ ] Prewarm : 처음 실행될 때 한 번 초기 상태를 준비하여 시작하자마자 파티클이 이미 퍼져 있는 것처럼 보이게 합니다. Looping 이 활성화되었을 때에만 작동합니다.
+  + [ ] Prewarm : 처음 실행될 때 이미 최대로 퍼져있는 상태로 시작합니다.(Looping 이 활성화되었을 때에만 작동합니다.)
 
 - [X] Start Delay : 파티클이 생성되기 전에 대기하는 시간
 
@@ -22,21 +22,21 @@ excerpt: "Particle System Modules"
 
 - [X] Start Speed : 파티클이 처음 생성될 때의 속도를 결정합니다. 0으로 설정하면 정지된 상태로 생성됩니다.
 
-- [X] 3D Start Size : 활성화하면 X, Y, Z 축 각각의 크기를 설정할 수 있습니다.
+- [X] 3D Start Size : 활성화하면 파티클이 생성될 때의 크기를 각각의 축마다 개별로 설정할 수 있습니다.
 
 - [X] Start Size : 각 파티클의 초기 크기입니다.
 
-- [X] 3D Start Rotation : 활성화하면 X, Y, Z 축별 회전을 개별적으로 설정할 수 있습니다.
+- [X] 3D Start Rotation : 활성화하면 파티클이 생성될 때의 회전을 각각의 축마다 개별로 설정할 수 있습니다.
 
-- [X] Start Rotation : 파티클이 생성될 때의 회전 값(라디안 단위)입니다.
+- [X] Start Rotation : 각 파티클의 초기 회전값입니다.
 
-- [X] Flip Rotation : 0~1 사이 값을 설정하여 파티클의 회전을 반전할 수 있습니다. 0이면 기본 방향, 1이면 180도 반전됩니다.
+- [X] Flip Rotation : 각 파티클의 회전을 확률적으로 반전시킬 수 있습니다.(0부터 1사이의 값으로, 0이면 기본 방향, 1이면 모든 파티클이 180도 반전됩니다. 그 사이의 값은 확률에 따라 각각의 파티클이 기본 방향, 180도 방향 중 결정됩니다.)
 
 - [X] Start Color : 각 파티클의 초기 컬러입니다.
 
-- [X] Gravity Source
+- [X] Gravity Source : 3D Physics, 2D Physics 중 선택합니다.
 
-- [X] Gravity Modifier : Physics 창에서 설정된 중력 값을 스케일합니다. 이 값을 0으로 하면 중력 효과가 해제됩니다. 양수면 중력이 아래로 작용, 음수면 위쪽으로 작용합니다.
+- [X] Gravity Modifier : Physics Manager에서 설정된 중력 값을 스케일합니다. 이 값을 0으로 하면 중력 효과가 해제됩니다. 양수면 중력이 아래로 작용, 음수면 위쪽으로 작용합니다.
 
 - [X] Simulation Space : 파티클의 움직임이 어느 공간을 기준으로 계산될지 설정합니다.
 
@@ -44,9 +44,9 @@ excerpt: "Particle System Modules"
 
   + [ ] World : 파티클이 월드 공간에서 애니메이션화되도록 합니다.
 
-  + [ ] Custom : 파티클이 커스텀 오브젝트에 대해 상대적으로 애니메이션화(선택한 커스텀 오브젝트와 함께 이동)되도록 합니다.
+  + [ ] Custom : 기준이 될 대상 오브젝트를 직접 지정해 파티클이 대상 오브젝트에 대해 상대적으로 애니메이션화(선택한 커스텀 오브젝트와 함께 이동)되도록 합니다.
 
-- [X] Simulation Speed : 파티클 시스템의 전체적인 속도를 조절합니다. 값이 1보다 크면 빠르게 실행, 1보다 작으면 느리게 실행됩니다.
+- [X] Simulation Speed : 파티클 시스템의 전체적인 속도를 조절합니다.(값이 1보다 크면 빠르게 실행, 1보다 작으면 느리게 실행됩니다.)
 
 - [X] Delta Time : 파티클의 움직임을 시간에 따라 어떻게 계산할지를 설정합니다.
 
@@ -56,27 +56,27 @@ excerpt: "Particle System Modules"
 
 - [X] Scaling Mode : 부모 오브젝트의 크기 조절이 파티클에 어떻게 적용될지를 설정합니다.
 
-  + [ ] Hierarchy : 부모의 크기 조절에 따라 파티클 크기도 조절됨.
+  + [ ] Hierarchy : 부모와 그 부모로부터, 계층 관계를 통해 곱해진 트랜스폼 최종 스케일이 파티클 크기에 영향을 주게 됩니다.
 
-  + [ ] Local : 파티클의 크기는 독립적으로 유지됨.
+  + [ ] Local : 해당 파티클 시스템이 위치한 게임 오브젝트의 트랜스폼의 스케일이 파티클 크기에 영향을 주게 됩니다.
 
-  + [ ] Shape : 파티클의 발사 방향이 부모의 크기에 따라 조정됨.
+  + [ ] Shape : Shape 모듈에서 설정한 스케일이 파티클의 크기에 영향을 주게 됩니다.
 
 - [X] Play On Awake : 활성화하면 파티클 시스템이 씬에서 활성화될 때 자동으로 실행됩니다. 비활성화하면 Play()를 호출해야 실행됩니다.
 
-- [X] Emitter Velocity Mode : 파티클 시스템이 Inherit Velocity 모듈과 Emission 모듈에 사용할 속도를 계산하는 방법을 선택합니다. 시스템은 Rigidbody 컴포넌트(존재하는 경우)를 사용하거나 트랜스폼 컴포넌트의 움직임을 추적하여 속도를 계산할 수 있습니다. Rigidbody 컴포넌트가 없는 경우 시스템은 기본적으로 트랜스폼 컴포넌트를 사용합니다.
+- [X] Emitter Velocity Mode : 파티클이 부모 오브젝트의 속도를 어떻게 계승할지 선택할 수 있습니다.(Rigidbody 컴포넌트가 없는 경우 시스템은 기본적으로 Transform 컴포넌트를 사용합니다.)
 
   + [ ] Transform : 부모 오브젝트의 Transform 이동 속도를 반영
 
-  + [ ] Rigidbody : 부모의 Rigidbody 속도를 반영
+  + [ ] Rigidbody : 부모 오브젝트의 Rigidbody 속도를 반영
 
-  + [ ] Custom
+  + [ ] Custom : 부모 오브젝트로부터 영향을 받지 않고, 직접 속도를 설정할 수 있습니다.
 
-- [X] Max Particles : 동시에 존재할 수 있는 최대 파티클 개수입니다. 이 값을 초과하면 오래된 파티클이 사라집니다.
+- [X] Max Particles : 동시에 존재할 수 있는 파티클의 최대 개수입니다.
 
-- [X] Auto Random Seed : 활성화하면 Unity가 자동으로 랜덤 시드를 설정하여 매번 다른 결과를 생성합니다. 비활성화하면 수동으로 시드를 설정하여 동일한 랜덤 결과를 유지할 수 있습니다.
+- [X] Auto Random Seed : 활성화하면 Unity가 랜덤 시드 값을 설정하여 매번 다른 결과를 생성합니다. 비활성화하면 직접 시드 값을 설정하여 동일한 랜덤 결과를 유지할 수 있습니다.
 
-- [X] Stop Action : 시스템에 속한 모든 파티클이 완료되어 시스템이 중지되었을 때 특정 동작을 수행하도록 설정할 수 있습니다. 시스템의 파티클이 모두 소멸되고 파티클의 수명이 지속 시간을 초과하면 시스템이 중지된 것으로 간주됩니다. 루프를 반복하는 시스템에서는 스크립트를 통해 중지되었을 때 중지된 것으로 간주됩니다.
+- [X] Stop Action : 시스템에 속한 모든 파티클이 완료되어 시스템이 중지되었을 때 특정 동작을 수행하도록 설정합니다.(시스템의 파티클이 모두 소멸되고 파티클의 수명이 지속 시간을 초과하면 시스템이 중지된 것으로 간주됩니다. 루프를 반복하는 시스템에서는 스크립트를 통해 중지되었을 때 중지된 것으로 간주됩니다.)
 
   + [ ] None
 
@@ -84,30 +84,30 @@ excerpt: "Particle System Modules"
 
   + [ ] Destroy : 게임 오브젝트를 파괴합니다.
 
-  + [ ] Callback : OnParticleSystemStopped 콜백을 게임 오브젝트에 연결된 스크립트로 전송합니다.
+  + [ ] Callback : 해당 게임 오브젝트에 존재하는 OnParticleSystemStopped() 메서드를 호출합니다.
 
-- [X] Culling Mode : 파티클이 화면을 벗어나면 파티클 시스템 시뮬레이션을 일시정지할지 여부를 선택합니다. 오프스크린인 경우 컬링이 가장 효율적이지만, 오프스크린 효과의 시뮬레이션을 지속하는 것이 좋습니다.
+- [X] Culling Mode : 파티클 시스템이 화면에서 벗어날 때 동작을 결정합니다.
 
-  + [ ] Automatic : Unity가 자동으로 적절한 컬링 방식을 선택합니다. 루핑 시스템은 Pause 를, 기타 모든 시스템은 Always Simulate 를 사용합니다.
+  + [ ] Automatic : Unity가 자동으로 적절한 컬링 방식을 선택합니다.(Looping 일 때는 Pause, 기타 모든 시스템은 Always Simulate를 사용합니다.)
 
-  + [ ] Pause and Catch-up : 시스템이 화면에서 벗어나면 시뮬레이션을 중단합니다. 뷰 안으로 다시 진입하면 시뮬레이션은 일시정지되지 않았다면 도달했을 포인트에 도달하기 위해 대규모 단계를 수행합니다. 복잡한 시스템의 경우 이 옵션을 설정하면 성능이 순간적으로 크게 저하될 수 있습니다.
+  + [ ] Pause and Catch-up : 시스템이 화면에서 벗어나면 시뮬레이션을 중단하고, 다시 포착될 경우 시뮬레이션이 일시정지되지 않았다면 도달했을 포인트부터 재생합니다.
 
-  + [ ] Pause : 시스템이 화면에서 벗어나면 시뮬레이션을 중단합니다.
+  + [ ] Pause : 시스템이 화면에서 벗어나면 시뮬레이션을 중단하고 다시 포착될 경우 중단된 곳부터 이어서 재생합니다.
 
-  + [ ] Always Simulate : 온스크린 여부와는 상관없이 시스템이 모든 프레임에서 시뮬레이션을 처리합니다. 시뮬레이션 시 명확하게 알아볼 수 있는 불꽃놀이와 같은 일회성 효과에 유용합니다.
+  + [ ] Always Simulate : 시스템이 화면에서 벗어나도 계속해서 재생합니다.
 
-- [X] Ring Buffer Mode : 파티클이 Max Particles 수에 도달할 때까지 파티클을 계속 활성화합니다. Max Particles 수에 도달하면 수명이 경과한 파티클을 제거하는 대신 가장 오래된 파티클을 재활용하여 새 파티클을 생성합니다.
+- [X] Ring Buffer Mode : 파티클이 Max Particles 수에 도달했을 때 파티클의 수명에 따라 파티클을 재활용하여 새 파티클을 생성할 수 있습니다.
 
-  + [ ] Disabled : 시스템이 수명이 경과한 파티클을 제거하도록 Ring Buffer Mode 를 비활성화합니다.
+  + [ ] Disabled : Max Particle 수에 도달하면 초과해서 새 파티클을 생성하지 않고, 파티클은 수명이 다 됐을 때 제거합니다.
 
-  + [ ] Pause Until Replaced : 수명을 다한 오래된 파티클을 일시정지했다가 Max Particle 한계에 도달하면 시스템에서 재활용하여 새 파티클로 다시 표시되게 합니다.
+  + [ ] Pause Until Replaced : Max Particle 수에 도달하고 새 파티클이 생성될 때, 수명이 제일 오래된 파티클을 바로 일시정지하고 재활용합니다.
 
-  + [ ] Loop Until Replaced : 수명을 다한 파티클이 특정한 수명 비율 지점으로 다시 돌아가며, Max Particle 한계에 도달하면 시스템에서 재활용하여 새 파티클로 다시 표시되게 합니다.
+  + [ ] Loop Until Replaced : Max Particle 수에 상관없이 일단 새 파티클이 생성되며, 새 파티클이 필요할 때 Max Particle 수에 도달하고 수명이 다 한 파티클이 있을 경우에만 재활용합니다. 이때 재활용되지 않은 파티클은 수명이 다해도 사라지지 않고 계속해서 반복됨에 주의해야 합니다.
 
 # ⭐ Emission
 {: .notice--warning}
 
-이 모듈은 <span class="highlight-pencel-black">파티클의 생성 속도를 조절</span>하고, <span class="highlight-pencel-black">특정 타이밍에 파티클이 생성</span>되게 할 수 있습니다. 세 옵션은 각자 별개로 동시에 사용할 수 있습니다.
+📢 이 모듈은 <span class="highlight-pencel-black">파티클의 생성 속도를 조절</span>하고, <span class="highlight-pencel-black">특정 타이밍에 파티클이 생성</span>되게 할 수 있습니다. 세 옵션은 각자 별개로 동시에 사용할 수 있습니다.
 
 - [X] Rate over Time : 초당 생성되는 파티클의 개수를 설정합니다.
 
@@ -128,23 +128,27 @@ excerpt: "Particle System Modules"
 # ⭐ Shape
 {: .notice--warning}
 
-이 모듈은 파티클이 방출되는 모양, 위치, 방향, 범위를 지정합니다.
+📢 이 모듈은 <span class="highlight-pencel-black">파티클이 방출되는 모양, 위치, 방향, 범위를 지정</span>합니다.
 
 - [X] Shape : 파티클이 방출되는 모양을 지정합니다.(모양에 따라 파티클이 방출되는 Direction, Position이 달라집니다.)
 
   + [ ] Sphere(구), Hemisphere(반구), Cone(원뿔), Donut(도넛), Box(박스)
 
-  + [ ] Mesh, Mesh Renderer, Skinned Mesh Renderer
+  + [ ] Mesh : 3D 모델(Mesh)의 표면에서 파티클을 방출할 수 있습니다.
 
-  + [ ] Sprite, Sprite Renderer
+  + [ ] Mesh Renderer : 특정한 Mesh Renderer를 가진 오브젝트에서 파티클을 방출할 수 있습니다. Mesh와 비슷하지만, 게임 오브젝트에 연결된 Renderer를 참조합니다.
+  
+  + [ ] Skinned Mesh Renderer : 애니메이션이 적용된 캐릭터의 Skinned Mesh에서 파티클을 방출할 수 있습니다.
 
-  + [ ] Circle, Edge, Rectangle
+  + [ ] Sprite, Sprite Renderer : Sprite 이미지, Sprite Renderer에서 파티클을 방출할 수 있습니다. 주로 2D 게임에서 사용됩니다.
+
+  + [ ] Circle(원, 2D 평면), Edge(직선), Rectangle(사각형, 2D 평면)
 
 - [X] Texture : 지정한 텍스처를 기반으로 파티클을 특정한 패턴으로 방출되게 할 수 있습니다. 적절한 텍스처 이미지를 사용하면 메시 기반의 방출보다 더 가벼우면서 복잡한 방출 패턴을 만들 수 있습니다.
 
 - [X] Position, Rotation, Scale : Shape의 위치, 방향, 영역을 조절합니다.(트랜스폼의 기능과 일치하지만 트랜스폼은 게임 오브젝트에 적용되는 부분에 차이가 있습니다.)
 
-- [X] Align To Direction : 방출된 파티클이 빌보드가 아닌 방출된 방향으로 정렬되어 항상 이동하는 방향을 바라보도록 설정합니다.
+- [X] Align To Direction : 방출된 파티클이 방출된 방향으로 정렬되어 항상 이동하는 방향을 바라보도록 설정합니다.(파티클이 빌보드일 경우 빌보드를 무시합니다.)
 
 - [X] Randomize Direction : 파티클의 이동 방향이 무작위가 되도록 블렌드합니다.(0부터 1까지의 값으로, 0으로 설정하면 아무런 영향도 미치지 않고, 1로 설정하면 파티클의 이동 방향이 완전히 무작위로 변경됩니다.)
 
@@ -229,12 +233,12 @@ excerpt: "Particle System Modules"
 
 - [X] Randomize : X, Y, Z에서 두 개의 상수 또는 두 개의 커브 모드를 사용하면 정의된 범위의 각 프레임에서 새로운 힘의 방향이 선택됩니다. 이를 통해 더 요동을 치고 예상할 수 없는 움직임을 만들어 낼 수 있습니다.
 
-# Color over Lifetime
+# 🔥 Color over Lifetime
 {: .notice--warning}
 
-자연적이고 환상적인 타입의 파티클은 시간이 지남에 따라 컬러가 다양하게 변화하므로 다양한 목적으로 이 프로퍼티를 사용할 수 있습니다. 예를 들어, 흰색 고온 불꽃은 공기를 통과하면서 점점 차가워지고, 마법 주문을 외우면 무지개 빛 불꽃이 튀어나올 수 있습니다. 알파(투명도)의 변화도 마찬가지로 중요합니다. 파티클은 수명이 다할 때, 타거나 퇴색하거나 소멸되는 현상(예: 뜨거운 불꽃, 폭죽, 연기 파티클)이 일반적으로 발생하며 단순한 감소 그레디언트가 이런 효과를 만들어냅니다.
+📢 이 모듈은 <span class="highlight-pencel-black">퇴색되거나 소멸되는 파티클(불꽃, 연기, 폭죽 등)</span>에 사용할 수 있습니다.
 
-- [X] Color : 수명 주기 동안 변화하는 파티클의 컬러 그레디언트입니다. 그레디언트 바의 맨 왼쪽 부분은 파티클 수명의 시작을 나타내며 그레디언트 바의 맨 오른쪽 부분은 파티클 수명이 끝났음을 나타냅니다. 그레디언트 바의 상단은 알파 값(A), 하단은 컬러(RGB)를 설정할 수 있습니다.
+- [X] Color : 수명 주기 동안 변화하는 파티클의 컬러 그레디언트를 설정합니다. 그레디언트 바의 좌측 끝은 파티클 수명의 시작을 나타내며 우측 끝은 파티클 수명이 끝났음을 나타냅니다. 그레디언트 바의 상단에서 알파 값(A), 하단에서 컬러(RGB)를 설정할 수 있습니다.
 
 # Color by Speed
 {: .notice--warning}
@@ -389,6 +393,64 @@ excerpt: "Particle System Modules"
 # 📌 Renderer
 {: .notice--warning}
 
-렌더러 모듈의 설정에 따라 파티클의 이미지나 메시가 다른 파티클에 의해 어떻게 변환되고 음영 처리되고 덮어 쓰여지는지 결정됩니다.
+📢 이 모듈은 <span class="highlight-pencel-black">파티클의 이미지를 결정</span>, <span class="highlight-pencel-black">그림자를 생성하고 조절</span>하거나 <span class="highlight-pencel-black">다른 오브젝트의 그림자에 의해 영향을 받을지 설정</span>합니다. 또한 <span class="highlight-pencel-black">파티클에 모션 블러를 적용</span>할 수 있고, <span class="highlight-pencel-black">라이트 프로브나 리플렉션 프로브로부터 영향을 받을지를 결정</span>합니다. <span class="highlight-pencel-black">2D 환경에서 파티클의 정렬을 결정</span>할 수도 있습니다.
 
-렌더 모드를 사용하여 여러 가지 2D 빌보드 그래픽 모드와 메시 모드 중에서 선택할 수 있습니다. 3D 메시는 암석과 같은 견고한 게임 오브젝트를 표현할 때 파티클을 더욱 확실하게 해주며 또한 구름, 불 덩어리, 액체의 볼륨감도 향상시킬 수 있습니다. 파티클 시스템의 Mesh 렌더 모드에서 작업할 수 있도록 메시는 반드시 읽기/쓰기가 가능해야 합니다. 메시를 파티클 시스템에 할당하면(인스펙터 창의 Meshes 리스트를 사용) Unity는 자동으로 해당 메시에 대한 설정을 읽기/쓰기가 가능하도록 활성화합니다.
+- [X] Render Mode : 파티클이 화면에 그려지는 방식을 설정합니다.
+
+  + [ ] Billboard : 파티클이 항상 카메라를 향하도록 렌더링
+
+  + [ ] Stretch Billboard : 파티클이 이동 방향으로 길게 늘어나며 렌더링
+
+  + [ ] Horizontal Billboard : 파티클이 X-Z 평면(지면)에 평행한 상태로 렌더링
+
+  + [ ] Vertical Billboard : 파티클이 Y축을 기준으로 세워진 상태로 렌더링
+
+  + [ ] Mesh : 3D Mesh를 파티클로 렌더링
+
+  + [ ] None : 파티클을 렌더링하지 않음
+
+- [X] Cast Shadows : 파티클이 그림자를 생성할지 결정합니다.
+
+  + [ ] Off
+
+  + [ ] On
+
+  + [ ] Two Sided : 앞면과 뒷면 모두 그림자를 생성
+
+  + [ ] Shadows Only : 파티클은 숨긴 채 그림자만 생성
+
+- [X] Receive Shadows : 파티클이 다른 오브젝트의 그림자에 영향을 받을지 설정합니다.
+
+- [X] Shadow Bias : 그림자가 얼마나 정확하게 생성될지 조정하는 값입니다. 낮은 값일수록 그림자가 오브젝트 가까이에 생기고, 높은 값일수록 그림자가 멀리 생깁니다.(그림자가 너무 가까우면 Shadow Acne. 그림자가 깨지는 현상이 발생할 수 있고, 너무 멀리 떨어지면 Peter Panning. 그림자가 떠 보이는 현상이 생길 수 있습니다.)
+
+- [X] Motion Vectors : 파티클에 모션 블러를 적용합니다.
+
+  + [ ] Camera Motion Only : 카메라가 움직일 때만 모션 블러 적용
+
+  + [ ] Per Object Motion : 개별 파티클 자체의 속도에 따라 모션 블러 적용
+
+  + [ ] Force No Motion : 모션 벡터를 사용하지 않음
+
+- [X] Sorting Layer ID : 2D 환경에서 파티클의 Sorting Layer를 결정합니다.
+
+- [X] Order in Layer : 같은 Sorting Layer 내에서의 순서를 결정합니다.
+
+- [X] Light Probes : 파티클이 라이트 프로브로부터 영향을 받을지 결정합니다.
+
+  + [ ] Off
+
+  + [ ] Blend Probes : 주변 라이트 프로브 값을 블렌딩해 조명 변화를 적용합니다.
+
+  + [ ] Use Proxy volume : 더 정교한 조명 정보를 적용하는 Light Probe Proxy Volume을 사용합니다.
+
+  + [ ] Custom Provided : 스크립트에서 직접 라이트 프로브 데이터를 제공합니다.
+
+- [X] Reflection Probes : 파티클이 반사 프로브로부터 영향을 받을지 결정합니다.
+
+  + [ ] Off
+
+  + [ ] Blend Probes : 여러 개의 반사 프로브를 블렌딩해 반사 효과를 적용합니다.
+
+  + [ ] Blend Probes And Skybox : 반사 프로브와 스카이박스 반사 효과를 함께 적용합니다.
+
+  + [ ] Simple : 가장 가까운 반사 프로브의 값을 적용합니다.
