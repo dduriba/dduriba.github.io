@@ -12,7 +12,7 @@ excerpt: "Particle System Modules"
 
 - [X] Duration : 파티클 시스템 생성이 지속되는 시간
 
-- [X] Looping : Duration이 끝나는 시점을 기준으로 자동으로 Duration을 반복
+- [X] Looping : Duration이 끝나는 시점을 기준으로 자동으로 Duration을 반복합니다.
 
   + [ ] Prewarm : 처음 실행될 때 이미 최대로 퍼져있는 상태로 시작합니다.(Looping 이 활성화되었을 때에만 작동합니다.)
 
@@ -24,15 +24,15 @@ excerpt: "Particle System Modules"
 
 - [X] 3D Start Size : 활성화하면 파티클이 생성될 때의 크기를 각각의 축마다 개별로 설정할 수 있습니다.
 
-- [X] Start Size : 각 파티클의 초기 크기입니다.
+- [X] Start Size : 각 파티클의 초기 크기를 설정합니다.
 
-- [X] 3D Start Rotation : 활성화하면 파티클이 생성될 때의 회전을 각각의 축마다 개별로 설정할 수 있습니다.
+- [X] 3D Start Rotation : 활성화하면 파티클이 생성될 때의 회전 값을 각각의 축마다 개별로 설정할 수 있습니다.
 
-- [X] Start Rotation : 각 파티클의 초기 회전값입니다.
+- [X] Start Rotation : 각 파티클의 초기 회전 값을 설정합니다.
 
 - [X] Flip Rotation : 각 파티클의 회전을 확률적으로 반전시킬 수 있습니다.(0부터 1사이의 값으로, 0이면 기본 방향, 1이면 모든 파티클이 180도 반전됩니다. 그 사이의 값은 확률에 따라 각각의 파티클이 기본 방향, 180도 방향 중 결정됩니다.)
 
-- [X] Start Color : 각 파티클의 초기 컬러입니다.
+- [X] Start Color : 각 파티클의 초기 컬러를 설정합니다.
 
 - [X] Gravity Source : 3D Physics, 2D Physics 중 선택합니다.
 
