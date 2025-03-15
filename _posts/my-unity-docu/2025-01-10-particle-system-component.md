@@ -16,6 +16,7 @@ excerpt: "Particle System Modules"
 
   + [ ] Prewarm : 처음 실행될 때 이미 최대로 퍼져있는 상태로 시작합니다.(Looping 이 활성화되었을 때에만 작동합니다.)
 
+
 - [X] Start Delay : 파티클이 생성되기 전에 대기하는 시간
 
 - [X] Start Lifetime : 개별 파티클이 살아 있는 시간(초)입니다.
