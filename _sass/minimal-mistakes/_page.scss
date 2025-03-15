@@ -114,7 +114,10 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    // font-size: 1em;
+    margin: 0 0 0.5em !important;
+    font-size: 16px !important;
+    color: black !important;
   }
 
   /* paragraph indents */
