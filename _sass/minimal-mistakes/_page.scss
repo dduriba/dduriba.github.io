@@ -112,23 +112,17 @@ body {
 	}
 
   p,
+  li,
   dl {
     font-size: 1em;
-  }
-
-  li {
-    // font-size: 1em;
-    margin: 0 0 0.5em !important;
-    font-size: 16px !important;
-    color: black !important;
   }
 
   /* paragraph indents */
   p {
     // margin: 0 0 $indent-var;
-    margin: 0 0 0.5em !important;
-    font-size: 16px !important;
-    color: black !important;
+    margin: 0 0 0.5em;
+    font-size: 16px;
+    color: black;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
