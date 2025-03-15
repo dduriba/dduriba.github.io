@@ -120,9 +120,9 @@ body {
   /* paragraph indents */
   p {
     // margin: 0 0 $indent-var;
-    margin: 0 0 0.5em;
-    font-size: 16px;
-    color: black;
+    margin: 0 0 0.5em !important;
+    font-size: 16px !important;
+    color: black !important;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
