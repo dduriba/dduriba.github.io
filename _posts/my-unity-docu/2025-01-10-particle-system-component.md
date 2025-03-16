@@ -12,9 +12,9 @@ excerpt: "Particle System Modules"
 
 - [X] Duration : 파티클 시스템 생성이 지속되는 시간
 
-- [X] Looping : Duration이 끝나는 시점을 기준으로 자동으로 Duration을 반복합니다.
+- [X] Looping : Duration이 끝나는 시점을 기준으로 자동으로 Duration을 반복합니다.<br>
 
-  - [ ] Prewarm : 처음 실행될 때 이미 최대로 퍼져있는 상태로 시작합니다.(Looping 이 활성화되었을 때에만 작동합니다.)
+  + [ ] Prewarm : 처음 실행될 때 이미 최대로 퍼져있는 상태로 시작합니다.(Looping 이 활성화되었을 때에만 작동합니다.)
 
 - [X] Start Delay : 파티클이 생성되기 전에 대기하는 시간
 
