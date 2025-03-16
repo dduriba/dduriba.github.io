@@ -236,7 +236,7 @@ excerpt: "Particle System Modules"
 
   + [ ] Separate Axes : Size 프로퍼티를 각 축마다 설정합니다.
 
-# Size by Speed
+# 📝 Size by Speed
 {: .notice--warning}
 
 - [X] Size : 파티클의 속도에 따라 파티클의 크기를 설정합니다.
@@ -245,15 +245,21 @@ excerpt: "Particle System Modules"
 
   + [ ] Speed Range : Size 프로퍼티의 X 축인 Min-Max Normalization될 범위(Min, Max)를 설정합니다. 범위를 벗어난 값은 Min, Max 값에 해당됩니다.
 
-# Rotation over Lifetime
+# 📝 Rotation over Lifetime
 {: .notice--warning}
 
+- [X] Angular Velocity : 파티클의 수명 주기에 따라 파티클을 회전시키고 회전 속도를 설정합니다.
 
+  + [ ] Separate Axes : Angular Velocity 프로퍼티를 각 축마다 설정합니다.
 
-# Rotation by Speed
+# 📝 Rotation by Speed
 {: .notice--warning}
 
+- [X] Angular Velocity : Constant 모드로 둘 경우 파티클의 속도에 상관없이 설정한 값으로 회전합니다. Curve 모드로 둘 경우 Speed Range를 기준으로 설정한 값에 따라 회전합니다.
 
+  + [ ] Separate Axes : Angular Velocity 프로퍼티를 각 축마다 설정합니다.
+
+  + [ ] Speed Range : Angular Velocity 프로퍼티의 X 축인 Min-Max Normalization될 범위(Min, Max)를 설정합니다. 범위를 벗어난 값은 Min, Max 값에 해당됩니다. Angular Velocity 프로퍼티의 설정이 Curve 모드로 되어있을 때 활성화할 수 있습니다.
 
 # External Forces
 {: .notice--warning}
