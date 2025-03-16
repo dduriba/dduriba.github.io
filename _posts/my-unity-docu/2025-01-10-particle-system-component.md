@@ -232,14 +232,18 @@ excerpt: "Particle System Modules"
 # 🔝 Size over Lifetime
 {: .notice--warning}
 
-- [X] Separate Axes : Size 프로퍼티를 각 축마다 설정합니다.
-
 - [X] Size : 파티클의 수명 주기에 따라 파티클의 크기를 설정합니다.
+
+  + [ ] Separate Axes : Size 프로퍼티를 각 축마다 설정합니다.
 
 # Size by Speed
 {: .notice--warning}
 
+- [X] Size : 파티클의 속도에 따라 파티클의 크기를 설정합니다.
 
+  + [ ] Separate Axes : Size 프로퍼티를 각 축마다 설정합니다.
+
+  + [ ] Speed Range : Size 프로퍼티의 X 축인 Min-Max Normalization될 범위(Min, Max)를 설정합니다. 범위를 벗어난 값은 Min, Max 값에 해당됩니다.
 
 # Rotation over Lifetime
 {: .notice--warning}
