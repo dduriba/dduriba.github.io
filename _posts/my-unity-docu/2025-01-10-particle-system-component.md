@@ -192,12 +192,12 @@ excerpt: "Particle System Modules"
 
   + [ ] Multiply by Velocity : 활성화하면 파티클의 속도에 따라 항력의 영향을 더 많이 받습니다.
 
-# Inherit Velocity
+# 🚧🛠️🚧 Inherit Velocity 🚧🛠️🚧
 {: .notice--warning}
 
 
 
-# Lifetime by Emitter Speed
+# 🚧🛠️🚧 Lifetime by Emitter Speed 🚧🛠️🚧
 {: .notice--warning}
 
 
@@ -261,7 +261,7 @@ excerpt: "Particle System Modules"
 
   + [ ] Speed Range : Angular Velocity 프로퍼티의 X 축인 Min-Max Normalization될 범위(Min, Max)를 설정합니다. 범위를 벗어난 값은 Min, Max 값에 해당됩니다. Angular Velocity 프로퍼티의 설정이 Curve 모드로 되어있을 때 활성화할 수 있습니다.
 
-# External Forces
+# 🚧🛠️🚧 External Forces 🚧🛠️🚧
 {: .notice--warning}
 
 
@@ -299,12 +299,12 @@ excerpt: "Particle System Modules"
 
 - [X] Size Amount : 노이즈가 파티클 크기에 영향을 주는 정도를 설정합니다.
 
-# Collision
+# 🚧🛠️🚧 Collision 🚧🛠️🚧
 {: .notice--warning}
 
 
 
-# Triggers
+# 🚧🛠️🚧 Triggers 🚧🛠️🚧
 {: .notice--warning}
 
 
@@ -396,12 +396,12 @@ excerpt: "Particle System Modules"
 
 - [X] Maximum Lights : 동시에 존재할 수 있는 라이트 파티클의 개수를 제한합니다.
 
-# Trails
+# 🚧🛠️🚧 Trails 🚧🛠️🚧
 {: .notice--warning}
 
 
 
-# Custom Data
+# 🚧🛠️🚧 Custom Data 🚧🛠️🚧
 {: .notice--warning}
 
 
