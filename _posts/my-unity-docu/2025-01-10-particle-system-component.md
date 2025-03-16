@@ -104,7 +104,7 @@ excerpt: "Particle System Modules"
 
   + [ ] Loop Until Replaced : Max Particle 수에 상관없이 일단 새 파티클이 생성되며, 새 파티클이 필요할 때 Max Particle 수에 도달하고 수명이 다 한 파티클이 있을 경우에만 재활용합니다. 이때 재활용되지 않은 파티클은 수명이 다해도 사라지지 않고 계속해서 반복됨에 주의해야 합니다.
 
-# ⭐ Emission
+# 📌 Emission
 {: .notice--warning}
 
 📢 이 모듈은 <span class="highlight-pencel-black">파티클의 생성 속도를 조절</span>하고, <span class="highlight-pencel-black">특정 타이밍에 파티클이 생성</span>되게 할 수 있습니다. 세 옵션은 각자 별개로 동시에 사용할 수 있습니다.
@@ -125,7 +125,7 @@ excerpt: "Particle System Modules"
   
   + [ ] Probability : 버스트가 확률에 따라 발생하도록 설정합니다.(값 "1" = 100% 확률)
 
-# ⭐ Shape
+# 🏆 Shape
 {: .notice--warning}
 
 📢 이 모듈은 <span class="highlight-pencel-black">파티클이 방출되는 모양, 위치, 방향, 범위를 지정</span>합니다.
@@ -156,7 +156,7 @@ excerpt: "Particle System Modules"
 
 - [X] Randomzie Position : 파티클의 방출 위치에 무작위성을 추가합니다.(0으로 설정하면 아무런 영향도 미치지 않고, 0보다 높은 값으로 설정하면 설정한 값 만큼 파티클 생성 위치에 무작위성이 적용됩니다.)
 
-# Velocity over Lifetime
+# 🚀 Velocity over Lifetime
 {: .notice--warning}
 
 📢 이 모듈은 <span class="highlight-pencel-black">파티클에 선형 속도를 추가</span>할 수 있고 <span class="highlight-pencel-black">질량중심을 설정해 파티클을 공전시킬 수도 있고 빨아들이거나 밀어낼</span> 수도 있습니다.
@@ -173,7 +173,7 @@ excerpt: "Particle System Modules"
 
 - [X] Speed Modifier : 파티클의 속도 배율을 설정합니다.
 
-# 🔥 Limit Velocity over Lifetime
+# 🏆 Limit Velocity over Lifetime
 {: .notice--warning}
 
 📢 이 모듈은 <span class="highlight-pencel-black">파티클의 속도를 제한하고 파티클에 항력</span>을 설정할 수 있습니다.
@@ -202,7 +202,7 @@ excerpt: "Particle System Modules"
 
 
 
-# 🔥 Force over Lifetime
+# 🏆 Force over Lifetime
 {: .notice--warning}
 
 📢 이 모듈은 <span class="highlight-pencel-black">파티클에 힘을 설정</span>합니다. <span class="highlight-pencel-black">파티클에 중력을 받는 환경</span>을 만드는 데 사용할 수 있습니다.
@@ -213,14 +213,14 @@ excerpt: "Particle System Modules"
 
 - [X] Randomize : 활성화할 경우 Force에 설정된 값이 랜덤으로 되어있다면 매 프레임마다 값을 갱신합니다.
 
-# 🔥 Color over Lifetime
+# 🏆 Color over Lifetime
 {: .notice--warning}
 
 📢 이 모듈은 <span class="highlight-pencel-black">퇴색되거나 소멸되는 파티클(불꽃, 연기, 폭죽 등)</span>에 사용할 수 있습니다.
 
 - [X] Color : 수명 주기 동안 변화하는 파티클의 컬러 그레디언트를 설정합니다. 그레디언트 바의 좌측 끝은 파티클 수명의 시작을 나타내며 우측 끝은 파티클 수명이 끝났음을 나타냅니다. 그레디언트 바의 상단에서 알파 값(A), 하단에서 컬러(RGB)를 설정할 수 있습니다.
 
-# 🔥 Color by Speed
+# 🏆 Color by Speed
 {: .notice--warning}
 
 📢 이 모듈은 <span class="highlight-pencel-black">빠르게 움직일수록 색이 변하는 파티클(연기 등)</span>에 사용할 수 있습니다.
@@ -229,7 +229,7 @@ excerpt: "Particle System Modules"
 
 - [X] Speed Range : 컬러 그레디언트가 매핑될 속도 범위의 최솟값 및 최댓값을 설정합니다.(범위 밖의 속도는 그레디언트의 끝에 매핑됩니다.)
 
-# 🔥 Size over Lifetime
+# 🏆 Size over Lifetime
 {: .notice--warning}
 
 - [X] Separate Axes : Size 프로퍼티를 각 축마다 설정합니다.
@@ -256,7 +256,7 @@ excerpt: "Particle System Modules"
 
 
 
-# Noise
+# 🔥 Noise
 {: .notice--warning}
 
 📢 이 모듈은 <span class="highlight-pencel-black">파티클의 위치, 회전, 크기에 대해 불규칙적으로 부드럽거나 역동적인 변화(도깨비불 등)</span>를 줄 수 있습니다.
@@ -299,7 +299,7 @@ excerpt: "Particle System Modules"
 
 
 
-# Sub Emitters
+# 🎭 Sub Emitters
 {: .notice--warning}
 
 - [X] Event Condition
@@ -332,7 +332,7 @@ excerpt: "Particle System Modules"
 
 - [X] Emit Probability : 각 파티클이 서브 이미터를 가질 확률을 설정합니다.(0부터 1사이의 값으로, 0.5는 50% 확률로 파티클이 방출될 때 해당 파티클이 서브 이미터를 가집니다.)
 
-# 🔥 Texture Sheet Animation
+# 🏆 Texture Sheet Animation
 {: .notice--warning}
 
 - [X] Mode
@@ -365,7 +365,7 @@ excerpt: "Particle System Modules"
   
   + [ ] : UV3
 
-# 🔥 Lights
+# 💡 Lights
 {: .notice--warning}
 
 - [X] Light : 라이트 오브젝트(프리팹)를 할당합니다.
