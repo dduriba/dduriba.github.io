@@ -197,10 +197,12 @@ excerpt: "Particle System Modules"
 
 
 
-# 🚧🛠️🚧 Lifetime by Emitter Speed 🚧🛠️🚧
+# 📝 Lifetime by Emitter Speed
 {: .notice--warning}
 
+- [X] Multiplier : Constant 모드로 둘 경우 방출기의 속도에 상관없이 설정한 값으로 수명 주기의 배율을 설정합니다.(값이 0.1일 경우 기존 수명 주기 대비 10%, 3일 경우는 기존 수명 주기 대비 세배가 됩니다.) Curve 모드로 둘 경우 Speed Range를 기준으로 설정한 값에 따라 수명 주기의 배율을 설정합니다.(Curve 모드일 때 Y 축의 수명 주기 배율의 최댓값은 Constant 모드의 값으로 지정할 수 있습니다.)
 
+  + [ ] Speed Range : Multiplier 프로퍼티의 X 축인 Min-Max Normalization될 범위(Min, Max)를 설정합니다. 범위를 벗어난 값은 Min, Max 값에 해당됩니다. Multiplier 프로퍼티의 설정이 Curve 모드로 되어있을 때 적용됩니다.
 
 # 🔝 Force over Lifetime
 {: .notice--warning}
