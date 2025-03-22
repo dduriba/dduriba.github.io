@@ -71,7 +71,7 @@ excerpt: "단축키 등 뷰포트, 오브젝트 간단한 컨트롤 배우기"
 
 👆 ➡️ <span class="block-darkgrey">S</span> 선택된 오브젝트의 Scale을 수정합니다.
 
-👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Scale을 해당 축만 수정합니다.(<span class="block-darkgrey">X or Y or Z</span>같은 축을 한 번 더 선택할 경우 <span class="block-lightgreen">Global</span> ➡️ <span class="block-lightgreen">Local</span> 기준으로 전환합니다. 직접 값을 배율로 할당할 수도 있습니다.)
+👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Scale을 해당 축만 수정합니다.(<span class="block-darkgrey">X or Y or Z</span> 같은 축을 한 번 더 선택할 경우 <span class="block-lightgreen">Global</span> ➡️ <span class="block-lightgreen">Local</span> 기준으로 전환합니다. 직접 값을 배율로 할당할 수도 있습니다.)
 
 👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Scale을 해당 축을 제외하고 수정합니다.(<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">X or Y or Z</span> 같은 축을 한 번 더 선택할 경우 <span class="block-lightgreen">Global</span> ➡️ <span class="block-lightgreen">Local</span> 기준으로 전환합니다. 직접 값을 배율로 할당할 수도 있습니다.)
 
