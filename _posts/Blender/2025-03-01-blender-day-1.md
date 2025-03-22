@@ -47,9 +47,9 @@ excerpt: "단축키 등 뷰포트, 오브젝트 간단한 컨트롤 배우기"
 
 👆 ➡️ <span class="block-darkgrey">G</span> 선택된 오브젝트의 Location을 수정합니다.
 
-👆 ➡️ <span class="block-darkgrey">G</span> ➡️ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Location을 해당 축만 수정합니다.(<span class="block-darkgrey">X or Y or Z</span> 같은 축을 한 번 더 누를 경우 <span class="block-lightgreen">Global</span> 🔜 <span class="block-lightgreen">Local</span> 기준으로 전환합니다. 직접 값을 할당할 수도 있습니다.)
+👆 ➡️ <span class="block-darkgrey">G</span> ➡️ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Location을 해당 축만 수정합니다.(<span class="block-darkgrey">X or Y or Z</span> 같은 축을 한 번 더 누를 경우 <span class="block-lightgreen">Global</span> ➡️ <span class="block-lightgreen">Local</span> 기준으로 전환합니다. 직접 값을 할당할 수도 있습니다.)
 
-👆 ➡️ <span class="block-darkgrey">G</span> ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Location을 해당 축을 제외하고 수정합니다.(<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">X or Y or Z</span> 같은 축을 한 번 더 누를 경우 Global에서 Local 기준으로 전환합니다.)
+👆 ➡️ <span class="block-darkgrey">G</span> ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Location을 해당 축을 제외하고 수정합니다.(<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">X or Y or Z</span> 같은 축을 한 번 더 누를 경우 <span class="block-lightgreen">Global</span> ➡️ <span class="block-lightgreen">Local</span> 기준으로 전환합니다.)
 
 👆 ➡️ <span class="block-darkgrey">Alt</span> ➕ <span class="block-darkgrey">G</span> 선택된 오브젝트의 Location을 초기화합니다.
 
@@ -60,7 +60,7 @@ excerpt: "단축키 등 뷰포트, 오브젝트 간단한 컨트롤 배우기"
 
 👆 ➡️ <span class="block-darkgrey">R</span> 선택된 오브젝트의 Rotation을 수정합니다.
 
-👆 ➡️ <span class="block-darkgrey">R</span> ➡️ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Rotation을 해당 축을 기준으로 회전합니다.(해당 축을 한번 더 누를 경우 Global에서 Local 기준으로 전환합니다. 직접 값을 할당할 수도 있습니다.)
+👆 ➡️ <span class="block-darkgrey">R</span> ➡️ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Rotation을 해당 축을 기준으로 회전합니다.(해당 축을 한번 더 누를 경우 <span class="block-lightgreen">Global</span> ➡️ <span class="block-lightgreen">Local</span> 기준으로 전환합니다. 직접 값을 할당할 수도 있습니다.)
 
 👆 ➡️ <span class="block-darkgrey">Alt</span> ➕ <span class="block-darkgrey">R</span> 선택된 오브젝트의 Rotation을 초기화합니다.
 
@@ -71,9 +71,9 @@ excerpt: "단축키 등 뷰포트, 오브젝트 간단한 컨트롤 배우기"
 
 👆 ➡️ <span class="block-darkgrey">S</span> 선택된 오브젝트의 Scale을 수정합니다.
 
-👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Scale을 해당 축만 수정합니다.(해당 축을 한번 더 누를 경우 Global에서 Local 기준으로 전환합니다. 직접 값을 배율로 할당할 수도 있습니다.)
+👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Scale을 해당 축만 수정합니다.(해당 축을 한번 더 누를 경우 <span class="block-lightgreen">Global</span> ➡️ <span class="block-lightgreen">Local</span> 기준으로 전환합니다. 직접 값을 배율로 할당할 수도 있습니다.)
 
-👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Scale을 해당 축을 제외하고 수정합니다.(Shift ➕ 해당 축을 한번 더 누를 경우 Global에서 Local 기준으로 전환합니다. 직접 값을 배율로 할당할 수도 있습니다.)
+👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">X or Y or Z</span> 선택된 오브젝트의 Scale을 해당 축을 제외하고 수정합니다.(Shift ➕ 해당 축을 한번 더 누를 경우 <span class="block-lightgreen">Global</span> ➡️ <span class="block-lightgreen">Local</span> 기준으로 전환합니다. 직접 값을 배율로 할당할 수도 있습니다.)
 
 👆 ➡️ <span class="block-darkgrey">Alt</span> ➕ <span class="block-darkgrey">S</span> 선택된 오브젝트의 Scale을 초기화합니다.
 
