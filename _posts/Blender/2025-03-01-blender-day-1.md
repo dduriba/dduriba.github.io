@@ -19,17 +19,17 @@ excerpt: "단축키 등 뷰포트, 오브젝트 간단한 컨트롤 배우기"
 
 <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">RMB</span> 3D 커서 위치 이동(새로 생성하는 오브젝트가 해당 위치에서 생성됩니다.)
 
-<span class="block-darkgrey">1</span> 정면(-Y에서 바라보기) 플랫하게 보기
+<span class="block-darkgrey">1</span> 정면(-Y에서 바라보기) 플랫하게 보기 Front Orthographic
 
-<span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">1</span> 후면(Y에서 바라보기) 플랫하게 보기
+<span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">1</span> 후면(Y에서 바라보기) 플랫하게 보기 Back Orthographic
 
-<span class="block-darkgrey">3</span> 오른쪽 측면(X에서 바라보기) 플랫하게 보기
+<span class="block-darkgrey">3</span> 오른쪽 측면(X에서 바라보기) 플랫하게 보기 Right Orthographic
 
-<span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">3</span> 왼쪽 측면(-X에서 바라보기) 플랫하게 보기
+<span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">3</span> 왼쪽 측면(-X에서 바라보기) 플랫하게 보기 Left Orthographic
 
-<span class="block-darkgrey">7</span> 상단(Z에서 바라보기) 플랫하게 보기
+<span class="block-darkgrey">7</span> 상단(Z에서 바라보기) 플랫하게 보기 Top Orthographic
 
-<span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">7</span> 하단(-Z에서 바라보기) 플랫하게 보기
+<span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">7</span> 하단(-Z에서 바라보기) 플랫하게 보기 Bottom Orthographic
 
 # H-ide
 {: .notice--warning}
