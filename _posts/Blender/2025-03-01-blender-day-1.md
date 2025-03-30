@@ -15,7 +15,7 @@ excerpt: "단축키 등 뷰포트, 오브젝트 간단한 컨트롤 배우기"
 
 <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">MMB</span> ➕ 🖱️ 줌 인/아웃
 
-<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">C</span> 모든 오브젝트들을 한눈에 보이게 합니다.
+<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">C</span> 모든 오브젝트들을 한눈에 보이게 하고 3D 커서 위치를 초기화합니다.
 
 <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">RMB</span> 3D 커서 위치 이동(새로 생성하는 오브젝트가 해당 위치에서 생성됩니다.)
 
@@ -92,7 +92,7 @@ excerpt: "단축키 등 뷰포트, 오브젝트 간단한 컨트롤 배우기"
 # A-dd
 {: .notice--warning}
 
-<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">A</span> Add 창 불러오기
+<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">A</span> Add 창 불러오기(개체는 3D 커서 위치에 생성됩니다.)
 
 # D-uplicate
 {: .notice--warning}
