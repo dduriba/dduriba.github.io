@@ -25,12 +25,21 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 
 <span class="block-darkgrey">Object</span> 👆 ➡️ <span class="block-darkgrey">Tab</span>
 
-🚨 <span class="block-lightgreen">Edit Mode</span>에서 생성한 오브젝트(개체, 메시)는 해당 <span class="block-lightgreen">Edit Mode</span>로 진입한 오브젝트의 메시로 취급되어 개체를 생성할 때 <span class="block-lightgreen">Object Mode</span>인지 확인해야 합니다. <span class="block-lightgreen">Edit Mode</span>에서 개체를 분리해야 할 상황이 온다면 분리할 <span class="block-darkgrey">Mesh</span> 👆 ➡️ <span class="block-darkgrey">P(Separate)</span> ➡️ <span class="block-darkgrey">Selection</span> 을 선택해 다른 오브젝트로 분리할 수 있습니다.
+🚨 <span class="block-lightgreen">Edit Mode</span>에서 생성한 오브젝트(개체, 메시)는 <span class="block-lightgreen">Edit Mode</span>로 진입할 때 선택한 오브젝트의 메시로 취급되어 개체를 생성할 때는 <span class="block-lightgreen">Object Mode</span>인지 확인해야 합니다. <span class="block-lightgreen">Edit Mode</span>에서 메시를 오브젝트로 분리해야 할 상황이 온다면 분리할 <span class="block-darkgrey">Mesh</span> 👆 ➡️ <span class="block-darkgrey">P(Separate)</span> ➡️ <span class="block-darkgrey">Selection</span> 선택을 통해 별개의 오브젝트로 분리할 수 있습니다.
+
+📝 Edit Mode에서 A(Select All)를 누르면 해당 오브젝트의 모든 Mesh를 선택합니다.
+
+# Origin 설정(Pivot 잡기)
+{: .notice--warning}
+
+
+
+<img src="/img/Blender/SetOrigin.png"/>
 
 # Sidebar
 {: .notice--warning}
 
-📢 Vertex의 위치를 볼 수 있는 등의 사이드 바
+📢 Vertex의 Location 등을 볼 수 있는 사이드 바를 엽니다.
 
 <span class="block-darkgrey">N</span>
 
@@ -42,9 +51,9 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 # Snap
 {: .notice--warning}
 
-📢 뷰포트 상단의 자석 모양 토글입니다. 바로 우측에 있는 Snapping 아이콘을 눌러 Snap To를 Increment로 설정하면 Transform을 수정할 때 Grid(격자) 단위로 수정할 수 있습니다.(🚨Snapping의 Affect 설정 확인)
+📢 뷰포트 상단의 <span class="block-lightgreen">자석 모양 아이콘</span>입니다. 바로 우측에 있는 Snapping 아이콘을 눌러 Snap To를 Increment로 설정하면 Transform을 수정할 때 Grid(격자) 단위로 수정할 수 있습니다.(🚨Snapping의 Affect 설정 확인)
 
-<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">Tab</span>
+<span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">Tab</span> Snap Toggle
 
 # X-Ray Mode
 {: .notice--warning}
@@ -60,7 +69,7 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 
 ➡️ <span class="block-darkgrey">Solid</span> 기본 솔리드(흰색) 모드
 
-➡️ <span class="block-darkgrey">Wireframe</span> 와이어프레임(격자) 모드 <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">Z</span>
+➡️ <span class="block-darkgrey">Wireframe</span> 와이어프레임(격자) 모드 <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">Z</span> 숏컷
 
 ➡️ <span class="block-darkgrey">Rendered</span> 렌더링된 모습
 
