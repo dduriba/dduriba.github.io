@@ -6,6 +6,21 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 
 <span style="color:gray">blender version 3.0.0</span>
 
+# Transform Pivot Point
+{: .notice--warning}
+
+📢 뷰포트 상단 중앙의 두 번째 아이콘에 위치해있습니다.
+
+<span class="block-lightgreen">Bounding Box Center</span> 선택된 오브젝트의 외곽을 감싸는 최소한의 박스의 중심이 Pivot이 됨
+
+<span class="block-lightgreen">3D Cursor</span> 현재 3D Cursor가 Pivot이 됨
+
+<span class="block-lightgreen">Individual Origins</span> Origin이 Pivot이 됨, 여러 오브젝트를 선택할 때 각각의 오브젝트가 자기 자신의 Origin을 Pivot으로 가짐
+
+<span class="block-lightgreen">Median Point</span> 여러 오브젝트를 선택할 때 오브젝트들의 Origin의 중앙점이 Pivot이 됨
+
+<span class="block-lightgreen">Active Element</span> 여러 오브젝트를 선택할 때 Active(마지막으로 선택된) 오브젝트의 Origin이 Pivot이 됨 
+
 # Local View Mode
 {: .notice--warning}
 
@@ -119,7 +134,7 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 # E-xtrude
 {: .notice--warning}
 
-📢 <span class="block-lightgreen">Extrude</span> Mesh를 복제해 확장하는 기능입니다.
+📢 Mesh를 복제해 확장하는 기능입니다.
 
 <span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Mesh</span> 👆 ➡️ <span class="block-darkgrey">E</span> ➡️ 🖱️
 
@@ -128,14 +143,14 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 # I-nset
 {: .notice--warning}
 
-📢 <span class="block-lightgreen">Inset</span> Face를 복제해 안쪽으로 확장하는 기능입니다.
+📢 Face를 복제해 안쪽으로 확장하는 기능입니다.
 
 <span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Face</span> 👆 ➡️ <span class="block-darkgrey">I</span> ➡️ 🖱️
 
 # M-erge
 {: .notice--warning}
 
-📢 <span class="block-lightgreen">Merge</span> 여러 개의 Vertex를 하나로 병합하는 기능입니다.
+📢 여러 개의 Vertex를 하나로 병합하는 기능입니다.
 
 <span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Vertex</span> 👆 ➡️ <span class="block-darkgrey">M</span>
 
@@ -152,21 +167,36 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 # F-ill
 {: .notice--warning}
 
-📢 <span class="block-lightgreen">Fill</span> 선택한 Vertex, Edge 사이를 Edge, Face로 채우는 기능입니다.
+📢 선택한 Vertex, Edge 사이를 Edge, Face로 채우는 기능입니다.
 
 <span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Vertex or Edge</span> 👆 ➡️ <span class="block-darkgrey">F</span>
 
 # Connect
 {: .notice--warning}
 
-📢 <span class="block-lightgreen">Connect</span> 선택한 두 Vertex 사이에 Edge를 생성해 Face를 분리하는 기능입니다.
+📢 선택한 두 Vertex 사이에 Edge를 생성해 Face를 분리하는 기능입니다.
 
 <span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Vertex</span> 👆 ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">Vertex</span> 👆 ➡️ <span class="block-darkgrey">J</span>
+
+# Loop Cut
+{: .notice--warning}
+
+📢 엣지 루프를 추가하거나 세분화할 때 사용합니다.
+
+<span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">R</span> ➡️ 🖱️
+
+➡️ <span class="block-lightgreen">Loop Cut and Slide Panel</span> 을 통해 Number of Cuts, Smoothness 등을 조절합니다.
+
+📝 노란 선일 때 휠 스크롤을 통해 컷 개수(Number of Cuts)를 정할 수 있습니다.
+
+📝 우클릭으로 취소하면 중앙에 생성됩니다.
+
+📝 일정하게 바로 컷 하고 싶다면 <span class="block-darkgrey">Edge, Face</span> 👆 ➡️ <span class="block-darkgrey">RMB</span> ➡️ <span class="block-darkgrey">Subdivide</span> 을 사용하는 방법도 있습니다.
 
 # B-evel
 {: .notice--warning}
 
-📢 <span class="block-lightgreen">Bevel</span> Vertex, Edge의 모서리를 둥글게 깎아 부드러운 형태로 만드는 기능입니다.
+📢 Vertex, Edge의 모서리를 둥글게 깎아 부드러운 형태로 만드는 기능입니다.
 
 <span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Mesh</span> 👆 ➡️ <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">B</span> ➡️ 🖱️
 
