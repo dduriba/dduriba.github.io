@@ -32,9 +32,30 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 # Origin 설정(Pivot 잡기)
 {: .notice--warning}
 
+<span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Mesh</span> 👆 ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">Cursor to Selected</span> <span class="block-lightgreen">3D 커서 위치 설정</span>
 
+⬇️
+
+<span class="block-darkgrey">Object Mode</span> ➡️ <span class="block-darkgrey">Object</span> 👆 ➡️ <span class="block-darkgrey">RMB</span> ➡️ <span class="block-darkgrey">Set Origin</span> ➡️ <span class="block-darkgrey">Origin to 3D Cursor</span> <span class="block-lightgreen">3D 커서 위치로 Origin 설정</span>
+
+📝 두 개 이상의 Vertex를 선택 후 <span class="block-darkgrey">Cursor to Selected</span>를 사용하면 그 중간에 3D 커서를 위치시킬 수 있습니다.
+
+📝 <span class="block-darkgrey">Origin to Geometry</span>를 사용할 경우 메시의 중심에 Origin이 설정됩니다.
+
+📝 <span class="block-lightgreen">주황색 점</span>은 현재 오브젝트의 Origin(Pivot)을 의미합니다.
+
+📝 Origin을 <span class="block-lightgreen">World Origin(0, 0, 0)</span>에 두면 게임 엔진에서 사용할 때 편할 수 있습니다. 오브젝트 작업 시 Mesh의 끝을 Z=0에 두고 World Origin에 Origin을 설정하고 작업하는 습관을 들여보는 것도 좋습니다.
 
 <img src="/img/Blender/SetOrigin.png"/>
+
+🔍 Edge를 선택하고 Cursor to Selected를 사용해 두 Vertex 사이에 3D 커서를 위치시킨 후 Origin to 3D Cursor를 사용해 Origin(주황색 점)을 설정한 예시 💡 안쪽에 파인 Face는 Scale을 조금 줄여 평면에서 볼 때 더 자연스럽게 보이도록 설정했습니다.
+
+# Reset Vectors
+{: .notice--warning}
+
+📢 커스텀 노멀 데이터를 삭제하고, 기본 노멀로 재계산합니다. Auto Smooth과 충돌하는 커스텀 노멀 데이터로 인해 셰이딩이 깨질 때 사용할 수 있습니다.
+
+<span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Mesh</span> 👆 ➡️ <span class="block-darkgrey">Alt</span> ➕ <span class="block-darkgrey">N</span> ➡️ <span class="block-darkgrey">Reset Vectors</span>
 
 # Sidebar
 {: .notice--warning}
@@ -131,8 +152,22 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 # F-ill
 {: .notice--warning}
 
-# J-oin
+📢 <span class="block-lightgreen">Fill</span> 선택한 Vertex, Edge 사이를 Edge, Face로 채우는 기능입니다.
+
+<span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Vertex or Edge</span> 👆 ➡️ <span class="block-darkgrey">F</span>
+
+# Connect
 {: .notice--warning}
+
+📢 <span class="block-lightgreen">Connect</span> 선택한 두 Vertex 사이에 Edge를 생성해 Face를 분리하는 기능입니다.
+
+<span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Vertex</span> 👆 ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">Vertex</span> 👆 ➡️ <span class="block-darkgrey">J</span>
 
 # B-evel
 {: .notice--warning}
+
+📢 <span class="block-lightgreen">Bevel</span> Vertex, Edge의 모서리를 둥글게 깎아 부드러운 형태로 만드는 기능입니다.
+
+<span class="block-darkgrey">Edit Mode</span> ➡️ <span class="block-darkgrey">Mesh</span> 👆 ➡️ <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">B</span> ➡️ 🖱️
+
+➡️ <span class="block-lightgreen">Bevel Panel</span> 을 통해 Vertices에 적용할지 Edges에 적용할지 Width, Segments, Shape 등 상세 조절
