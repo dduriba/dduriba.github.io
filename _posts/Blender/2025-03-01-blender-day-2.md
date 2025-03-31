@@ -233,3 +233,18 @@ excerpt: "에딧 모드에서의 간단한 메시 편집 배우기"
 📝 휠로 <span class="block-lightgreen">회색 원(Proportional Editing의 영향 범위)</span>의 반지름의 길이를 조절할 수 있습니다.
 
 📝 바로 우측에 있는 <span class="block-lightgreen">Proportional Editing Falloff 아이콘</span>을 눌러 Connected Only 프로퍼티를 사용하면 연결되지 않은 Mesh엔 영향을 주지 않습니다.(두 개 이상의 오브젝트가 Join된 오브젝트에서 사용할 수 있습니다.)
+
+# Scale 축 0 으로 플랫하게 만들기
+{: .notice--warning}
+
+<img src="/img/Blender/ScalePlat-1.png"/>
+
+🔍 직사각형 박스 오브젝트를 회전시킨 상태
+
+<img src="/img/Blender/ScalePlat-2.png"/>
+
+🔍 <span class="block-darkgrey">상단과 하단의 Face</span> 👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">Z</span> ➡️ <span class="block-darkgrey">0</span> 으로 플랫하게 만든 상태
+
+<img src="/img/Blender/ScalePlat-3.png"/>
+
+🔍 <span class="block-darkgrey">좌측과 우측의 Face</span> 👆 ➡️ <span class="block-darkgrey">S</span> ➡️ <span class="block-darkgrey">X</span> ➡️ <span class="block-darkgrey">0</span> 으로 플랫하게 만들어 직사각형 박스 형태로 만든 상태
