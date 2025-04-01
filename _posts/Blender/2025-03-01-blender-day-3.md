@@ -44,4 +44,4 @@ excerpt: "모디파이어 프로퍼티"
 
 📢 주변 메시를 최대한 유지하면서 선택한 메시를 삭제(용해)합니다. Delete와는 다르게 모델링을 유지하면서 지오메트리를 정리할 때 유용합니다.
 
-<span style="color:gray">Edit Mode</span> ➡️ <span style="color:gray">Mesh</span> 👆 ➡️ <span style="color:gray">X</span> ➡️ <span style="color:gray">Dissolve Vertices, Edges, Faces</span>
+<span class="block-lightgreen">Edit Mode</span> ➡️ <span class="block-lightgreen">Mesh</span> 👆 ➡️ <span class="block-lightgreen">X</span> ➡️ <span class="block-lightgreen">Dissolve Vertices, Edges, Faces</span>
