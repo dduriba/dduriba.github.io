@@ -17,7 +17,7 @@ excerpt: "모디파이어 프로퍼티"
 
 2️⃣ <span class="block-lightgreen">Stacking</span> 하나의 오브젝트에 여러 개의 모디파이어를 쌓아서 사용할 수 있습니다. 상단에 있는 모디파이어부터 우선 적용됩니다.
 
-📝 모디파이어 프로퍼티 창을 선택하고 <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">A</span>를 통해 오브젝트에 <span class="block-lightgreen">Apply</span> 할 수 있습니다. Edit Mode에선 적용이 안되며 <span class="block-lightgreen">Object Mode</span>에서 적용할 수 있습니다.
+📝 추가된 모디파이어 프로퍼티 창을 선택하고 <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">A</span>를 통해 오브젝트에 <span class="block-lightgreen">Apply</span> 할 수 있습니다. Edit Mode에선 적용이 안되며 <span class="block-lightgreen">Object Mode</span>에서 적용할 수 있습니다.
 
 📝 모디파이어 프로퍼티 창에서 Edit Mode, Realtime 등의 토글 아이콘을 통해 뷰포트에서 미리 오브젝트에 적용되어 보여지는 상태를 제어할 수 있습니다.
 
@@ -79,7 +79,7 @@ excerpt: "모디파이어 프로퍼티"
 
 <img src="/img/Blender/ObjectOffset.png"/>
 
-🔍 링 형태 배열을 만드는 예시입니다. <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">C</span>를 사용해 <span class="block-lightgreen">World Origin에 3D Cursor</span>를 두고 <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">A</span> ➡️ <span class="block-darkgrey">Empty</span> ➡️ <span class="block-darkgrey">Plane Axes</span>로 생성된 대상이 될 오브젝트를 Array Modifier가 적용된 기준 오브젝트의 <span class="block-lightgreen">Object Offset</span>에 설정합니다. 기준 오브젝트를 <span class="block-lightgreen">World Origin</span>으로부터 거리를 둔 채 <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">A</span> ➡️ <span class="block-darkgrey">Location</span>을 통해 모델의 위치는 유지하며 오브젝트의 위치 값을 <span class="block-lightgreen">World Origin</span>으로 초기화 시킵니다. 끝으로 대상이 된 Empty(Plane Axes) 오브젝트를 회전 시킵니다.
+🔍 링 형태 배열을 만드는 예시입니다. <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">C</span>를 사용해 <span class="block-lightgreen">World Origin에 3D Cursor</span>를 두고 <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">A</span> ➡️ <span class="block-darkgrey">Empty</span> ➡️ <span class="block-darkgrey">Plane Axes</span>로 생성한 대상이 될 오브젝트를 Array Modifier가 적용된 기준 오브젝트의 <span class="block-lightgreen">Object Offset</span>에 설정합니다. 기준 오브젝트를 <span class="block-lightgreen">World Origin</span>으로부터 거리를 둔 채 <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">A</span> ➡️ <span class="block-darkgrey">Location</span>을 통해 <span class="block-lightgreen">모델의 위치는 유지하며 오브젝트의 위치 값을 World Origin</span>으로 초기화 시킵니다. 끝으로 대상이 된 오브젝트인 Empty(Plane Axes) 오브젝트를 회전 시킵니다.
 
 # Dissolve
 {: .notice--warning}
