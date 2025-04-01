@@ -21,15 +21,15 @@ excerpt: "모디파이어 프로퍼티"
 
 📝 모디파이어 프로퍼티 창에서 Edit Mode, Realtime 등의 토글 아이콘을 통해 뷰포트에서 미리 오브젝트에 적용되어 보여지는 상태를 제어할 수 있습니다.
 
-# Subdivision Surface
-{: .notice--warning}
+## Subdivision Surface Modifier
+{: .notice--success}
 
 📢 표면을 나누어 부드럽게 다듬는 기능입니다.
 
 <span class="block-lightgreen">Levels Viewport</span>의 값을 조절해 나눌 정도를 조절할 수 있습니다.
 
-# Mirror
-{: .notice--warning}
+## Mirror Modifier
+{: .notice--success}
 
 📢 오브젝트를 특정 축 기준으로 대칭 복사해주는 기능입니다. Origin이 그 중심이 됩니다.
 
@@ -37,5 +37,11 @@ excerpt: "모디파이어 프로퍼티"
 
 <span class="block-lightgreen">Merge</span> 대칭 복사된 Vertex가 일정 거리(Merge Distance) 이내에 있을 경우 자동 병합됩니다.
 
-📝 <span class="block-lightgreen">Clipping, Merge</span> 기능을 적절히 사용해 미러 모디파이어를 사용하면서 모델을 늘리고 싶을 때 중앙선이 찢어지지 않게 자연스럽게 적용할 수 있습니다.
+📝 <span class="block-lightgreen">Clipping, Merge</span> 기능을 동시에 적절히 사용해 미러 모디파이어를 사용하면서 모델을 늘리고 싶을 때 중앙선이 찢어지지 않게 자연스럽게 적용할 수 있습니다.
 
+# Dissolve
+{: .notice--warning}
+
+📢 주변 메시를 최대한 유지하면서 선택한 메시를 삭제(용해)합니다. Delete와는 다르게 모델링을 유지하면서 지오메트리를 정리할 때 유용합니다.
+
+<span style="color:gray">Edit Mode</span> ➡️ <span style="color:gray">Mesh</span> 👆 ➡️ <span style="color:gray">X</span> ➡️ <span style="color:gray">Dissolve Vertices, Edges, Faces</span>
