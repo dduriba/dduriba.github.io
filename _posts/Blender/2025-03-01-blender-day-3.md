@@ -39,6 +39,14 @@ excerpt: "모디파이어 프로퍼티"
 
 📝 <span class="block-lightgreen">Clipping, Merge</span> 기능을 동시에 적절히 사용해 미러 모디파이어를 사용하면서 모델을 늘리고 싶을 때 중앙선이 찢어지지 않게 자연스럽게 적용할 수 있습니다.
 
+<img src="/img/Blender/Mirror.png"/>
+
+🔍 Mirror Modifier를 사용해 기둥을 만드는 예시, 내부 기둥을 만드는 방법으로
+
+1️⃣ <span class="block-lightgreen">Inset을 사용한 방법</span> <span class="block-darkgrey">I(Inset)</span> ➡️ <span class="block-darkgrey">I(Individual) = Off</span> ➡️ <span class="block-darkgrey">B(Boundary) = Off</span> ➡️ 🖱️
+
+2️⃣ <span class="block-lightgreen">Extrude를 사용한 방법</span> 3D 커서를 World Origin에 두고 ➡️ Transform Pivot Point를 3D 커서로 설정 ➡️ <span class="block-darkgrey">E(Extrude)</span> ➡️ <span class="block-darkgrey">S(Scale)</span> ➡️ <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">Z</span>로 <span class="block-lightgreen">Z축을 제외한 스케일 조절</span> ➡️ 🖱️
+
 ## Boolean Modifier
 {: .notice--success}
 
