@@ -26,12 +26,12 @@ excerpt: "모디파이어 프로퍼티"
 
 📢 표면을 나누어 부드럽게 다듬는 기능입니다.
 
-<span class="block-lightgreen">Levels Viewport</span>의 값을 조절해 나눌 정도를 조절할 수 있습니다.
+<span class="block-lightgreen">Levels Viewport</span> 값을 조절해 표면을 나눌 정도를 조절합니다.
 
 ## Mirror Modifier
 {: .notice--success}
 
-📢 오브젝트를 특정 축 기준으로 대칭 복사해주는 기능입니다. Origin이 그 중심이 됩니다.
+📢 오브젝트를 특정 축 기준으로 대칭 복사해주는 기능입니다. Origin이 그 중심이 됩니다. 대칭인 모델을 작업할 때 유용합니다.
 
 <span class="block-lightgreen">Clipping</span> 대칭되는 중심에서 Vertex가 겹쳐 붙습니다. 중앙선이 찢어지는 걸 방지할 수 있습니다.
 
