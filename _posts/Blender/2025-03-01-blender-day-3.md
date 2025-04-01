@@ -39,6 +39,40 @@ excerpt: "모디파이어 프로퍼티"
 
 📝 <span class="block-lightgreen">Clipping, Merge</span> 기능을 동시에 적절히 사용해 미러 모디파이어를 사용하면서 모델을 늘리고 싶을 때 중앙선이 찢어지지 않게 자연스럽게 적용할 수 있습니다.
 
+## Boolean Modifier
+{: .notice--success}
+
+📢 다른 오브젝트(B)가 현재 오브젝트(A)에 영향을 주어 모델링을 합치거나 겹치는 부분만 남기거나 절단하는 기능입니다. 현재 오브젝트(A)의 불린 모디파이어 프로퍼티의 Ojbect 속성에 다른 오브젝트(B)를 지정해 사용합니다.
+
+<span class="block-lightgreen">Intersect</span> 두 오브젝트가 겹치는 부분만 남깁니다.
+
+<span class="block-lightgreen">Union</span> 두 오브젝트가 겹치는 부분을 없애고 하나의 오브젝트로 만듭니다.
+
+<span class="block-lightgreen">Difference</span> 현재 오브젝트에서 대상이 된 오브젝트와 겹치는 부분을 잘라냅니다.
+
+## Array Modifier
+{: .notice--success}
+
+📢 오브젝트를 여러 개 복사해 일정한 패턴으로 배열하는 기능입니다.
+
+- [X] <span class="block-lightgreen">Fit Type</span> 배열 개수를 설정합니다.
+
+  + [ ] <span class="block-lightgreen">Fixed Count</span> 고정된 수만큼 복사합니다.
+
+  + [ ] <span class="block-lightgreen">Fit Length</span> 지정한 길이 내에서 최대한 복사합니다.
+
+- [X] <span class="block-lightgreen">Relative Offset</span> 오브젝트 크기(Scale)를 기준으로 배열 간격을 조절합니다.
+
+- [X] <span class="block-lightgreen">Constant Offset</span> 고정된 간격으로 배열 간격을 조절합니다.
+
+- [X] <span class="block-lightgreen">Object Offset</span> 특정 오브젝트를 기준으로 배열 간격을 조절합니다.
+
+📝 Offset은 동시에 여러 개 설정할 수 있습니다.
+
+<img src="/img/Blender/ObjectOffset.png"/>
+
+🔍 링 형태 배열을 만드는 예시입니다. <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">C</span>를 사용해 <span class="block-lightgreen">World Origin에 3D Cursor</span>를 두고 <span class="block-darkgrey">Shift</span> ➕ <span class="block-darkgrey">A</span> ➡️ <span class="block-darkgrey">Empty</span> ➡️ <span class="block-darkgrey">Plane Axes</span>로 생성된 대상이 될 오브젝트를 Array Modifier가 적용된 기준 오브젝트의 <span class="block-lightgreen">Object Offset</span>에 설정합니다. 기준 오브젝트를 <span class="block-lightgreen">World Origin</span>으로부터 거리를 둔 채 <span class="block-darkgrey">Ctrl</span> ➕ <span class="block-darkgrey">A</span> ➡️ <span class="block-darkgrey">Location</span>을 통해 모델의 위치는 유지하며 오브젝트의 위치 값을 <span class="block-lightgreen">World Origin</span>으로 초기화 시킵니다. 끝으로 대상이 된 Empty(Plane Axes) 오브젝트를 회전 시킵니다.
+
 # Dissolve
 {: .notice--warning}
 
