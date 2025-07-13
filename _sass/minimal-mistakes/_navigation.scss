@@ -565,7 +565,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  // border-bottom: 1px solid $border-color;
 }
 
 /*
@@ -576,7 +576,7 @@
   font-family: $sans-serif-narrow;
   color: $gray;
   background-color: $background-color;
-  border: 1px solid $border-color;
+  // border: 1px solid $border-color;
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
@@ -585,7 +585,8 @@
     // color: #fff;
     font-size: $type-size-6;
     // background: $primary-color;
-    background: #eddcc3;
+    // background: #eddcc3;
+    background: $scrollbar-thumb;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
