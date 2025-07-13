@@ -60,7 +60,8 @@ layout: archive
                   {% if site.category_archive.type and post.categories[0] and site.tag_archive.type and post.tags[0] %}
                     {%- include post__taxonomy_tag.html -%}
                   {% endif %}
-                  {% if post.excerpt %}<span style="color: gray; text-shadow: 0px 0px 20px #31ff00;">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</span>{% endif %}
+                  <!-- {% if post.excerpt %}<span style="color: gray; text-shadow: 0px 0px 20px #31ff00;">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</span>{% endif %} -->
+                  {% if post.excerpt %}<span style="color: gray;">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</span>{% endif %}
                 </small>
             </div>
           </article>
