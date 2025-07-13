@@ -299,8 +299,9 @@ defaults:
       search: true
       mathjax: true
       toc: true
-      toc_label: "Table"
-      toc_icon: "bars"
+      # toc_label: "Table"
+      toc_label: "Contents"
+      # toc_icon: "bars"
       toc_sticky: true
       # classes: wide
       excerpt: ""
