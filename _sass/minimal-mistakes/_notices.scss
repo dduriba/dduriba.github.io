@@ -84,7 +84,8 @@
 
 .notice--primary {
   @include notice($primary-color);
-  border-left: 5px solid #878787 !important;
+  // border-left: 5px solid #878787 !important;
+  border-left: 5px solid darken($color: primary-color, $amount: 20%) !important;
 }
 
 /* Info notice */
