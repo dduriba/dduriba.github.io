@@ -4,17 +4,21 @@
 
 /* Colors */
 // $background-color: #f3f3f3 !default;
-$background-color: #1e1e1e !default;
+$background-color: #343541 !default;
 // $text-color: #343434 !default;
-$text-color: #b4b4b4 !default;
-$muted-text-color: #8e8b82 !default;
-$primary-color: #343434 !default;
+$text-color: #BDBDBD !default;
+// $muted-text-color: #8e8b82 !default;
+$muted-text-color: #7A7A7A !default;
+// $primary-color: #343434 !default;
+$primary-color: #BDBDBD !default;
 $border-color: #e9dcbe !default;
 $footer-background-color: #e9dcbe !default;
-$link-color: #343434 !default;
+// $link-color: #343434 !default;
+$link-color: #BDBDBD !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+// $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$navicon-link-color-hover: mix(#000, $text-color, 80%) !default;
 
 /* dirt syntax highlighting (base16) */
 $base00: #231e18 !default;
