@@ -483,7 +483,8 @@ body {
   margin-bottom: 10px;
   padding-top: 2rem;
   font-size: $type-size-6;
-  border-top: 1px solid $border-color;
+  // border-top: 1px solid $border-color;
+  border-top: 1px solid $scrollbar-thumb;
   text-transform: uppercase;
 }
 
