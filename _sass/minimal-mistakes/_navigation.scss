@@ -594,7 +594,7 @@
   .active a {
     @include yiq-contrasted($active-color);
     background-color: $background-color;
-    color: #569CD6;
+    color: $keyword-text-color;
   }
 }
 

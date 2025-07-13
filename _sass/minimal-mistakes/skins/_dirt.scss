@@ -21,6 +21,17 @@ $masthead-link-color-hover: $text-color !default;
 // $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 $navicon-link-color-hover: mix(#000, $text-color, 80%) !default;
 
+/* customs */
+$comment-text-color: #6A9955; // 주석
+$keyword-text-color: #569CD6; // 키워드 (void, public, private)
+$string-text-color: #CE9178; // 문자열
+$function-text-color: #DCDCAA; // 함수, 메서드
+$class-text-color:	#4EC9B0; // 사용자 정의 클래스
+$number-text-color: #B5CEA8; // 숫자 (3.14f)
+$variable-text-color: #9CDCFE; // 지역 변수
+$interface-text-color: #B8D7A3; // 인터페이스 (enum, struct)
+$control-text-color: #C586C0; // 제어 (if, return)
+
 /* dirt syntax highlighting (base16) */
 $base00: #231e18 !default;
 $base01: #302b25 !default;
