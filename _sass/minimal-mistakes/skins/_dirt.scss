@@ -13,10 +13,11 @@ $footer-background-color: $background-color !default;
 $link-color: $text-color !default;
 $navicon-link-color-hover: mix(#000, $text-color, 80%) !default;
 
-// not conected yet
 $scrollbar-track: $background-color !default;
 $scrollbar-thumb: #333337 !default;
 $scrollbar-thumb-hover: #4E4E4E !default;
+
+$drag-field: #264F78 !default;
 
 // for post
 $comment-text-color: #6A9955; // 주석
