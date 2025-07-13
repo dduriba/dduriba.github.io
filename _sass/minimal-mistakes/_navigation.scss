@@ -314,7 +314,8 @@
         bottom: 0;
         height: 4px;
         // background: $primary-color;
-        background: #EDDCC3;
+        // background: #EDDCC3;
+        background: $scrollbar-thumb;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -568,6 +569,7 @@
   font-weight: bold;
   text-transform: uppercase;
   // border-bottom: 1px solid $border-color;
+  color: $text-color;
 }
 
 /*
