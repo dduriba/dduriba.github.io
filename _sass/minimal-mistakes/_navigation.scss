@@ -580,7 +580,6 @@
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
-  text-decoration: none;
 
   .nav__title {
     // color: #fff;
@@ -618,6 +617,7 @@
     font-weight: normal;
     line-height: 1.5;
     // border-bottom: 1px solid $border-color;
+    text-decoration: none;
 
     &:hover {
       color: $text-color;
