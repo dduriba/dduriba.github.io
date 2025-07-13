@@ -580,6 +580,7 @@
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
+  text-decoration: none;
 
   .nav__title {
     // color: #fff;
@@ -620,7 +621,6 @@
 
     &:hover {
       color: $text-color;
-      text-decoration: none;
     }
   }
 
