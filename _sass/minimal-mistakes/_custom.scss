@@ -1,14 +1,14 @@
 /* highlight-color */
 
 .highlight-red {
-  background-color: #ffe0e0 !important;
-  border-left: 3px solid #ffb6b6 !important;
+  background-color: #9E5B5B !important;
+  border-left: 3px solid lighten($color: background-color, $amount: 20%) !important;
   border-radius: 2px !important;
 }
 
 .highlight-black {
-  background-color: black !important;
-  border-left: 3px solid lighten($color: black, $amount: 10%) !important;
+  background-color: #353535 !important;
+  border-left: 3px solid lighten($color: background-color, $amount: 20%) !important;
   border-radius: 2px !important;
 }
 
@@ -29,11 +29,11 @@
 /* pen-color */
 
 .pen-red {
-  color: red !important;
+  color: #CE9178 !important;
 }
 
 .pen-blue {
-  color: blue !important;
+  color: #569CD6 !important;
 }
 
 .pen-notice-black {
@@ -54,7 +54,7 @@
 
 .border-outset {
   border: outset !important;
-  border-color: darkgray !important;
+  border-color: $border-color !important;
 }
 
 /* cyberpunk 2077 UI style */
