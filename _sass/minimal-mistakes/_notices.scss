@@ -12,13 +12,16 @@
 
 @mixin notice($notice-color) {
   // margin: 2em 0 !important;  /* override*/
-  margin: 1em 0 !important;  /* override*/
-  padding: 1em;
+  // margin: 1em 0 !important;  /* override*/
+  margin-top: 3em !important;
+  margin-bottom: 0.8em !important;
+  // padding: 1em;
   color: $text-color;
   font-family: $global-font-family;
-  font-size: $type-size-6 !important;
+  // font-size: $type-size-6 !important;
+  font-size: 1.2em !important;
   text-indent: initial; /* override*/
-  background-color: mix($background-color, $notice-color, $notice-background-mix);
+  // background-color: mix($background-color, $notice-color, $notice-background-mix);
   border-radius: $border-radius;
   // box-shadow: 0 1px 1px rgba($notice-color, 0.25);
 
@@ -78,7 +81,7 @@
 .notice {
   @include notice($light-gray);
   // border-left: 5px solid #cbcbcb !important;
-  border-left: 5px solid lighten($color: mix($background-color, $light-gray, $notice-background-mix), $amount: 10%) !important;
+  // border-left: 5px solid lighten($color: mix($background-color, $light-gray, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Primary notice */
@@ -86,7 +89,7 @@
 .notice--primary {
   @include notice($primary-color);
   // border-left: 5px solid #878787 !important;
-  border-left: 5px solid lighten($color: mix($background-color, $primary-color, $notice-background-mix), $amount: 10%) !important;
+  // border-left: 5px solid lighten($color: mix($background-color, $primary-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Info notice */
@@ -94,7 +97,7 @@
 .notice--info {
   @include notice($info-color);
   // border-left: 5px solid #74c4ff !important;
-  border-left: 5px solid lighten($color: mix($background-color, $info-color, $notice-background-mix), $amount: 10%) !important;
+  // border-left: 5px solid lighten($color: mix($background-color, $info-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Warning notice */
@@ -102,7 +105,7 @@
 .notice--warning {
   @include notice($warning-color);
   // border-left: 5px solid #efbe79 !important;
-  border-left: 5px solid lighten($color: mix($background-color, $warning-color, $notice-background-mix), $amount: 10%) !important;
+  // border-left: 5px solid lighten($color: mix($background-color, $warning-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Success notice */
@@ -110,7 +113,7 @@
 .notice--success {
   @include notice($success-color);
   // border-left: 5px solid #8bcf8b !important;
-  border-left: 5px solid lighten($color: mix($background-color, $success-color, $notice-background-mix), $amount: 10%) !important;
+  // border-left: 5px solid lighten($color: mix($background-color, $success-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Danger notice */
@@ -118,7 +121,7 @@
 .notice--danger {
   @include notice($danger-color);
   // border-left: 5px solid #ff8787 !important;
-  border-left: 5px solid lighten($color: mix($background-color, $danger-color, $notice-background-mix), $amount: 10%) !important;
+  // border-left: 5px solid lighten($color: mix($background-color, $danger-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* custom notice */
