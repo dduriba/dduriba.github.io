@@ -2,13 +2,13 @@
 
 .highlight-red {
   background-color: #9E5B5B !important;
-  border-left: 3px solid lighten($color: background-color, $amount: 20%) !important;
+  border-left: 3px solid lighten($color: #9E5B5B, $amount: 20%) !important;
   border-radius: 2px !important;
 }
 
 .highlight-black {
   background-color: #353535 !important;
-  border-left: 3px solid lighten($color: background-color, $amount: 20%) !important;
+  border-left: 3px solid lighten($color: #353535, $amount: 20%) !important;
   border-radius: 2px !important;
 }
 
