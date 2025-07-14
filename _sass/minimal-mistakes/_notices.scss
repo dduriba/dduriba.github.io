@@ -22,10 +22,12 @@
   font-size: 1.2em !important;
   text-indent: initial; /* override*/
   // background-color: mix($background-color, $notice-color, $notice-background-mix);
-  border-radius: $border-radius;
+  // border-radius: $border-radius;
   // box-shadow: 0 1px 1px rgba($notice-color, 0.25);
+  border-bottom: 1px solid $scrollbar-thumb !important;
+  padding-bottom: 0.8em !important;
 
-  h4 {
+  h4 {                                                                  
     margin-top: 0 !important; /* override*/
     margin-bottom: 0.75em;
     line-height: inherit;
