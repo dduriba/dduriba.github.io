@@ -374,7 +374,8 @@ body {
 
   &:hover {
     text-decoration: none;
-    color: mix(#EDDCC3, $text-color, 90%);
+    // color: mix(#EDDCC3, $text-color, 90%);
+    color: $keyword-text-color;
   }
 }
 
