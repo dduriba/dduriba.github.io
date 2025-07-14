@@ -78,7 +78,7 @@
 .notice {
   @include notice($light-gray);
   // border-left: 5px solid #cbcbcb !important;
-  border-left: 5px solid darken($color: $light-gray, $amount: 2%) !important;
+  border-left: 5px solid darken($color: mix($background-color, $light-gray, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Primary notice */
@@ -86,7 +86,7 @@
 .notice--primary {
   @include notice($primary-color);
   // border-left: 5px solid #878787 !important;
-  border-left: 5px solid darken($color: $primary-color, $amount: 2%) !important;
+  border-left: 5px solid darken($color: mix($background-color, $primary-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Info notice */
@@ -94,7 +94,7 @@
 .notice--info {
   @include notice($info-color);
   // border-left: 5px solid #74c4ff !important;
-  border-left: 5px solid darken($color: $info-color, $amount: 2%) !important;
+  border-left: 5px solid darken($color: mix($background-color, $info-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Warning notice */
@@ -102,7 +102,7 @@
 .notice--warning {
   @include notice($warning-color);
   // border-left: 5px solid #efbe79 !important;
-  border-left: 5px solid darken($color: $warning-color, $amount: 2%) !important;
+  border-left: 5px solid darken($color: mix($background-color, $warning-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Success notice */
@@ -110,7 +110,7 @@
 .notice--success {
   @include notice($success-color);
   // border-left: 5px solid #8bcf8b !important;
-  border-left: 5px solid darken($color: $success-color, $amount: 2%) !important;
+  border-left: 5px solid darken($color: mix($background-color, $success-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* Danger notice */
@@ -118,7 +118,7 @@
 .notice--danger {
   @include notice($danger-color);
   // border-left: 5px solid #ff8787 !important;
-  border-left: 5px solid darken($color: $danger-color, $amount: 2%) !important;
+  border-left: 5px solid darken($color: mix($background-color, $danger-color, $notice-background-mix), $amount: 10%) !important;
 }
 
 /* custom notice */
