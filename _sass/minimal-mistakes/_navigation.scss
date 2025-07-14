@@ -602,7 +602,7 @@
     @include yiq-contrasted($active-color);
     background-color: $background-color;
     color: $keyword-text-color;
-    border-left: 5px solid $keyword-text-color !important;
+    border-left: 4px solid $keyword-text-color !important;
   }
 }
 
