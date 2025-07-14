@@ -77,7 +77,8 @@
 
 .notice {
   @include notice($light-gray);
-  border-left: 5px solid #cbcbcb !important;
+  // border-left: 5px solid #cbcbcb !important;
+  border-left: 5px solid darken($color: $light-gray, $amount: 20%) !important;
 }
 
 /* Primary notice */
@@ -85,35 +86,39 @@
 .notice--primary {
   @include notice($primary-color);
   // border-left: 5px solid #878787 !important;
-  border-left: 5px solid darken($color: primary-color, $amount: 20%) !important;
+  border-left: 5px solid darken($color: $primary-color, $amount: 20%) !important;
 }
 
 /* Info notice */
 
 .notice--info {
   @include notice($info-color);
-  border-left: 5px solid #74c4ff !important;
+  // border-left: 5px solid #74c4ff !important;
+  border-left: 5px solid darken($color: $info-color, $amount: 20%) !important;
 }
 
 /* Warning notice */
 
 .notice--warning {
   @include notice($warning-color);
-  border-left: 5px solid #efbe79 !important;
+  // border-left: 5px solid #efbe79 !important;
+  border-left: 5px solid darken($color: $warning-color, $amount: 20%) !important;
 }
 
 /* Success notice */
 
 .notice--success {
   @include notice($success-color);
-  border-left: 5px solid #8bcf8b !important;
+  // border-left: 5px solid #8bcf8b !important;
+  border-left: 5px solid darken($color: $success-color, $amount: 20%) !important;
 }
 
 /* Danger notice */
 
 .notice--danger {
   @include notice($danger-color);
-  border-left: 5px solid #ff8787 !important;
+  // border-left: 5px solid #ff8787 !important;
+  border-left: 5px solid darken($color: $danger-color, $amount: 20%) !important;
 }
 
 /* custom notice */
