@@ -84,6 +84,7 @@
   @include notice($light-gray);
   // border-left: 5px solid #cbcbcb !important;
   // border-left: 5px solid lighten($color: mix($background-color, $light-gray, $notice-background-mix), $amount: 10%) !important;
+  font-size: 1.5em !important;
 }
 
 /* Primary notice */
@@ -108,6 +109,7 @@
   @include notice($warning-color);
   // border-left: 5px solid #efbe79 !important;
   // border-left: 5px solid lighten($color: mix($background-color, $warning-color, $notice-background-mix), $amount: 10%) !important;
+  font-size: 1.5em !important;
 }
 
 /* Success notice */
