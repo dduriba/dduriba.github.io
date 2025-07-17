@@ -7,28 +7,28 @@ tag: [컴포넌트]
 <span style="color:gray">unity version 2022.3.7f1</span>
 
 # Camera
-{: .notice--warning}
+{: .notice}
 
 ## Clear Flags
-{: .notice--success}
+{: .notice--primary}
 
 카메라의 빈 부분을 어떻게 표시할지 정할 수 있습니다.
 
-- [X] <span class="highlight-black">Skybox</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임을 지우고 스카이박스 위에 새 이미지를 표시합니다.
+• <span class="color-keyword">Skybox</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임을 지우고 스카이박스 위에 새 이미지를 표시합니다.
 
-- [X] <span class="highlight-black">Solid Color</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임을 지우고 단색 위에 새 이미지를 표시합니다.
+• <span class="color-keyword">Solid Color</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임을 지우고 단색 위에 새 이미지를 표시합니다.
 
-- [X] <span class="highlight-black">Depth Only</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임의 깊이 정보를 지우고 새 프레임을 위에 표시합니다. <span class="highlight-pencel-black">두 개 이상의 카메라</span>를 사용해 카메라를 겹쳐 놓을 때 사용하는데, 예를 들어 FPS 게임에서 벽에 매우 근접했을 때 총이 벽을 관통해 잘리는 것을 피하고 싶을 때 첫 번째 카메라(Clear Flags-Skybox)는 환경을 표시하고 두 번째 카메라(Depth Only)는 총을 표시. 카메라 순서는 <span class="highlight-pencel-black">Depth</span> 매개변수를 사용하여 선택되며 Depth가 더 큰 카메라가 다른 카메라 위에 표시되며 게임 객체의 선택적 표시는 <span class="highlight-pencel-black pen-blue">Culling Mask</span>를 사용합니다.
+• <span class="color-keyword">Depth Only</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임의 깊이 정보를 지우고 새 프레임을 위에 표시합니다. <span class="highlight-pencel-black">두 개 이상의 카메라</span>를 사용해 카메라를 겹쳐 놓을 때 사용하는데, 예를 들어 FPS 게임에서 벽에 매우 근접했을 때 총이 벽을 관통해 잘리는 것을 피하고 싶을 때 첫 번째 카메라(Clear Flags-Skybox)는 환경을 표시하고 두 번째 카메라(Depth Only)는 총을 표시. 카메라 순서는 <span class="highlight-pencel-black">Depth</span> 매개변수를 사용하여 선택되며 Depth가 더 큰 카메라가 다른 카메라 위에 표시되며 게임 객체의 선택적 표시는 <span class="highlight-pencel-black pen-blue">Culling Mask</span>를 사용합니다.
 
-- [X] <span class="highlight-black">Don't clear</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임을 지우지 않고 위에 새 이미지를 표시합니다.
+• <span class="color-keyword">Don't clear</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임을 지우지 않고 위에 새 이미지를 표시합니다.
 
 ## Culling Mask
-{: .notice--success}
+{: .notice--primary}
 
 해당 카메라가 레이어를 기준으로 지정된 객체만 그리도록 합니다.
 
 ## Projection
-{: .notice--success}
+{: .notice--primary}
 
 - [X] <span class="highlight-black">Perspective</span> : Z축, 깊이감을 이용해 카메라에 원근법을 적용합니다.(3D)
 
@@ -41,22 +41,22 @@ tag: [컴포넌트]
 - [X] <span class="highlight-black">Orthographic</span> : Z축, 깊이감과 상관없이 오브젝트들의 크기가 일정합니다.(2D)
 
 ## Clipping Planes
-{: .notice--success}
+{: .notice--primary}
 
 카메라가 Near(starts)부터 Far(stops)까지의 영역만 렌더링합니다.
 
 ## Viewport Rect
-{: .notice--success}
+{: .notice--primary}
 
 X, Y, W(width), H(height)옵션을 통해 해당 카메라가 화면에서 보여질 영역을 조절합니다.
 
 ## Depth
-{: .notice--success}
+{: .notice--primary}
 
 카메라 렌더링 우선순위로 숫자가 높을수록 먼저 렌더링됩니다.
 
 ## Rendering Path
-{: .notice--success}
+{: .notice--primary}
 
 (실시간 조명에 의한 최적의 성능을 위해)카메라에 사용될 렌더링 메서드를 정합니다.
 
@@ -69,33 +69,33 @@ X, Y, W(width), H(height)옵션을 통해 해당 카메라가 화면에서 보�
 - [X] <span class="highlight-black">Legacy Vertex Lit</span> : 각 객체를 한 번의 패스로 렌더링하며 각 정점에 대해 모든 조명의 조명이 계산됩니다. 가장 빠른 렌더링 경로이며 가장 광범위한 하드웨어 지원을 제공합니다. 모든 조명은 정점 수준에서 계산되어 대부분의 픽셀별 효과를 지원하지 않습니다. 그림자, 노멀 매핑, 라이트 쿠키, 매우 자세한 반사 하이라이트가 지원되지 않습니다.
 
 ## Target Texture
-{: .notice--success}
+{: .notice--primary}
 
 텍스쳐를 카메라가 비추는 영역으로 만들 수 있습니다.(거울, 망원경, 사진 등)
 
 ## Occlusion Culling
-{: .notice--success}
+{: .notice--primary}
 
 카메라를 기준으로 가까운 오브젝트에 의해 가려져 보이지 않는 오브젝트는 렌더링 하지 않는 기능입니다.
 
 <a href="https://dduriba.github.io/my-unity-docu/occlusion-culling-frustum-culling/" target="_blank">오클루전 컬링 페이지</a>
 
 ## HDR
-{: .notice--success}
+{: .notice--primary}
 
 HDR(High Dynamic Range)기능을 Use Graphics Settings(<span class="highlight-black">Edit</span>→<span class="highlight-black">ProjectSettings</span>→<span class="highlight-black">Grahpics</span>) 또는 off 할 수 있습니다.
 
 ## MSAA
-{: .notice--success}
+{: .notice--primary}
 
 MSAA(Multi Sampling Anti-Aliasing)기능을 Use Graphics Settings(<span class="highlight-black">Edit</span>→<span class="highlight-black">ProjectSettings</span>→<span class="highlight-black">Grahpics</span>) 또는 off 할 수 있습니다.
 
 ## Allow Dynamic Resolution
-{: .notice--success}
+{: .notice--primary}
 
 개별 렌더 타겟을 동적으로 스케일링하여 GPU의 부하를 줄여주는 카메라 설정입니다. 애플리케이션의 프레임 속도가 감소하는 경우에는 일관된 프레임 속도를 유지하기 위해 점진적으로 해상도를 스케일다운할 수 있습니다. 성능 데이터가 애플리케이션의 GPU 바운드로 인해 프레임 속도가 떨어진다고 암시하는 경우 Unity는 이 스케일링 방식을 트리거합니다.
 
 ## Target Display
-{: .notice--success}
+{: .notice--primary}
 
 다중 모니터를 사용할 경우 표시될 모니터를 지정합니다.
