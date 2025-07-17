@@ -101,7 +101,7 @@ X, Y, W(width), H(height)옵션을 통해 해당 카메라가 화면에서 보�
 ## Target Texture
 {: .notice--primary}
 
-텍스쳐를 카메라가 비추는 영역으로 만들 수 있습니다.(거울, 망원경, 사진 등)
+텍스쳐를 카메라가 비추는 영역으로 만들 수 있습니다.<span class="color-comment">(거울, 망원경, 사진 등)</span>
 
 
 
@@ -111,7 +111,7 @@ X, Y, W(width), H(height)옵션을 통해 해당 카메라가 화면에서 보�
 
 카메라를 기준으로 가까운 오브젝트에 의해 가려져 보이지 않는 오브젝트는 렌더링 하지 않는 기능입니다.
 
-<a href="https://dduriba.github.io/my-unity-docu/occlusion-culling-frustum-culling/" target="_blank">오클루전 컬링 페이지</a>
+<span class="color-function"><a href="https://dduriba.github.io/my-unity-docu/occlusion-culling-frustum-culling/" target="_blank">오클루전 컬링 페이지</a></span>
 
 
 
@@ -119,7 +119,7 @@ X, Y, W(width), H(height)옵션을 통해 해당 카메라가 화면에서 보�
 ## HDR
 {: .notice--primary}
 
-HDR(High Dynamic Range)기능을 Use Graphics Settings(<span class="highlight-black">Edit</span>→<span class="highlight-black">ProjectSettings</span>→<span class="highlight-black">Grahpics</span>) 또는 off 할 수 있습니다.
+HDR(High Dynamic Range)기능을 Use Graphics Settings(<span class="color-control">Edit</span>→<span class="color-control">ProjectSettings</span>→<span class="color-control">Grahpics</span>) 또는 off 할 수 있습니다.
 
 
 
@@ -127,7 +127,7 @@ HDR(High Dynamic Range)기능을 Use Graphics Settings(<span class="highlight-bl
 ## MSAA
 {: .notice--primary}
 
-MSAA(Multi Sampling Anti-Aliasing)기능을 Use Graphics Settings(<span class="highlight-black">Edit</span>→<span class="highlight-black">ProjectSettings</span>→<span class="highlight-black">Grahpics</span>) 또는 off 할 수 있습니다.
+MSAA(Multi Sampling Anti-Aliasing)기능을 Use Graphics Settings(<span class="color-control">Edit</span>→<span class="color-control">ProjectSettings</span>→<span class="color-control">Grahpics</span>) 또는 off 할 수 있습니다.
 
 
 
