@@ -47,11 +47,11 @@ tag: [컴포넌트]
 
 • <span class="color-keyword">Perspective</span> : Z축, 깊이감을 이용해 카메라에 원근법을 적용합니다.(3D)
 
-  ⚬ <span class="color-keyword">FOV Axis</span> : Field of View에서 기준으로 사용할 축을 정합니다. Vertical(수직), Horizontal(수평)
+<span style="margin-left: 2em;">⁃ <span class="color-keyword">FOV Axis</span> : Field of View에서 기준으로 사용할 축을 정합니다. Vertical(수직), Horizontal(수평)</span>
 
-  ⚬ <span class="color-keyword">Field of View</span> : FOV Axis에서 정한 축으로 시야각을 조절합니다.
+&#12288;⁃ <span class="color-keyword">Field of View</span> : FOV Axis에서 정한 축으로 시야각을 조절합니다.
 
-  ⚬ <span class="color-keyword">Physical Camera</span> : Enable로 둘 경우 속성 영역이 나타나는데, 실제 카메라 렌즈를 모방합니다.
+&#12288;⁃ <span class="color-keyword">Physical Camera</span> : Enable로 둘 경우 속성 영역이 나타나는데, 실제 카메라 렌즈를 모방합니다.
 
 • <span class="color-keyword">Orthographic</span> : Z축, 깊이감과 상관없이 오브젝트들의 크기가 일정합니다.(2D)
 
