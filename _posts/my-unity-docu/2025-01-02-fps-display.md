@@ -5,7 +5,7 @@ excerpt: "OnGUI"
 ---
 
 # FPS Display
-{: .notice--warning}
+{: .notice}
 
 ```c#
 using System.Collections;
