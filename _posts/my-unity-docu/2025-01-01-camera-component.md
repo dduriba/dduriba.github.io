@@ -4,10 +4,19 @@ categories: my-unity-docu
 tag: [컴포넌트]
 ---
 
+
+
+
 <span style="color:gray">unity version 2022.3.7f1</span>
+
+
+
 
 # Camera
 {: .notice}
+
+
+
 
 ## Clear Flags
 {: .notice--primary}
@@ -18,14 +27,20 @@ tag: [컴포넌트]
 
 • <span class="color-keyword">Solid Color</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임을 지우고 단색 위에 새 이미지를 표시합니다.
 
-• <span class="color-keyword">Depth Only</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임의 깊이 정보를 지우고 새 프레임을 위에 표시합니다. <span class="highlight-pencel-black">두 개 이상의 카메라</span>를 사용해 카메라를 겹쳐 놓을 때 사용하는데, 예를 들어 FPS 게임에서 벽에 매우 근접했을 때 총이 벽을 관통해 잘리는 것을 피하고 싶을 때 첫 번째 카메라(Clear Flags-Skybox)는 환경을 표시하고 두 번째 카메라(Depth Only)는 총을 표시. 카메라 순서는 <span class="highlight-pencel-black">Depth</span> 매개변수를 사용하여 선택되며 Depth가 더 큰 카메라가 다른 카메라 위에 표시되며 게임 객체의 선택적 표시는 <span class="highlight-pencel-black pen-blue">Culling Mask</span>를 사용합니다.
+• <span class="color-keyword">Depth Only</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임의 깊이 정보를 지우고 새 프레임을 위에 표시합니다. <span class="color-function">두 개 이상의 카메라</span>를 사용해 카메라를 겹쳐 놓을 때 사용하는데, 예를 들어 FPS 게임에서 벽에 매우 근접했을 때 총이 벽을 관통해 잘리는 것을 피하고 싶을 때 첫 번째 카메라(Clear Flags-Skybox)는 환경을 표시하고 두 번째 카메라(Depth Only)는 총을 표시. 카메라 순서는 <span class="color-string">Depth</span> 매개변수를 사용하여 선택되며 Depth가 더 큰 카메라가 다른 카메라 위에 표시되며 게임 객체의 선택적 표시는 <span class="color-control">Culling Mask</span>를 사용합니다.
 
 • <span class="color-keyword">Don't clear</span> : 카메라가 새로운 프레임을 렌더링할 때 이전 프레임을 지우지 않고 위에 새 이미지를 표시합니다.
+
+
+
 
 ## Culling Mask
 {: .notice--primary}
 
 해당 카메라가 레이어를 기준으로 지정된 객체만 그리도록 합니다.
+
+
+
 
 ## Projection
 {: .notice--primary}
