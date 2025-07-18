@@ -46,7 +46,7 @@ excerpt: "Contribute GI"
 ## 라이팅 창 설정
 {: .notice--primary}
 
-Lighting 창(<span class="color-control">Window</span>-><span class="color-control">Rendering</span>-><span class="color-control">Lighting</span>)을 열어 Scene 탭의 Mixed Lighting 토글을 열어 <span class="color-string">Baked Global Illumination</span>을 활성화 시켜줍니다.
+Lighting 창(<span class="color-control">Window</span>-><span class="color-control">Rendering</span>-><span class="color-control">Lighting</span>)을 열고 Scene 탭의 Mixed Lighting 토글을 열어 <span class="color-string">Baked Global Illumination</span>을 활성화 시켜줍니다.
 
 
 
