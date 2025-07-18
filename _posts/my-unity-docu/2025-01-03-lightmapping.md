@@ -21,13 +21,13 @@ excerpt: "Contribute GI"
 
 
 
-라이트매핑 설정 방법
+# 라이트매핑 설정 방법
 {: .notice}
 
 
 
 
-정적 게임오브젝트 설정
+## 정적 게임오브젝트 설정
 {: .notice--primary}
 
 조명의 영향을 받을 정적 게임오브젝트들의 <span class="color-string">Static</span> 옵션에서 Contribute GI(Contribute Global Illumination)를 활성화 시켜줍니다.
@@ -35,7 +35,7 @@ excerpt: "Contribute GI"
 
 
 
-조명 게임오브젝트 설정
+## 조명 게임오브젝트 설정
 {: .notice--primary}
 
 정적 게임오브젝트에 영향을 줄 조명의 Light 컴포넌트에서 Mode를 <span class="color-string">Baked</span>로 변경합니다.
@@ -43,7 +43,7 @@ excerpt: "Contribute GI"
 
 
 
-라이팅 창 설정
+## 라이팅 창 설정
 {: .notice--primary}
 
 Lighting 창(<span class="color-control">Window</span>-><span class="color-control">Rendering</span>-><span class="color-control">Lighting</span>)을 열어 Scene 탭의 Mixed Lighting 토글을 열어 <span class="color-string">Baked Global Illumination</span>을 활성화 시켜줍니다.
@@ -51,7 +51,7 @@ Lighting 창(<span class="color-control">Window</span>-><span class="color-contr
 
 
 
-라이트맵 생성
+## 라이트맵 생성
 {: .notice--primary}
 
 Lighting 창에서 <span class="color-string">Generate Lighting</span>로 라이트맵을 생성해 줍니다.
