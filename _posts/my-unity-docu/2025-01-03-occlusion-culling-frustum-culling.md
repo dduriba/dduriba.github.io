@@ -75,13 +75,13 @@ excerpt: "Occluder, Occludee, Dynamic Occlusion"
 오클루전 창을 열고(<span class="color-control">Window</span>-><span class="color-control">Rendering</span>-><span class="color-control">Occlusion Culling</span>)
 Bake탭-><span class="color-control">Bake</span>로 베이크를 시작합니다.
 
-<span class="li-1"><span class="color-keyword">Bake 옵션</span> :
+<span class="li-1"><span class="color-keyword">Bake 옵션</span> :</span>
 
-&#12288;⁃ <span class="color-variable">Smallet Occluder</span> : 오브젝트를 Occluder로 인식할 게임 오브젝트의 최소 크기(M단위)로 이 값보다 작은 크기를 가지는 게임오브젝트는 다른 게임오브젝트를 가리지 않는다고 판단합니다. 값이 작을수록 컬링 정밀도는 올라가지만 데이터 크기가 늘어나고 <span class="color-string">오버헤드</span>가 발생할 수 있습니다.
+<span class="li-2"><span class="color-variable">Smallet Occluder</span> : 오브젝트를 Occluder로 인식할 게임 오브젝트의 최소 크기(M단위)로 이 값보다 작은 크기를 가지는 게임오브젝트는 다른 게임오브젝트를 가리지 않는다고 판단합니다. 값이 작을수록 컬링 정밀도는 올라가지만 데이터 크기가 늘어나고 <span class="color-string">오버헤드</span>가 발생할 수 있습니다.</span>
 
-&#12288;⁃ <span class="color-variable">Smallet Hole</span> : 카메라가 지오메트리 사이의 빈 공간으로 인식할 최소 거리(카메라가 들여다 볼 수 있는 가장 작은 직경)(M단위)로 오브젝트들이 촘촘하게 배치되어 있을수록 더 작은 값을 설정해야 합니다.
+<span class="li-2"><span class="color-variable">Smallet Hole</span> : 카메라가 지오메트리 사이의 빈 공간으로 인식할 최소 거리(카메라가 들여다 볼 수 있는 가장 작은 직경)(M단위)로 오브젝트들이 촘촘하게 배치되어 있을수록 더 작은 값을 설정해야 합니다.</span>
 
-&#12288;⁃ <span class="color-variable">Backface Threshold</span> : 백페이스를 제거할 임계값으로 값이 작을수록 더 많은 백페이스를 제거합니다. 기본값인 100은 데이터에서 영역을 제거하지 않습니다. 값을 낮추면 파일 크기가 작아지지만 시각적 결함이 발생할 수 있습니다.
+<span class="li-2"><span class="color-variable">Backface Threshold</span> : 백페이스를 제거할 임계값으로 값이 작을수록 더 많은 백페이스를 제거합니다. 기본값인 100은 데이터에서 영역을 제거하지 않습니다. 값을 낮추면 파일 크기가 작아지지만 시각적 결함이 발생할 수 있습니다.</span>
 
 Bake가 끝나면 프로젝트 창에 씬의 이름으로 폴더가 생성되고 안에 컬링 데이터가 생성됩니다.
 

@@ -152,4 +152,4 @@
 
 .li-1::before {content: "• ";}
 .li-2::before {content: "⁃ ";}
-.li-2 {margin-left: 0.5em;}
+.li-2 {margin-left: 1.5em; display: inline-block; text-indent: -0.7em;}
