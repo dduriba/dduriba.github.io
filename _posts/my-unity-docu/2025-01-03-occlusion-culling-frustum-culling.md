@@ -5,10 +5,16 @@ tag: [최적화]
 excerpt: "Occluder, Occludee, Dynamic Occlusion"
 ---
 
+
+
+
 <span style="color:gray">unity version 2022.3.7f1</span>
 
+
+
+
 # 오클루전 컬링(Occlusion Culling)
-{: .notice--warning}
+{: .notice}
 
 카메라를 뷰 프러스텀 영역 안에서 가까운 오브젝트에 의해 가려져 보이지 않는 오브젝트를 렌더링 하지 않는 기능입니다.
 
@@ -30,26 +36,41 @@ excerpt: "Occluder, Occludee, Dynamic Occlusion"
 
   + [ ] 동적 오클루전(Dynamic Occlusion) : 동적 게임오브젝트의 경우 오클루더에 의해 컬링 되려면 해당 Mesh Renderer 컴포넌트에서에서  <span class="highlight-pencel-black pen-blue">Dynamic Occlusion</span>을 활성화 시켜야합니다.(동적 게임 오브젝트의 경우 오클루전 컬링 데이터에 베이크할 수 없으므로 동적 오클루전을 활성화해 오클루더가 해당 렌더러를 가릴 때 컬링할 수 있도록 해줍니다.) 오클루전 컬링을 사용해 동적 게임 오브젝트를 가릴 수 있으나 동적 게임오브젝트는 다른 게임오브젝트를 가릴 수 없습니다.<span class="highlight-pencel-black">(동적 게임 오브젝트는 오클루디가 될 수 있지만 오클루더는 될 수 없습니다.)</span>
 
-오클루전 컬링 설정 방법
-{: .notice--primary}
 
-카메라 설정
+
+
+# 오클루전 컬링 설정 방법
 {: .notice}
+
+
+
+
+## 카메라 설정
+{: .notice--primary}
 
 카메라 컴포넌트의 <span class="highlight-pencel-black">Occlusion Culling</span>을 활성화 시켜줍니다.
 
-정적 게임오브젝트 설정
-{: .notice}
+
+
+
+## 정적 게임오브젝트 설정
+{: .notice--primary}
 
 적용할 정적 게임오브젝트들의 <span class="highlight-pencel-black">Static</span> 옵션에서 Everything 또는 Occluder Static, Occludee Static을 선택합니다.(일반적으로 Everything을 사용합니다.)
 
-동적 게임오브젝트 설정
-{: .notice}
+
+
+
+## 동적 게임오브젝트 설정
+{: .notice--primary}
 
 적용할 동적 게임오브젝트들의 Mesh Renderer 컴포넌트에서 <span class="highlight-pencel-black">Dynamic Occlusion</span>을 활성화 시켜줍니다.
 
-베이크
-{: .notice}
+
+
+
+## 베이크
+{: .notice--primary}
 
 오클루전 창을 열고(<span class="highlight-black">Window</span>→<span class="highlight-black">Rendering</span>→<span class="highlight-black">Occlusion Culling</span>)
 Bake탭→<span class="highlight-pencel-black">Bake</span>로 베이크를 시작합니다.
@@ -68,7 +89,10 @@ Bake가 끝나면 프로젝트 창에 씬의 이름으로 폴더가 생성되고
 
 게임 뷰의 Status 창에서 Batches와 Saved by batching의 수치가 줄어듦을 확인할 수 있습니다.
 
+
+
+
 # 프러스텀 컬링(Frustum Culling)
-{: .notice--warning}
+{: .notice}
 
 카메라의 뷰 프러스텀 영역 밖의 오브젝트들은 렌더링하지 않는 기능으로 유니티 내에서 기본적으로 적용됩니다. <span class="highlight-pencel-black">카메라 컴포넌트의 Field of View, <span class="pen-blue">Clipping Planes</span> 기능을 통해 프러스텀 영역을 조절</span>할 수 있습니다.
