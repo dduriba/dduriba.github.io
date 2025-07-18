@@ -147,3 +147,9 @@
 .color-variable {color: #9CDCFE !important;} // 지역 변수
 .color-interface {color: #B8D7A3 !important;} // 인터페이스 (enum, struct)
 .color-control {color: #C586C0 !important;} // 제어 (if, return)
+
+/* custom list style */
+
+.li-1::before {content: "• ";}
+.li-2::before {content: "⁃ ";}
+.li-2 {margin-left: 0.5em;}
