@@ -95,4 +95,4 @@ Bake가 끝나면 프로젝트 창에 씬의 이름으로 폴더가 생성되고
 # 프러스텀 컬링(Frustum Culling)
 {: .notice}
 
-카메라의 뷰 프러스텀 영역 밖의 오브젝트들은 렌더링하지 않는 기능으로 유니티 내에서 기본적으로 적용됩니다. <span class="color-string">카메라 컴포넌트의 Field of View, Clipping Planes</span> 기능을 통해 프러스텀 영역을 조절할 수 있습니다.
+카메라의 뷰 프러스텀 영역 밖의 오브젝트들은 렌더링하지 않는 기능으로 유니티 내에서 기본적으로 적용됩니다. 카메라 컴포넌트의 <span class="color-string">Field of View, Clipping Planes</span>를 통해 프러스텀 영역을 조절할 수 있습니다.
