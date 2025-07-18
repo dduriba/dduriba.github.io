@@ -58,15 +58,15 @@ tag: [컴포넌트]
 </span>
 
 <span class="li-2">
-<span class="color-keyword">FOV Axis</span> : Field of View에서 기준으로 사용할 축을 정합니다. Vertical(수직), Horizontal(수평)
+<span class="color-variable">FOV Axis</span> : Field of View에서 기준으로 사용할 축을 정합니다. Vertical(수직), Horizontal(수평)
 </span>
 
 <span class="li-2">
-<span class="color-keyword">Field of View</span> : FOV Axis에서 정한 축으로 시야각을 조절합니다.
+<span class="color-variable">Field of View</span> : FOV Axis에서 정한 축으로 시야각을 조절합니다.
 </span>
 
 <span class="li-2">
-<span class="color-keyword">Physical Camera</span> : Enable로 둘 경우 속성 영역이 나타나는데, 실제 카메라 렌즈를 모방합니다.
+<span class="color-variable">Physical Camera</span> : Enable로 둘 경우 속성 영역이 나타나는데, 실제 카메라 렌즈를 모방합니다.
 </span>
 
 <span class="li-1">
