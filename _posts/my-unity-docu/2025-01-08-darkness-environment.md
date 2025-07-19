@@ -31,7 +31,7 @@ Lighting Environment 창(<span class="color-control">Window</span>-><span class=
 <span class="li-1">Realtime Shadow Color : 서브트랙티브 광원 모드에서 실시간 그림자를 렌더링할 때 Unity가 사용하는 컬러를 정의합니다.</span>
 
 <details>
-<summary><span class="color-comment">↓ Environment Lighting(이 섹션에는 현재 씬의 주변광에 영향을 미치는 설정이 들어 있습니다.)</span></summary>
+<summary style="font-size: 16px;">Environment Lighting<span class="color-comment">(이 섹션에는 현재 씬의 주변광에 영향을 미치는 설정이 들어 있습니다.)</span></summary>
 <div markdown="1">
 
 <span class="li-1">Source : 씬의 주변광에 대한 소스 컬러를 정의할 때 사용합니다.</span>
@@ -48,7 +48,7 @@ Lighting Environment 창(<span class="color-control">Window</span>-><span class=
 </details>
 
 <details>
-<summary><span class="color-comment">↓ Environment Reflections(이 섹션에는 반사 프로브 베이킹용 전역 설정과 전역 반사에 영향을 주는 설정이 나와 있습니다.)</span></summary>
+<summary style="font-size: 16px;">Environment Reflections<span class="color-comment">(이 섹션에는 반사 프로브 베이킹용 전역 설정과 전역 반사에 영향을 주는 설정이 나와 있습니다.)</span></summary>
 <div markdown="1">
 
 <span class="li-1">Source : 반사 효과에 스카이박스를 사용할지, 아니면 원하는 큐브맵을 사용할지 지정합니다.</span>
