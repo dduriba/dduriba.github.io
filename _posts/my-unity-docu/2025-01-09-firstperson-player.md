@@ -5,24 +5,30 @@ tag: [개발일지]
 excerpt: "플레이어 움직임, 카메라 회전, 1인칭 팔, 애니메이션"
 ---
 
+
+
+
 <span style="color:gray">unity version 2022.3.7f1</span>
 
+
+
+
 # 플레이어 움직임 구현
-{: .notice--warning}
+{: .notice}
 
-- [X] 이동(걷기, 달리기)
+<span class="li-1 color-keyword">이동(걷기, 달리기)</span>
 
-- [X] 점프
+<span class="li-1 color-keyword">점프</span>
 
-- [X] 자연스러운 앉기와 일어서기
+<span class="li-1 color-keyword">자연스러운 앉기와 일어서기</span>
 
-- [X] 중력과 지면 체크
+<span class="li-1 color-keyword">중력과 지면 체크</span>
 
-- [X] 헤드밥
+<span class="li-1 color-keyword">헤드밥</span>
 
-- [ ] 플레이어에 Character Controller 컴포넌트 추가
+<span class="li-1">플레이어에 Character Controller 컴포넌트 추가</span>
 
-- [ ] 플레이어에 Rigidbody 컴포넌트 추가(Is Kinematic = true)
+<span class="li-1">플레이어에 Rigidbody 컴포넌트 추가(Is Kinematic = true)</span>
 
 ```c#
 using System.Collections;
@@ -229,13 +235,13 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 플레이어 카메라(눈) 구현 추가
-{: .notice--warning}
+{: .notice}
 
-- [X] 마우스로 플레이어 카메라 시야 회전
+<span class="li-1 color-keyword">마우스로 플레이어 카메라 시야 회전</span>
 
-- [X] Q, E 버튼으로 플레이어 카메라 기울기 상태를 선형보간으로 적용
+<span class="li-1 color-keyword">Q, E 버튼으로 플레이어 카메라 기울기 상태를 선형보간으로 적용</span>
 
-- [ ] 플레이어 카메라 컴포넌트 Near = 0.01
+<span class="li-1">플레이어 카메라 컴포넌트 Near = 0.01</span>
 
 ```c#
 public class FirstPersonController : MonoBehaviour
@@ -302,35 +308,35 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 플레이어 팔, 장착 가능한 카메라 구현 추가
-{: .notice--warning}
+{: .notice}
 
-- [X] 플레이어 팔 추가
+<span class="li-1 color-keyword">플레이어 팔 추가</span>
 
-- [X] 팔 관련 애니메이션 추가(Idle)
+<span class="li-1 color-keyword">팔 관련 애니메이션 추가(Idle)</span>
 
-- [X] 장착 가능한 카메라 추가
+<span class="li-1 color-keyword">장착 가능한 카메라 추가</span>
 
-- [X] 카메라 관련 애니메이션 추가(Idle, Equip, Unequip, ZoomIdle, ZoomIn, ZoomOut)
+<span class="li-1 color-keyword">카메라 관련 애니메이션 추가(Idle, Equip, Unequip, ZoomIdle, ZoomIn, ZoomOut)</span>
 
-- [X] 키 버튼 1을 눌러 카메라 장착/해제(모션이 끝나야 다음 모션으로 가도록 설정)
+<span class="li-1 color-keyword">키 버튼 1을 눌러 카메라 장착/해제(모션이 끝나야 다음 모션으로 가도록 설정)</span>
 
-- [X] 마우스 우클릭을 통해 카메라 줌 인/아웃(모션이 끝나지 않아도 중간에 자연스러운 전이가 가능하도록 설정)
+<span class="li-1 color-keyword">마우스 우클릭을 통해 카메라 줌 인/아웃(모션이 끝나지 않아도 중간에 자연스러운 전이가 가능하도록 설정)</span>
 
-- [ ] 플레이어 카메라 하위에 1인칭 팔 추가
+<span class="li-1">플레이어 카메라 하위에 1인칭 팔 추가</span>
 
-- [ ] 오른손이나 왼손 오브젝트 하위에 장착 가능한 카메라 추가
+<span class="li-1">오른손이나 왼손 오브젝트 하위에 장착 가능한 카메라 추가</span>
 
-- [ ] 플레이어 카메라 하위에 PointLight를 두고 위치 조정, 팔 오브젝트와 장착 가능한 오브젝트에 레이어"Arms"를 적용하고 PointLight의 Culling Mask = "Arms"를 적용해 어두운 곳에서도 팔 오브젝트와 장착 가능한 오브젝트는 보이도록 설정(Intensity와 Range 조절 필요)
+<span class="li-1">플레이어 카메라 하위에 PointLight를 두고 위치 조정, 팔 오브젝트와 장착 가능한 오브젝트에 레이어"Arms"를 적용하고 PointLight의 Culling Mask = "Arms"를 적용해 어두운 곳에서도 팔 오브젝트와 장착 가능한 오브젝트는 보이도록 설정(Intensity와 Range 조절 필요)</span>
 
-- [ ] 카메라의 카메라 컴포넌트 설정
+<span class="li-1">카메라의 카메라 컴포넌트 설정</span>
 <br>→ Near = 0.1
 <br>→ Depth를 플레이어 카메라보다 높은 수로 설정
 <br>→ Physical Camera = true, Sensor Type = 65mm ALEXA 로 설정 해 카메라 느낌 살리기
 <br>→ Render Target(Target Texture)의 Size = 1024 * 1024, Anti-aliasing = 8 samples
 
-- [ ] 애니메이션 추가(각 애니메이션은 1초로 만들고 Speed 값으로 조절, Idle 타입은 Loop Time = true)
+<span class="li-1">애니메이션 추가(각 애니메이션은 1초로 만들고 Speed 값으로 조절, Idle 타입은 Loop Time = true)</span>
 
-- [ ] 애니메이터 설정
+<span class="li-1">애니메이터 설정</span>
 <br>→ bool 타입으로 파라미터 값 추가
 <br>→ 각 애니메이션 간 필요한 전이 추가
 <br>→→ Idle 상태에서 다른 애니메이션으로 전이할 땐 Has Exit Time = false, Fixed Duration = false, Transition Duration = 0, 파라미터 값을 통해 전이
@@ -386,11 +392,11 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 사운드 추가
-{: .notice--warning}
+{: .notice}
 
-- [X] 걷기(서서 걷기, 앉아서 걷기), 뛰기, 점프, 착지 사운드 추가
+<span class="li-1 color-keyword">걷기(서서 걷기, 앉아서 걷기), 뛰기, 점프, 착지 사운드 추가</span>
 
-- [ ] 플레이어에 Audio Source 컴포넌트 추가
+<span class="li-1">플레이어에 Audio Source 컴포넌트 추가</span>
 
 ```c#
 public class FirstPersonController : MonoBehaviour
@@ -505,27 +511,27 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 카메라 효과 추가
-{: .notice--warning}
+{: .notice}
 
-- [X] 카메라에 플래시 기능 추가(한 순간 밝아졌다가 점점 사라지는 빛, 플래시가 터질 때 빛이 해당 포지션에 고정)
+<span class="li-1 color-keyword">카메라에 플래시 기능 추가(한 순간 밝아졌다가 점점 사라지는 빛, 플래시가 터질 때 빛이 해당 포지션에 고정)</span>
 
-- [X] 플래시에 플래시 사운드 추가
+<span class="li-1 color-keyword">플래시에 플래시 사운드 추가</span>
 
-- [X] 플래시 순간 앞 일정 범위의 특정 레이어 프롭을 비활성화 하고 해당 위치에 파티클 재생
+<span class="li-1 color-keyword">플래시 순간 앞 일정 범위의 특정 레이어 프롭을 비활성화 하고 해당 위치에 파티클 재생</span>
 
-- [X] 카메라 스크립트는 따로 만들어 플레이어 스크립트에서 사용
+<span class="li-1 color-keyword">카메라 스크립트는 따로 만들어 플레이어 스크립트에서 사용</span>
 
-- [ ] 장착 가능한 카메라에 Audio Source 컴포넌트 추가, 카메라 컴포넌트 Near = 0.1
+<span class="li-1">장착 가능한 카메라에 Audio Source 컴포넌트 추가, 카메라 컴포넌트 Near = 0.1</span>
 
-- [ ] 장착 가능한 카메라 하위에 Spot Light 추가(FlashLight)(렌즈 앞에 정면을 보도록 포지션)
+<span class="li-1">장착 가능한 카메라 하위에 Spot Light 추가(FlashLight)(렌즈 앞에 정면을 보도록 포지션)</span>
 
-- [ ] 장착 가능한 카메라로만 볼 수 있는 오브젝트의 레이어"Ghost"를 설정하고 Collider 추가 후 Is Trigger = true
+<span class="li-1">장착 가능한 카메라로만 볼 수 있는 오브젝트의 레이어"Ghost"를 설정하고 Collider 추가 후 Is Trigger = true</span>
 
-- [ ] 플레이어 카메라 컴포넌트 Culling Mask에 플레이어의 시야에 안보이게 할 오브젝트의 레이어"Ghost"를 해제
+<span class="li-1">플레이어 카메라 컴포넌트 Culling Mask에 플레이어의 시야에 안보이게 할 오브젝트의 레이어"Ghost"를 해제</span>
 
-- [ ] "Ghost" 오브젝트를 비활성화 하고 재생할 파티클을 만들어 프리팹 화(하나만 인스턴스해서 사용)
+<span class="li-1">"Ghost" 오브젝트를 비활성화 하고 재생할 파티클을 만들어 프리팹 화(하나만 인스턴스해서 사용)</span>
 
-- [ ] 스크립트 인스펙터의 타겟 레이어에 레이어"Ghost" 설정
+<span class="li-1">스크립트 인스펙터의 타겟 레이어에 레이어"Ghost" 설정</span>
 
 ```c#
 using System.Collections;
@@ -690,7 +696,7 @@ public class FirstPersonController : MonoBehaviour
 ```
 
 # 전체 코드
-{: .notice--warning}
+{: .notice}
 
 ```c#
 using System.Collections;
@@ -1180,6 +1186,6 @@ public class CameraEquip : MonoBehaviour
 ```
 
 # 기록 영상
-{: .notice--warning}
+{: .notice}
 
 {% include video id="gNm2mz5XsAE" provider="youtube" %}
