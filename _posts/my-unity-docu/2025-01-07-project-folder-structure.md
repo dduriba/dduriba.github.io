@@ -5,7 +5,13 @@ tag: [개발일지]
 excerpt: "최적한 프로젝트 환경을 위한 폴더 구조"
 ---
 
+
+
+
 <span style="color:gray">unity version 2022.3.7f1</span>
+
+
+
 
 # 프로젝트 폴더 구조
 {: .notice--warning}
