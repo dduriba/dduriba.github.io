@@ -30,9 +30,7 @@ Lighting Environment 창(<span class="color-control">Window</span>-><span class=
 
 <span class="li-1">Realtime Shadow Color : 서브트랙티브 광원 모드에서 실시간 그림자를 렌더링할 때 Unity가 사용하는 컬러를 정의합니다.</span>
 
-<details>
-<summary class="color-comment">Environment Lighting(이 섹션에는 현재 씬의 주변광에 영향을 미치는 설정이 들어 있습니다.)</summary>
-<div markdown="1">
+↓ Environment Lighting</span class="color-comment">(이 섹션에는 현재 씬의 주변광에 영향을 미치는 설정이 들어 있습니다.)</span>
 
 <span class="li-1">Source : 씬의 주변광에 대한 소스 컬러를 정의할 때 사용합니다.</span>
 
@@ -44,12 +42,7 @@ Lighting Environment 창(<span class="color-control">Window</span>-><span class=
 
 <span class="li-1">Intensity Multiplier : 씬의 주변광 밝기를 설정하는 데 사용합니다.(이 프로퍼티는 Source 가 Skybox 으로 설정된 경우에만 표시됩니다. Gradient나 Color로 설정한 경우 컬러를 지정하는 프로퍼티가 표시됩니다.)</span>
 
-</div>
-</details>
-
-<details>
-<summary class="color-comment">Environment Reflections(이 섹션에는 반사 프로브 베이킹용 전역 설정과 전역 반사에 영향을 주는 설정이 나와 있습니다.)</summary>
-<div markdown="1">
+↓ Environment Reflections</span class="color-comment">(이 섹션에는 반사 프로브 베이킹용 전역 설정과 전역 반사에 영향을 주는 설정이 나와 있습니다.)</span>
 
 <span class="li-1">Source : 반사 효과에 스카이박스를 사용할지, 아니면 원하는 큐브맵을 사용할지 지정합니다.</span>
 
@@ -72,9 +65,6 @@ Lighting Environment 창(<span class="color-control">Window</span>-><span class=
 <span class="li-1">Intensity Multiplier : 반사 소스가 반사 오브젝트에 표시되는 각도입니다.</span>
 
 <span class="li-1">Bounces : 한 오브젝트의 반사가 다른 오브젝트에 의해 반사될 때 반사 바운스가 일어납니다. 이 프로퍼티를 사용하여 반사 프로브가 오브젝트 간에 오고가는 반사를 평가하는 횟수를 설정할 수 있습니다. 값을 1로 설정하면 Unity는 처음 반사(Reflection Source 프로퍼티에 지정된 스카이박스 또는 큐브맵)만 고려합니다.</span>
-
-</div>
-</details>
 
 
 
