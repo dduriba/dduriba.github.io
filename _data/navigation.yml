@@ -56,11 +56,6 @@ docs:
       - title: "DataStructure"
         url: /categories/DataStructure
         category: "DataStructure"
-  - title: "BRICKS-C"
-    children:
-      - title: "SCA Course"
-        url: /categories/SCA
-        category: "SCA"
   - title: "BRICKS-1"
     children:
       - title: "Note"
