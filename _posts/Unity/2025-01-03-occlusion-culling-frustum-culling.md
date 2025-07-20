@@ -1,6 +1,6 @@
 ---
 title: "Occlusion Culling & Frustum Culling"
-categories: my-unity-docu
+categories: Unity
 tag: [최적화]
 excerpt: "Occluder, Occludee, Dynamic Occlusion"
 ---

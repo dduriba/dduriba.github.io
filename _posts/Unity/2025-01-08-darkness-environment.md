@@ -1,6 +1,6 @@
 ---
 title: "어두운 환경 구현"
-categories: my-unity-docu
+categories: Unity
 tag: [개발일지]
 excerpt: "Lighting Environment"
 ---

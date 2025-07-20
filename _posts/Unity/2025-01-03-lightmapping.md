@@ -1,6 +1,6 @@
 ---
 title: "Lightmapping(Baked Lighting)"
-categories: my-unity-docu
+categories: Unity
 tag: [최적화]
 excerpt: "Contribute GI"
 ---

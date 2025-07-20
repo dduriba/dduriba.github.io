@@ -1,6 +1,6 @@
 ---
 title: "Post Processing"
-categories: my-unity-docu
+categories: Unity
 ---
 
 
@@ -63,12 +63,12 @@ categories: my-unity-docu
 적용 전
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Post-Process-Off.png"/>
+<img src="/img/Unity/Post-Process-Off.png"/>
 
 적용 후
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Ambient-Occlusion-On.png"/>
+<img src="/img/Unity/Ambient-Occlusion-On.png"/>
 
 <span class="li-1">Intensity = 1</span>
 
@@ -85,12 +85,12 @@ categories: my-unity-docu
 적용 전
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Post-Process-Off.png"/>
+<img src="/img/Unity/Post-Process-Off.png"/>
 
 적용 후
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Bloom-On.png"/>
+<img src="/img/Unity/Bloom-On.png"/>
 
 <span class="li-1">Intensity = 5</span>
 
@@ -111,12 +111,12 @@ categories: my-unity-docu
 적용 전
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Post-Process-Off.png"/>
+<img src="/img/Unity/Post-Process-Off.png"/>
 
 적용 후
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Color-Grading-On.png"/>
+<img src="/img/Unity/Color-Grading-On.png"/>
 
 <span class="li-1">Tonemapping->Mode = ACES</span>
 
@@ -131,12 +131,12 @@ categories: my-unity-docu
 적용 전
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Post-Process-Off.png"/>
+<img src="/img/Unity/Post-Process-Off.png"/>
 
 적용 후
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Grain-On.png"/>
+<img src="/img/Unity/Grain-On.png"/>
 
 <span class="li-1">Colored = true</span>
 
@@ -157,12 +157,12 @@ categories: my-unity-docu
 적용 전
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Post-Process-Off.png"/>
+<img src="/img/Unity/Post-Process-Off.png"/>
 
 적용 후
 {: .notice--primary}
 
-<img src="/img/my-unity-docu/Vignette-On.png"/>
+<img src="/img/Unity/Vignette-On.png"/>
 
 <span class="li-1">Mode = Classic</span>
 

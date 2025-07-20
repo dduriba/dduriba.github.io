@@ -1,6 +1,6 @@
 ---
 title: "1인칭 플레이어"
-categories: my-unity-docu
+categories: Unity
 tag: [개발일지]
 excerpt: "플레이어 움직임, 카메라 회전, 1인칭 팔, 애니메이션"
 ---
@@ -343,7 +343,7 @@ public class FirstPersonController : MonoBehaviour
 <br>→→ Idle 상태로 전환될 땐 Has Exit Time = true, Exit Time = 1, Transition Duration = 0으로 둬 애니메이션이 끝나면 자동으로 Idle 상태로 전이
 <br>→→ Zoom In/Out간 전이를 만들어 애니메이션 진행 도중 즉각적으로 자연스러운 전이가 되도록 설정(Transition Duration, Transition Offset, Transition Graph를 이용)
 
-<img src="/img/my-unity-docu/firstperson-player-animator.png"/>
+<img src="/img/Unity/firstperson-player-animator.png"/>
 
 ```c#
 public class FirstPersonController : MonoBehaviour

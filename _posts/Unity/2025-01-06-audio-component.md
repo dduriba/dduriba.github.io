@@ -1,6 +1,6 @@
 ---
 title: "Audio"
-categories: my-unity-docu
+categories: Unity
 tag: [컴포넌트]
 excerpt: "Audio Listener, Audio Source"
 ---
@@ -158,12 +158,12 @@ excerpt: "Audio Listener, Audio Source"
 
 <span class="li-1">Max Distance : 사운드가 들릴 최대 거리입니다.</span>
 
-<img src="/img/my-unity-docu/VolumeRolloffGraph.png"/>
+<img src="/img/Unity/VolumeRolloffGraph.png"/>
 
 사진 1. Volume Rolloff Graph
 
 <br>
 
-<img src="/img/my-unity-docu/VolumeRolloffDistance.png"/>
+<img src="/img/Unity/VolumeRolloffDistance.png"/>
 
 사진 2. 씬 뷰에서 선으로 이루어진 구를 통해 Min/Max Distance를 확인할 수 있습니다.

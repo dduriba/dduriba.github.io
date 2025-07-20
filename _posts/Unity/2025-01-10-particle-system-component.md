@@ -1,6 +1,6 @@
 ---
 title: "Particle System"
-categories: my-unity-docu
+categories: Unity
 tag: [컴포넌트]
 excerpt: "Particle System Modules"
 ---
