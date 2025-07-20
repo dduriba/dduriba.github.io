@@ -142,21 +142,21 @@ excerpt: "Audio Listener, Audio Source"
 ## 3D Sound Settings
 {: .notice--primary}
 
-<span class="li-1">Doppler Level : 현재 오디오 소스에 적용될 도플러 이펙트(파원과 관찰자의 상대 속도에 따라 소리의 높낮이가 달리 들리는 현상)의 정도를 결정합니다.</span>
+<span class="ul-1">Doppler Level : 현재 오디오 소스에 적용될 도플러 이펙트(파원과 관찰자의 상대 속도에 따라 소리의 높낮이가 달리 들리는 현상)의 정도를 결정합니다.</span>
 
-<span class="li-1">Spread : 스피커 공간에서 사운드가 퍼지는 각도를 설정합니다.(0 - 360)</span>
+<span class="ul-1">Spread : 스피커 공간에서 사운드가 퍼지는 각도를 설정합니다.(0 - 360)</span>
 
-<span class="li-1">Volume Rolloff : 거리에 따라 사운드(Volume, Spatial Blend, Spread, Reverb Zone Mix)가 페이드되는 속도를 그래프로 설정하는데, 해당 타입을 지정할 수 있습니다.</span>
+<span class="ul-1">Volume Rolloff : 거리에 따라 사운드(Volume, Spatial Blend, Spread, Reverb Zone Mix)가 페이드되는 속도를 그래프로 설정하는데, 해당 타입을 지정할 수 있습니다.</span>
 
-<span class="li-2">Rogarythmic Rolloff : 오디오 소스에 가까우면 사운드가 크지만 멀어지면 매우 빠른 속도로 사운드가 작아집니다.</span>
+<span class="ul-2">Rogarythmic Rolloff : 오디오 소스에 가까우면 사운드가 크지만 멀어지면 매우 빠른 속도로 사운드가 작아집니다.</span>
 
-<span class="li-2">Linear Rolloff : 오디오 소스에서 멀어질수록 거리에 따라 사운드가 일정하게 작아집니다.</span>
+<span class="ul-2">Linear Rolloff : 오디오 소스에서 멀어질수록 거리에 따라 사운드가 일정하게 작아집니다.</span>
 
-<span class="li-2">Custom Rolloff : 거리에 따른 사운드 조절을 그래프로 직접 설정합니다.(다른 두 타입에서 사운드 라인에 마우스 우클릭→Add Key를 통해 형태를 가져와 커스텀이 가능하고 자동으로 타입은 Custom Rolloff로 바뀌게 됩니다.)</span>
+<span class="ul-2">Custom Rolloff : 거리에 따른 사운드 조절을 그래프로 직접 설정합니다.(다른 두 타입에서 사운드 라인에 마우스 우클릭→Add Key를 통해 형태를 가져와 커스텀이 가능하고 자동으로 타입은 Custom Rolloff로 바뀌게 됩니다.)</span>
 
-<span class="li-1">Min Distance : 사운드가 최대치로 들릴 거리입니다.</span>
+<span class="ul-1">Min Distance : 사운드가 최대치로 들릴 거리입니다.</span>
 
-<span class="li-1">Max Distance : 사운드가 들릴 최대 거리입니다.</span>
+<span class="ul-1">Max Distance : 사운드가 들릴 최대 거리입니다.</span>
 
 <img src="/img/Unity/VolumeRolloffGraph.png"/>
 

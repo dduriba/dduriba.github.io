@@ -48,9 +48,9 @@ categories: Unity
 
 카메라 오브젝트에 Post-process Volume 컴포넌트를 추가
 
-<span class="li-1">Is Global = true</span>
+<span class="ul-1">Is Global = true</span>
 
-<span class="li-1">Profile = New로 새로운 프로파일을 만들어 <span class="color-control">Add effect</span>->Unity에서 필요한 효과를 추가합니다.(여러 개의 프로파일을 만들어 상황 마다 다른 포스트 프로세싱을 사용할 수 있습니다.)</span>
+<span class="ul-1">Profile = New로 새로운 프로파일을 만들어 <span class="color-control">Add effect</span>->Unity에서 필요한 효과를 추가합니다.(여러 개의 프로파일을 만들어 상황 마다 다른 포스트 프로세싱을 사용할 수 있습니다.)</span>
 
 
 
@@ -70,9 +70,9 @@ categories: Unity
 
 <img src="/img/Unity/Ambient-Occlusion-On.png"/>
 
-<span class="li-1">Intensity = 1</span>
+<span class="ul-1">Intensity = 1</span>
 
-<span class="li-1">Thickness Modifier = 2</span>
+<span class="ul-1">Thickness Modifier = 2</span>
 
 
 
@@ -92,13 +92,13 @@ categories: Unity
 
 <img src="/img/Unity/Bloom-On.png"/>
 
-<span class="li-1">Intensity = 5</span>
+<span class="ul-1">Intensity = 5</span>
 
-<span class="li-1">Threshold = 0.9</span>
+<span class="ul-1">Threshold = 0.9</span>
 
-<span class="li-1">Soft Knee = 0.3</span>
+<span class="ul-1">Soft Knee = 0.3</span>
 
-<span class="li-1">Diffusion = 8</span>
+<span class="ul-1">Diffusion = 8</span>
 
 
 
@@ -118,7 +118,7 @@ categories: Unity
 
 <img src="/img/Unity/Color-Grading-On.png"/>
 
-<span class="li-1">Tonemapping->Mode = ACES</span>
+<span class="ul-1">Tonemapping->Mode = ACES</span>
 
 
 
@@ -138,13 +138,13 @@ categories: Unity
 
 <img src="/img/Unity/Grain-On.png"/>
 
-<span class="li-1">Colored = true</span>
+<span class="ul-1">Colored = true</span>
 
-<span class="li-1">Intensity = 1</span>
+<span class="ul-1">Intensity = 1</span>
 
-<span class="li-1">Size = 3</span>
+<span class="ul-1">Size = 3</span>
 
-<span class="li-1">Luminance Contribution = 1</span>
+<span class="ul-1">Luminance Contribution = 1</span>
 
 
 
@@ -164,16 +164,16 @@ categories: Unity
 
 <img src="/img/Unity/Vignette-On.png"/>
 
-<span class="li-1">Mode = Classic</span>
+<span class="ul-1">Mode = Classic</span>
 
-<span class="li-1">Color = Black</span>
+<span class="ul-1">Color = Black</span>
 
-<span class="li-1">Center = 0.5(x), 0.5(y)</span>
+<span class="ul-1">Center = 0.5(x), 0.5(y)</span>
 
-<span class="li-1">Intensity = 0.6</span>
+<span class="ul-1">Intensity = 0.6</span>
 
-<span class="li-1">Smoothness = 1</span>
+<span class="ul-1">Smoothness = 1</span>
 
-<span class="li-1">Roundness = 1</span>
+<span class="ul-1">Roundness = 1</span>
 
-<span class="li-1">Rounded = true</span>
+<span class="ul-1">Rounded = true</span>

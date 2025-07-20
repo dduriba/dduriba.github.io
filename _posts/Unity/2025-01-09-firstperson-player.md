@@ -26,9 +26,9 @@ excerpt: "플레이어 움직임, 카메라 회전, 1인칭 팔, 애니메이션
 
 <span class="li-1 color-keyword">헤드밥</span>
 
-<span class="li-1">플레이어에 Character Controller 컴포넌트 추가</span>
+<span class="ul-1">플레이어에 Character Controller 컴포넌트 추가</span>
 
-<span class="li-1">플레이어에 Rigidbody 컴포넌트 추가(Is Kinematic = true)</span>
+<span class="ul-1">플레이어에 Rigidbody 컴포넌트 추가(Is Kinematic = true)</span>
 
 ```c#
 using System.Collections;
@@ -241,7 +241,7 @@ public class FirstPersonController : MonoBehaviour
 
 <span class="li-1 color-keyword">Q, E 버튼으로 플레이어 카메라 기울기 상태를 선형보간으로 적용</span>
 
-<span class="li-1">플레이어 카메라 컴포넌트 Near = 0.01</span>
+<span class="ul-1">플레이어 카메라 컴포넌트 Near = 0.01</span>
 
 ```c#
 public class FirstPersonController : MonoBehaviour
@@ -322,21 +322,21 @@ public class FirstPersonController : MonoBehaviour
 
 <span class="li-1 color-keyword">마우스 우클릭을 통해 카메라 줌 인/아웃(모션이 끝나지 않아도 중간에 자연스러운 전이가 가능하도록 설정)</span>
 
-<span class="li-1">플레이어 카메라 하위에 1인칭 팔 추가</span>
+<span class="ul-1">플레이어 카메라 하위에 1인칭 팔 추가</span>
 
-<span class="li-1">오른손이나 왼손 오브젝트 하위에 장착 가능한 카메라 추가</span>
+<span class="ul-1">오른손이나 왼손 오브젝트 하위에 장착 가능한 카메라 추가</span>
 
-<span class="li-1">플레이어 카메라 하위에 PointLight를 두고 위치 조정, 팔 오브젝트와 장착 가능한 오브젝트에 레이어"Arms"를 적용하고 PointLight의 Culling Mask = "Arms"를 적용해 어두운 곳에서도 팔 오브젝트와 장착 가능한 오브젝트는 보이도록 설정(Intensity와 Range 조절 필요)</span>
+<span class="ul-1">플레이어 카메라 하위에 PointLight를 두고 위치 조정, 팔 오브젝트와 장착 가능한 오브젝트에 레이어"Arms"를 적용하고 PointLight의 Culling Mask = "Arms"를 적용해 어두운 곳에서도 팔 오브젝트와 장착 가능한 오브젝트는 보이도록 설정(Intensity와 Range 조절 필요)</span>
 
-<span class="li-1">카메라의 카메라 컴포넌트 설정</span>
+<span class="ul-1">카메라의 카메라 컴포넌트 설정</span>
 <br>→ Near = 0.1
 <br>→ Depth를 플레이어 카메라보다 높은 수로 설정
 <br>→ Physical Camera = true, Sensor Type = 65mm ALEXA 로 설정 해 카메라 느낌 살리기
 <br>→ Render Target(Target Texture)의 Size = 1024 * 1024, Anti-aliasing = 8 samples
 
-<span class="li-1">애니메이션 추가(각 애니메이션은 1초로 만들고 Speed 값으로 조절, Idle 타입은 Loop Time = true)</span>
+<span class="ul-1">애니메이션 추가(각 애니메이션은 1초로 만들고 Speed 값으로 조절, Idle 타입은 Loop Time = true)</span>
 
-<span class="li-1">애니메이터 설정</span>
+<span class="ul-1">애니메이터 설정</span>
 <br>→ bool 타입으로 파라미터 값 추가
 <br>→ 각 애니메이션 간 필요한 전이 추가
 <br>→→ Idle 상태에서 다른 애니메이션으로 전이할 땐 Has Exit Time = false, Fixed Duration = false, Transition Duration = 0, 파라미터 값을 통해 전이
@@ -396,7 +396,7 @@ public class FirstPersonController : MonoBehaviour
 
 <span class="li-1 color-keyword">걷기(서서 걷기, 앉아서 걷기), 뛰기, 점프, 착지 사운드 추가</span>
 
-<span class="li-1">플레이어에 Audio Source 컴포넌트 추가</span>
+<span class="ul-1">플레이어에 Audio Source 컴포넌트 추가</span>
 
 ```c#
 public class FirstPersonController : MonoBehaviour
@@ -521,17 +521,17 @@ public class FirstPersonController : MonoBehaviour
 
 <span class="li-1 color-keyword">카메라 스크립트는 따로 만들어 플레이어 스크립트에서 사용</span>
 
-<span class="li-1">장착 가능한 카메라에 Audio Source 컴포넌트 추가, 카메라 컴포넌트 Near = 0.1</span>
+<span class="ul-1">장착 가능한 카메라에 Audio Source 컴포넌트 추가, 카메라 컴포넌트 Near = 0.1</span>
 
-<span class="li-1">장착 가능한 카메라 하위에 Spot Light 추가(FlashLight)(렌즈 앞에 정면을 보도록 포지션)</span>
+<span class="ul-1">장착 가능한 카메라 하위에 Spot Light 추가(FlashLight)(렌즈 앞에 정면을 보도록 포지션)</span>
 
-<span class="li-1">장착 가능한 카메라로만 볼 수 있는 오브젝트의 레이어"Ghost"를 설정하고 Collider 추가 후 Is Trigger = true</span>
+<span class="ul-1">장착 가능한 카메라로만 볼 수 있는 오브젝트의 레이어"Ghost"를 설정하고 Collider 추가 후 Is Trigger = true</span>
 
-<span class="li-1">플레이어 카메라 컴포넌트 Culling Mask에 플레이어의 시야에 안보이게 할 오브젝트의 레이어"Ghost"를 해제</span>
+<span class="ul-1">플레이어 카메라 컴포넌트 Culling Mask에 플레이어의 시야에 안보이게 할 오브젝트의 레이어"Ghost"를 해제</span>
 
-<span class="li-1">"Ghost" 오브젝트를 비활성화 하고 재생할 파티클을 만들어 프리팹 화(하나만 인스턴스해서 사용)</span>
+<span class="ul-1">"Ghost" 오브젝트를 비활성화 하고 재생할 파티클을 만들어 프리팹 화(하나만 인스턴스해서 사용)</span>
 
-<span class="li-1">스크립트 인스펙터의 타겟 레이어에 레이어"Ghost" 설정</span>
+<span class="ul-1">스크립트 인스펙터의 타겟 레이어에 레이어"Ghost" 설정</span>
 
 ```c#
 using System.Collections;
