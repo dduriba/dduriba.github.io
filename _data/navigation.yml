@@ -10,7 +10,7 @@ main:
     url: /tags/
 
 docs:
-  - title: "BRICKS-GAME DEV"
+  - title: "BRICKS - GAME DEV"
     children:
       - title: "Unity"
         url: /categories/Unity
@@ -27,7 +27,7 @@ docs:
       - title: "Setup"
         url: /categories/Setup
         category: "Setup"
-  - title: "BRICKS-WEB DEV"
+  - title: "BRICKS - WEB DEV"
     children:
       - title: "HTML"
         url: /categories/HTML
