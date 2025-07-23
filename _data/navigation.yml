@@ -61,9 +61,6 @@ docs:
       - title: "Note"
         url: /categories/Note
         category: "Note"
-      - title: "Cyberpunk 2077"
-        url: /categories/Cyberpunk-2077
-        category: "Cyberpunk-2077"
 
   # - title: "UNREAL ENGINE"
   #   children:
