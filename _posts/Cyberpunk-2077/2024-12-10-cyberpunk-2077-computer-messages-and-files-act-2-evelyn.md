@@ -1,41 +1,41 @@
 ---
-title: "Cyberpunk 2077 Computer Messages & Files Act 2 - Evelyn"
+title: "Cyberpunk 2077 Computer Messages & Files Act 2 Evelyn"
 categories: Cyberpunk-2077
 ---
 
+<h1>Act 2 - Evelyn</h1>
+{: .notice--cyberpunk-yellow}
 
-
-
-# AUTOMATIC LOVE
+## AUTOMATIC LOVE
 {: .notice--cyberpunk-red}
 
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Can be found inside Clouds' Security Room in Megabuilding H8, during Automatic Love.</span><br>
-
-
-
-
-## Booth 11 (Message)
-
+<span class="cyberpunk-blue pen-bold">Booth 11</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 <span class="pen-bold">From: Ginger Lane, Investigation Services</span>
 <br><br>
 <span class="pen-bold">To: Clouds security</span>
-<br><br>
+<hr class="cyberpunk-hr">
 I'll be needing access to booth 11 and all recordings from inside going back a month.
+</span>
+</div>
 
-
-
-
-## Det. Lane (Message)
-
+<div class="cyberpunk-bg">
+<span class="cyberpunk-blue pen-bold">Det. Lane</span>
+<span class="cyberpunk-cyan">
+<hr class="cyberpunk-hr">
 <span class="pen-bold">From: The Woodman</span>
 <br><br>
 <span class="pen-bold">To: Clouds security</span>
-<br><br>
+<hr class="cyberpunk-hr">
 Please do not prevent detective LAME from doing her fucking job.<br>
 If she wants all the recordings, cough them up. And nobody goes in 11 until I give the all clear.
+</span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Allende, Jose</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -49,9 +49,9 @@ Fetishes: Food<br>
 Other: Owner and sole employee of a scopdog stand. Single.
 Pays for protection to the Valentinos. Not directly involved in the gang. Witnessed a cyberpsycho attack as a teenager, ever since then afraid of becoming one himself.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Bates, Jennifer</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -64,9 +64,9 @@ Dolls: M, no preference<br>
 Fetishes: S/M, likes to dominate<br>
 Other: Most likely connected to Militech. Manages a second hand electronics shack. Married, two children.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Briggs, Thomas</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -80,9 +80,9 @@ Fetishes: Large breasts<br>
 Other: Truck driver. Has nomad roots. Family settled during infancy. Twice divorced. Painfully shy. IMPORTANT: Attacked by a doll in unknown circumstances, suffered severe injuries.
 According to a private investigator hired by Maiko Maeda, the likelihood that he was the target was slim to none. Monitoring required and compensation due if we want him to give up on the idea of suing the club.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Club attacked</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -91,9 +91,9 @@ It was found that the netrunner attack induced a psychotic episode in the doll. 
 Luckily, booth 11 was the netrunner's sole target.<br>
 Mr. Briggs received first aid and was transferred to a psychiatric clinic. As of today (Friday) the doll is not suitable for use.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Woodman(Oswald Forrest)'s computer is located in his office. This computer can be accessed only if V incapacitates him during Automatic Love.</span><br>
 <span class="cyberpunk-blue pen-bold">We doing this?</span>
 <span class="cyberpunk-cyan">
@@ -104,9 +104,9 @@ Mr. Briggs received first aid and was transferred to a psychiatric clinic. As of
 <hr class="cyberpunk-hr">
 Goods are taken care of. Round up 5 or 6 girls and 2 guys, but make sure they're ACTUALLY young. Not like last time.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Broken doll</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -154,9 +154,9 @@ RE: Broken Doll
 <br><br>
 Depends. We'll work something out. Worst case, you leave her here for a small fee.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">you know what...</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -182,9 +182,9 @@ RE: you know what...
 <br><br>
 oh so now your telling me to send a portfolio? cuz thats not what you said last time when you wanted to fuck me. asshole.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">You owe me</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -219,9 +219,9 @@ To: The Woodman<br>
 RE: You owe me<br>
 Fine.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Get your shit together</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -232,9 +232,9 @@ Fine.
 One more shitshow like with Evelyn Parker and you can kiss your job goodbye. Hiromi's words.<br>
 So far we've put up with your crude behavior toward employees and turned a blind eye when you beat up a client. But this? This was beyond the pale.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Problem solved</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -245,7 +245,7 @@ So far we've put up with your crude behavior toward employees and turned a blind
 Hey boss, solved the Parker problem. Sent her to a ripper on Jig-Jig Street. The guy's name is Fingers, though he should be called Face.<br>
 Anyway, he should take care of her from here.
 </span>
-
+</div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Archived Conversation: Harry Flynt and Jeremy White</span>
@@ -264,7 +264,7 @@ HARRY FLYNT: gotta go to my parents on sat to borrow €$ to pay off the scavs <
 HARRY FLYNT: those psychos'll grind him up into scop if i dont pay <br>
 HARRY FLYNT: im on my fucking knees dude <br>
 JEREMY WHITE: fine
-
+</div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Schedule changes/incident report</span>
@@ -295,7 +295,7 @@ Flynt and White - shift change <br>
 2:34AM - Doll beat up. <br>
 4:06AM - Client fainted in a booth. Resuscitated by doll. <br>
 8:32AM - Group of three clients refused to leave club. Escorted off premises.
-
+</div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Evelyn's Schedule</span>
@@ -315,12 +315,12 @@ Thur: 8PM Jeri O'Connel meeting
 Fri: 8PM - 6AM Clouds shift
 <br><br>
 Sat: 10AM Judy breakfast [CANCELLED]
-
+</div>
 
 ## THE SPACE IN BETWEEN
 {: .notice--cyberpunk-red}
 
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Fingers(Finn Gerstatt)'s computer is located in his clinic, during The Space in Between.</span><br>
 <span class="cyberpunk-blue pen-bold">Hey beautiful</span>
 <span class="cyberpunk-cyan">
@@ -357,9 +357,9 @@ RE: Hey beautiful
 <br><br>
 Why aren't you answering?
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Broken doll</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -409,9 +409,9 @@ RE: Broken Doll
 <br><br>
 Depends. We'll work something out. Worst case, you leave her here for a small fee.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Today's schedule</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -425,9 +425,9 @@ Depends. We'll work something out. Worst case, you leave her here for a small fe
 6:30 PM - knee joint fitting <br>
 7 PM - penis enlargement
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Contacts</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -449,12 +449,12 @@ The Dude (Brody Woods) - pays in kind, but he's a psycho. Debts: 5 procedures.
 <br><br>
 Velvet (Erika Grant) - not bad, 7/10. Usually pays. Debts: 1 procedure.
 </span>
-
+</div>
 
 ## DISASTERPIECE
 {: .notice--cyberpunk-red}
 
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Broken building on the ground floor</span><br>
 <span class="cyberpunk-blue pen-bold">Tipoff</span>
 <span class="cyberpunk-cyan">
@@ -481,9 +481,9 @@ RE: Tipoff
 <br><br>
 We should at least double the guards outside so we don't get people coming for autographs.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Slaughter room at Sector 1</span><br>
 <span class="cyberpunk-blue pen-bold">Explain yourself</span>
 <span class="cyberpunk-cyan">
@@ -521,9 +521,9 @@ RE: Explain yourself
 No need for that, I already met the guy, gave him a few of our BDs as a trial run and before I even got back to the studio he called asking if we have more. Trust me - he knows what peeps like and what sells.<br>
 He's not the "How can I help you?" customer service type, but I never saw anyone leave empty handed. Customers'll be drawn to the DH Moth brand like our BD stars are to the light at the end of the tunnel.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">New distributor</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -541,9 +541,9 @@ RE: New distributor
 <br><br>
 OK. I'll go meet him this afternoon.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Office at Sector 1</span><br>
 <span class="cyberpunk-blue pen-bold">Stock question</span>
 <span class="cyberpunk-cyan">
@@ -579,9 +579,9 @@ RE: Stock question
 <br><br>
 Thx for heads up.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Got our netrunner</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -591,9 +591,9 @@ Thx for heads up.
 <hr class="cyberpunk-hr">
 We get netrunner any day now. And before you ask - no, he have no idea what he sign up for. He think he will be testing equipment.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Let's make a trade</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -612,9 +612,9 @@ RE: Let's make a trade
 <br><br>
 MISS Shobo, maybe you should check who you address first :)
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Hottie needed for BD</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -642,9 +642,9 @@ RE: Hottie needed for BD
 <br><br>
 Sure is. Send a demo reel.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Netrunner (unhappy ending)</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -662,9 +662,9 @@ RE: Netrunner (unhappy ending)
 <br><br>
 We already start scouting actor and will have BD ready for you in couple week.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Current month: orders</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -678,9 +678,9 @@ We already start scouting actor and will have BD ready for you in couple week.
 <br><br>
 5. Actress wants to commit suicide, we use that. Let her jump out the window. String up a net first without her noticing. Same drill - make her think she stands a chance.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Current month: actors - status</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -690,9 +690,9 @@ Daher, Wendy - deceased<br>
 Kardakian, Ben - deceased<br>
 Parker, Evelyn
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Surgical room at Sector 2</span><br>
 <span class="cyberpunk-blue pen-bold">New girl</span>
 <span class="cyberpunk-cyan">
@@ -753,9 +753,9 @@ RE: New girl
 <br><br>
 You fucking gonk get back to work. Don't you understand nobody care about you? Whose fucking memory will you be in? You would barely fill up any space on my deck. You and your fucking omens.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Located at Electric Corporation power plant, Server room at Sector 3</span><br>
 <span class="cyberpunk-blue pen-bold">Power's up</span>
 <span class="cyberpunk-cyan">
@@ -790,9 +790,9 @@ RE: Power's up
 <br><br>
 Don't you fucking DARE think of coming up to use mine. You either sort it out or it's your loss. You can work knee-deep in shit for all I care, as long as the BDs get done.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Power</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -818,7 +818,7 @@ RE: Power
 <br><br>
 Jeez, OK, we'll think of something. On a break now anyway...
 </span>
-
+</div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Archived Conversation: Rich and Aurelie</span>
@@ -836,12 +836,12 @@ AURELI: your agency has access to one of them. if you could sniff them out, chec
 RICH: no i can't... <br>
 AURELIE: please. if they find us, they won't bother with arresting and interrogating. do you understand? <br>
 RICH: i'm sorry. i already told you - we're through. if you want help, ask max. maybe apart from his supposedly huge dick, he's got some useful contacts
-
+</div>
 
 ## DOUBLE LIFE
 {: .notice--cyberpunk-red}
 
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-lightgreen" style="display: inline-block; margin-bottom: 8px;">Judy Alvarez has one accessible computer in her apartment. It contains the following messages and files.</span><br>
 <span class="cyberpunk-blue pen-bold">Help</span>
 <span class="cyberpunk-cyan">
@@ -879,9 +879,9 @@ RE: Help
 <br><br>
 Susie's basement.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Working with us</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -920,9 +920,9 @@ RE: Working with us
 Hi Judy,<br>
 Of course, I understand. Let us know if you change your mind.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Need your advice</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -941,9 +941,9 @@ RE: Need your advice
 <br><br>
 Take him to Lizzie's so we can keep an eye on you, just in case. And keep a stunner on you.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Work with us, Judy!</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -963,9 +963,9 @@ To: Rajeev Roy<br>
 RE: Work with us, Judy!<br>
 Stop messaging me.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Actor</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -1000,9 +1000,9 @@ I dunno, Judy. Everything's been nagging at me lately.<br>
 Starting to think I wasn't made for this. Sleazy clients, porn, piss-poor conditions, shitty eddies.<br>
 Wasn't meant to turn out like this. We deserve more, don't we?
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">I fucked up</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -1045,9 +1045,9 @@ RE: I fucked up
 <br><br>
 I doubt it.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-blue pen-bold">Compensation</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -1091,9 +1091,9 @@ RE: Compensation
 <br><br>
 So you don't believe me either. Thanks for nothing.
 </span>
+</div>
 
-
-
+<div class="cyberpunk-bg">
 <span class="cyberpunk-violet pen-bold">Shopping list</span>
 <span class="cyberpunk-cyan">
 <hr class="cyberpunk-hr">
@@ -1102,7 +1102,7 @@ Buoys with sensors<br>
 Neural signal augmenter<br>
 Idea: pain circuit breaker for dolls. Once the max. pain threshold is reached, the session automatically shuts down. Client receives a fine.
 </span>
-
+</div>
 
 <div class="cyberpunk-bg cyberpunk-cyan">
 <span class="cyberpunk-grey pen-bold">Tech thingy - notes</span>
@@ -1114,3 +1114,4 @@ I forgot to change the notifications in the pressure gauge - add an automatic re
 Tracking module froze underwater again - probably the waterproof case is blocking the signal. Fix - make an opening for an antenna.
 <br><br>
 Connection loss with the barometer when set at bathymetric mode. Fix - add an automatic signal to switch back to last position before connection loss
+</div>
