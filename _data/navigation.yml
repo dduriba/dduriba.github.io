@@ -24,6 +24,9 @@ docs:
       - title: "Blender"
         url: /categories/Blender
         category: "Blender"
+      - title: "Aseprite"
+        url: /categories/Aseprite
+        category: "Aseprite"
       - title: "Setup"
         url: /categories/Setup
         category: "Setup"
