@@ -25,3 +25,15 @@ categories: Aseprite
 {: .notice}
 
 Ctrl + 휠업, 휠다운
+
+
+
+
+# 프리뷰
+{: .notice}
+
+F7
+<br><br>
+또는
+<br><br>
+View -> Preview -> Preview
