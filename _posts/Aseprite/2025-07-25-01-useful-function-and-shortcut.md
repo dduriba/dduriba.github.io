@@ -37,3 +37,15 @@ F7
 또는
 <br><br>
 View -> Preview -> Preview
+
+
+
+
+# 수직반전, 수평반전
+{: .notice}
+
+Shift + V, Shift + H
+<br><br>
+또는
+<br><br>
+Edit -> Flip Vertical, Flip Horizontal
