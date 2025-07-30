@@ -1,6 +1,7 @@
 ---
 title: "수면 반사 처리"
-categories: Aseprite
+categories: PixelArt
+tag: [Aseprite]
 excerpt: "Tricks"
 ---
 
@@ -15,12 +16,12 @@ excerpt: "Tricks"
 # 수면 반사 처리 간단하게 하는 방법
 {: .notice}
 
-<img src="/img/Aseprite/reflect-1.png"/>
+<img src="/img/PixelArt/reflect-1.png"/>
 -> 수면 반사 처리 전
 
 <br>
 
-<img src="/img/Aseprite/reflect-2.png"/>
+<img src="/img/PixelArt/reflect-2.png"/>
 -> 수면 반사 처리 후
 
 <span class="ol-1">1, Magic Wand(W)로 반사할 이미지를 선택해 복사</span>
@@ -31,5 +32,5 @@ excerpt: "Tricks"
 
 <br>
 
-<img src="/img/Aseprite/reflect-3.png"/>
+<img src="/img/PixelArt/reflect-3.png"/>
 -> 수면 반사 처리 후 디테일 처리

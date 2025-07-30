@@ -24,6 +24,9 @@ docs:
       - title: "Blender"
         url: /categories/Blender
         category: "Blender"
+      - title: "PixelArt"
+        url: /categories/PixelArt
+        category: "PixelArt"
       - title: "Aseprite"
         url: /categories/Aseprite
         category: "Aseprite"

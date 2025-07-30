@@ -1,12 +1,7 @@
 ---
 title: "셰이딩 전문 용어"
-categories: Aseprite
+categories: PixelArt
 ---
-
-
-
-
-<span style="color:gray">aseprite version 1.3.14.4</span>
 
 
 
@@ -14,7 +9,7 @@ categories: Aseprite
 # 셰이딩 전문 용어
 {: .notice}
 
-<img src="/img/Aseprite/shading-terminology.png"/>
+<img src="/img/PixelArt/shading-terminology.png"/>
 
 <span class="ul-1">Highlight</span> : 빛이 물체에 가장 강하게 닿는 부분
 
